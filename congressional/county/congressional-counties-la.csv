@@ -1,0 +1,32 @@
+election_id,county,state,county_ahcb,county_fips,candidate,candidate_id,party,party_id,vote
+la.uscongress13th.1812,Warren,LA,las_warren,NA,"Fromintin, Eligius",FE0010,NA,NA,0
+la.uscongress13th.1812,Warren,LA,las_warren,NA,"Fromintin, Eligius",FE0010,NA,NA,0
+la.uscongress13th.1812,Warren,LA,las_warren,NA,"Hopkins, Stephen A.",HS0055,NA,NA,0
+la.uscongress13th.1812,Warren,LA,las_warren,NA,"Hopkins, Stephen A.",HS0055,NA,NA,0
+la.uscongress13th.1812,Warren,LA,las_warren,NA,"Johnson, Henry",JH0003,NA,NA,0
+la.uscongress13th.1812,Warren,LA,las_warren,NA,"Johnson, Henry",JH0003,NA,NA,0
+la.uscongress13th.1812,Warren,LA,las_warren,NA,"Livingston, Edward",LE0044,NA,NA,0
+la.uscongress13th.1812,Warren,LA,las_warren,NA,"Livingston, Edward",LE0044,NA,NA,0
+la.uscongress13th.1812,Warren,LA,las_warren,NA,NA,NA,NA,NA,0
+la.uscongress13th.1812,Warren,LA,las_warren,NA,NA,NA,NA,NA,0
+la.uscongress13th.1812,Warren,LA,las_warren,NA,"Roberts, Charles",RC0014,NA,NA,0
+la.uscongress13th.1812,Warren,LA,las_warren,NA,"Roberts, Charles",RC0014,NA,NA,0
+la.uscongress13th.1812,Warren,LA,las_warren,NA,"Robertson, Thomas Bolling",RT0026,NA,NA,15
+la.uscongress13th.1812,Warren,LA,las_warren,NA,"Robertson, Thomas Bolling",RT0026,NA,NA,15
+la.uscongress.1814,Acadia,LA,olt_acadiacnty,NA,"Landry, John",LJ0059,NA,NA,0
+la.uscongress.1814,Acadia,LA,olt_acadiacnty,NA,NA,Other candidates,NA,NA,0
+la.uscongress.1814,Acadia,LA,olt_acadiacnty,NA,"Prevost, John B.",PJ0122,Federalist,A01,3
+la.uscongress.1814,Acadia,LA,olt_acadiacnty,NA,"Robertson, Thomas Bolling",RT0026,Republican,A03,273
+la.uscongress.1814,German Coast,LA,olt_germancoastcnty,NA,"Landry, John",LJ0059,NA,NA,0
+la.uscongress.1814,German Coast,LA,olt_germancoastcnty,NA,NA,Other candidates,NA,NA,1
+la.uscongress.1814,German Coast,LA,olt_germancoastcnty,NA,"Prevost, John B.",PJ0122,Federalist,A01,1
+la.uscongress.1814,German Coast,LA,olt_germancoastcnty,NA,"Robertson, Thomas Bolling",RT0026,Republican,A03,65
+la.uscongress.1814,Oppeloussa,LA,olt_opelousascnty,NA,"Landry, John",LJ0059,NA,NA,0
+la.uscongress.1814,Oppeloussa,LA,olt_opelousascnty,NA,NA,Other candidates,NA,NA,0
+la.uscongress.1814,Oppeloussa,LA,olt_opelousascnty,NA,"Prevost, John B.",PJ0122,Federalist,A01,1
+la.uscongress.1814,Oppeloussa,LA,olt_opelousascnty,NA,"Robertson, Thomas Bolling",RT0026,Republican,A03,264
+la.uscongress.1818,German Coast,LA,olt_germancoastcnty,NA,"Butler, Thomas",BT0030,NA,NA,140
+la.uscongress.1818,German Coast,LA,olt_germancoastcnty,NA,"Johnston, Joseph",JJ0070,NA,NA,0
+la.uscongress.1818,German Coast,LA,olt_germancoastcnty,NA,"Livingston, Edward",LE0044,NA,NA,0
+la.uscongress.1818,German Coast,LA,olt_germancoastcnty,NA,"Robertson, Thomas Bolling",RT0026,NA,NA,0
+la.uscongress.1818,German Coast,LA,olt_germancoastcnty,NA,"Skipwith, Fulwar",SF0003,NA,NA,0
