@@ -1,23 +1,13 @@
 election_id,county,state,county_ahcb,county_fips,candidate,candidate_id,party,party_id,vote
 de.uscongress.1789,Kent,DE,des_kent,10001,"Bedford, Gunning, Jr.",BG0002,NA,NA,48
-de.uscongress.1789,Kent,DE,des_kent,10001,"Bedford, Gunning, Jr.",BG0002,NA,NA,48
-de.uscongress.1789,Kent,DE,des_kent,10001,"Clayton, Joshua",CJ0087,NA,NA,272
 de.uscongress.1789,Kent,DE,des_kent,10001,"Clayton, Joshua",CJ0087,NA,NA,272
 de.uscongress.1789,Kent,DE,des_kent,10001,"MacLean, Allen",MA0018,NA,NA,0
-de.uscongress.1789,Kent,DE,des_kent,10001,"MacLean, Allen",MA0018,NA,NA,0
-de.uscongress.1789,Kent,DE,des_kent,10001,"Shankland, Rhoads",SR0023,NA,NA,0
 de.uscongress.1789,Kent,DE,des_kent,10001,"Shankland, Rhoads",SR0023,NA,NA,0
 de.uscongress.1789,Kent,DE,des_kent,10001,"Vining, John",VJ0002,NA,NA,332
-de.uscongress.1789,Kent,DE,des_kent,10001,"Vining, John",VJ0002,NA,NA,332
-de.uscongress.1789,New Castle,DE,des_newcastle,10003,"Bedford, Gunning, Jr.",BG0002,NA,NA,162
 de.uscongress.1789,New Castle,DE,des_newcastle,10003,"Bedford, Gunning, Jr.",BG0002,NA,NA,162
 de.uscongress.1789,New Castle,DE,des_newcastle,10003,"Clayton, Joshua",CJ0087,NA,NA,0
-de.uscongress.1789,New Castle,DE,des_newcastle,10003,"Clayton, Joshua",CJ0087,NA,NA,0
-de.uscongress.1789,New Castle,DE,des_newcastle,10003,"MacLean, Allen",MA0018,NA,NA,90
 de.uscongress.1789,New Castle,DE,des_newcastle,10003,"MacLean, Allen",MA0018,NA,NA,90
 de.uscongress.1789,New Castle,DE,des_newcastle,10003,"Shankland, Rhoads",SR0023,NA,NA,0
-de.uscongress.1789,New Castle,DE,des_newcastle,10003,"Shankland, Rhoads",SR0023,NA,NA,0
-de.uscongress.1789,New Castle,DE,des_newcastle,10003,"Vining, John",VJ0002,NA,NA,52
 de.uscongress.1789,New Castle,DE,des_newcastle,10003,"Vining, John",VJ0002,NA,NA,52
 de.uscongress.1789,Sussex,DE,des_sussex,10005,"Bedford, Gunning, Jr.",BG0002,NA,NA,98
 de.uscongress.1789,Sussex,DE,des_sussex,10005,"Clayton, Joshua",CJ0087,NA,NA,0
@@ -25,38 +15,21 @@ de.uscongress.1789,Sussex,DE,des_sussex,10005,"MacLean, Allen",MA0018,NA,NA,0
 de.uscongress.1789,Sussex,DE,des_sussex,10005,"Shankland, Rhoads",SR0023,NA,NA,491
 de.uscongress.1789,Sussex,DE,des_sussex,10005,"Vining, John",VJ0002,NA,NA,514
 de.uscongress.1790,Kent,DE,des_kent,10001,"Banning, John",BJ0072,NA,NA,2
-de.uscongress.1790,Kent,DE,des_kent,10001,"Banning, John",BJ0072,NA,NA,2
-de.uscongress.1790,Kent,DE,des_kent,10001,"Clayton, Joshua",CJ0087,NA,NA,145
 de.uscongress.1790,Kent,DE,des_kent,10001,"Clayton, Joshua",CJ0087,NA,NA,145
 de.uscongress.1790,Kent,DE,des_kent,10001,"Duff, Thomas",DT0018,NA,NA,104
-de.uscongress.1790,Kent,DE,des_kent,10001,"Duff, Thomas",DT0018,NA,NA,104
-de.uscongress.1790,Kent,DE,des_kent,10001,"Gordon, John",GJ0019,NA,NA,1
 de.uscongress.1790,Kent,DE,des_kent,10001,"Gordon, John",GJ0019,NA,NA,1
 de.uscongress.1790,Kent,DE,des_kent,10001,"Mitchell, Nathaniel",MN0002,NA,NA,2
-de.uscongress.1790,Kent,DE,des_kent,10001,"Mitchell, Nathaniel",MN0002,NA,NA,2
-de.uscongress.1790,Kent,DE,des_kent,10001,"Perry, William",PW0014,NA,NA,1
 de.uscongress.1790,Kent,DE,des_kent,10001,"Perry, William",PW0014,NA,NA,1
 de.uscongress.1790,Kent,DE,des_kent,10001,"Vining, John",VJ0002,NA,NA,252
-de.uscongress.1790,Kent,DE,des_kent,10001,"Vining, John",VJ0002,NA,NA,252
-de.uscongress.1792,Kent,DE,des_kent,10001,"Barrett, Andrew",BA0023,NA,NA,195
 de.uscongress.1792,Kent,DE,des_kent,10001,"Barrett, Andrew",BA0023,NA,NA,195
 de.uscongress.1792,Kent,DE,des_kent,10001,"Lattimer, Henry",LH0001,Federalist,A01,905
-de.uscongress.1792,Kent,DE,des_kent,10001,"Lattimer, Henry",LH0001,Federalist,A01,905
-de.uscongress.1792,Kent,DE,des_kent,10001,"Many, Francis",MF0000,NA,NA,685
 de.uscongress.1792,Kent,DE,des_kent,10001,"Many, Francis",MF0000,NA,NA,685
 de.uscongress.1792,Kent,DE,des_kent,10001,"Patton, John",PJ0032,Anti-Federalist,A02,710
-de.uscongress.1792,Kent,DE,des_kent,10001,"Patton, John",PJ0032,Anti-Federalist,A02,710
-de.uscongress.1792,Kent,DE,des_kent,10001,"Roche, Edward",RE0089,NA,NA,465
 de.uscongress.1792,Kent,DE,des_kent,10001,"Roche, Edward",RE0089,NA,NA,465
 de.uscongress.1792,New Castle,DE,des_newcastle,10003,"Barrett, Andrew",BA0023,NA,NA,0
-de.uscongress.1792,New Castle,DE,des_newcastle,10003,"Barrett, Andrew",BA0023,NA,NA,0
-de.uscongress.1792,New Castle,DE,des_newcastle,10003,"Lattimer, Henry",LH0001,Federalist,A01,476
 de.uscongress.1792,New Castle,DE,des_newcastle,10003,"Lattimer, Henry",LH0001,Federalist,A01,476
 de.uscongress.1792,New Castle,DE,des_newcastle,10003,"Many, Francis",MF0000,NA,NA,0
-de.uscongress.1792,New Castle,DE,des_newcastle,10003,"Many, Francis",MF0000,NA,NA,0
 de.uscongress.1792,New Castle,DE,des_newcastle,10003,"Patton, John",PJ0032,Anti-Federalist,A02,719
-de.uscongress.1792,New Castle,DE,des_newcastle,10003,"Patton, John",PJ0032,Anti-Federalist,A02,719
-de.uscongress.1792,New Castle,DE,des_newcastle,10003,"Roche, Edward",RE0089,NA,NA,0
 de.uscongress.1792,New Castle,DE,des_newcastle,10003,"Roche, Edward",RE0089,NA,NA,0
 de.uscongress.1792,Sussex,DE,des_sussex,10005,"Barrett, Andrew",BA0023,NA,NA,0
 de.uscongress.1792,Sussex,DE,des_sussex,10005,"Lattimer, Henry",LH0001,Federalist,A01,862
@@ -64,124 +37,74 @@ de.uscongress.1792,Sussex,DE,des_sussex,10005,"Many, Francis",MF0000,NA,NA,0
 de.uscongress.1792,Sussex,DE,des_sussex,10005,"Patton, John",PJ0032,Anti-Federalist,A02,844
 de.uscongress.1792,Sussex,DE,des_sussex,10005,"Roche, Edward",RE0089,NA,NA,0
 de.uscongress.1794,Kent,DE,des_kent,10001,"Lattimer, Henry",LH0001,Federalist,A01,593
-de.uscongress.1794,Kent,DE,des_kent,10001,"Lattimer, Henry",LH0001,Federalist,A01,593
-de.uscongress.1794,Kent,DE,des_kent,10001,"Patton, John",PJ0032,Republican,A03,857
 de.uscongress.1794,Kent,DE,des_kent,10001,"Patton, John",PJ0032,Republican,A03,857
 de.uscongress.1794,New Castle,DE,des_newcastle,10003,"Lattimer, Henry",LH0001,Federalist,A01,709
-de.uscongress.1794,New Castle,DE,des_newcastle,10003,"Lattimer, Henry",LH0001,Federalist,A01,709
-de.uscongress.1794,New Castle,DE,des_newcastle,10003,"Patton, John",PJ0032,Republican,A03,656
 de.uscongress.1794,New Castle,DE,des_newcastle,10003,"Patton, John",PJ0032,Republican,A03,656
 de.uscongress.1794,Sussex,DE,des_sussex,10005,"Lattimer, Henry",LH0001,Federalist,A01,983
 de.uscongress.1794,Sussex,DE,des_sussex,10005,"Patton, John",PJ0032,Republican,A03,896
 de.uscongress.1796,Kent,DE,des_kent,10001,"Bayard, James A.",BJ0078,Federalist,A01,985
-de.uscongress.1796,Kent,DE,des_kent,10001,"Bayard, James A.",BJ0078,Federalist,A01,985
-de.uscongress.1796,Kent,DE,des_kent,10001,"Perry, William",PW0014,Republican,A03,831
 de.uscongress.1796,Kent,DE,des_kent,10001,"Perry, William",PW0014,Republican,A03,831
 de.uscongress.1796,New Castle,DE,des_newcastle,10003,"Bayard, James A.",BJ0078,Federalist,A01,404
-de.uscongress.1796,New Castle,DE,des_newcastle,10003,"Bayard, James A.",BJ0078,Federalist,A01,404
-de.uscongress.1796,New Castle,DE,des_newcastle,10003,"Perry, William",PW0014,Republican,A03,446
 de.uscongress.1796,New Castle,DE,des_newcastle,10003,"Perry, William",PW0014,Republican,A03,446
 de.uscongress.1796,Sussex,DE,des_sussex,10005,"Bayard, James A.",BJ0078,Federalist,A01,903
 de.uscongress.1796,Sussex,DE,des_sussex,10005,"Perry, William",PW0014,Republican,A03,502
 de.uscongress.1798,Kent,DE,des_kent,10001,"Alexander, Archibald",AA0027,Republican,A03,735
-de.uscongress.1798,Kent,DE,des_kent,10001,"Alexander, Archibald",AA0027,Republican,A03,735
-de.uscongress.1798,Kent,DE,des_kent,10001,"Bayard, James A.",BJ0078,Federalist,A01,891
 de.uscongress.1798,Kent,DE,des_kent,10001,"Bayard, James A.",BJ0078,Federalist,A01,891
 de.uscongress.1798,New Castle,DE,des_newcastle,10003,"Alexander, Archibald",AA0027,Republican,A03,488
-de.uscongress.1798,New Castle,DE,des_newcastle,10003,"Alexander, Archibald",AA0027,Republican,A03,488
-de.uscongress.1798,New Castle,DE,des_newcastle,10003,"Bayard, James A.",BJ0078,Federalist,A01,485
 de.uscongress.1798,New Castle,DE,des_newcastle,10003,"Bayard, James A.",BJ0078,Federalist,A01,485
 de.uscongress.1798,Sussex,DE,des_sussex,10005,"Alexander, Archibald",AA0027,Republican,A03,549
 de.uscongress.1798,Sussex,DE,des_sussex,10005,"Bayard, James A.",BJ0078,Federalist,A01,1416
 de.uscongress.1800,Kent,DE,des_kent,10001,"Bayard, James A.",BJ0078,Federalist,A01,811
-de.uscongress.1800,Kent,DE,des_kent,10001,"Bayard, James A.",BJ0078,Federalist,A01,811
-de.uscongress.1800,Kent,DE,des_kent,10001,"Patton, John",PJ0032,Republican,A03,720
 de.uscongress.1800,Kent,DE,des_kent,10001,"Patton, John",PJ0032,Republican,A03,720
 de.uscongress.1800,New Castle,DE,des_newcastle,10003,"Bayard, James A.",BJ0078,Federalist,A01,900
-de.uscongress.1800,New Castle,DE,des_newcastle,10003,"Bayard, James A.",BJ0078,Federalist,A01,900
-de.uscongress.1800,New Castle,DE,des_newcastle,10003,"Patton, John",PJ0032,Republican,A03,1247
 de.uscongress.1800,New Castle,DE,des_newcastle,10003,"Patton, John",PJ0032,Republican,A03,1247
 de.uscongress.1800,Sussex,DE,des_sussex,10005,"Bayard, James A.",BJ0078,Federalist,A01,963
 de.uscongress.1800,Sussex,DE,des_sussex,10005,"Patton, John",PJ0032,Republican,A03,373
 de.uscongress.1802,Kent,DE,des_kent,10001,"Bayard, James A.",BJ0078,Federalist,A01,1162
-de.uscongress.1802,Kent,DE,des_kent,10001,"Bayard, James A.",BJ0078,Federalist,A01,1162
-de.uscongress.1802,Kent,DE,des_kent,10001,"Rodney, Caesar A.",RC0001,Republican,A03,943
 de.uscongress.1802,Kent,DE,des_kent,10001,"Rodney, Caesar A.",RC0001,Republican,A03,943
 de.uscongress.1802,New Castle,DE,des_newcastle,10003,"Bayard, James A.",BJ0078,Federalist,A01,707
-de.uscongress.1802,New Castle,DE,des_newcastle,10003,"Bayard, James A.",BJ0078,Federalist,A01,707
-de.uscongress.1802,New Castle,DE,des_newcastle,10003,"Rodney, Caesar A.",RC0001,Republican,A03,1664
 de.uscongress.1802,New Castle,DE,des_newcastle,10003,"Rodney, Caesar A.",RC0001,Republican,A03,1664
 de.uscongress.1802,Sussex,DE,des_sussex,10005,"Bayard, James A.",BJ0078,Federalist,A01,1537
 de.uscongress.1802,Sussex,DE,des_sussex,10005,"Rodney, Caesar A.",RC0001,Republican,A03,814
 de.uscongress.1804,Kent,DE,des_kent,10001,"Bayard, James A.",BJ0078,Federalist,A01,1374
-de.uscongress.1804,Kent,DE,des_kent,10001,"Bayard, James A.",BJ0078,Federalist,A01,1374
-de.uscongress.1804,Kent,DE,des_kent,10001,"Rodney, Caesar A.",RC0001,Republican,A03,1017
 de.uscongress.1804,Kent,DE,des_kent,10001,"Rodney, Caesar A.",RC0001,Republican,A03,1017
 de.uscongress.1804,New Castle,DE,des_newcastle,10003,"Bayard, James A.",BJ0078,Federalist,A01,902
-de.uscongress.1804,New Castle,DE,des_newcastle,10003,"Bayard, James A.",BJ0078,Federalist,A01,902
-de.uscongress.1804,New Castle,DE,des_newcastle,10003,"Rodney, Caesar A.",RC0001,Republican,A03,1971
 de.uscongress.1804,New Castle,DE,des_newcastle,10003,"Rodney, Caesar A.",RC0001,Republican,A03,1971
 de.uscongress.1804,Sussex,DE,des_sussex,10005,"Bayard, James A.",BJ0078,Federalist,A01,2122
 de.uscongress.1804,Sussex,DE,des_sussex,10005,"Rodney, Caesar A.",RC0001,Republican,A03,1052
 de.uscongress.1805,Kent,DE,des_kent,10001,"Broom, James M.",BJ0090,Federalist,A01,966
-de.uscongress.1805,Kent,DE,des_kent,10001,"Broom, James M.",BJ0090,Federalist,A01,966
-de.uscongress.1805,Kent,DE,des_kent,10001,"Hall, David",HD0005,Republican,A03,593
 de.uscongress.1805,Kent,DE,des_kent,10001,"Hall, David",HD0005,Republican,A03,593
 de.uscongress.1805,Kent,DE,des_kent,10001,"Richie, Hugh W.",RH0078,NA,NA,0
-de.uscongress.1805,Kent,DE,des_kent,10001,"Richie, Hugh W.",RH0078,NA,NA,0
-de.uscongress.1805,Kent,DE,des_kent,10001,"Starr, Isaac H.",SI0020,Republican,A03,23
 de.uscongress.1805,Kent,DE,des_kent,10001,"Starr, Isaac H.",SI0020,Republican,A03,23
 de.uscongress.1805,New Castle,DE,des_newcastle,10003,"Broom, James M.",BJ0090,Federalist,A01,683
-de.uscongress.1805,New Castle,DE,des_newcastle,10003,"Broom, James M.",BJ0090,Federalist,A01,683
-de.uscongress.1805,New Castle,DE,des_newcastle,10003,"Hall, David",HD0005,Republican,A03,1407
 de.uscongress.1805,New Castle,DE,des_newcastle,10003,"Hall, David",HD0005,Republican,A03,1407
 de.uscongress.1805,New Castle,DE,des_newcastle,10003,"Richie, Hugh W.",RH0078,NA,NA,2
-de.uscongress.1805,New Castle,DE,des_newcastle,10003,"Richie, Hugh W.",RH0078,NA,NA,2
-de.uscongress.1805,New Castle,DE,des_newcastle,10003,"Starr, Isaac H.",SI0020,Republican,A03,1
 de.uscongress.1805,New Castle,DE,des_newcastle,10003,"Starr, Isaac H.",SI0020,Republican,A03,1
 de.uscongress.1805,Sussex,DE,des_sussex,10005,"Broom, James M.",BJ0090,Federalist,A01,1362
 de.uscongress.1805,Sussex,DE,des_sussex,10005,"Hall, David",HD0005,Republican,A03,682
 de.uscongress.1805,Sussex,DE,des_sussex,10005,"Richie, Hugh W.",RH0078,NA,NA,0
 de.uscongress.1805,Sussex,DE,des_sussex,10005,"Starr, Isaac H.",SI0020,Republican,A03,0
 de.uscongress.1806,Kent,DE,des_kent,10001,"Broom, James M.",BJ0090,Federalist,A01,709
-de.uscongress.1806,Kent,DE,des_kent,10001,"Broom, James M.",BJ0090,Federalist,A01,709
-de.uscongress.1806,Kent,DE,des_kent,10001,"Fitzgerald, Thomas",FT0001,Republican,A03,0
 de.uscongress.1806,Kent,DE,des_kent,10001,"Fitzgerald, Thomas",FT0001,Republican,A03,0
 de.uscongress.1806,Kent,DE,des_kent,10001,"Haslet, Joseph",HJ0024,Republican,A03,0
-de.uscongress.1806,Kent,DE,des_kent,10001,"Haslet, Joseph",HJ0024,Republican,A03,0
-de.uscongress.1806,Kent,DE,des_kent,10001,"Montgomery, Thomas",MT0004,Republican,A03,30
 de.uscongress.1806,Kent,DE,des_kent,10001,"Montgomery, Thomas",MT0004,Republican,A03,30
 de.uscongress.1806,New Castle,DE,des_newcastle,10003,"Broom, James M.",BJ0090,Federalist,A01,928
-de.uscongress.1806,New Castle,DE,des_newcastle,10003,"Broom, James M.",BJ0090,Federalist,A01,928
-de.uscongress.1806,New Castle,DE,des_newcastle,10003,"Fitzgerald, Thomas",FT0001,Republican,A03,830
 de.uscongress.1806,New Castle,DE,des_newcastle,10003,"Fitzgerald, Thomas",FT0001,Republican,A03,830
 de.uscongress.1806,New Castle,DE,des_newcastle,10003,"Haslet, Joseph",HJ0024,Republican,A03,382
-de.uscongress.1806,New Castle,DE,des_newcastle,10003,"Haslet, Joseph",HJ0024,Republican,A03,382
-de.uscongress.1806,New Castle,DE,des_newcastle,10003,"Montgomery, Thomas",MT0004,Republican,A03,0
 de.uscongress.1806,New Castle,DE,des_newcastle,10003,"Montgomery, Thomas",MT0004,Republican,A03,0
 de.uscongress.1806,Sussex,DE,des_sussex,10005,"Broom, James M.",BJ0090,Federalist,A01,716
 de.uscongress.1806,Sussex,DE,des_sussex,10005,"Fitzgerald, Thomas",FT0001,Republican,A03,0
 de.uscongress.1806,Sussex,DE,des_sussex,10005,"Haslet, Joseph",HJ0024,Republican,A03,0
 de.uscongress.1806,Sussex,DE,des_sussex,10005,"Montgomery, Thomas",MT0004,Republican,A03,293
 de.uscongress.1807,Kent,DE,des_kent,10001,"Bayard, Peter",BP0118,NA,NA,0
-de.uscongress.1807,Kent,DE,des_kent,10001,"Bayard, Peter",BP0118,NA,NA,0
-de.uscongress.1807,Kent,DE,des_kent,10001,"Brady, William",BW0429,NA,NA,0
 de.uscongress.1807,Kent,DE,des_kent,10001,"Brady, William",BW0429,NA,NA,0
 de.uscongress.1807,Kent,DE,des_kent,10001,"Dickinson, John",DJ0039,Republican,A03,970
-de.uscongress.1807,Kent,DE,des_kent,10001,"Dickinson, John",DJ0039,Republican,A03,970
-de.uscongress.1807,Kent,DE,des_kent,10001,"Dale, Richard C.",DR0001,NA,NA,0
 de.uscongress.1807,Kent,DE,des_kent,10001,"Dale, Richard C.",DR0001,NA,NA,0
 de.uscongress.1807,Kent,DE,des_kent,10001,"Van Dyke, Nicholas",VN0010,Federalist,A01,1070
-de.uscongress.1807,Kent,DE,des_kent,10001,"Van Dyke, Nicholas",VN0010,Federalist,A01,1070
-de.uscongress.1807,New Castle,DE,des_newcastle,10003,"Bayard, Peter",BP0118,NA,NA,1
 de.uscongress.1807,New Castle,DE,des_newcastle,10003,"Bayard, Peter",BP0118,NA,NA,1
 de.uscongress.1807,New Castle,DE,des_newcastle,10003,"Brady, William",BW0429,NA,NA,1
-de.uscongress.1807,New Castle,DE,des_newcastle,10003,"Brady, William",BW0429,NA,NA,1
-de.uscongress.1807,New Castle,DE,des_newcastle,10003,"Dickinson, John",DJ0039,Republican,A03,1249
 de.uscongress.1807,New Castle,DE,des_newcastle,10003,"Dickinson, John",DJ0039,Republican,A03,1249
 de.uscongress.1807,New Castle,DE,des_newcastle,10003,"Dale, Richard C.",DR0001,NA,NA,1
-de.uscongress.1807,New Castle,DE,des_newcastle,10003,"Dale, Richard C.",DR0001,NA,NA,1
-de.uscongress.1807,New Castle,DE,des_newcastle,10003,"Van Dyke, Nicholas",VN0010,Federalist,A01,579
 de.uscongress.1807,New Castle,DE,des_newcastle,10003,"Van Dyke, Nicholas",VN0010,Federalist,A01,579
 de.uscongress.1807,Sussex,DE,des_sussex,10005,"Bayard, Peter",BP0118,NA,NA,0
 de.uscongress.1807,Sussex,DE,des_sussex,10005,"Brady, William",BW0429,NA,NA,0
@@ -189,48 +112,28 @@ de.uscongress.1807,Sussex,DE,des_sussex,10005,"Dickinson, John",DJ0039,Republica
 de.uscongress.1807,Sussex,DE,des_sussex,10005,"Dale, Richard C.",DR0001,NA,NA,0
 de.uscongress.1807,Sussex,DE,des_sussex,10005,"Van Dyke, Nicholas",VN0010,Federalist,A01,1645
 de.uscongress.1808,Kent,DE,des_kent,10001,"Haslet, Joseph",HJ0024,Republican,A03,600
-de.uscongress.1808,Kent,DE,des_kent,10001,"Haslet, Joseph",HJ0024,Republican,A03,600
-de.uscongress.1808,Kent,DE,des_kent,10001,"Van Dyke, Nicholas",VN0010,Federalist,A01,1030
 de.uscongress.1808,Kent,DE,des_kent,10001,"Van Dyke, Nicholas",VN0010,Federalist,A01,1030
 de.uscongress.1808,New Castle,DE,des_newcastle,10003,"Haslet, Joseph",HJ0024,Republican,A03,1575
-de.uscongress.1808,New Castle,DE,des_newcastle,10003,"Haslet, Joseph",HJ0024,Republican,A03,1575
-de.uscongress.1808,New Castle,DE,des_newcastle,10003,"Van Dyke, Nicholas",VN0010,Federalist,A01,888
 de.uscongress.1808,New Castle,DE,des_newcastle,10003,"Van Dyke, Nicholas",VN0010,Federalist,A01,888
 de.uscongress.1808,Sussex,DE,des_sussex,10005,"Haslet, Joseph",HJ0024,Republican,A03,662
 de.uscongress.1808,Sussex,DE,des_sussex,10005,"Van Dyke, Nicholas",VN0010,Federalist,A01,1324
 de.uscongress.1810,Kent,DE,des_kent,10001,"Dale, Richard C.",DR0001,Republican,A03,1023
-de.uscongress.1810,Kent,DE,des_kent,10001,"Dale, Richard C.",DR0001,Republican,A03,1023
-de.uscongress.1810,Kent,DE,des_kent,10001,"Ridgely, Henry M.",RH0001,Federalist,A01,1249
 de.uscongress.1810,Kent,DE,des_kent,10001,"Ridgely, Henry M.",RH0001,Federalist,A01,1249
 de.uscongress.1810,New Castle,DE,des_newcastle,10003,"Dale, Richard C.",DR0001,Republican,A03,1586
-de.uscongress.1810,New Castle,DE,des_newcastle,10003,"Dale, Richard C.",DR0001,Republican,A03,1586
-de.uscongress.1810,New Castle,DE,des_newcastle,10003,"Ridgely, Henry M.",RH0001,Federalist,A01,722
 de.uscongress.1810,New Castle,DE,des_newcastle,10003,"Ridgely, Henry M.",RH0001,Federalist,A01,722
 de.uscongress.1810,Sussex,DE,des_sussex,10005,"Dale, Richard C.",DR0001,Republican,A03,1008
 de.uscongress.1810,Sussex,DE,des_sussex,10005,"Ridgely, Henry M.",RH0001,Federalist,A01,1663
 de.uscongress.1812,Kent,DE,des_kent,10001,"Cooper, Thomas",CT0008,Federalist,A01,1329
-de.uscongress.1812,Kent,DE,des_kent,10001,"Cooper, Thomas",CT0008,Federalist,A01,1329
-de.uscongress.1812,Kent,DE,des_kent,10001,"Clements, William",CW0335,Federalist,A01,0
 de.uscongress.1812,Kent,DE,des_kent,10001,"Clements, William",CW0335,Federalist,A01,0
 de.uscongress.1812,Kent,DE,des_kent,10001,"Dale, Richard C.",DR0001,Republican,A03,639
-de.uscongress.1812,Kent,DE,des_kent,10001,"Dale, Richard C.",DR0001,Republican,A03,639
-de.uscongress.1812,Kent,DE,des_kent,10001,"Hall, David",HD0005,Republican,A03,649
 de.uscongress.1812,Kent,DE,des_kent,10001,"Hall, David",HD0005,Republican,A03,649
 de.uscongress.1812,Kent,DE,des_kent,10001,"MacLane, Louis",ML0002,Federalist,A01,0
-de.uscongress.1812,Kent,DE,des_kent,10001,"MacLane, Louis",ML0002,Federalist,A01,0
-de.uscongress.1812,Kent,DE,des_kent,10001,"Ridgely, Henry M.",RH0001,Federalist,A01,1340
 de.uscongress.1812,Kent,DE,des_kent,10001,"Ridgely, Henry M.",RH0001,Federalist,A01,1340
 de.uscongress.1812,New Castle,DE,des_newcastle,10003,"Cooper, Thomas",CT0008,Federalist,A01,1034
-de.uscongress.1812,New Castle,DE,des_newcastle,10003,"Cooper, Thomas",CT0008,Federalist,A01,1034
-de.uscongress.1812,New Castle,DE,des_newcastle,10003,"Clements, William",CW0335,Federalist,A01,1
 de.uscongress.1812,New Castle,DE,des_newcastle,10003,"Clements, William",CW0335,Federalist,A01,1
 de.uscongress.1812,New Castle,DE,des_newcastle,10003,"Dale, Richard C.",DR0001,Republican,A03,1683
-de.uscongress.1812,New Castle,DE,des_newcastle,10003,"Dale, Richard C.",DR0001,Republican,A03,1683
-de.uscongress.1812,New Castle,DE,des_newcastle,10003,"Hall, David",HD0005,Republican,A03,1682
 de.uscongress.1812,New Castle,DE,des_newcastle,10003,"Hall, David",HD0005,Republican,A03,1682
 de.uscongress.1812,New Castle,DE,des_newcastle,10003,"MacLane, Louis",ML0002,Federalist,A01,1
-de.uscongress.1812,New Castle,DE,des_newcastle,10003,"MacLane, Louis",ML0002,Federalist,A01,1
-de.uscongress.1812,New Castle,DE,des_newcastle,10003,"Ridgely, Henry M.",RH0001,Federalist,A01,1038
 de.uscongress.1812,New Castle,DE,des_newcastle,10003,"Ridgely, Henry M.",RH0001,Federalist,A01,1038
 de.uscongress.1812,Sussex,DE,des_sussex,10005,"Cooper, Thomas",CT0008,Federalist,A01,1820
 de.uscongress.1812,Sussex,DE,des_sussex,10005,"Clements, William",CW0335,Federalist,A01,0
@@ -239,36 +142,20 @@ de.uscongress.1812,Sussex,DE,des_sussex,10005,"Hall, David",HD0005,Republican,A0
 de.uscongress.1812,Sussex,DE,des_sussex,10005,"MacLane, Louis",ML0002,Federalist,A01,0
 de.uscongress.1812,Sussex,DE,des_sussex,10005,"Ridgely, Henry M.",RH0001,Federalist,A01,1815
 de.uscongress.1814,Kent,DE,des_kent,10001,"Broom, James M.",BJ0090,Federalist,A01,0
-de.uscongress.1814,Kent,DE,des_kent,10001,"Broom, James M.",BJ0090,Federalist,A01,0
-de.uscongress.1814,Kent,DE,des_kent,10001,"Clayton, Thomas",CT0005,Federalist,A01,1084
 de.uscongress.1814,Kent,DE,des_kent,10001,"Clayton, Thomas",CT0005,Federalist,A01,1084
 de.uscongress.1814,Kent,DE,des_kent,10001,"Cooper, Thomas",CT0008,Federalist,A01,1079
-de.uscongress.1814,Kent,DE,des_kent,10001,"Cooper, Thomas",CT0008,Federalist,A01,1079
-de.uscongress.1814,Kent,DE,des_kent,10001,"DuPont, Edward J.",DE0088,NA,NA,0
 de.uscongress.1814,Kent,DE,des_kent,10001,"DuPont, Edward J.",DE0088,NA,NA,0
 de.uscongress.1814,Kent,DE,des_kent,10001,"Dale, Richard C.",DR0001,NA,NA,0
-de.uscongress.1814,Kent,DE,des_kent,10001,"Dale, Richard C.",DR0001,NA,NA,0
-de.uscongress.1814,Kent,DE,des_kent,10001,"Hardcastle, Philip",HP0011,NA,NA,0
 de.uscongress.1814,Kent,DE,des_kent,10001,"Hardcastle, Philip",HP0011,NA,NA,0
 de.uscongress.1814,Kent,DE,des_kent,10001,"Hall, Willard",HW0048,Republican,A03,473
-de.uscongress.1814,Kent,DE,des_kent,10001,"Hall, Willard",HW0048,Republican,A03,473
-de.uscongress.1814,Kent,DE,des_kent,10001,"Read, George, Jr.",RG0002,Republican,A03,467
 de.uscongress.1814,Kent,DE,des_kent,10001,"Read, George, Jr.",RG0002,Republican,A03,467
 de.uscongress.1814,New Castle,DE,des_newcastle,10003,"Broom, James M.",BJ0090,Federalist,A01,1
-de.uscongress.1814,New Castle,DE,des_newcastle,10003,"Broom, James M.",BJ0090,Federalist,A01,1
-de.uscongress.1814,New Castle,DE,des_newcastle,10003,"Clayton, Thomas",CT0005,Federalist,A01,1087
 de.uscongress.1814,New Castle,DE,des_newcastle,10003,"Clayton, Thomas",CT0005,Federalist,A01,1087
 de.uscongress.1814,New Castle,DE,des_newcastle,10003,"Cooper, Thomas",CT0008,Federalist,A01,1090
-de.uscongress.1814,New Castle,DE,des_newcastle,10003,"Cooper, Thomas",CT0008,Federalist,A01,1090
-de.uscongress.1814,New Castle,DE,des_newcastle,10003,"DuPont, Edward J.",DE0088,NA,NA,2
 de.uscongress.1814,New Castle,DE,des_newcastle,10003,"DuPont, Edward J.",DE0088,NA,NA,2
 de.uscongress.1814,New Castle,DE,des_newcastle,10003,"Dale, Richard C.",DR0001,NA,NA,1
-de.uscongress.1814,New Castle,DE,des_newcastle,10003,"Dale, Richard C.",DR0001,NA,NA,1
-de.uscongress.1814,New Castle,DE,des_newcastle,10003,"Hardcastle, Philip",HP0011,NA,NA,1
 de.uscongress.1814,New Castle,DE,des_newcastle,10003,"Hardcastle, Philip",HP0011,NA,NA,1
 de.uscongress.1814,New Castle,DE,des_newcastle,10003,"Hall, Willard",HW0048,Republican,A03,1365
-de.uscongress.1814,New Castle,DE,des_newcastle,10003,"Hall, Willard",HW0048,Republican,A03,1365
-de.uscongress.1814,New Castle,DE,des_newcastle,10003,"Read, George, Jr.",RG0002,Republican,A03,1364
 de.uscongress.1814,New Castle,DE,des_newcastle,10003,"Read, George, Jr.",RG0002,Republican,A03,1364
 de.uscongress.1814,Sussex,DE,des_sussex,10005,"Broom, James M.",BJ0090,Federalist,A01,0
 de.uscongress.1814,Sussex,DE,des_sussex,10005,"Clayton, Thomas",CT0005,Federalist,A01,1793
@@ -279,48 +166,26 @@ de.uscongress.1814,Sussex,DE,des_sussex,10005,"Hardcastle, Philip",HP0011,NA,NA,
 de.uscongress.1814,Sussex,DE,des_sussex,10005,"Hall, Willard",HW0048,Republican,A03,709
 de.uscongress.1814,Sussex,DE,des_sussex,10005,"Read, George, Jr.",RG0002,Republican,A03,714
 de.uscongress.1816,Kent,DE,des_kent,10001,"Clayton, Thomas",CT0005,Federalist,A01,298
-de.uscongress.1816,Kent,DE,des_kent,10001,"Clayton, Thomas",CT0005,Federalist,A01,298
-de.uscongress.1816,Kent,DE,des_kent,10001,"Cooper, Thomas",CT0008,Federalist,A01,250
 de.uscongress.1816,Kent,DE,des_kent,10001,"Cooper, Thomas",CT0008,Federalist,A01,250
 de.uscongress.1816,Kent,DE,des_kent,10001,"Clark, Thomas",CT0154,NA,NA,0
-de.uscongress.1816,Kent,DE,des_kent,10001,"Clark, Thomas",CT0154,NA,NA,0
-de.uscongress.1816,Kent,DE,des_kent,10001,"Dale, Richard C.",DR0001,NA,NA,0
 de.uscongress.1816,Kent,DE,des_kent,10001,"Dale, Richard C.",DR0001,NA,NA,0
 de.uscongress.1816,Kent,DE,des_kent,10001,"Hall, Willard",HW0048,Republican,A03,839
-de.uscongress.1816,Kent,DE,des_kent,10001,"Hall, Willard",HW0048,Republican,A03,839
-de.uscongress.1816,Kent,DE,des_kent,10001,"MacLane, Louis",ML0002,Federalist,A01,927
 de.uscongress.1816,Kent,DE,des_kent,10001,"MacLane, Louis",ML0002,Federalist,A01,927
 de.uscongress.1816,Kent,DE,des_kent,10001,"Rodney, Caesar A.",RC0001,Republican,A03,813
-de.uscongress.1816,Kent,DE,des_kent,10001,"Rodney, Caesar A.",RC0001,Republican,A03,813
-de.uscongress.1816,Kent,DE,des_kent,10001,"Rodney, Caleb",RC0002,Federalist,A01,858
 de.uscongress.1816,Kent,DE,des_kent,10001,"Rodney, Caleb",RC0002,Federalist,A01,858
 de.uscongress.1816,Kent,DE,des_kent,10001,"Rodgers, James",RJ0009,NA,NA,0
-de.uscongress.1816,Kent,DE,des_kent,10001,"Rodgers, James",RJ0009,NA,NA,0
-de.uscongress.1816,Kent,DE,des_kent,10001,"Reynolds, John",RJ0673,NA,NA,0
 de.uscongress.1816,Kent,DE,des_kent,10001,"Reynolds, John",RJ0673,NA,NA,0
 de.uscongress.1816,Kent,DE,des_kent,10001,"Whitlock, George",WG0136,NA,NA,0
-de.uscongress.1816,Kent,DE,des_kent,10001,"Whitlock, George",WG0136,NA,NA,0
-de.uscongress.1816,New Castle,DE,des_newcastle,10003,"Clayton, Thomas",CT0005,Federalist,A01,48
 de.uscongress.1816,New Castle,DE,des_newcastle,10003,"Clayton, Thomas",CT0005,Federalist,A01,48
 de.uscongress.1816,New Castle,DE,des_newcastle,10003,"Cooper, Thomas",CT0008,Federalist,A01,37
-de.uscongress.1816,New Castle,DE,des_newcastle,10003,"Cooper, Thomas",CT0008,Federalist,A01,37
-de.uscongress.1816,New Castle,DE,des_newcastle,10003,"Clark, Thomas",CT0154,NA,NA,1
 de.uscongress.1816,New Castle,DE,des_newcastle,10003,"Clark, Thomas",CT0154,NA,NA,1
 de.uscongress.1816,New Castle,DE,des_newcastle,10003,"Dale, Richard C.",DR0001,NA,NA,1
-de.uscongress.1816,New Castle,DE,des_newcastle,10003,"Dale, Richard C.",DR0001,NA,NA,1
-de.uscongress.1816,New Castle,DE,des_newcastle,10003,"Hall, Willard",HW0048,Republican,A03,1712
 de.uscongress.1816,New Castle,DE,des_newcastle,10003,"Hall, Willard",HW0048,Republican,A03,1712
 de.uscongress.1816,New Castle,DE,des_newcastle,10003,"MacLane, Louis",ML0002,Federalist,A01,1026
-de.uscongress.1816,New Castle,DE,des_newcastle,10003,"MacLane, Louis",ML0002,Federalist,A01,1026
-de.uscongress.1816,New Castle,DE,des_newcastle,10003,"Rodney, Caesar A.",RC0001,Republican,A03,1730
 de.uscongress.1816,New Castle,DE,des_newcastle,10003,"Rodney, Caesar A.",RC0001,Republican,A03,1730
 de.uscongress.1816,New Castle,DE,des_newcastle,10003,"Rodney, Caleb",RC0002,Federalist,A01,1038
-de.uscongress.1816,New Castle,DE,des_newcastle,10003,"Rodney, Caleb",RC0002,Federalist,A01,1038
-de.uscongress.1816,New Castle,DE,des_newcastle,10003,"Rodgers, James",RJ0009,NA,NA,2
 de.uscongress.1816,New Castle,DE,des_newcastle,10003,"Rodgers, James",RJ0009,NA,NA,2
 de.uscongress.1816,New Castle,DE,des_newcastle,10003,"Reynolds, John",RJ0673,NA,NA,1
-de.uscongress.1816,New Castle,DE,des_newcastle,10003,"Reynolds, John",RJ0673,NA,NA,1
-de.uscongress.1816,New Castle,DE,des_newcastle,10003,"Whitlock, George",WG0136,NA,NA,1
 de.uscongress.1816,New Castle,DE,des_newcastle,10003,"Whitlock, George",WG0136,NA,NA,1
 de.uscongress.1816,Sussex,DE,des_sussex,10005,"Clayton, Thomas",CT0005,Federalist,A01,140
 de.uscongress.1816,Sussex,DE,des_sussex,10005,"Cooper, Thomas",CT0008,Federalist,A01,103
@@ -334,108 +199,56 @@ de.uscongress.1816,Sussex,DE,des_sussex,10005,"Rodgers, James",RJ0009,NA,NA,0
 de.uscongress.1816,Sussex,DE,des_sussex,10005,"Reynolds, John",RJ0673,NA,NA,0
 de.uscongress.1816,Sussex,DE,des_sussex,10005,"Whitlock, George",WG0136,NA,NA,0
 de.uscongress.1818,Kent,DE,des_kent,10001,"Booth, James, Jr.",BJ0100,Federalist,A01,0
-de.uscongress.1818,Kent,DE,des_kent,10001,"Booth, James, Jr.",BJ0100,Federalist,A01,0
-de.uscongress.1818,Kent,DE,des_kent,10001,"Button, James",BJ1340,NA,NA,0
 de.uscongress.1818,Kent,DE,des_kent,10001,"Button, James",BJ1340,NA,NA,0
 de.uscongress.1818,Kent,DE,des_kent,10001,"Barr, John",BJ1342,NA,NA,0
-de.uscongress.1818,Kent,DE,des_kent,10001,"Barr, John",BJ1342,NA,NA,0
-de.uscongress.1818,Kent,DE,des_kent,10001,"Clark, George",CG0013,Republican,A03,0
 de.uscongress.1818,Kent,DE,des_kent,10001,"Clark, George",CG0013,Republican,A03,0
 de.uscongress.1818,Kent,DE,des_kent,10001,"Caldwell, John",CJ0105,Federalist,A01,0
-de.uscongress.1818,Kent,DE,des_kent,10001,"Caldwell, John",CJ0105,Federalist,A01,0
-de.uscongress.1818,Kent,DE,des_kent,10001,"Clayton, Thomas",CT0005,Federalist,A01,709
 de.uscongress.1818,Kent,DE,des_kent,10001,"Clayton, Thomas",CT0005,Federalist,A01,709
 de.uscongress.1818,Kent,DE,des_kent,10001,"Cooper, Thomas",CT0008,Federalist,A01,0
-de.uscongress.1818,Kent,DE,des_kent,10001,"Cooper, Thomas",CT0008,Federalist,A01,0
-de.uscongress.1818,Kent,DE,des_kent,10001,"Downs, Bennett",DB0045,NA,NA,0
 de.uscongress.1818,Kent,DE,des_kent,10001,"Downs, Bennett",DB0045,NA,NA,0
 de.uscongress.1818,Kent,DE,des_kent,10001,"Ferris, Ziba",FZ0003,NA,NA,0
-de.uscongress.1818,Kent,DE,des_kent,10001,"Ferris, Ziba",FZ0003,NA,NA,0
-de.uscongress.1818,Kent,DE,des_kent,10001,"Gray, Andrew",GA0001,Republican,A03,0
 de.uscongress.1818,Kent,DE,des_kent,10001,"Gray, Andrew",GA0001,Republican,A03,0
 de.uscongress.1818,Kent,DE,des_kent,10001,"Houton, Jacob",HJ1123,NA,NA,0
-de.uscongress.1818,Kent,DE,des_kent,10001,"Houton, Jacob",HJ1123,NA,NA,0
-de.uscongress.1818,Kent,DE,des_kent,10001,"Hall, Thomas",HT0198,NA,NA,0
 de.uscongress.1818,Kent,DE,des_kent,10001,"Hall, Thomas",HT0198,NA,NA,0
 de.uscongress.1818,Kent,DE,des_kent,10001,"Hall, Willard",HW0048,Republican,A03,620
-de.uscongress.1818,Kent,DE,des_kent,10001,"Hall, Willard",HW0048,Republican,A03,620
-de.uscongress.1818,Kent,DE,des_kent,10001,"Lea, John",LJ0495,NA,NA,0
 de.uscongress.1818,Kent,DE,des_kent,10001,"Lea, John",LJ0495,NA,NA,0
 de.uscongress.1818,Kent,DE,des_kent,10001,"Lea, Thomas",LT0004,Federalist,A01,0
-de.uscongress.1818,Kent,DE,des_kent,10001,"Lea, Thomas",LT0004,Federalist,A01,0
-de.uscongress.1818,Kent,DE,des_kent,10001,"MacLane, Louis",ML0002,Federalist,A01,716
 de.uscongress.1818,Kent,DE,des_kent,10001,"MacLane, Louis",ML0002,Federalist,A01,716
 de.uscongress.1818,Kent,DE,des_kent,10001,NA,Other candidates,NA,NA,0
-de.uscongress.1818,Kent,DE,des_kent,10001,NA,Other candidates,NA,NA,0
-de.uscongress.1818,Kent,DE,des_kent,10001,"Rodney, Caesar A.",RC0001,Republican,A03,0
 de.uscongress.1818,Kent,DE,des_kent,10001,"Rodney, Caesar A.",RC0001,Republican,A03,0
 de.uscongress.1818,Kent,DE,des_kent,10001,"Rodney, Caleb",RC0002,Federalist,A01,0
-de.uscongress.1818,Kent,DE,des_kent,10001,"Rodney, Caleb",RC0002,Federalist,A01,0
-de.uscongress.1818,Kent,DE,des_kent,10001,"Read, George, Jr.",RG0002,Republican,A03,564
 de.uscongress.1818,Kent,DE,des_kent,10001,"Read, George, Jr.",RG0002,Republican,A03,564
 de.uscongress.1818,Kent,DE,des_kent,10001,"Ridgely, Henry M.",RH0001,Federalist,A01,0
-de.uscongress.1818,Kent,DE,des_kent,10001,"Ridgely, Henry M.",RH0001,Federalist,A01,0
-de.uscongress.1818,Kent,DE,des_kent,10001,"Reynolds, William",RW0203,NA,NA,0
 de.uscongress.1818,Kent,DE,des_kent,10001,"Reynolds, William",RW0203,NA,NA,0
 de.uscongress.1818,Kent,DE,des_kent,10001,"Sutton, John",SJ0072,Republican,A03,0
-de.uscongress.1818,Kent,DE,des_kent,10001,"Sutton, John",SJ0072,Republican,A03,0
-de.uscongress.1818,Kent,DE,des_kent,10001,"Sullivan, James",SJ1498,NA,NA,0
 de.uscongress.1818,Kent,DE,des_kent,10001,"Sullivan, James",SJ1498,NA,NA,0
 de.uscongress.1818,Kent,DE,des_kent,10001,"Sellars, John",SJ1499,NA,NA,0
-de.uscongress.1818,Kent,DE,des_kent,10001,"Sellars, John",SJ1499,NA,NA,0
-de.uscongress.1818,Kent,DE,des_kent,10001,"Shipley, William",SW0404,Republican,A03,0
 de.uscongress.1818,Kent,DE,des_kent,10001,"Shipley, William",SW0404,Republican,A03,0
 de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Booth, James, Jr.",BJ0100,Federalist,A01,2
-de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Booth, James, Jr.",BJ0100,Federalist,A01,2
-de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Button, James",BJ1340,NA,NA,1
 de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Button, James",BJ1340,NA,NA,1
 de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Barr, John",BJ1342,NA,NA,1
-de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Barr, John",BJ1342,NA,NA,1
-de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Clark, George",CG0013,Republican,A03,3
 de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Clark, George",CG0013,Republican,A03,3
 de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Caldwell, John",CJ0105,Federalist,A01,9
-de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Caldwell, John",CJ0105,Federalist,A01,9
-de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Clayton, Thomas",CT0005,Federalist,A01,987
 de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Clayton, Thomas",CT0005,Federalist,A01,987
 de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Cooper, Thomas",CT0008,Federalist,A01,10
-de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Cooper, Thomas",CT0008,Federalist,A01,10
-de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Downs, Bennett",DB0045,NA,NA,9
 de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Downs, Bennett",DB0045,NA,NA,9
 de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Ferris, Ziba",FZ0003,NA,NA,1
-de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Ferris, Ziba",FZ0003,NA,NA,1
-de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Gray, Andrew",GA0001,Republican,A03,3
 de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Gray, Andrew",GA0001,Republican,A03,3
 de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Houton, Jacob",HJ1123,NA,NA,1
-de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Houton, Jacob",HJ1123,NA,NA,1
-de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Hall, Thomas",HT0198,NA,NA,9
 de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Hall, Thomas",HT0198,NA,NA,9
 de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Hall, Willard",HW0048,Republican,A03,1799
-de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Hall, Willard",HW0048,Republican,A03,1799
-de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Lea, John",LJ0495,NA,NA,9
 de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Lea, John",LJ0495,NA,NA,9
 de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Lea, Thomas",LT0004,Federalist,A01,2
-de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Lea, Thomas",LT0004,Federalist,A01,2
-de.uscongress.1818,New Castle,DE,des_newcastle,10003,"MacLane, Louis",ML0002,Federalist,A01,1125
 de.uscongress.1818,New Castle,DE,des_newcastle,10003,"MacLane, Louis",ML0002,Federalist,A01,1125
 de.uscongress.1818,New Castle,DE,des_newcastle,10003,NA,Other candidates,NA,NA,58
-de.uscongress.1818,New Castle,DE,des_newcastle,10003,NA,Other candidates,NA,NA,58
-de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Rodney, Caesar A.",RC0001,Republican,A03,4
 de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Rodney, Caesar A.",RC0001,Republican,A03,4
 de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Rodney, Caleb",RC0002,Federalist,A01,5
-de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Rodney, Caleb",RC0002,Federalist,A01,5
-de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Read, George, Jr.",RG0002,Republican,A03,1666
 de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Read, George, Jr.",RG0002,Republican,A03,1666
 de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Ridgely, Henry M.",RH0001,Federalist,A01,4
-de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Ridgely, Henry M.",RH0001,Federalist,A01,4
-de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Reynolds, William",RW0203,NA,NA,9
 de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Reynolds, William",RW0203,NA,NA,9
 de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Sutton, John",SJ0072,Republican,A03,9
-de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Sutton, John",SJ0072,Republican,A03,9
-de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Sullivan, James",SJ1498,NA,NA,4
 de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Sullivan, James",SJ1498,NA,NA,4
 de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Sellars, John",SJ1499,NA,NA,1
-de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Sellars, John",SJ1499,NA,NA,1
-de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Shipley, William",SW0404,Republican,A03,2
 de.uscongress.1818,New Castle,DE,des_newcastle,10003,"Shipley, William",SW0404,Republican,A03,2
 de.uscongress.1818,Sussex,DE,des_sussex,10005,"Booth, James, Jr.",BJ0100,Federalist,A01,0
 de.uscongress.1818,Sussex,DE,des_sussex,10005,"Button, James",BJ1340,NA,NA,0
@@ -464,68 +277,36 @@ de.uscongress.1818,Sussex,DE,des_sussex,10005,"Sullivan, James",SJ1498,NA,NA,0
 de.uscongress.1818,Sussex,DE,des_sussex,10005,"Sellars, John",SJ1499,NA,NA,0
 de.uscongress.1818,Sussex,DE,des_sussex,10005,"Shipley, William",SW0404,Republican,A03,0
 de.uscongress.1820,Kent,DE,des_kent,10001,"Black, Samuel H.",BS0038,NA,NA,0
-de.uscongress.1820,Kent,DE,des_kent,10001,"Black, Samuel H.",BS0038,NA,NA,0
-de.uscongress.1820,Kent,DE,des_kent,10001,"Canby, James",CJ0099,NA,NA,0
 de.uscongress.1820,Kent,DE,des_kent,10001,"Canby, James",CJ0099,NA,NA,0
 de.uscongress.1820,Kent,DE,des_kent,10001,"Clayton, Thomas",CT0005,Federalist,A01,0
-de.uscongress.1820,Kent,DE,des_kent,10001,"Clayton, Thomas",CT0005,Federalist,A01,0
-de.uscongress.1820,Kent,DE,des_kent,10001,"Houston, David",HD0013,NA,NA,0
 de.uscongress.1820,Kent,DE,des_kent,10001,"Houston, David",HD0013,NA,NA,0
 de.uscongress.1820,Kent,DE,des_kent,10001,"Hall, Willard",HW0048,Republican,A03,1006
-de.uscongress.1820,Kent,DE,des_kent,10001,"Hall, Willard",HW0048,Republican,A03,1006
-de.uscongress.1820,Kent,DE,des_kent,10001,"Kirk, Caleb",KC0001,NA,NA,0
 de.uscongress.1820,Kent,DE,des_kent,10001,"Kirk, Caleb",KC0001,NA,NA,0
 de.uscongress.1820,Kent,DE,des_kent,10001,"Mitchell, John",MJ0047,Federalist,A01,947
-de.uscongress.1820,Kent,DE,des_kent,10001,"Mitchell, John",MJ0047,Federalist,A01,947
-de.uscongress.1820,Kent,DE,des_kent,10001,"MacLane, Louis",ML0002,Federalist,A01,913
 de.uscongress.1820,Kent,DE,des_kent,10001,"MacLane, Louis",ML0002,Federalist,A01,913
 de.uscongress.1820,Kent,DE,des_kent,10001,"Matlock, Timothy",MT0163,NA,NA,0
-de.uscongress.1820,Kent,DE,des_kent,10001,"Matlock, Timothy",MT0163,NA,NA,0
-de.uscongress.1820,Kent,DE,des_kent,10001,"Poole, William",PW0016,NA,NA,0
 de.uscongress.1820,Kent,DE,des_kent,10001,"Poole, William",PW0016,NA,NA,0
 de.uscongress.1820,Kent,DE,des_kent,10001,"Rodney, Caesar A.",RC0001,Republican,A03,989
-de.uscongress.1820,Kent,DE,des_kent,10001,"Rodney, Caesar A.",RC0001,Republican,A03,989
-de.uscongress.1820,Kent,DE,des_kent,10001,"Rice, J.",RJ0684,NA,NA,0
 de.uscongress.1820,Kent,DE,des_kent,10001,"Rice, J.",RJ0684,NA,NA,0
 de.uscongress.1820,Kent,DE,des_kent,10001,"Richardson, Thomas",RT0127,NA,NA,0
-de.uscongress.1820,Kent,DE,des_kent,10001,"Richardson, Thomas",RT0127,NA,NA,0
-de.uscongress.1820,Kent,DE,des_kent,10001,"Willard, G.",WG0137,NA,NA,0
 de.uscongress.1820,Kent,DE,des_kent,10001,"Willard, G.",WG0137,NA,NA,0
 de.uscongress.1820,Kent,DE,des_kent,10001,"Wollaston, Joshua",WJ0824,NA,NA,0
-de.uscongress.1820,Kent,DE,des_kent,10001,"Wollaston, Joshua",WJ0824,NA,NA,0
-de.uscongress.1820,Kent,DE,des_kent,10001,"Wood, William",WW0292,NA,NA,0
 de.uscongress.1820,Kent,DE,des_kent,10001,"Wood, William",WW0292,NA,NA,0
 de.uscongress.1820,New Castle,DE,des_newcastle,10003,"Black, Samuel H.",BS0038,NA,NA,1
-de.uscongress.1820,New Castle,DE,des_newcastle,10003,"Black, Samuel H.",BS0038,NA,NA,1
-de.uscongress.1820,New Castle,DE,des_newcastle,10003,"Canby, James",CJ0099,NA,NA,1
 de.uscongress.1820,New Castle,DE,des_newcastle,10003,"Canby, James",CJ0099,NA,NA,1
 de.uscongress.1820,New Castle,DE,des_newcastle,10003,"Clayton, Thomas",CT0005,Federalist,A01,1
-de.uscongress.1820,New Castle,DE,des_newcastle,10003,"Clayton, Thomas",CT0005,Federalist,A01,1
-de.uscongress.1820,New Castle,DE,des_newcastle,10003,"Houston, David",HD0013,NA,NA,7
 de.uscongress.1820,New Castle,DE,des_newcastle,10003,"Houston, David",HD0013,NA,NA,7
 de.uscongress.1820,New Castle,DE,des_newcastle,10003,"Hall, Willard",HW0048,Republican,A03,1458
-de.uscongress.1820,New Castle,DE,des_newcastle,10003,"Hall, Willard",HW0048,Republican,A03,1458
-de.uscongress.1820,New Castle,DE,des_newcastle,10003,"Kirk, Caleb",KC0001,NA,NA,2
 de.uscongress.1820,New Castle,DE,des_newcastle,10003,"Kirk, Caleb",KC0001,NA,NA,2
 de.uscongress.1820,New Castle,DE,des_newcastle,10003,"Mitchell, John",MJ0047,Federalist,A01,823
-de.uscongress.1820,New Castle,DE,des_newcastle,10003,"Mitchell, John",MJ0047,Federalist,A01,823
-de.uscongress.1820,New Castle,DE,des_newcastle,10003,"MacLane, Louis",ML0002,Federalist,A01,1003
 de.uscongress.1820,New Castle,DE,des_newcastle,10003,"MacLane, Louis",ML0002,Federalist,A01,1003
 de.uscongress.1820,New Castle,DE,des_newcastle,10003,"Matlock, Timothy",MT0163,NA,NA,1
-de.uscongress.1820,New Castle,DE,des_newcastle,10003,"Matlock, Timothy",MT0163,NA,NA,1
-de.uscongress.1820,New Castle,DE,des_newcastle,10003,"Poole, William",PW0016,NA,NA,14
 de.uscongress.1820,New Castle,DE,des_newcastle,10003,"Poole, William",PW0016,NA,NA,14
 de.uscongress.1820,New Castle,DE,des_newcastle,10003,"Rodney, Caesar A.",RC0001,Republican,A03,1682
-de.uscongress.1820,New Castle,DE,des_newcastle,10003,"Rodney, Caesar A.",RC0001,Republican,A03,1682
-de.uscongress.1820,New Castle,DE,des_newcastle,10003,"Rice, J.",RJ0684,NA,NA,1
 de.uscongress.1820,New Castle,DE,des_newcastle,10003,"Rice, J.",RJ0684,NA,NA,1
 de.uscongress.1820,New Castle,DE,des_newcastle,10003,"Richardson, Thomas",RT0127,NA,NA,1
-de.uscongress.1820,New Castle,DE,des_newcastle,10003,"Richardson, Thomas",RT0127,NA,NA,1
-de.uscongress.1820,New Castle,DE,des_newcastle,10003,"Willard, G.",WG0137,NA,NA,1
 de.uscongress.1820,New Castle,DE,des_newcastle,10003,"Willard, G.",WG0137,NA,NA,1
 de.uscongress.1820,New Castle,DE,des_newcastle,10003,"Wollaston, Joshua",WJ0824,NA,NA,1
-de.uscongress.1820,New Castle,DE,des_newcastle,10003,"Wollaston, Joshua",WJ0824,NA,NA,1
-de.uscongress.1820,New Castle,DE,des_newcastle,10003,"Wood, William",WW0292,NA,NA,1
 de.uscongress.1820,New Castle,DE,des_newcastle,10003,"Wood, William",WW0292,NA,NA,1
 de.uscongress.1820,Sussex,DE,des_sussex,10005,"Black, Samuel H.",BS0038,NA,NA,0
 de.uscongress.1820,Sussex,DE,des_sussex,10005,"Canby, James",CJ0099,NA,NA,0
@@ -544,48 +325,26 @@ de.uscongress.1820,Sussex,DE,des_sussex,10005,"Willard, G.",WG0137,NA,NA,0
 de.uscongress.1820,Sussex,DE,des_sussex,10005,"Wollaston, Joshua",WJ0824,NA,NA,0
 de.uscongress.1820,Sussex,DE,des_sussex,10005,"Wood, William",WW0292,NA,NA,0
 de.uscongress.1822,Kent,DE,des_kent,10001,"Baly, Henry",BH0194,NA,NA,0
-de.uscongress.1822,Kent,DE,des_kent,10001,"Baly, Henry",BH0194,NA,NA,0
-de.uscongress.1822,Kent,DE,des_kent,10001,"Clark, John",CJ0108,NA,NA,0
 de.uscongress.1822,Kent,DE,des_kent,10001,"Clark, John",CJ0108,NA,NA,0
 de.uscongress.1822,Kent,DE,des_kent,10001,"Dickerson, James",DJ0042,Republican,A03,0
-de.uscongress.1822,Kent,DE,des_kent,10001,"Dickerson, James",DJ0042,Republican,A03,0
-de.uscongress.1822,Kent,DE,des_kent,10001,"Haslet, Joseph",HJ0024,NA,NA,0
 de.uscongress.1822,Kent,DE,des_kent,10001,"Haslet, Joseph",HJ0024,NA,NA,0
 de.uscongress.1822,Kent,DE,des_kent,10001,"MacLane, Allen",MA0235,NA,NA,0
-de.uscongress.1822,Kent,DE,des_kent,10001,"MacLane, Allen",MA0235,NA,NA,0
-de.uscongress.1822,Kent,DE,des_kent,10001,"MacLane, Louis",ML0002,Federalist,A01,1051
 de.uscongress.1822,Kent,DE,des_kent,10001,"MacLane, Louis",ML0002,Federalist,A01,1051
 de.uscongress.1822,Kent,DE,des_kent,10001,"Naudain, Arnold S.",NA0005,Republican,A03,1096
-de.uscongress.1822,Kent,DE,des_kent,10001,"Naudain, Arnold S.",NA0005,Republican,A03,1096
-de.uscongress.1822,Kent,DE,des_kent,10001,"Rodney, Daniel",RD0004,Federalist,A01,0
 de.uscongress.1822,Kent,DE,des_kent,10001,"Rodney, Daniel",RD0004,Federalist,A01,0
 de.uscongress.1822,Kent,DE,des_kent,10001,"Rodgers, James",RJ0009,NA,NA,0
-de.uscongress.1822,Kent,DE,des_kent,10001,"Rodgers, James",RJ0009,NA,NA,0
-de.uscongress.1822,Kent,DE,des_kent,10001,"Starr, Isaac H.",SI0020,NA,NA,0
 de.uscongress.1822,Kent,DE,des_kent,10001,"Starr, Isaac H.",SI0020,NA,NA,0
 de.uscongress.1822,Kent,DE,des_kent,10001,"Torbert, John",TJ0492,NA,NA,0
-de.uscongress.1822,Kent,DE,des_kent,10001,"Torbert, John",TJ0492,NA,NA,0
-de.uscongress.1822,New Castle,DE,des_newcastle,10003,"Baly, Henry",BH0194,NA,NA,1
 de.uscongress.1822,New Castle,DE,des_newcastle,10003,"Baly, Henry",BH0194,NA,NA,1
 de.uscongress.1822,New Castle,DE,des_newcastle,10003,"Clark, John",CJ0108,NA,NA,1
-de.uscongress.1822,New Castle,DE,des_newcastle,10003,"Clark, John",CJ0108,NA,NA,1
-de.uscongress.1822,New Castle,DE,des_newcastle,10003,"Dickerson, James",DJ0042,Republican,A03,1
 de.uscongress.1822,New Castle,DE,des_newcastle,10003,"Dickerson, James",DJ0042,Republican,A03,1
 de.uscongress.1822,New Castle,DE,des_newcastle,10003,"Haslet, Joseph",HJ0024,NA,NA,1
-de.uscongress.1822,New Castle,DE,des_newcastle,10003,"Haslet, Joseph",HJ0024,NA,NA,1
-de.uscongress.1822,New Castle,DE,des_newcastle,10003,"MacLane, Allen",MA0235,NA,NA,2
 de.uscongress.1822,New Castle,DE,des_newcastle,10003,"MacLane, Allen",MA0235,NA,NA,2
 de.uscongress.1822,New Castle,DE,des_newcastle,10003,"MacLane, Louis",ML0002,Federalist,A01,1023
-de.uscongress.1822,New Castle,DE,des_newcastle,10003,"MacLane, Louis",ML0002,Federalist,A01,1023
-de.uscongress.1822,New Castle,DE,des_newcastle,10003,"Naudain, Arnold S.",NA0005,Republican,A03,1393
 de.uscongress.1822,New Castle,DE,des_newcastle,10003,"Naudain, Arnold S.",NA0005,Republican,A03,1393
 de.uscongress.1822,New Castle,DE,des_newcastle,10003,"Rodney, Daniel",RD0004,Federalist,A01,1
-de.uscongress.1822,New Castle,DE,des_newcastle,10003,"Rodney, Daniel",RD0004,Federalist,A01,1
-de.uscongress.1822,New Castle,DE,des_newcastle,10003,"Rodgers, James",RJ0009,NA,NA,1
 de.uscongress.1822,New Castle,DE,des_newcastle,10003,"Rodgers, James",RJ0009,NA,NA,1
 de.uscongress.1822,New Castle,DE,des_newcastle,10003,"Starr, Isaac H.",SI0020,NA,NA,1
-de.uscongress.1822,New Castle,DE,des_newcastle,10003,"Starr, Isaac H.",SI0020,NA,NA,1
-de.uscongress.1822,New Castle,DE,des_newcastle,10003,"Torbert, John",TJ0492,NA,NA,2
 de.uscongress.1822,New Castle,DE,des_newcastle,10003,"Torbert, John",TJ0492,NA,NA,2
 de.uscongress.1822,Sussex,DE,des_sussex,10005,"Baly, Henry",BH0194,NA,NA,0
 de.uscongress.1822,Sussex,DE,des_sussex,10005,"Clark, John",CJ0108,NA,NA,0
@@ -599,12 +358,8 @@ de.uscongress.1822,Sussex,DE,des_sussex,10005,"Rodgers, James",RJ0009,NA,NA,0
 de.uscongress.1822,Sussex,DE,des_sussex,10005,"Starr, Isaac H.",SI0020,NA,NA,0
 de.uscongress.1822,Sussex,DE,des_sussex,10005,"Torbert, John",TJ0492,NA,NA,0
 de.uscongress.1824,Kent,DE,des_kent,10001,"MacLane, Louis",ML0002,Federalist,A01,1107
-de.uscongress.1824,Kent,DE,des_kent,10001,"MacLane, Louis",ML0002,Federalist,A01,1107
-de.uscongress.1824,Kent,DE,des_kent,10001,"Naudain, Arnold S.",NA0005,Republican,A03,1194
 de.uscongress.1824,Kent,DE,des_kent,10001,"Naudain, Arnold S.",NA0005,Republican,A03,1194
 de.uscongress.1824,New Castle,DE,des_newcastle,10003,"MacLane, Louis",ML0002,Federalist,A01,844
-de.uscongress.1824,New Castle,DE,des_newcastle,10003,"MacLane, Louis",ML0002,Federalist,A01,844
-de.uscongress.1824,New Castle,DE,des_newcastle,10003,"Naudain, Arnold S.",NA0005,Republican,A03,1269
 de.uscongress.1824,New Castle,DE,des_newcastle,10003,"Naudain, Arnold S.",NA0005,Republican,A03,1269
 de.uscongress.1824,Sussex,DE,des_sussex,10005,"MacLane, Louis",ML0002,Federalist,A01,1436
 de.uscongress.1824,Sussex,DE,des_sussex,10005,"Naudain, Arnold S.",NA0005,Republican,A03,700

@@ -1,30 +1,16 @@
 election_id,county,state,county_ahcb,county_fips,candidate,candidate_id,party,party_id,vote
 ri.uscongress.1792,Newport,RI,ris_newport,44005,"Bourne, Benjamin",BB0013,Federalist,A01,0
-ri.uscongress.1792,Newport,RI,ris_newport,44005,"Bourne, Benjamin",BB0013,Federalist,A01,0
-ri.uscongress.1792,Newport,RI,ris_newport,44005,"Bourne, Benjamin",BB0013,Federalist,A01,0
 ri.uscongress.1792,Newport,RI,ris_newport,44005,"Malbone, Francis",MF0037,Federalist,A01,0
-ri.uscongress.1792,Newport,RI,ris_newport,44005,"Malbone, Francis",MF0037,Federalist,A01,0
-ri.uscongress.1792,Newport,RI,ris_newport,44005,"Malbone, Francis",MF0037,Federalist,A01,0
-ri.uscongress.1792,Newport,RI,ris_newport,44005,"Mumford, Paul",MP0122,NA,NA,0
-ri.uscongress.1792,Newport,RI,ris_newport,44005,"Mumford, Paul",MP0122,NA,NA,0
 ri.uscongress.1792,Newport,RI,ris_newport,44005,"Mumford, Paul",MP0122,NA,NA,0
 ri.uscongress.firstcongressmen.1796,Bristol,RI,ris_bristol,44001,"Bourne, Benjamin",BB0013,Federalist,A01,251
 ri.uscongress.firstcongressmen.1796,Bristol,RI,ris_bristol,44001,NA,Other candidates,NA,NA,0
 ri.uscongress.firstcongressmen.1796,Kent,RI,ris_kent,44003,"Bourne, Benjamin",BB0013,Federalist,A01,611
 ri.uscongress.firstcongressmen.1796,Kent,RI,ris_kent,44003,NA,Other candidates,NA,NA,0
 ri.uscongress.firstcongressmen.1796,Newport,RI,ris_newport,44005,"Bourne, Benjamin",BB0013,Federalist,A01,789
-ri.uscongress.firstcongressmen.1796,Newport,RI,ris_newport,44005,"Bourne, Benjamin",BB0013,Federalist,A01,789
-ri.uscongress.firstcongressmen.1796,Newport,RI,ris_newport,44005,"Bourne, Benjamin",BB0013,Federalist,A01,789
-ri.uscongress.firstcongressmen.1796,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,1
-ri.uscongress.firstcongressmen.1796,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,1
 ri.uscongress.firstcongressmen.1796,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,1
 ri.uscongress.firstcongressmen.1796,Providence,RI,ris_providence,44007,"Bourne, Benjamin",BB0013,Federalist,A01,1322
-ri.uscongress.firstcongressmen.1796,Providence,RI,ris_providence,44007,"Bourne, Benjamin",BB0013,Federalist,A01,1322
-ri.uscongress.firstcongressmen.1796,Providence,RI,ris_providence,44007,NA,Other candidates,NA,NA,0
 ri.uscongress.firstcongressmen.1796,Providence,RI,ris_providence,44007,NA,Other candidates,NA,NA,0
 ri.uscongress.firstcongressmen.1796,Washington,RI,ris_washington,44009,"Bourne, Benjamin",BB0013,Federalist,A01,734
-ri.uscongress.firstcongressmen.1796,Washington,RI,ris_washington,44009,"Bourne, Benjamin",BB0013,Federalist,A01,734
-ri.uscongress.firstcongressmen.1796,Washington,RI,ris_washington,44009,NA,Other candidates,NA,NA,2
 ri.uscongress.firstcongressmen.1796,Washington,RI,ris_washington,44009,NA,Other candidates,NA,NA,2
 ri.uscongress.secondcongressmen.1796,Bristol,RI,ris_bristol,44001,"Champlin, Christopher G.",CC0006,Federalist,A01,252
 ri.uscongress.secondcongressmen.1796,Bristol,RI,ris_bristol,44001,"Greene, William",GW0161,Federalist,A01,1
@@ -33,43 +19,23 @@ ri.uscongress.secondcongressmen.1796,Kent,RI,ris_kent,44003,"Champlin, Christoph
 ri.uscongress.secondcongressmen.1796,Kent,RI,ris_kent,44003,"Greene, William",GW0161,Federalist,A01,577
 ri.uscongress.secondcongressmen.1796,Kent,RI,ris_kent,44003,NA,Other candidates,NA,NA,0
 ri.uscongress.secondcongressmen.1796,Newport,RI,ris_newport,44005,"Champlin, Christopher G.",CC0006,Federalist,A01,759
-ri.uscongress.secondcongressmen.1796,Newport,RI,ris_newport,44005,"Champlin, Christopher G.",CC0006,Federalist,A01,759
-ri.uscongress.secondcongressmen.1796,Newport,RI,ris_newport,44005,"Champlin, Christopher G.",CC0006,Federalist,A01,759
 ri.uscongress.secondcongressmen.1796,Newport,RI,ris_newport,44005,"Greene, William",GW0161,Federalist,A01,48
-ri.uscongress.secondcongressmen.1796,Newport,RI,ris_newport,44005,"Greene, William",GW0161,Federalist,A01,48
-ri.uscongress.secondcongressmen.1796,Newport,RI,ris_newport,44005,"Greene, William",GW0161,Federalist,A01,48
-ri.uscongress.secondcongressmen.1796,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,0
-ri.uscongress.secondcongressmen.1796,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,0
 ri.uscongress.secondcongressmen.1796,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,0
 ri.uscongress.secondcongressmen.1796,Providence,RI,ris_providence,44007,"Champlin, Christopher G.",CC0006,Federalist,A01,331
-ri.uscongress.secondcongressmen.1796,Providence,RI,ris_providence,44007,"Champlin, Christopher G.",CC0006,Federalist,A01,331
-ri.uscongress.secondcongressmen.1796,Providence,RI,ris_providence,44007,"Greene, William",GW0161,Federalist,A01,980
 ri.uscongress.secondcongressmen.1796,Providence,RI,ris_providence,44007,"Greene, William",GW0161,Federalist,A01,980
 ri.uscongress.secondcongressmen.1796,Providence,RI,ris_providence,44007,NA,Other candidates,NA,NA,7
-ri.uscongress.secondcongressmen.1796,Providence,RI,ris_providence,44007,NA,Other candidates,NA,NA,7
-ri.uscongress.secondcongressmen.1796,Washington,RI,ris_washington,44009,"Champlin, Christopher G.",CC0006,Federalist,A01,540
 ri.uscongress.secondcongressmen.1796,Washington,RI,ris_washington,44009,"Champlin, Christopher G.",CC0006,Federalist,A01,540
 ri.uscongress.secondcongressmen.1796,Washington,RI,ris_washington,44009,"Greene, William",GW0161,Federalist,A01,195
-ri.uscongress.secondcongressmen.1796,Washington,RI,ris_washington,44009,"Greene, William",GW0161,Federalist,A01,195
-ri.uscongress.secondcongressmen.1796,Washington,RI,ris_washington,44009,NA,Other candidates,NA,NA,0
 ri.uscongress.secondcongressmen.1796,Washington,RI,ris_washington,44009,NA,Other candidates,NA,NA,0
 ri.uscongress.2ndrep.1798,Bristol,RI,ris_bristol,44001,"Brown, John",BJ1311,Federalist,A01,302
 ri.uscongress.2ndrep.1798,Bristol,RI,ris_bristol,44001,"Tillinghast, Thomas",TT0119,Republican,A03,1
 ri.uscongress.2ndrep.1798,Kent,RI,ris_kent,44003,"Brown, John",BJ1311,Federalist,A01,304
 ri.uscongress.2ndrep.1798,Kent,RI,ris_kent,44003,"Tillinghast, Thomas",TT0119,Republican,A03,391
 ri.uscongress.2ndrep.1798,Newport,RI,ris_newport,44005,"Brown, John",BJ1311,Federalist,A01,427
-ri.uscongress.2ndrep.1798,Newport,RI,ris_newport,44005,"Brown, John",BJ1311,Federalist,A01,427
-ri.uscongress.2ndrep.1798,Newport,RI,ris_newport,44005,"Brown, John",BJ1311,Federalist,A01,427
-ri.uscongress.2ndrep.1798,Newport,RI,ris_newport,44005,"Tillinghast, Thomas",TT0119,Republican,A03,289
-ri.uscongress.2ndrep.1798,Newport,RI,ris_newport,44005,"Tillinghast, Thomas",TT0119,Republican,A03,289
 ri.uscongress.2ndrep.1798,Newport,RI,ris_newport,44005,"Tillinghast, Thomas",TT0119,Republican,A03,289
 ri.uscongress.2ndrep.1798,Providence,RI,ris_providence,44007,"Brown, John",BJ1311,Federalist,A01,1540
-ri.uscongress.2ndrep.1798,Providence,RI,ris_providence,44007,"Brown, John",BJ1311,Federalist,A01,1540
-ri.uscongress.2ndrep.1798,Providence,RI,ris_providence,44007,"Tillinghast, Thomas",TT0119,Republican,A03,314
 ri.uscongress.2ndrep.1798,Providence,RI,ris_providence,44007,"Tillinghast, Thomas",TT0119,Republican,A03,314
 ri.uscongress.2ndrep.1798,Washington,RI,ris_washington,44009,"Brown, John",BJ1311,Federalist,A01,107
-ri.uscongress.2ndrep.1798,Washington,RI,ris_washington,44009,"Brown, John",BJ1311,Federalist,A01,107
-ri.uscongress.2ndrep.1798,Washington,RI,ris_washington,44009,"Tillinghast, Thomas",TT0119,Republican,A03,420
 ri.uscongress.2ndrep.1798,Washington,RI,ris_washington,44009,"Tillinghast, Thomas",TT0119,Republican,A03,420
 ri.uscongress.1800,Bristol,RI,ris_bristol,44001,"Brown, John",BJ1311,Federalist,A01,0
 ri.uscongress.1800,Bristol,RI,ris_bristol,44001,"Helme, James",HJ0032,NA,NA,0
@@ -92,74 +58,34 @@ ri.uscongress.1800,Kent,RI,ris_kent,44003,"Rice, Joseph",RJ0587,NA,NA,0
 ri.uscongress.1800,Kent,RI,ris_kent,44003,"Stanton,, Joseph",SJ1416,Republican,A03,73
 ri.uscongress.1800,Kent,RI,ris_kent,44003,"Tillinghast, Thomas",TT0119,Republican,A03,334
 ri.uscongress.1800,Newport,RI,ris_newport,44005,"Brown, John",BJ1311,Federalist,A01,0
-ri.uscongress.1800,Newport,RI,ris_newport,44005,"Brown, John",BJ1311,Federalist,A01,0
-ri.uscongress.1800,Newport,RI,ris_newport,44005,"Brown, John",BJ1311,Federalist,A01,0
-ri.uscongress.1800,Newport,RI,ris_newport,44005,"Helme, James",HJ0032,NA,NA,0
-ri.uscongress.1800,Newport,RI,ris_newport,44005,"Helme, James",HJ0032,NA,NA,0
 ri.uscongress.1800,Newport,RI,ris_newport,44005,"Helme, James",HJ0032,NA,NA,0
 ri.uscongress.1800,Newport,RI,ris_newport,44005,"Jackson, Richard, Jr.",JR0052,Federalist,A01,16
-ri.uscongress.1800,Newport,RI,ris_newport,44005,"Jackson, Richard, Jr.",JR0052,Federalist,A01,16
-ri.uscongress.1800,Newport,RI,ris_newport,44005,"Jackson, Richard, Jr.",JR0052,Federalist,A01,16
-ri.uscongress.1800,Newport,RI,ris_newport,44005,"Manton, Edward",ME0118,NA,NA,0
-ri.uscongress.1800,Newport,RI,ris_newport,44005,"Manton, Edward",ME0118,NA,NA,0
 ri.uscongress.1800,Newport,RI,ris_newport,44005,"Manton, Edward",ME0118,NA,NA,0
 ri.uscongress.1800,Newport,RI,ris_newport,44005,"Mumford, Paul",MP0122,NA,NA,0
-ri.uscongress.1800,Newport,RI,ris_newport,44005,"Mumford, Paul",MP0122,NA,NA,0
-ri.uscongress.1800,Newport,RI,ris_newport,44005,"Mumford, Paul",MP0122,NA,NA,0
-ri.uscongress.1800,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,16
-ri.uscongress.1800,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,16
 ri.uscongress.1800,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,16
 ri.uscongress.1800,Newport,RI,ris_newport,44005,"Robbins, Asher",RA0121,Federalist,A01,351
-ri.uscongress.1800,Newport,RI,ris_newport,44005,"Robbins, Asher",RA0121,Federalist,A01,351
-ri.uscongress.1800,Newport,RI,ris_newport,44005,"Robbins, Asher",RA0121,Federalist,A01,351
-ri.uscongress.1800,Newport,RI,ris_newport,44005,"Rice, Joseph",RJ0587,NA,NA,0
-ri.uscongress.1800,Newport,RI,ris_newport,44005,"Rice, Joseph",RJ0587,NA,NA,0
 ri.uscongress.1800,Newport,RI,ris_newport,44005,"Rice, Joseph",RJ0587,NA,NA,0
 ri.uscongress.1800,Newport,RI,ris_newport,44005,"Stanton,, Joseph",SJ1416,Republican,A03,437
-ri.uscongress.1800,Newport,RI,ris_newport,44005,"Stanton,, Joseph",SJ1416,Republican,A03,437
-ri.uscongress.1800,Newport,RI,ris_newport,44005,"Stanton,, Joseph",SJ1416,Republican,A03,437
-ri.uscongress.1800,Newport,RI,ris_newport,44005,"Tillinghast, Thomas",TT0119,Republican,A03,382
-ri.uscongress.1800,Newport,RI,ris_newport,44005,"Tillinghast, Thomas",TT0119,Republican,A03,382
 ri.uscongress.1800,Newport,RI,ris_newport,44005,"Tillinghast, Thomas",TT0119,Republican,A03,382
 ri.uscongress.1800,Providence,RI,ris_providence,44007,"Brown, John",BJ1311,Federalist,A01,0
-ri.uscongress.1800,Providence,RI,ris_providence,44007,"Brown, John",BJ1311,Federalist,A01,0
-ri.uscongress.1800,Providence,RI,ris_providence,44007,"Helme, James",HJ0032,NA,NA,0
 ri.uscongress.1800,Providence,RI,ris_providence,44007,"Helme, James",HJ0032,NA,NA,0
 ri.uscongress.1800,Providence,RI,ris_providence,44007,"Jackson, Richard, Jr.",JR0052,Federalist,A01,856
-ri.uscongress.1800,Providence,RI,ris_providence,44007,"Jackson, Richard, Jr.",JR0052,Federalist,A01,856
-ri.uscongress.1800,Providence,RI,ris_providence,44007,"Manton, Edward",ME0118,NA,NA,0
 ri.uscongress.1800,Providence,RI,ris_providence,44007,"Manton, Edward",ME0118,NA,NA,0
 ri.uscongress.1800,Providence,RI,ris_providence,44007,"Mumford, Paul",MP0122,NA,NA,0
-ri.uscongress.1800,Providence,RI,ris_providence,44007,"Mumford, Paul",MP0122,NA,NA,0
-ri.uscongress.1800,Providence,RI,ris_providence,44007,NA,Other candidates,NA,NA,2
 ri.uscongress.1800,Providence,RI,ris_providence,44007,NA,Other candidates,NA,NA,2
 ri.uscongress.1800,Providence,RI,ris_providence,44007,"Robbins, Asher",RA0121,Federalist,A01,66
-ri.uscongress.1800,Providence,RI,ris_providence,44007,"Robbins, Asher",RA0121,Federalist,A01,66
-ri.uscongress.1800,Providence,RI,ris_providence,44007,"Rice, Joseph",RJ0587,NA,NA,0
 ri.uscongress.1800,Providence,RI,ris_providence,44007,"Rice, Joseph",RJ0587,NA,NA,0
 ri.uscongress.1800,Providence,RI,ris_providence,44007,"Stanton,, Joseph",SJ1416,Republican,A03,383
-ri.uscongress.1800,Providence,RI,ris_providence,44007,"Stanton,, Joseph",SJ1416,Republican,A03,383
-ri.uscongress.1800,Providence,RI,ris_providence,44007,"Tillinghast, Thomas",TT0119,Republican,A03,1093
 ri.uscongress.1800,Providence,RI,ris_providence,44007,"Tillinghast, Thomas",TT0119,Republican,A03,1093
 ri.uscongress.1800,Washington,RI,ris_washington,44009,"Brown, John",BJ1311,Federalist,A01,0
-ri.uscongress.1800,Washington,RI,ris_washington,44009,"Brown, John",BJ1311,Federalist,A01,0
-ri.uscongress.1800,Washington,RI,ris_washington,44009,"Helme, James",HJ0032,NA,NA,0
 ri.uscongress.1800,Washington,RI,ris_washington,44009,"Helme, James",HJ0032,NA,NA,0
 ri.uscongress.1800,Washington,RI,ris_washington,44009,"Jackson, Richard, Jr.",JR0052,Federalist,A01,64
-ri.uscongress.1800,Washington,RI,ris_washington,44009,"Jackson, Richard, Jr.",JR0052,Federalist,A01,64
-ri.uscongress.1800,Washington,RI,ris_washington,44009,"Manton, Edward",ME0118,NA,NA,0
 ri.uscongress.1800,Washington,RI,ris_washington,44009,"Manton, Edward",ME0118,NA,NA,0
 ri.uscongress.1800,Washington,RI,ris_washington,44009,"Mumford, Paul",MP0122,NA,NA,0
-ri.uscongress.1800,Washington,RI,ris_washington,44009,"Mumford, Paul",MP0122,NA,NA,0
-ri.uscongress.1800,Washington,RI,ris_washington,44009,NA,Other candidates,NA,NA,0
 ri.uscongress.1800,Washington,RI,ris_washington,44009,NA,Other candidates,NA,NA,0
 ri.uscongress.1800,Washington,RI,ris_washington,44009,"Robbins, Asher",RA0121,Federalist,A01,164
-ri.uscongress.1800,Washington,RI,ris_washington,44009,"Robbins, Asher",RA0121,Federalist,A01,164
-ri.uscongress.1800,Washington,RI,ris_washington,44009,"Rice, Joseph",RJ0587,NA,NA,0
 ri.uscongress.1800,Washington,RI,ris_washington,44009,"Rice, Joseph",RJ0587,NA,NA,0
 ri.uscongress.1800,Washington,RI,ris_washington,44009,"Stanton,, Joseph",SJ1416,Republican,A03,488
-ri.uscongress.1800,Washington,RI,ris_washington,44009,"Stanton,, Joseph",SJ1416,Republican,A03,488
-ri.uscongress.1800,Washington,RI,ris_washington,44009,"Tillinghast, Thomas",TT0119,Republican,A03,549
 ri.uscongress.1800,Washington,RI,ris_washington,44009,"Tillinghast, Thomas",TT0119,Republican,A03,549
 ri.uscongress.1802,Bristol,RI,ris_bristol,44001,"Knight, Nehemiah",KN0024,Republican,A03,166
 ri.uscongress.1802,Bristol,RI,ris_bristol,44001,NA,Other candidates,NA,NA,0
@@ -172,39 +98,19 @@ ri.uscongress.1802,Kent,RI,ris_kent,44003,"Potter, Elisha R.",PE0102,Federalist,
 ri.uscongress.1802,Kent,RI,ris_kent,44003,"Stanton, Joseph",SJ1416,Republican,A03,380
 ri.uscongress.1802,Kent,RI,ris_kent,44003,"Tillinghast, Thomas",TT0119,Federalist,A01,314
 ri.uscongress.1802,Newport,RI,ris_newport,44005,"Knight, Nehemiah",KN0024,Republican,A03,624
-ri.uscongress.1802,Newport,RI,ris_newport,44005,"Knight, Nehemiah",KN0024,Republican,A03,624
-ri.uscongress.1802,Newport,RI,ris_newport,44005,"Knight, Nehemiah",KN0024,Republican,A03,624
-ri.uscongress.1802,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,1
-ri.uscongress.1802,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,1
 ri.uscongress.1802,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,1
 ri.uscongress.1802,Newport,RI,ris_newport,44005,"Potter, Elisha R.",PE0102,Federalist,A01,359
-ri.uscongress.1802,Newport,RI,ris_newport,44005,"Potter, Elisha R.",PE0102,Federalist,A01,359
-ri.uscongress.1802,Newport,RI,ris_newport,44005,"Potter, Elisha R.",PE0102,Federalist,A01,359
 ri.uscongress.1802,Newport,RI,ris_newport,44005,"Stanton, Joseph",SJ1416,Republican,A03,624
-ri.uscongress.1802,Newport,RI,ris_newport,44005,"Stanton, Joseph",SJ1416,Republican,A03,624
-ri.uscongress.1802,Newport,RI,ris_newport,44005,"Stanton, Joseph",SJ1416,Republican,A03,624
-ri.uscongress.1802,Newport,RI,ris_newport,44005,"Tillinghast, Thomas",TT0119,Federalist,A01,366
-ri.uscongress.1802,Newport,RI,ris_newport,44005,"Tillinghast, Thomas",TT0119,Federalist,A01,366
 ri.uscongress.1802,Newport,RI,ris_newport,44005,"Tillinghast, Thomas",TT0119,Federalist,A01,366
 ri.uscongress.1802,Providence,RI,ris_providence,44007,"Knight, Nehemiah",KN0024,Republican,A03,917
-ri.uscongress.1802,Providence,RI,ris_providence,44007,"Knight, Nehemiah",KN0024,Republican,A03,917
-ri.uscongress.1802,Providence,RI,ris_providence,44007,NA,Other candidates,NA,NA,9
 ri.uscongress.1802,Providence,RI,ris_providence,44007,NA,Other candidates,NA,NA,9
 ri.uscongress.1802,Providence,RI,ris_providence,44007,"Potter, Elisha R.",PE0102,Federalist,A01,579
-ri.uscongress.1802,Providence,RI,ris_providence,44007,"Potter, Elisha R.",PE0102,Federalist,A01,579
-ri.uscongress.1802,Providence,RI,ris_providence,44007,"Stanton, Joseph",SJ1416,Republican,A03,915
 ri.uscongress.1802,Providence,RI,ris_providence,44007,"Stanton, Joseph",SJ1416,Republican,A03,915
 ri.uscongress.1802,Providence,RI,ris_providence,44007,"Tillinghast, Thomas",TT0119,Federalist,A01,579
-ri.uscongress.1802,Providence,RI,ris_providence,44007,"Tillinghast, Thomas",TT0119,Federalist,A01,579
-ri.uscongress.1802,Washington,RI,ris_washington,44009,"Knight, Nehemiah",KN0024,Republican,A03,560
 ri.uscongress.1802,Washington,RI,ris_washington,44009,"Knight, Nehemiah",KN0024,Republican,A03,560
 ri.uscongress.1802,Washington,RI,ris_washington,44009,NA,Other candidates,NA,NA,3
-ri.uscongress.1802,Washington,RI,ris_washington,44009,NA,Other candidates,NA,NA,3
-ri.uscongress.1802,Washington,RI,ris_washington,44009,"Potter, Elisha R.",PE0102,Federalist,A01,324
 ri.uscongress.1802,Washington,RI,ris_washington,44009,"Potter, Elisha R.",PE0102,Federalist,A01,324
 ri.uscongress.1802,Washington,RI,ris_washington,44009,"Stanton, Joseph",SJ1416,Republican,A03,573
-ri.uscongress.1802,Washington,RI,ris_washington,44009,"Stanton, Joseph",SJ1416,Republican,A03,573
-ri.uscongress.1802,Washington,RI,ris_washington,44009,"Tillinghast, Thomas",TT0119,Federalist,A01,323
 ri.uscongress.1802,Washington,RI,ris_washington,44009,"Tillinghast, Thomas",TT0119,Federalist,A01,323
 ri.uscongress.1804,Bristol,RI,ris_bristol,44001,"Knight, Nehemiah",KN0024,Republican,A03,32
 ri.uscongress.1804,Bristol,RI,ris_bristol,44001,NA,Other candidates,NA,NA,0
@@ -213,25 +119,13 @@ ri.uscongress.1804,Kent,RI,ris_kent,44003,"Knight, Nehemiah",KN0024,Republican,A
 ri.uscongress.1804,Kent,RI,ris_kent,44003,NA,Other candidates,NA,NA,1
 ri.uscongress.1804,Kent,RI,ris_kent,44003,"Stanton, Joseph",SJ1416,Republican,A03,169
 ri.uscongress.1804,Newport,RI,ris_newport,44005,"Knight, Nehemiah",KN0024,Republican,A03,461
-ri.uscongress.1804,Newport,RI,ris_newport,44005,"Knight, Nehemiah",KN0024,Republican,A03,461
-ri.uscongress.1804,Newport,RI,ris_newport,44005,"Knight, Nehemiah",KN0024,Republican,A03,461
 ri.uscongress.1804,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,11
-ri.uscongress.1804,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,11
-ri.uscongress.1804,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,11
-ri.uscongress.1804,Newport,RI,ris_newport,44005,"Stanton, Joseph",SJ1416,Republican,A03,454
-ri.uscongress.1804,Newport,RI,ris_newport,44005,"Stanton, Joseph",SJ1416,Republican,A03,454
 ri.uscongress.1804,Newport,RI,ris_newport,44005,"Stanton, Joseph",SJ1416,Republican,A03,454
 ri.uscongress.1804,Providence,RI,ris_providence,44007,"Knight, Nehemiah",KN0024,Republican,A03,616
-ri.uscongress.1804,Providence,RI,ris_providence,44007,"Knight, Nehemiah",KN0024,Republican,A03,616
-ri.uscongress.1804,Providence,RI,ris_providence,44007,NA,Other candidates,NA,NA,3
 ri.uscongress.1804,Providence,RI,ris_providence,44007,NA,Other candidates,NA,NA,3
 ri.uscongress.1804,Providence,RI,ris_providence,44007,"Stanton, Joseph",SJ1416,Republican,A03,613
-ri.uscongress.1804,Providence,RI,ris_providence,44007,"Stanton, Joseph",SJ1416,Republican,A03,613
-ri.uscongress.1804,Washington,RI,ris_washington,44009,"Knight, Nehemiah",KN0024,Republican,A03,341
 ri.uscongress.1804,Washington,RI,ris_washington,44009,"Knight, Nehemiah",KN0024,Republican,A03,341
 ri.uscongress.1804,Washington,RI,ris_washington,44009,NA,Other candidates,NA,NA,3
-ri.uscongress.1804,Washington,RI,ris_washington,44009,NA,Other candidates,NA,NA,3
-ri.uscongress.1804,Washington,RI,ris_washington,44009,"Stanton, Joseph",SJ1416,Republican,A03,338
 ri.uscongress.1804,Washington,RI,ris_washington,44009,"Stanton, Joseph",SJ1416,Republican,A03,338
 ri.uscongress.1806,Bristol,RI,ris_bristol,44001,"Arnold, Thomas",AT0043,Federalist,A01,77
 ri.uscongress.1806,Bristol,RI,ris_bristol,44001,"Hazard, Thomas B.",HT0204,Quid,A04,0
@@ -246,46 +140,22 @@ ri.uscongress.1806,Kent,RI,ris_kent,44003,"Knight, Nehemiah",KN0024,Republican,A
 ri.uscongress.1806,Kent,RI,ris_kent,44003,NA,Other candidates,NA,NA,0
 ri.uscongress.1806,Kent,RI,ris_kent,44003,"Wilbour, Isaac",WI0068,Republican,A03,178
 ri.uscongress.1806,Newport,RI,ris_newport,44005,"Arnold, Thomas",AT0043,Federalist,A01,308
-ri.uscongress.1806,Newport,RI,ris_newport,44005,"Arnold, Thomas",AT0043,Federalist,A01,308
-ri.uscongress.1806,Newport,RI,ris_newport,44005,"Arnold, Thomas",AT0043,Federalist,A01,308
-ri.uscongress.1806,Newport,RI,ris_newport,44005,"Hazard, Thomas B.",HT0204,Quid,A04,23
-ri.uscongress.1806,Newport,RI,ris_newport,44005,"Hazard, Thomas B.",HT0204,Quid,A04,23
 ri.uscongress.1806,Newport,RI,ris_newport,44005,"Hazard, Thomas B.",HT0204,Quid,A04,23
 ri.uscongress.1806,Newport,RI,ris_newport,44005,"Hunter, William",HW0370,Federalist,A01,338
-ri.uscongress.1806,Newport,RI,ris_newport,44005,"Hunter, William",HW0370,Federalist,A01,338
-ri.uscongress.1806,Newport,RI,ris_newport,44005,"Hunter, William",HW0370,Federalist,A01,338
-ri.uscongress.1806,Newport,RI,ris_newport,44005,"Knight, Nehemiah",KN0024,Republican,A03,321
-ri.uscongress.1806,Newport,RI,ris_newport,44005,"Knight, Nehemiah",KN0024,Republican,A03,321
 ri.uscongress.1806,Newport,RI,ris_newport,44005,"Knight, Nehemiah",KN0024,Republican,A03,321
 ri.uscongress.1806,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,0
-ri.uscongress.1806,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,0
-ri.uscongress.1806,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,0
-ri.uscongress.1806,Newport,RI,ris_newport,44005,"Wilbour, Isaac",WI0068,Republican,A03,320
-ri.uscongress.1806,Newport,RI,ris_newport,44005,"Wilbour, Isaac",WI0068,Republican,A03,320
 ri.uscongress.1806,Newport,RI,ris_newport,44005,"Wilbour, Isaac",WI0068,Republican,A03,320
 ri.uscongress.1806,Providence,RI,ris_providence,44007,"Arnold, Thomas",AT0043,Federalist,A01,617
-ri.uscongress.1806,Providence,RI,ris_providence,44007,"Arnold, Thomas",AT0043,Federalist,A01,617
-ri.uscongress.1806,Providence,RI,ris_providence,44007,"Hazard, Thomas B.",HT0204,Quid,A04,9
 ri.uscongress.1806,Providence,RI,ris_providence,44007,"Hazard, Thomas B.",HT0204,Quid,A04,9
 ri.uscongress.1806,Providence,RI,ris_providence,44007,"Hunter, William",HW0370,Federalist,A01,588
-ri.uscongress.1806,Providence,RI,ris_providence,44007,"Hunter, William",HW0370,Federalist,A01,588
-ri.uscongress.1806,Providence,RI,ris_providence,44007,"Knight, Nehemiah",KN0024,Republican,A03,668
 ri.uscongress.1806,Providence,RI,ris_providence,44007,"Knight, Nehemiah",KN0024,Republican,A03,668
 ri.uscongress.1806,Providence,RI,ris_providence,44007,NA,Other candidates,NA,NA,0
-ri.uscongress.1806,Providence,RI,ris_providence,44007,NA,Other candidates,NA,NA,0
-ri.uscongress.1806,Providence,RI,ris_providence,44007,"Wilbour, Isaac",WI0068,Republican,A03,671
 ri.uscongress.1806,Providence,RI,ris_providence,44007,"Wilbour, Isaac",WI0068,Republican,A03,671
 ri.uscongress.1806,Washington,RI,ris_washington,44009,"Arnold, Thomas",AT0043,Federalist,A01,123
-ri.uscongress.1806,Washington,RI,ris_washington,44009,"Arnold, Thomas",AT0043,Federalist,A01,123
-ri.uscongress.1806,Washington,RI,ris_washington,44009,"Hazard, Thomas B.",HT0204,Quid,A04,234
 ri.uscongress.1806,Washington,RI,ris_washington,44009,"Hazard, Thomas B.",HT0204,Quid,A04,234
 ri.uscongress.1806,Washington,RI,ris_washington,44009,"Hunter, William",HW0370,Federalist,A01,144
-ri.uscongress.1806,Washington,RI,ris_washington,44009,"Hunter, William",HW0370,Federalist,A01,144
-ri.uscongress.1806,Washington,RI,ris_washington,44009,"Knight, Nehemiah",KN0024,Republican,A03,323
 ri.uscongress.1806,Washington,RI,ris_washington,44009,"Knight, Nehemiah",KN0024,Republican,A03,323
 ri.uscongress.1806,Washington,RI,ris_washington,44009,NA,Other candidates,NA,NA,0
-ri.uscongress.1806,Washington,RI,ris_washington,44009,NA,Other candidates,NA,NA,0
-ri.uscongress.1806,Washington,RI,ris_washington,44009,"Wilbour, Isaac",WI0068,Republican,A03,162
 ri.uscongress.1806,Washington,RI,ris_washington,44009,"Wilbour, Isaac",WI0068,Republican,A03,162
 ri.uscongress.1808,Bristol,RI,ris_bristol,44001,"Jackson, Richard, Jr.",JR0052,Federalist,A01,174
 ri.uscongress.1808,Bristol,RI,ris_bristol,44001,"Potter, Elisha R.",PE0102,Federalist,A01,173
@@ -296,32 +166,16 @@ ri.uscongress.1808,Kent,RI,ris_kent,44003,"Potter, Elisha R.",PE0102,Federalist,
 ri.uscongress.1808,Kent,RI,ris_kent,44003,"Russell, Jonathan",RJ0591,Republican,A03,383
 ri.uscongress.1808,Kent,RI,ris_kent,44003,"Wilbour, Isaac",WI0068,Republican,A03,386
 ri.uscongress.1808,Newport,RI,ris_newport,44005,"Jackson, Richard, Jr.",JR0052,Federalist,A01,636
-ri.uscongress.1808,Newport,RI,ris_newport,44005,"Jackson, Richard, Jr.",JR0052,Federalist,A01,636
-ri.uscongress.1808,Newport,RI,ris_newport,44005,"Jackson, Richard, Jr.",JR0052,Federalist,A01,636
-ri.uscongress.1808,Newport,RI,ris_newport,44005,"Potter, Elisha R.",PE0102,Federalist,A01,634
-ri.uscongress.1808,Newport,RI,ris_newport,44005,"Potter, Elisha R.",PE0102,Federalist,A01,634
 ri.uscongress.1808,Newport,RI,ris_newport,44005,"Potter, Elisha R.",PE0102,Federalist,A01,634
 ri.uscongress.1808,Newport,RI,ris_newport,44005,"Russell, Jonathan",RJ0591,Republican,A03,598
-ri.uscongress.1808,Newport,RI,ris_newport,44005,"Russell, Jonathan",RJ0591,Republican,A03,598
-ri.uscongress.1808,Newport,RI,ris_newport,44005,"Russell, Jonathan",RJ0591,Republican,A03,598
-ri.uscongress.1808,Newport,RI,ris_newport,44005,"Wilbour, Isaac",WI0068,Republican,A03,603
-ri.uscongress.1808,Newport,RI,ris_newport,44005,"Wilbour, Isaac",WI0068,Republican,A03,603
 ri.uscongress.1808,Newport,RI,ris_newport,44005,"Wilbour, Isaac",WI0068,Republican,A03,603
 ri.uscongress.1808,Providence,RI,ris_providence,44007,"Jackson, Richard, Jr.",JR0052,Federalist,A01,1269
-ri.uscongress.1808,Providence,RI,ris_providence,44007,"Jackson, Richard, Jr.",JR0052,Federalist,A01,1269
-ri.uscongress.1808,Providence,RI,ris_providence,44007,"Potter, Elisha R.",PE0102,Federalist,A01,1244
 ri.uscongress.1808,Providence,RI,ris_providence,44007,"Potter, Elisha R.",PE0102,Federalist,A01,1244
 ri.uscongress.1808,Providence,RI,ris_providence,44007,"Russell, Jonathan",RJ0591,Republican,A03,1169
-ri.uscongress.1808,Providence,RI,ris_providence,44007,"Russell, Jonathan",RJ0591,Republican,A03,1169
-ri.uscongress.1808,Providence,RI,ris_providence,44007,"Wilbour, Isaac",WI0068,Republican,A03,1187
 ri.uscongress.1808,Providence,RI,ris_providence,44007,"Wilbour, Isaac",WI0068,Republican,A03,1187
 ri.uscongress.1808,Washington,RI,ris_washington,44009,"Jackson, Richard, Jr.",JR0052,Federalist,A01,688
-ri.uscongress.1808,Washington,RI,ris_washington,44009,"Jackson, Richard, Jr.",JR0052,Federalist,A01,688
-ri.uscongress.1808,Washington,RI,ris_washington,44009,"Potter, Elisha R.",PE0102,Federalist,A01,701
 ri.uscongress.1808,Washington,RI,ris_washington,44009,"Potter, Elisha R.",PE0102,Federalist,A01,701
 ri.uscongress.1808,Washington,RI,ris_washington,44009,"Russell, Jonathan",RJ0591,Republican,A03,526
-ri.uscongress.1808,Washington,RI,ris_washington,44009,"Russell, Jonathan",RJ0591,Republican,A03,526
-ri.uscongress.1808,Washington,RI,ris_washington,44009,"Wilbour, Isaac",WI0068,Republican,A03,515
 ri.uscongress.1808,Washington,RI,ris_washington,44009,"Wilbour, Isaac",WI0068,Republican,A03,515
 ri.uscongress.1810,Bristol,RI,ris_bristol,44001,"Brown, Nathan",BN0113,Republican,A03,256
 ri.uscongress.1810,Bristol,RI,ris_bristol,44001,"Hazard, Nathaniel",HN0066,Republican,A03,256
@@ -334,39 +188,19 @@ ri.uscongress.1810,Kent,RI,ris_kent,44003,"Jackson, Richard, Jr.",JR0052,Federal
 ri.uscongress.1810,Kent,RI,ris_kent,44003,NA,Other candidates,NA,NA,5
 ri.uscongress.1810,Kent,RI,ris_kent,44003,"Potter, Elisha R.",PE0102,Federalist,A01,603
 ri.uscongress.1810,Newport,RI,ris_newport,44005,"Brown, Nathan",BN0113,Republican,A03,744
-ri.uscongress.1810,Newport,RI,ris_newport,44005,"Brown, Nathan",BN0113,Republican,A03,744
-ri.uscongress.1810,Newport,RI,ris_newport,44005,"Brown, Nathan",BN0113,Republican,A03,744
-ri.uscongress.1810,Newport,RI,ris_newport,44005,"Hazard, Nathaniel",HN0066,Republican,A03,747
-ri.uscongress.1810,Newport,RI,ris_newport,44005,"Hazard, Nathaniel",HN0066,Republican,A03,747
 ri.uscongress.1810,Newport,RI,ris_newport,44005,"Hazard, Nathaniel",HN0066,Republican,A03,747
 ri.uscongress.1810,Newport,RI,ris_newport,44005,"Jackson, Richard, Jr.",JR0052,Federalist,A01,747
-ri.uscongress.1810,Newport,RI,ris_newport,44005,"Jackson, Richard, Jr.",JR0052,Federalist,A01,747
-ri.uscongress.1810,Newport,RI,ris_newport,44005,"Jackson, Richard, Jr.",JR0052,Federalist,A01,747
 ri.uscongress.1810,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,2
-ri.uscongress.1810,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,2
-ri.uscongress.1810,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,2
-ri.uscongress.1810,Newport,RI,ris_newport,44005,"Potter, Elisha R.",PE0102,Federalist,A01,749
-ri.uscongress.1810,Newport,RI,ris_newport,44005,"Potter, Elisha R.",PE0102,Federalist,A01,749
 ri.uscongress.1810,Newport,RI,ris_newport,44005,"Potter, Elisha R.",PE0102,Federalist,A01,749
 ri.uscongress.1810,Providence,RI,ris_providence,44007,"Brown, Nathan",BN0113,Republican,A03,1406
-ri.uscongress.1810,Providence,RI,ris_providence,44007,"Brown, Nathan",BN0113,Republican,A03,1406
-ri.uscongress.1810,Providence,RI,ris_providence,44007,"Hazard, Nathaniel",HN0066,Republican,A03,1429
 ri.uscongress.1810,Providence,RI,ris_providence,44007,"Hazard, Nathaniel",HN0066,Republican,A03,1429
 ri.uscongress.1810,Providence,RI,ris_providence,44007,"Jackson, Richard, Jr.",JR0052,Federalist,A01,1307
-ri.uscongress.1810,Providence,RI,ris_providence,44007,"Jackson, Richard, Jr.",JR0052,Federalist,A01,1307
-ri.uscongress.1810,Providence,RI,ris_providence,44007,NA,Other candidates,NA,NA,6
 ri.uscongress.1810,Providence,RI,ris_providence,44007,NA,Other candidates,NA,NA,6
 ri.uscongress.1810,Providence,RI,ris_providence,44007,"Potter, Elisha R.",PE0102,Federalist,A01,1315
-ri.uscongress.1810,Providence,RI,ris_providence,44007,"Potter, Elisha R.",PE0102,Federalist,A01,1315
-ri.uscongress.1810,Washington,RI,ris_washington,44009,"Brown, Nathan",BN0113,Republican,A03,574
 ri.uscongress.1810,Washington,RI,ris_washington,44009,"Brown, Nathan",BN0113,Republican,A03,574
 ri.uscongress.1810,Washington,RI,ris_washington,44009,"Hazard, Nathaniel",HN0066,Republican,A03,573
-ri.uscongress.1810,Washington,RI,ris_washington,44009,"Hazard, Nathaniel",HN0066,Republican,A03,573
-ri.uscongress.1810,Washington,RI,ris_washington,44009,"Jackson, Richard, Jr.",JR0052,Federalist,A01,764
 ri.uscongress.1810,Washington,RI,ris_washington,44009,"Jackson, Richard, Jr.",JR0052,Federalist,A01,764
 ri.uscongress.1810,Washington,RI,ris_washington,44009,NA,Other candidates,NA,NA,0
-ri.uscongress.1810,Washington,RI,ris_washington,44009,NA,Other candidates,NA,NA,0
-ri.uscongress.1810,Washington,RI,ris_washington,44009,"Potter, Elisha R.",PE0102,Federalist,A01,758
 ri.uscongress.1810,Washington,RI,ris_washington,44009,"Potter, Elisha R.",PE0102,Federalist,A01,758
 ri.uscongress.1812,Bristol,RI,ris_bristol,44001,"Jackson, Richard, Jr.",JR0052,Federalist,A01,301
 ri.uscongress.1812,Bristol,RI,ris_bristol,44001,"Potter, Elisha R.",PE0102,Federalist,A01,301
@@ -377,32 +211,16 @@ ri.uscongress.1812,Kent,RI,ris_kent,44003,"Potter, Elisha R.",PE0102,Federalist,
 ri.uscongress.1812,Kent,RI,ris_kent,44003,"Russell, Jonathan",RJ0591,Republican,A03,376
 ri.uscongress.1812,Kent,RI,ris_kent,44003,"Wilbour, Isaac",WI0068,Republican,A03,377
 ri.uscongress.1812,Newport,RI,ris_newport,44005,"Jackson, Richard, Jr.",JR0052,Federalist,A01,866
-ri.uscongress.1812,Newport,RI,ris_newport,44005,"Jackson, Richard, Jr.",JR0052,Federalist,A01,866
-ri.uscongress.1812,Newport,RI,ris_newport,44005,"Jackson, Richard, Jr.",JR0052,Federalist,A01,866
-ri.uscongress.1812,Newport,RI,ris_newport,44005,"Potter, Elisha R.",PE0102,Federalist,A01,864
-ri.uscongress.1812,Newport,RI,ris_newport,44005,"Potter, Elisha R.",PE0102,Federalist,A01,864
 ri.uscongress.1812,Newport,RI,ris_newport,44005,"Potter, Elisha R.",PE0102,Federalist,A01,864
 ri.uscongress.1812,Newport,RI,ris_newport,44005,"Russell, Jonathan",RJ0591,Republican,A03,709
-ri.uscongress.1812,Newport,RI,ris_newport,44005,"Russell, Jonathan",RJ0591,Republican,A03,709
-ri.uscongress.1812,Newport,RI,ris_newport,44005,"Russell, Jonathan",RJ0591,Republican,A03,709
-ri.uscongress.1812,Newport,RI,ris_newport,44005,"Wilbour, Isaac",WI0068,Republican,A03,701
-ri.uscongress.1812,Newport,RI,ris_newport,44005,"Wilbour, Isaac",WI0068,Republican,A03,701
 ri.uscongress.1812,Newport,RI,ris_newport,44005,"Wilbour, Isaac",WI0068,Republican,A03,701
 ri.uscongress.1812,Providence,RI,ris_providence,44007,"Jackson, Richard, Jr.",JR0052,Federalist,A01,1689
-ri.uscongress.1812,Providence,RI,ris_providence,44007,"Jackson, Richard, Jr.",JR0052,Federalist,A01,1689
-ri.uscongress.1812,Providence,RI,ris_providence,44007,"Potter, Elisha R.",PE0102,Federalist,A01,1685
 ri.uscongress.1812,Providence,RI,ris_providence,44007,"Potter, Elisha R.",PE0102,Federalist,A01,1685
 ri.uscongress.1812,Providence,RI,ris_providence,44007,"Russell, Jonathan",RJ0591,Republican,A03,1426
-ri.uscongress.1812,Providence,RI,ris_providence,44007,"Russell, Jonathan",RJ0591,Republican,A03,1426
-ri.uscongress.1812,Providence,RI,ris_providence,44007,"Wilbour, Isaac",WI0068,Republican,A03,1424
 ri.uscongress.1812,Providence,RI,ris_providence,44007,"Wilbour, Isaac",WI0068,Republican,A03,1424
 ri.uscongress.1812,Washington,RI,ris_washington,44009,"Jackson, Richard, Jr.",JR0052,Federalist,A01,884
-ri.uscongress.1812,Washington,RI,ris_washington,44009,"Jackson, Richard, Jr.",JR0052,Federalist,A01,884
-ri.uscongress.1812,Washington,RI,ris_washington,44009,"Potter, Elisha R.",PE0102,Federalist,A01,884
 ri.uscongress.1812,Washington,RI,ris_washington,44009,"Potter, Elisha R.",PE0102,Federalist,A01,884
 ri.uscongress.1812,Washington,RI,ris_washington,44009,"Russell, Jonathan",RJ0591,Republican,A03,401
-ri.uscongress.1812,Washington,RI,ris_washington,44009,"Russell, Jonathan",RJ0591,Republican,A03,401
-ri.uscongress.1812,Washington,RI,ris_washington,44009,"Wilbour, Isaac",WI0068,Republican,A03,402
 ri.uscongress.1812,Washington,RI,ris_washington,44009,"Wilbour, Isaac",WI0068,Republican,A03,402
 ri.uscongress.1814,Bristol,RI,ris_bristol,44001,"Boss, John L.",BJ0012,Federalist,A01,258
 ri.uscongress.1814,Bristol,RI,ris_bristol,44001,"DeWolf, John, Jr.",DJ0019,Republican,A03,207
@@ -413,50 +231,26 @@ ri.uscongress.1814,Kent,RI,ris_kent,44003,"DeWolf, John, Jr.",DJ0019,Republican,
 ri.uscongress.1814,Kent,RI,ris_kent,44003,"Knight, Nehemiah R.",KN0016,Republican,A03,357
 ri.uscongress.1814,Kent,RI,ris_kent,44003,"Mason, James B.",MJ1283,Federalist,A01,602
 ri.uscongress.1814,Newport,RI,ris_newport,44005,"Boss, John L.",BJ0012,Federalist,A01,735
-ri.uscongress.1814,Newport,RI,ris_newport,44005,"Boss, John L.",BJ0012,Federalist,A01,735
-ri.uscongress.1814,Newport,RI,ris_newport,44005,"Boss, John L.",BJ0012,Federalist,A01,735
-ri.uscongress.1814,Newport,RI,ris_newport,44005,"DeWolf, John, Jr.",DJ0019,Republican,A03,455
-ri.uscongress.1814,Newport,RI,ris_newport,44005,"DeWolf, John, Jr.",DJ0019,Republican,A03,455
 ri.uscongress.1814,Newport,RI,ris_newport,44005,"DeWolf, John, Jr.",DJ0019,Republican,A03,455
 ri.uscongress.1814,Newport,RI,ris_newport,44005,"Knight, Nehemiah R.",KN0016,Republican,A03,461
-ri.uscongress.1814,Newport,RI,ris_newport,44005,"Knight, Nehemiah R.",KN0016,Republican,A03,461
-ri.uscongress.1814,Newport,RI,ris_newport,44005,"Knight, Nehemiah R.",KN0016,Republican,A03,461
-ri.uscongress.1814,Newport,RI,ris_newport,44005,"Mason, James B.",MJ1283,Federalist,A01,724
-ri.uscongress.1814,Newport,RI,ris_newport,44005,"Mason, James B.",MJ1283,Federalist,A01,724
 ri.uscongress.1814,Newport,RI,ris_newport,44005,"Mason, James B.",MJ1283,Federalist,A01,724
 ri.uscongress.1814,Providence,RI,ris_providence,44007,"Boss, John L.",BJ0012,Federalist,A01,1451
-ri.uscongress.1814,Providence,RI,ris_providence,44007,"Boss, John L.",BJ0012,Federalist,A01,1451
-ri.uscongress.1814,Providence,RI,ris_providence,44007,"DeWolf, John, Jr.",DJ0019,Republican,A03,1491
 ri.uscongress.1814,Providence,RI,ris_providence,44007,"DeWolf, John, Jr.",DJ0019,Republican,A03,1491
 ri.uscongress.1814,Providence,RI,ris_providence,44007,"Knight, Nehemiah R.",KN0016,Republican,A03,1504
-ri.uscongress.1814,Providence,RI,ris_providence,44007,"Knight, Nehemiah R.",KN0016,Republican,A03,1504
-ri.uscongress.1814,Providence,RI,ris_providence,44007,"Mason, James B.",MJ1283,Federalist,A01,1425
 ri.uscongress.1814,Providence,RI,ris_providence,44007,"Mason, James B.",MJ1283,Federalist,A01,1425
 ri.uscongress.1814,Washington,RI,ris_washington,44009,"Boss, John L.",BJ0012,Federalist,A01,720
-ri.uscongress.1814,Washington,RI,ris_washington,44009,"Boss, John L.",BJ0012,Federalist,A01,720
-ri.uscongress.1814,Washington,RI,ris_washington,44009,"DeWolf, John, Jr.",DJ0019,Republican,A03,445
 ri.uscongress.1814,Washington,RI,ris_washington,44009,"DeWolf, John, Jr.",DJ0019,Republican,A03,445
 ri.uscongress.1814,Washington,RI,ris_washington,44009,"Knight, Nehemiah R.",KN0016,Republican,A03,444
-ri.uscongress.1814,Washington,RI,ris_washington,44009,"Knight, Nehemiah R.",KN0016,Republican,A03,444
-ri.uscongress.1814,Washington,RI,ris_washington,44009,"Mason, James B.",MJ1283,Federalist,A01,717
 ri.uscongress.1814,Washington,RI,ris_washington,44009,"Mason, James B.",MJ1283,Federalist,A01,717
 ri.uscongress.1816,Bristol,RI,ris_bristol,44001,"Boss, John L.",BJ0012,Federalist,A01,90
 ri.uscongress.1816,Bristol,RI,ris_bristol,44001,"Mason, James B.",MJ1283,Federalist,A01,90
 ri.uscongress.1816,Kent,RI,ris_kent,44003,"Boss, John L.",BJ0012,Federalist,A01,397
 ri.uscongress.1816,Kent,RI,ris_kent,44003,"Mason, James B.",MJ1283,Federalist,A01,396
 ri.uscongress.1816,Newport,RI,ris_newport,44005,"Boss, John L.",BJ0012,Federalist,A01,491
-ri.uscongress.1816,Newport,RI,ris_newport,44005,"Boss, John L.",BJ0012,Federalist,A01,491
-ri.uscongress.1816,Newport,RI,ris_newport,44005,"Boss, John L.",BJ0012,Federalist,A01,491
-ri.uscongress.1816,Newport,RI,ris_newport,44005,"Mason, James B.",MJ1283,Federalist,A01,488
-ri.uscongress.1816,Newport,RI,ris_newport,44005,"Mason, James B.",MJ1283,Federalist,A01,488
 ri.uscongress.1816,Newport,RI,ris_newport,44005,"Mason, James B.",MJ1283,Federalist,A01,488
 ri.uscongress.1816,Providence,RI,ris_providence,44007,"Boss, John L.",BJ0012,Federalist,A01,925
-ri.uscongress.1816,Providence,RI,ris_providence,44007,"Boss, John L.",BJ0012,Federalist,A01,925
-ri.uscongress.1816,Providence,RI,ris_providence,44007,"Mason, James B.",MJ1283,Federalist,A01,921
 ri.uscongress.1816,Providence,RI,ris_providence,44007,"Mason, James B.",MJ1283,Federalist,A01,921
 ri.uscongress.1816,Washington,RI,ris_washington,44009,"Boss, John L.",BJ0012,Federalist,A01,336
-ri.uscongress.1816,Washington,RI,ris_washington,44009,"Boss, John L.",BJ0012,Federalist,A01,336
-ri.uscongress.1816,Washington,RI,ris_washington,44009,"Mason, James B.",MJ1283,Federalist,A01,335
 ri.uscongress.1816,Washington,RI,ris_washington,44009,"Mason, James B.",MJ1283,Federalist,A01,335
 ri.uscongress.1820,Bristol,RI,ris_bristol,44001,"Bridgham, Samuel W.",BS0012,Federalist,A01,128
 ri.uscongress.1820,Bristol,RI,ris_bristol,44001,"Durfree, Job",DJ0538,Republican,A03,249
@@ -469,39 +263,19 @@ ri.uscongress.1820,Kent,RI,ris_kent,44003,"Eddy, Samuel",ES0042,Republican,A03,3
 ri.uscongress.1820,Kent,RI,ris_kent,44003,"Hazard, Nathaniel",HN0066,Republican,A03,34
 ri.uscongress.1820,Kent,RI,ris_kent,44003,NA,Other candidates,NA,NA,4
 ri.uscongress.1820,Newport,RI,ris_newport,44005,"Bridgham, Samuel W.",BS0012,Federalist,A01,430
-ri.uscongress.1820,Newport,RI,ris_newport,44005,"Bridgham, Samuel W.",BS0012,Federalist,A01,430
-ri.uscongress.1820,Newport,RI,ris_newport,44005,"Bridgham, Samuel W.",BS0012,Federalist,A01,430
-ri.uscongress.1820,Newport,RI,ris_newport,44005,"Durfree, Job",DJ0538,Republican,A03,615
-ri.uscongress.1820,Newport,RI,ris_newport,44005,"Durfree, Job",DJ0538,Republican,A03,615
 ri.uscongress.1820,Newport,RI,ris_newport,44005,"Durfree, Job",DJ0538,Republican,A03,615
 ri.uscongress.1820,Newport,RI,ris_newport,44005,"Eddy, Samuel",ES0042,Republican,A03,451
-ri.uscongress.1820,Newport,RI,ris_newport,44005,"Eddy, Samuel",ES0042,Republican,A03,451
-ri.uscongress.1820,Newport,RI,ris_newport,44005,"Eddy, Samuel",ES0042,Republican,A03,451
 ri.uscongress.1820,Newport,RI,ris_newport,44005,"Hazard, Nathaniel",HN0066,Republican,A03,234
-ri.uscongress.1820,Newport,RI,ris_newport,44005,"Hazard, Nathaniel",HN0066,Republican,A03,234
-ri.uscongress.1820,Newport,RI,ris_newport,44005,"Hazard, Nathaniel",HN0066,Republican,A03,234
-ri.uscongress.1820,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,4
-ri.uscongress.1820,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,4
 ri.uscongress.1820,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,4
 ri.uscongress.1820,Providence,RI,ris_providence,44007,"Bridgham, Samuel W.",BS0012,Federalist,A01,1108
-ri.uscongress.1820,Providence,RI,ris_providence,44007,"Bridgham, Samuel W.",BS0012,Federalist,A01,1108
-ri.uscongress.1820,Providence,RI,ris_providence,44007,"Durfree, Job",DJ0538,Republican,A03,1409
 ri.uscongress.1820,Providence,RI,ris_providence,44007,"Durfree, Job",DJ0538,Republican,A03,1409
 ri.uscongress.1820,Providence,RI,ris_providence,44007,"Eddy, Samuel",ES0042,Republican,A03,1387
-ri.uscongress.1820,Providence,RI,ris_providence,44007,"Eddy, Samuel",ES0042,Republican,A03,1387
-ri.uscongress.1820,Providence,RI,ris_providence,44007,"Hazard, Nathaniel",HN0066,Republican,A03,1113
 ri.uscongress.1820,Providence,RI,ris_providence,44007,"Hazard, Nathaniel",HN0066,Republican,A03,1113
 ri.uscongress.1820,Providence,RI,ris_providence,44007,NA,Other candidates,NA,NA,51
-ri.uscongress.1820,Providence,RI,ris_providence,44007,NA,Other candidates,NA,NA,51
-ri.uscongress.1820,Washington,RI,ris_washington,44009,"Bridgham, Samuel W.",BS0012,Federalist,A01,611
 ri.uscongress.1820,Washington,RI,ris_washington,44009,"Bridgham, Samuel W.",BS0012,Federalist,A01,611
 ri.uscongress.1820,Washington,RI,ris_washington,44009,"Durfree, Job",DJ0538,Republican,A03,444
-ri.uscongress.1820,Washington,RI,ris_washington,44009,"Durfree, Job",DJ0538,Republican,A03,444
-ri.uscongress.1820,Washington,RI,ris_washington,44009,"Eddy, Samuel",ES0042,Republican,A03,518
 ri.uscongress.1820,Washington,RI,ris_washington,44009,"Eddy, Samuel",ES0042,Republican,A03,518
 ri.uscongress.1820,Washington,RI,ris_washington,44009,"Hazard, Nathaniel",HN0066,Republican,A03,608
-ri.uscongress.1820,Washington,RI,ris_washington,44009,"Hazard, Nathaniel",HN0066,Republican,A03,608
-ri.uscongress.1820,Washington,RI,ris_washington,44009,NA,Other candidates,NA,NA,6
 ri.uscongress.1820,Washington,RI,ris_washington,44009,NA,Other candidates,NA,NA,6
 ri.uscongress.1822,Bristol,RI,ris_bristol,44001,"Durfree, Job",DJ0538,Republican,A03,48
 ri.uscongress.1822,Bristol,RI,ris_bristol,44001,"Eddy, Samuel",ES0042,Republican,A03,48
@@ -510,25 +284,13 @@ ri.uscongress.1822,Kent,RI,ris_kent,44003,"Durfree, Job",DJ0538,Republican,A03,1
 ri.uscongress.1822,Kent,RI,ris_kent,44003,"Eddy, Samuel",ES0042,Republican,A03,186
 ri.uscongress.1822,Kent,RI,ris_kent,44003,NA,Other candidates,NA,NA,1
 ri.uscongress.1822,Newport,RI,ris_newport,44005,"Durfree, Job",DJ0538,Republican,A03,280
-ri.uscongress.1822,Newport,RI,ris_newport,44005,"Durfree, Job",DJ0538,Republican,A03,280
-ri.uscongress.1822,Newport,RI,ris_newport,44005,"Durfree, Job",DJ0538,Republican,A03,280
 ri.uscongress.1822,Newport,RI,ris_newport,44005,"Eddy, Samuel",ES0042,Republican,A03,281
-ri.uscongress.1822,Newport,RI,ris_newport,44005,"Eddy, Samuel",ES0042,Republican,A03,281
-ri.uscongress.1822,Newport,RI,ris_newport,44005,"Eddy, Samuel",ES0042,Republican,A03,281
-ri.uscongress.1822,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,1
-ri.uscongress.1822,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,1
 ri.uscongress.1822,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,1
 ri.uscongress.1822,Providence,RI,ris_providence,44007,"Durfree, Job",DJ0538,Republican,A03,681
-ri.uscongress.1822,Providence,RI,ris_providence,44007,"Durfree, Job",DJ0538,Republican,A03,681
-ri.uscongress.1822,Providence,RI,ris_providence,44007,"Eddy, Samuel",ES0042,Republican,A03,673
 ri.uscongress.1822,Providence,RI,ris_providence,44007,"Eddy, Samuel",ES0042,Republican,A03,673
 ri.uscongress.1822,Providence,RI,ris_providence,44007,NA,Other candidates,NA,NA,7
-ri.uscongress.1822,Providence,RI,ris_providence,44007,NA,Other candidates,NA,NA,7
-ri.uscongress.1822,Washington,RI,ris_washington,44009,"Durfree, Job",DJ0538,Republican,A03,250
 ri.uscongress.1822,Washington,RI,ris_washington,44009,"Durfree, Job",DJ0538,Republican,A03,250
 ri.uscongress.1822,Washington,RI,ris_washington,44009,"Eddy, Samuel",ES0042,Republican,A03,229
-ri.uscongress.1822,Washington,RI,ris_washington,44009,"Eddy, Samuel",ES0042,Republican,A03,229
-ri.uscongress.1822,Washington,RI,ris_washington,44009,NA,Other candidates,NA,NA,22
 ri.uscongress.1822,Washington,RI,ris_washington,44009,NA,Other candidates,NA,NA,22
 ri.uscongress.1825,Bristol,RI,ris_bristol,44001,"Burges, Tristam",BT0010,Republican,A03,127
 ri.uscongress.1825,Bristol,RI,ris_bristol,44001,"Durfree, Job",DJ0538,Republican,A03,54
@@ -543,46 +305,22 @@ ri.uscongress.1825,Kent,RI,ris_kent,44003,"Hunter, William",HW0370,Republican,A0
 ri.uscongress.1825,Kent,RI,ris_kent,44003,NA,Other candidates,NA,NA,4
 ri.uscongress.1825,Kent,RI,ris_kent,44003,"Pearce, Dutee J.",PD0002,Republican,A03,412
 ri.uscongress.1825,Newport,RI,ris_newport,44005,"Burges, Tristam",BT0010,Republican,A03,458
-ri.uscongress.1825,Newport,RI,ris_newport,44005,"Burges, Tristam",BT0010,Republican,A03,458
-ri.uscongress.1825,Newport,RI,ris_newport,44005,"Burges, Tristam",BT0010,Republican,A03,458
-ri.uscongress.1825,Newport,RI,ris_newport,44005,"Durfree, Job",DJ0538,Republican,A03,381
-ri.uscongress.1825,Newport,RI,ris_newport,44005,"Durfree, Job",DJ0538,Republican,A03,381
 ri.uscongress.1825,Newport,RI,ris_newport,44005,"Durfree, Job",DJ0538,Republican,A03,381
 ri.uscongress.1825,Newport,RI,ris_newport,44005,"Eddy, Samuel",ES0042,Republican,A03,412
-ri.uscongress.1825,Newport,RI,ris_newport,44005,"Eddy, Samuel",ES0042,Republican,A03,412
-ri.uscongress.1825,Newport,RI,ris_newport,44005,"Eddy, Samuel",ES0042,Republican,A03,412
-ri.uscongress.1825,Newport,RI,ris_newport,44005,"Hunter, William",HW0370,Republican,A03,216
-ri.uscongress.1825,Newport,RI,ris_newport,44005,"Hunter, William",HW0370,Republican,A03,216
 ri.uscongress.1825,Newport,RI,ris_newport,44005,"Hunter, William",HW0370,Republican,A03,216
 ri.uscongress.1825,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,1
-ri.uscongress.1825,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,1
-ri.uscongress.1825,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,1
-ri.uscongress.1825,Newport,RI,ris_newport,44005,"Pearce, Dutee J.",PD0002,Republican,A03,707
-ri.uscongress.1825,Newport,RI,ris_newport,44005,"Pearce, Dutee J.",PD0002,Republican,A03,707
 ri.uscongress.1825,Newport,RI,ris_newport,44005,"Pearce, Dutee J.",PD0002,Republican,A03,707
 ri.uscongress.1825,Providence,RI,ris_providence,44007,"Burges, Tristam",BT0010,Republican,A03,1475
-ri.uscongress.1825,Providence,RI,ris_providence,44007,"Burges, Tristam",BT0010,Republican,A03,1475
-ri.uscongress.1825,Providence,RI,ris_providence,44007,"Durfree, Job",DJ0538,Republican,A03,1388
 ri.uscongress.1825,Providence,RI,ris_providence,44007,"Durfree, Job",DJ0538,Republican,A03,1388
 ri.uscongress.1825,Providence,RI,ris_providence,44007,"Eddy, Samuel",ES0042,Republican,A03,817
-ri.uscongress.1825,Providence,RI,ris_providence,44007,"Eddy, Samuel",ES0042,Republican,A03,817
-ri.uscongress.1825,Providence,RI,ris_providence,44007,"Hunter, William",HW0370,Republican,A03,51
 ri.uscongress.1825,Providence,RI,ris_providence,44007,"Hunter, William",HW0370,Republican,A03,51
 ri.uscongress.1825,Providence,RI,ris_providence,44007,NA,Other candidates,NA,NA,126
-ri.uscongress.1825,Providence,RI,ris_providence,44007,NA,Other candidates,NA,NA,126
-ri.uscongress.1825,Providence,RI,ris_providence,44007,"Pearce, Dutee J.",PD0002,Republican,A03,742
 ri.uscongress.1825,Providence,RI,ris_providence,44007,"Pearce, Dutee J.",PD0002,Republican,A03,742
 ri.uscongress.1825,Washington,RI,ris_washington,44009,"Burges, Tristam",BT0010,Republican,A03,422
-ri.uscongress.1825,Washington,RI,ris_washington,44009,"Burges, Tristam",BT0010,Republican,A03,422
-ri.uscongress.1825,Washington,RI,ris_washington,44009,"Durfree, Job",DJ0538,Republican,A03,330
 ri.uscongress.1825,Washington,RI,ris_washington,44009,"Durfree, Job",DJ0538,Republican,A03,330
 ri.uscongress.1825,Washington,RI,ris_washington,44009,"Eddy, Samuel",ES0042,Republican,A03,535
-ri.uscongress.1825,Washington,RI,ris_washington,44009,"Eddy, Samuel",ES0042,Republican,A03,535
-ri.uscongress.1825,Washington,RI,ris_washington,44009,"Hunter, William",HW0370,Republican,A03,60
 ri.uscongress.1825,Washington,RI,ris_washington,44009,"Hunter, William",HW0370,Republican,A03,60
 ri.uscongress.1825,Washington,RI,ris_washington,44009,NA,Other candidates,NA,NA,5
-ri.uscongress.1825,Washington,RI,ris_washington,44009,NA,Other candidates,NA,NA,5
-ri.uscongress.1825,Washington,RI,ris_washington,44009,"Pearce, Dutee J.",PD0002,Republican,A03,584
 ri.uscongress.1825,Washington,RI,ris_washington,44009,"Pearce, Dutee J.",PD0002,Republican,A03,584
 ri.uscongress1.1825,Bristol,RI,ris_bristol,44001,"Durfree, Job",DJ0538,Republican,A03,77
 ri.uscongress1.1825,Bristol,RI,ris_bristol,44001,NA,Other candidates,NA,NA,0
@@ -591,23 +329,11 @@ ri.uscongress1.1825,Kent,RI,ris_kent,44003,"Durfree, Job",DJ0538,Republican,A03,
 ri.uscongress1.1825,Kent,RI,ris_kent,44003,NA,Other candidates,NA,NA,0
 ri.uscongress1.1825,Kent,RI,ris_kent,44003,"Pearce, Dutee J.",PD0002,Republican,A03,279
 ri.uscongress1.1825,Newport,RI,ris_newport,44005,"Durfree, Job",DJ0538,Republican,A03,375
-ri.uscongress1.1825,Newport,RI,ris_newport,44005,"Durfree, Job",DJ0538,Republican,A03,375
-ri.uscongress1.1825,Newport,RI,ris_newport,44005,"Durfree, Job",DJ0538,Republican,A03,375
 ri.uscongress1.1825,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,0
-ri.uscongress1.1825,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,0
-ri.uscongress1.1825,Newport,RI,ris_newport,44005,NA,Other candidates,NA,NA,0
-ri.uscongress1.1825,Newport,RI,ris_newport,44005,"Pearce, Dutee J.",PD0002,Republican,A03,721
-ri.uscongress1.1825,Newport,RI,ris_newport,44005,"Pearce, Dutee J.",PD0002,Republican,A03,721
 ri.uscongress1.1825,Newport,RI,ris_newport,44005,"Pearce, Dutee J.",PD0002,Republican,A03,721
 ri.uscongress1.1825,Providence,RI,ris_providence,44007,"Durfree, Job",DJ0538,Republican,A03,678
-ri.uscongress1.1825,Providence,RI,ris_providence,44007,"Durfree, Job",DJ0538,Republican,A03,678
-ri.uscongress1.1825,Providence,RI,ris_providence,44007,NA,Other candidates,NA,NA,3
 ri.uscongress1.1825,Providence,RI,ris_providence,44007,NA,Other candidates,NA,NA,3
 ri.uscongress1.1825,Providence,RI,ris_providence,44007,"Pearce, Dutee J.",PD0002,Republican,A03,307
-ri.uscongress1.1825,Providence,RI,ris_providence,44007,"Pearce, Dutee J.",PD0002,Republican,A03,307
-ri.uscongress1.1825,Washington,RI,ris_washington,44009,"Durfree, Job",DJ0538,Republican,A03,240
 ri.uscongress1.1825,Washington,RI,ris_washington,44009,"Durfree, Job",DJ0538,Republican,A03,240
 ri.uscongress1.1825,Washington,RI,ris_washington,44009,NA,Other candidates,NA,NA,0
-ri.uscongress1.1825,Washington,RI,ris_washington,44009,NA,Other candidates,NA,NA,0
-ri.uscongress1.1825,Washington,RI,ris_washington,44009,"Pearce, Dutee J.",PD0002,Republican,A03,446
 ri.uscongress1.1825,Washington,RI,ris_washington,44009,"Pearce, Dutee J.",PD0002,Republican,A03,446
