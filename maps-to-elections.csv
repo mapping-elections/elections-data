@@ -70,7 +70,7 @@ meae.congressional.congress02.ma.county,ma.uscongress.8.1790
 meae.congressional.congress02.ma.county,ma.uscongress.8.ballot2.1790
 meae.congressional.congress02.ma.county,ma.uscongress.8.ballot3.1791
 meae.congressional.congress02.ma.county,ma.uscongress.8.ballot4.1791
-meae.congressional.congress02.md.county,md.uscongress1790
+meae.congressional.congress02.md.county,md.uscongress.1790
 meae.congressional.congress02.nc.county,nc.uscongress1.1790
 meae.congressional.congress02.nc.county,nc.uscongress1.1791
 meae.congressional.congress02.nc.county,nc.uscongress2.1790
@@ -152,10 +152,7 @@ meae.congressional.congress03.ma.county,ma.uscongress.6.ballot9.1792
 meae.congressional.congress03.ma.county,ma.uscongress.atlarge.1792
 meae.congressional.congress03.md.county,md.uscongress1.1792
 meae.congressional.congress03.md.county,md.uscongress2.1792
-meae.congressional.congress03.md.county,md.uscongress2.1793
-meae.congressional.congress03.md.county,md.uscongress2.special.1794
 meae.congressional.congress03.md.county,md.uscongress3.1792
-meae.congressional.congress03.md.county,md.uscongress3.special.1794
 meae.congressional.congress03.md.county,md.uscongress4.1792
 meae.congressional.congress03.md.county,md.uscongress5.1792
 meae.congressional.congress03.md.county,md.uscongress6.1792
@@ -245,9 +242,7 @@ meae.congressional.congress04.ma.county,ma.uscongress.western.3.1794
 meae.congressional.congress04.ma.county,ma.uscongress.western.4.1794
 meae.congressional.congress04.md.county,md.uscongress1.1794
 meae.congressional.congress04.md.county,md.uscongress2.1794
-meae.congressional.congress04.md.county,md.uscongress2.special.1796
 meae.congressional.congress04.md.county,md.uscongress3.1794
-meae.congressional.congress04.md.county,md.uscongress3.special.1796
 meae.congressional.congress04.md.county,md.uscongress4.1794
 meae.congressional.congress04.md.county,md.uscongress5.1794
 meae.congressional.congress04.md.county,md.uscongress6.1794
@@ -469,7 +464,6 @@ meae.congressional.congress06.md.county,md.uscongress4.1798
 meae.congressional.congress06.md.county,md.uscongress5.1798
 meae.congressional.congress06.md.county,md.uscongress6.1798
 meae.congressional.congress06.md.county,md.uscongress7.1798
-meae.congressional.congress06.md.county,md.uscongress7.specialelection.1798
 meae.congressional.congress06.md.county,md.uscongress8.1798
 meae.congressional.congress06.nc.county,nc.uscongress10.1798
 meae.congressional.congress06.nc.county,nc.uscongress1.1798
@@ -580,7 +574,6 @@ meae.congressional.congress07.ma.county,ma.uscongress.western.4.special.1801
 meae.congressional.congress07.ma.county,ma.uscongress.western.4.special.ballot2.1801
 meae.congressional.congress07.md.county,md.uscongress1.1801
 meae.congressional.congress07.md.county,md.uscongress2.1801
-meae.congressional.congress07.md.county,md.uscongress2.special.1802
 meae.congressional.congress07.md.county,md.uscongress3.1801
 meae.congressional.congress07.md.county,md.uscongress4.1801
 meae.congressional.congress07.md.county,md.uscongress5.1801
@@ -694,7 +687,6 @@ meae.congressional.congress08.md.county,md.uscongress1.1803
 meae.congressional.congress08.md.county,md.uscongress2.1803
 meae.congressional.congress08.md.county,md.uscongress3.1803
 meae.congressional.congress08.md.county,md.uscongress4.1803
-meae.congressional.congress08.md.county,md.uscongress4.special.1804
 meae.congressional.congress08.md.county,md.uscongress5.1803
 meae.congressional.congress08.md.county,md.uscongress6.1803
 meae.congressional.congress08.md.county,md.uscongress7.1803
@@ -820,7 +812,6 @@ meae.congressional.congress09.md.county,md.uscongress4.1804
 meae.congressional.congress09.md.county,md.uscongress5.1804
 meae.congressional.congress09.md.county,md.uscongress6.1804
 meae.congressional.congress09.md.county,md.uscongress7.1804
-meae.congressional.congress09.md.county,md.uscongress7.special.1806
 meae.congressional.congress09.md.county,md.uscongress8.1804
 meae.congressional.congress09.nc.county,nc.uscongress10.1804
 meae.congressional.congress09.nc.county,nc.uscongress11.1804
@@ -1066,11 +1057,9 @@ meae.congressional.congress11.md.county,md.uscongress1.1808
 meae.congressional.congress11.md.county,md.uscongress2.1808
 meae.congressional.congress11.md.county,md.uscongress3.1808
 meae.congressional.congress11.md.county,md.uscongress4.1808
-meae.congressional.congress11.md.county,md.uscongress4.special.1810
 meae.congressional.congress11.md.county,md.uscongress5.1808
 meae.congressional.congress11.md.county,md.uscongress6.1808
 meae.congressional.congress11.md.county,md.uscongress7.1808
-meae.congressional.congress11.md.county,md.uscongress7.special.1810
 meae.congressional.congress11.md.county,md.uscongress8.1808
 meae.congressional.congress11.nc.county,nc.uscongress10.1808
 meae.congressional.congress11.nc.county,nc.uscongress11.1808
@@ -1175,7 +1164,6 @@ meae.congressional.congress12.ma.county,ma.uscongress.suffolk.1810
 meae.congressional.congress12.ma.county,ma.uscongress.worcesternorth.1810
 meae.congressional.congress12.ma.county,ma.uscongress.worcestersouth.1810
 meae.congressional.congress12.ma.county,ma.uscongress.york.1810
-meae.congressional.congress12.md.county,md.congress.1811
 meae.congressional.congress12.md.county,md.uscongress1.1810
 meae.congressional.congress12.md.county,md.uscongress2.1810
 meae.congressional.congress12.md.county,md.uscongress3.1810
@@ -1472,10 +1460,8 @@ meae.congressional.congress14.ma.county,ma.uscongress.worcestersouth.special.181
 meae.congressional.congress14.md.county,md.uscongress1.1814
 meae.congressional.congress14.md.county,md.uscongress2.1814
 meae.congressional.congress14.md.county,md.uscongress3.1814
-meae.congressional.congress14.md.county,md.uscongress3.specialelection.1816
 meae.congressional.congress14.md.county,md.uscongress4.1814
 meae.congressional.congress14.md.county,md.uscongress5.1814
-meae.congressional.congress14.md.county,md.uscongress5.specialelection1.1816
 meae.congressional.congress14.md.county,md.uscongress6.1814
 meae.congressional.congress14.md.county,md.uscongress7.1814
 meae.congressional.congress14.md.county,md.uscongress8.1814
@@ -1631,7 +1617,6 @@ meae.congressional.congress15.md.county,md.uscongress2.1816
 meae.congressional.congress15.md.county,md.uscongress3.1816
 meae.congressional.congress15.md.county,md.uscongress4.1816
 meae.congressional.congress15.md.county,md.uscongress5.1816
-meae.congressional.congress15.md.county,md.uscongress5.specialelection2.1816
 meae.congressional.congress15.md.county,md.uscongress6.1816
 meae.congressional.congress15.md.county,md.uscongress7.1816
 meae.congressional.congress15.md.county,md.uscongress8.1816
@@ -1913,7 +1898,6 @@ meae.congressional.congress17.md.county,md.uscongress2.1820
 meae.congressional.congress17.md.county,md.uscongress3.1820
 meae.congressional.congress17.md.county,md.uscongress4.1820
 meae.congressional.congress17.md.county,md.uscongress5.1820
-meae.congressional.congress17.md.county,md.uscongress5.special.17thcongress.1823
 meae.congressional.congress17.md.county,md.uscongress6.1820
 meae.congressional.congress17.md.county,md.uscongress7.1820
 meae.congressional.congress17.md.county,md.uscongress8.1820
@@ -2085,7 +2069,6 @@ meae.congressional.congress18.md.county,md.uscongress2.1822
 meae.congressional.congress18.md.county,md.uscongress3.1822
 meae.congressional.congress18.md.county,md.uscongress4.1822
 meae.congressional.congress18.md.county,md.uscongress5.1822
-meae.congressional.congress18.md.county,md.uscongress5.special.18thcongress.1823
 meae.congressional.congress18.md.county,md.uscongress6.1822
 meae.congressional.congress18.md.county,md.uscongress7.1822
 meae.congressional.congress18.md.county,md.uscongress8.1822

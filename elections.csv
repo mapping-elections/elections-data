@@ -687,13 +687,13 @@ ma.uscongress.bristol.1824,U.S. House of Representatives,MA,19,12,1824,General,"
 ma.uscongress.bristol.ballot2.1825,U.S. House of Representatives,MA,19,12,1825,General,"Massachusetts 1825 U.S. House of Representatives, Bristol District, Ballot 2"
 ma.uscongress.barnstable.1824,U.S. House of Representatives,MA,19,13,1824,General,"Massachusetts 1824 U.S. House of Representatives, Barnstable District"
 md.uscongress.1789,U.S. House of Representatives,MD,1,NA,1789,General,Maryland 1789 U.S. House of Representatives
-md.uscongress1790,U.S. House of Representatives,MD,2,NA,NA,NA,NA
+md.uscongress.1790,U.S. House of Representatives,MD,2,NA,1790,General,Maryland 1790 U.S. House of Representatives
 md.uscongress1.1792,U.S. House of Representatives,MD,3,1,1792,General,"Maryland 1792 U.S. House of Representatives, District 1"
 md.uscongress2.1792,U.S. House of Representatives,MD,3,2,1792,General,"Maryland 1792 U.S. House of Representatives, District 2"
 md.uscongress2.1793,U.S. House of Representatives,MD,3,2,1793,Special,"Maryland 1793 U.S. House of Representatives, District 2, Special"
-md.uscongress2.special.1794,U.S. House of Representatives,MD,3,2,NA,NA,NA
+md.uscongress2.special.1794,U.S. House of Representatives,MD,3,2,1794,Special,"Maryland 1793 U.S. House of Representatives, District 2, Special"
 md.uscongress3.1792,U.S. House of Representatives,MD,3,3,1792,General,"Maryland 1792 U.S. House of Representatives, District 3"
-md.uscongress3.special.1794,U.S. House of Representatives,MD,3,3,NA,NA,NA
+md.uscongress3.special.1794,U.S. House of Representatives,MD,3,3,1794,Special,"Maryland 1794 U.S. House of Representatives, District 3, Special"
 md.uscongress4.1792,U.S. House of Representatives,MD,3,4,1792,General,"Maryland 1792 U.S. House of Representatives, District 4"
 md.uscongress5.1792,U.S. House of Representatives,MD,3,5,1792,General,"Maryland 1792 U.S. House of Representatives, District 5"
 md.uscongress6.1792,U.S. House of Representatives,MD,3,6,1792,General,"Maryland 1792 U.S. House of Representatives, District 6"
@@ -701,9 +701,9 @@ md.uscongress7.1792,U.S. House of Representatives,MD,3,7,1792,General,"Maryland 
 md.uscongress8.1792,U.S. House of Representatives,MD,3,8,1792,General,"Maryland 1792 U.S. House of Representatives, District 8"
 md.uscongress1.1794,U.S. House of Representatives,MD,4,1,1794,General,"Maryland 1794 U.S. House of Representatives, District 1"
 md.uscongress2.1794,U.S. House of Representatives,MD,4,2,1794,General,"Maryland 1794 U.S. House of Representatives, District 2"
-md.uscongress2.special.1796,U.S. House of Representatives,MD,4,2,NA,NA,NA
+md.uscongress2.special.1796,U.S. House of Representatives,MD,4,2,1796,Special,NA
 md.uscongress3.1794,U.S. House of Representatives,MD,4,3,1794,General,"Maryland 1794 U.S. House of Representatives, District 3"
-md.uscongress3.special.1796,U.S. House of Representatives,MD,4,3,NA,NA,NA
+md.uscongress3.special.1796,U.S. House of Representatives,MD,4,3,1796,Special,NA
 md.uscongress4.1794,U.S. House of Representatives,MD,4,4,1794,General,"Maryland 1794 U.S. House of Representatives, District 4"
 md.uscongress5.1794,U.S. House of Representatives,MD,4,5,1794,General,"Maryland 1794 U.S. House of Representatives, District 5"
 md.uscongress6.1794,U.S. House of Representatives,MD,4,6,1794,General,"Maryland 1794 U.S. House of Representatives, District 6"
@@ -724,11 +724,11 @@ md.uscongress4.1798,U.S. House of Representatives,MD,6,4,1798,General,"Maryland 
 md.uscongress5.1798,U.S. House of Representatives,MD,6,5,1798,General,"Maryland 1798 U.S. House of Representatives, District 5"
 md.uscongress6.1798,U.S. House of Representatives,MD,6,6,1798,General,"Maryland 1798 U.S. House of Representatives, District 6"
 md.uscongress7.1798,U.S. House of Representatives,MD,6,7,1798,General,"Maryland 1798 U.S. House of Representatives, District 7"
-md.uscongress7.specialelection.1798,U.S. House of Representatives,MD,6,7,NA,NA,NA
+md.uscongress7.specialelection.1798,U.S. House of Representatives,MD,6,7,1798,Special,NA
 md.uscongress8.1798,U.S. House of Representatives,MD,6,8,1798,General,"Maryland 1798 U.S. House of Representatives, District 8"
 md.uscongress1.1801,U.S. House of Representatives,MD,7,1,1801,General,"Maryland 1801 U.S. House of Representatives, District 1"
 md.uscongress2.1801,U.S. House of Representatives,MD,7,2,1801,General,"Maryland 1801 U.S. House of Representatives, District 2"
-md.uscongress2.special.1802,U.S. House of Representatives,MD,7,2,NA,NA,NA
+md.uscongress2.special.1802,U.S. House of Representatives,MD,7,2,1802,Special,NA
 md.uscongress3.1801,U.S. House of Representatives,MD,7,3,1801,General,"Maryland 1801 U.S. House of Representatives, District 3"
 md.uscongress4.1801,U.S. House of Representatives,MD,7,4,1801,General,"Maryland 1801 U.S. House of Representatives, District 4"
 md.uscongress5.1801,U.S. House of Representatives,MD,7,5,1801,General,"Maryland 1801 U.S. House of Representatives, District 5"
@@ -739,7 +739,7 @@ md.uscongress1.1803,U.S. House of Representatives,MD,8,1,1803,General,"Maryland 
 md.uscongress2.1803,U.S. House of Representatives,MD,8,2,1803,General,"Maryland 1803 U.S. House of Representatives, District 2"
 md.uscongress3.1803,U.S. House of Representatives,MD,8,3,1803,General,"Maryland 1803 U.S. House of Representatives, District 3"
 md.uscongress4.1803,U.S. House of Representatives,MD,8,4,1803,General,"Maryland 1803 U.S. House of Representatives, District 4"
-md.uscongress4.special.1804,U.S. House of Representatives,MD,8,4,NA,NA,NA
+md.uscongress4.special.1804,U.S. House of Representatives,MD,8,4,1804,Special,NA
 md.uscongress5.1803,U.S. House of Representatives,MD,8,5,1803,General,"Maryland 1803 U.S. House of Representatives, District 5"
 md.uscongress6.1803,U.S. House of Representatives,MD,8,6,1803,General,"Maryland 1803 U.S. House of Representatives, District 6"
 md.uscongress7.1803,U.S. House of Representatives,MD,8,7,1803,General,"Maryland 1803 U.S. House of Representatives, District 7"
@@ -751,7 +751,7 @@ md.uscongress4.1804,U.S. House of Representatives,MD,9,4,1804,General,"Maryland 
 md.uscongress5.1804,U.S. House of Representatives,MD,9,5,1804,General,"Maryland 1804 U.S. House of Representatives, District 5"
 md.uscongress6.1804,U.S. House of Representatives,MD,9,6,1804,General,"Maryland 1804 U.S. House of Representatives, District 6"
 md.uscongress7.1804,U.S. House of Representatives,MD,9,7,1804,General,"Maryland 1804 U.S. House of Representatives, District 7"
-md.uscongress7.special.1806,U.S. House of Representatives,MD,9,7,NA,NA,NA
+md.uscongress7.special.1806,U.S. House of Representatives,MD,9,7,1806,Special,NA
 md.uscongress8.1804,U.S. House of Representatives,MD,9,8,1804,General,"Maryland 1804 U.S. House of Representatives, District 8"
 md.uscongress1.1806,U.S. House of Representatives,MD,10,1,1806,General,"Maryland 1806 U.S. House of Representatives, District 1"
 md.uscongress2.1806,U.S. House of Representatives,MD,10,2,1806,General,"Maryland 1806 U.S. House of Representatives, District 2"
@@ -765,11 +765,11 @@ md.uscongress1.1808,U.S. House of Representatives,MD,11,1,1808,General,"Maryland
 md.uscongress2.1808,U.S. House of Representatives,MD,11,2,1808,General,"Maryland 1808 U.S. House of Representatives, District 2"
 md.uscongress3.1808,U.S. House of Representatives,MD,11,3,1808,General,"Maryland 1808 U.S. House of Representatives, District 3"
 md.uscongress4.1808,U.S. House of Representatives,MD,11,4,1808,General,"Maryland 1808 U.S. House of Representatives, District 4"
-md.uscongress4.special.1810,U.S. House of Representatives,MD,11,4,NA,NA,NA
+md.uscongress4.special.1810,U.S. House of Representatives,MD,11,4,1810,Special,NA
 md.uscongress5.1808,U.S. House of Representatives,MD,11,5,1808,General,"Maryland 1808 U.S. House of Representatives, District 5"
 md.uscongress6.1808,U.S. House of Representatives,MD,11,6,1808,General,"Maryland 1808 U.S. House of Representatives, District 6"
 md.uscongress7.1808,U.S. House of Representatives,MD,11,7,1808,General,"Maryland 1808 U.S. House of Representatives, District 7"
-md.uscongress7.special.1810,U.S. House of Representatives,MD,11,7,NA,NA,NA
+md.uscongress7.special.1810,U.S. House of Representatives,MD,11,7,1810,Special,NA
 md.uscongress8.1808,U.S. House of Representatives,MD,11,8,1808,General,"Maryland 1808 U.S. House of Representatives, District 8"
 md.uscongress1.1810,U.S. House of Representatives,MD,12,1,1810,General,"Maryland 1810 U.S. House of Representatives, District 1"
 md.uscongress2.1810,U.S. House of Representatives,MD,12,2,1810,General,"Maryland 1810 U.S. House of Representatives, District 2"
@@ -777,9 +777,9 @@ md.uscongress3.1810,U.S. House of Representatives,MD,12,3,1810,General,"Maryland
 md.uscongress4.1810,U.S. House of Representatives,MD,12,4,1810,General,"Maryland 1810 U.S. House of Representatives, District 4"
 md.uscongress5.1810,U.S. House of Representatives,MD,12,5,1810,General,"Maryland 1810 U.S. House of Representatives, District 5"
 md.uscongress6.1810,U.S. House of Representatives,MD,12,6,1810,General,"Maryland 1810 U.S. House of Representatives, District 6"
+md.congress.1811,U.S. House of Representatives,MD,12,6,1811,Special,"Maryland 1811 U.S. House of Representatives, District 6, Special"
 md.uscongress7.1810,U.S. House of Representatives,MD,12,7,1810,General,"Maryland 1810 U.S. House of Representatives, District 7"
 md.uscongress8.1810,U.S. House of Representatives,MD,12,8,1810,General,"Maryland 1810 U.S. House of Representatives, District 8"
-md.congress.1811,U.S. House of Representatives,MD,12,NA,1811,Special,"Maryland 1811 U.S. House of Representatives, District 6, Special"
 md.uscongress1.1812,U.S. House of Representatives,MD,13,1,1812,General,"Maryland 1812 U.S. House of Representatives, District 1"
 md.uscongress2.1812,U.S. House of Representatives,MD,13,2,1812,General,"Maryland 1812 U.S. House of Representatives, District 2"
 md.uscongress3.1812,U.S. House of Representatives,MD,13,3,1812,General,"Maryland 1812 U.S. House of Representatives, District 3"
@@ -791,10 +791,10 @@ md.uscongress8.1812,U.S. House of Representatives,MD,13,8,1812,General,"Maryland
 md.uscongress1.1814,U.S. House of Representatives,MD,14,1,1814,General,"Maryland 1814 U.S. House of Representatives, District 1"
 md.uscongress2.1814,U.S. House of Representatives,MD,14,2,1814,General,"Maryland 1814 U.S. House of Representatives, District 2"
 md.uscongress3.1814,U.S. House of Representatives,MD,14,3,1814,General,"Maryland 1814 U.S. House of Representatives, District 3"
-md.uscongress3.specialelection.1816,U.S. House of Representatives,MD,14,3,NA,NA,NA
+md.uscongress3.specialelection.1816,U.S. House of Representatives,MD,14,3,1816,Special,NA
 md.uscongress4.1814,U.S. House of Representatives,MD,14,4,1814,General,"Maryland 1814 U.S. House of Representatives, District 4"
 md.uscongress5.1814,U.S. House of Representatives,MD,14,5,1814,General,"Maryland 1814 U.S. House of Representatives, District 5"
-md.uscongress5.specialelection1.1816,U.S. House of Representatives,MD,14,5,NA,NA,NA
+md.uscongress5.specialelection1.1816,U.S. House of Representatives,MD,14,5,1816,Special,NA
 md.uscongress6.1814,U.S. House of Representatives,MD,14,6,1814,General,"Maryland 1814 U.S. House of Representatives, District 6"
 md.uscongress7.1814,U.S. House of Representatives,MD,14,7,1814,General,"Maryland 1814 U.S. House of Representatives, District 7"
 md.uscongress8.1814,U.S. House of Representatives,MD,14,8,1814,General,"Maryland 1814 U.S. House of Representatives, District 8"
@@ -803,7 +803,7 @@ md.uscongress2.1816,U.S. House of Representatives,MD,15,2,1816,General,"Maryland
 md.uscongress3.1816,U.S. House of Representatives,MD,15,3,1816,General,"Maryland 1816 U.S. House of Representatives, District 3"
 md.uscongress4.1816,U.S. House of Representatives,MD,15,4,1816,General,"Maryland 1816 U.S. House of Representatives, District 4"
 md.uscongress5.1816,U.S. House of Representatives,MD,15,5,1816,General,"Maryland 1816 U.S. House of Representatives, District 5"
-md.uscongress5.specialelection2.1816,U.S. House of Representatives,MD,15,5,NA,NA,NA
+md.uscongress5.specialelection2.1816,U.S. House of Representatives,MD,15,5,1816,Special,NA
 md.uscongress6.1816,U.S. House of Representatives,MD,15,6,1816,General,"Maryland 1816 U.S. House of Representatives, District 6"
 md.uscongress7.1816,U.S. House of Representatives,MD,15,7,1816,General,"Maryland 1816 U.S. House of Representatives, District 7"
 md.uscongress8.1816,U.S. House of Representatives,MD,15,8,1816,General,"Maryland 1816 U.S. House of Representatives, District 8"
@@ -820,7 +820,7 @@ md.uscongress2.1820,U.S. House of Representatives,MD,17,2,1820,General,"Maryland
 md.uscongress3.1820,U.S. House of Representatives,MD,17,3,1820,General,"Maryland 1820 U.S. House of Representatives, District 3"
 md.uscongress4.1820,U.S. House of Representatives,MD,17,4,1820,General,"Maryland 1820 U.S. House of Representatives, District 4"
 md.uscongress5.1820,U.S. House of Representatives,MD,17,5,1820,General,"Maryland 1820 U.S. House of Representatives, District 5"
-md.uscongress5.special.17thcongress.1823,U.S. House of Representatives,MD,17,5,NA,NA,NA
+md.uscongress5.special.17thcongress.1823,U.S. House of Representatives,MD,17,5,1823,Special,NA
 md.uscongress6.1820,U.S. House of Representatives,MD,17,6,1820,General,"Maryland 1820 U.S. House of Representatives, District 6"
 md.uscongress7.1820,U.S. House of Representatives,MD,17,7,1820,General,"Maryland 1820 U.S. House of Representatives, District 7"
 md.uscongress8.1820,U.S. House of Representatives,MD,17,8,1820,General,"Maryland 1820 U.S. House of Representatives, District 8"
@@ -829,7 +829,7 @@ md.uscongress2.1822,U.S. House of Representatives,MD,18,2,1822,General,"Maryland
 md.uscongress3.1822,U.S. House of Representatives,MD,18,3,1822,General,"Maryland 1822 U.S. House of Representatives, District 3"
 md.uscongress4.1822,U.S. House of Representatives,MD,18,4,1822,General,"Maryland 1822 U.S. House of Representatives, District 4"
 md.uscongress5.1822,U.S. House of Representatives,MD,18,5,1822,General,"Maryland 1822 U.S. House of Representatives, District 5"
-md.uscongress5.special.18thcongress.1823,U.S. House of Representatives,MD,18,5,NA,NA,NA
+md.uscongress5.special.18thcongress.1823,U.S. House of Representatives,MD,18,5,1823,Special,NA
 md.uscongress6.1822,U.S. House of Representatives,MD,18,6,1822,General,"Maryland 1822 U.S. House of Representatives, District 6"
 md.uscongress7.1822,U.S. House of Representatives,MD,18,7,1822,General,"Maryland 1822 U.S. House of Representatives, District 7"
 md.uscongress8.1822,U.S. House of Representatives,MD,18,8,1822,General,"Maryland 1822 U.S. House of Representatives, District 8"
@@ -841,7 +841,6 @@ md.uscongress5.1824,U.S. House of Representatives,MD,19,5,1824,General,"Maryland
 md.uscongress6.1824,U.S. House of Representatives,MD,19,6,1824,General,"Maryland 1824 U.S. House of Representatives, District 6"
 md.uscongress7.1824,U.S. House of Representatives,MD,19,7,1824,General,"Maryland 1824 U.S. House of Representatives, District 7"
 md.uscongress8.1824,U.S. House of Representatives,MD,19,8,1824,General,"Maryland 1824 U.S. House of Representatives, District 8"
-md.uscongress.1790,U.S. House of Representatives,MD,NA,NA,1790,General,Maryland 1790 U.S. House of Representatives
 me.uscongress1.1820,U.S. House of Representatives,ME,17,1,1820,General,"Maine 1820 U.S. House of Representatives, District 1"
 me.uscongress2.1820,U.S. House of Representatives,ME,17,2,1820,General,"Maine 1820 U.S. House of Representatives, District 2"
 me.uscongress2.1822,U.S. House of Representatives,ME,17,2,1822,Special,"Maine 1822 U.S. House of Representatives, District 2, Special"
