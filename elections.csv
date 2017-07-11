@@ -126,7 +126,7 @@ in.usrepresentative.1st.special.1824,U.S. House of Representatives,IN,18,1,1824,
 in.usrepresentative.2nd.1822,U.S. House of Representatives,IN,18,2,1822,general
 in.usrepresentative.2nd.1824,U.S. House of Representatives,IN,19,2,1824,general
 in.usrepresentative.3rd.1822,U.S. House of Representatives,IN,18,3,1822,general
-in.usrepresentative.3rd.1825,U.S. House of Representatives,IN,19,3,1824,general
+in.usrepresentative.3rd.1824,U.S. House of Representatives,IN,19,3,1824,general
 ky.specialcongress3.1825,U.S. House of Representatives,KY,19,3,1825,special
 ky.specialelectionuscongress2.1814,U.S. House of Representatives,KY,13,2,1814,special
 ky.specialuscongress1.1816,U.S. House of Representatives,KY,14,1,1816,special
@@ -2119,7 +2119,7 @@ tn.congress.washington.1809,U.S. House of Representatives,TN,11,1,1809,general
 tn.congressdistrict1.1805,U.S. House of Representatives,TN,9,1,1805,general
 tn.special.congress.2.1815,U.S. House of Representatives,TN,14,2,1815,special
 tn.special.congress.5.1814,U.S. House of Representatives,TN,13,5,1814,special
-tn.uscongress.1796,U.S. House of Representatives,TN,5,NA,1796,general
+tn.uscongress.1796,U.S. House of Representatives,TN,4,NA,1796,general
 tn.uscongressdistrict3.1805,U.S. House of Representatives,TN,9,3,1805,general
 va.congress.1.1823,U.S. House of Representatives,VA,18,1,1823,general
 va.congress.1.1825,U.S. House of Representatives,VA,19,1,1825,general
@@ -2537,7 +2537,6 @@ vt.uscongress.eastern.1796,U.S. House of Representatives,VT,5,2,1796,general
 vt.uscongress.eastern.1798,U.S. House of Representatives,VT,6,2,1798,general
 vt.uscongress.eastern.1800,U.S. House of Representatives,VT,7,2,1800,general
 vt.uscongress.eastern.2.1800,U.S. House of Representatives,VT,7,2,1800,general
-vt.uscongress.eastern.2.1800,U.S. House of Representatives,VT,7,2,1800,general
 vt.uscongress.eastern.special.1797,U.S. House of Representatives,VT,5,2,1797,special
 vt.uscongress.northeast.1802,U.S. House of Representatives,VT,8,3,1802,general
 vt.uscongress.northeast.1804,U.S. House of Representatives,VT,9,3,1804,general
@@ -2601,3 +2600,4 @@ vt.uscongress4.1824,U.S. House of Representatives,VT,19,4,1824,general
 vt.uscongress5.1820,U.S. House of Representatives,VT,17,5,1820,general
 vt.uscongress5.1824,U.S. House of Representatives,VT,19,5,1824,general
 vt.uscongress6.1820,U.S. House of Representatives,VT,17,6,1820,general
+tn.ushouserepresentatives.1797,U.S. House of Representatives,TN,5,NA,1797,general
