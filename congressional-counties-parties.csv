@@ -45,3 +45,6 @@ meae.congressional.congress01.pa.county,pas_philadelphia,42101,At-large,5866,0.6
 meae.congressional.congress01.pa.county,pas_washington,42125,At-large,270,0.1,2427,0.9,NA,NA,NA,NA,county,TRUE,NA
 meae.congressional.congress01.pa.county,pas_westmoreland,42129,At-large,1027,0.227,3495,0.773,NA,NA,NA,NA,county,TRUE,NA
 meae.congressional.congress01.pa.county,pas_york,42133,At-large,11906,0.881,1608,0.119,NA,NA,NA,NA,county,TRUE,NA
+meae.congressional.congress01.de.county,des_kent,10001,At-large,NA,NA,NA,NA,NA,NA,652,1,county,TRUE,NA
+meae.congressional.congress01.de.county,des_newcastle,10003,At-large,NA,NA,NA,NA,NA,NA,304,1,county,TRUE,NA
+meae.congressional.congress01.de.county,des_sussex,10005,At-large,NA,NA,NA,NA,NA,NA,1103,1,county,TRUE,NA
