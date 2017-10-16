@@ -42,7 +42,7 @@ meae.congressional.congress01.ma.county,ma.uscongress.3.ballot2.1789,Nathaniel G
 meae.congressional.congress01.ma.county,ma.uscongress.3.ballot2.1789,Abraham Fuller,FA0030,3,NA,2,1867,0.001,FALSE
 meae.congressional.congress01.ma.county,ma.uscongress.3.ballot2.1789,Francis Dana,DF0019,3,Federalist,1,1867,0.001,FALSE
 meae.congressional.congress01.ma.county,ma.uscongress.3.ballot2.1789,James Russell,RJ0231,3,NA,1,1867,0.001,FALSE
-meae.congressional.congress01.ma.county,ma.uscongress.4.ballot5.1789,Theodore Sedgwick,ST0102,4,Federalist,2155,4387,0.491,TRUE
+meae.congressional.congress01.ma.county,ma.uscongress.4.ballot5.1789,Theodore Sedgwick,ST0123,4,Federalist,2155,4387,0.491,TRUE
 meae.congressional.congress01.ma.county,ma.uscongress.4.ballot5.1789,Samuel Lyman,LS0018,4,Federalist,2138,4387,0.487,FALSE
 meae.congressional.congress01.ma.county,ma.uscongress.4.ballot5.1789,John Bacon,BJ0484,4,NA,67,4387,0.015,FALSE
 meae.congressional.congress01.ma.county,ma.uscongress.4.ballot5.1789,Thompson J. Skinner,ST0101,4,NA,11,4387,0.003,FALSE
@@ -133,3 +133,21 @@ meae.congressional.congress01.ga.county,ga.uscongress.upperdistrict.1789,Henry O
 meae.congressional.congress01.ga.county,ga.uscongress.upperdistrict.1789,Anthony Wayne,WA0009,3,NA,8,1203,0.007,FALSE
 meae.congressional.congress01.ga.county,ga.uscongress.upperdistrict.1789,Joseph Sumner,SJ0083,3,NA,5,1203,0.004,FALSE
 meae.congressional.congress01.ga.county,ga.uscongress.upperdistrict.1789,scattering,NA,3,NA,8,1203,0.007,FALSE
+meae.congressional.congress01.md.county,md.uscongress.1789,Joshua Seney,SJ0183,At-large,Federalist,7616,46708,0.163,TRUE
+meae.congressional.congress01.md.county,md.uscongress.1789,Daniel Carroll,CD0030,At-large,Federalist,5819,46708,0.125,TRUE
+meae.congressional.congress01.md.county,md.uscongress.1789,Benjamin Contee,CB0013,At-large,Federalist,5476,46708,0.117,TRUE
+meae.congressional.congress01.md.county,md.uscongress.1789,George Gale,GG0007,At-large,Federalist,5456,46708,0.117,TRUE
+meae.congressional.congress01.md.county,md.uscongress.1789,William Smith,SW0028,At-large,Federalist,5415,46708,0.116,TRUE
+meae.congressional.congress01.md.county,md.uscongress.1789,Michael J. Stone,SM0034,At-large,Federalist,5154,46708,0.11,TRUE
+meae.congressional.congress01.md.county,md.uscongress.1789,George Dent,DG0004,At-large,Anti-Federalist,2731,46708,0.058,FALSE
+meae.congressional.congress01.md.county,md.uscongress.1789,Samuel Sterett,SS0058,At-large,Anti-Federalist,2424,46708,0.052,FALSE
+meae.congressional.congress01.md.county,md.uscongress.1789,John F. Mercer,MJ0200,At-large,Anti-Federalist,2339,46708,0.05,FALSE
+meae.congressional.congress01.md.county,md.uscongress.1789,Abraham Faw,FA0015,At-large,Anti-Federalist,1964,46708,0.042,FALSE
+meae.congressional.congress01.md.county,md.uscongress.1789,John Done,DJ0119,At-large,Anti-Federalist,1832,46708,0.039,FALSE
+meae.congressional.congress01.md.county,md.uscongress.1789,William V. Murray,MW0069,At-large,Anti-Federalist,425,46708,0.009,FALSE
+meae.congressional.congress01.md.county,md.uscongress.1789,Nathaniel Ramsay,RN0009,At-large,NA,36,46708,0.001,FALSE
+meae.congressional.congress01.md.county,md.uscongress.1789,Samuel Chase,CS0019,At-large,NA,10,46708,0,FALSE
+meae.congressional.congress01.md.county,md.uscongress.1789,Thomas Johnson,JT0019,At-large,Federalist,7,46708,0,FALSE
+meae.congressional.congress01.md.county,md.uscongress.1789,James MacHenry,MJ0196,At-large,NA,2,46708,0,FALSE
+meae.congressional.congress01.md.county,md.uscongress.1789,John Scott,SJ0184,At-large,NA,1,46708,0,FALSE
+meae.congressional.congress01.md.county,md.uscongress.1789,William Paca,PW0039,At-large,NA,1,46708,0,FALSE
