@@ -332,7 +332,7 @@ meae.congressional.congress03.ma.county,,David Cobb,CD0056,At-large,NA,4553,1054
 meae.congressional.congress03.ma.county,,Samuel Holten,HS0071,At-large,NA,4544,17803,0.255,TRUE,FALSE
 meae.congressional.congress03.ma.county,,Dwight Foster,FD0007,At-large,Federalist,3640,10573,0.344,TRUE,FALSE
 meae.congressional.congress03.ma.county,,William Lyman,LW0055,At-large,NA,3283,21108,0.156,TRUE,FALSE
-meae.congressional.congress03.ma.county,,"Benjamin Austin, Jr.",AB0013,At-large,NA,2959,9197,0.322,FALSE,FALSE
+meae.congressional.congress03.ma.county,,"Benjamin Austin, Jr.",AB0013,At-large,NA,3004,9197,0.327,FALSE,FALSE
 meae.congressional.congress03.ma.county,,Theodore Sedgwick,ST0102,At-large,Federalist,2922,12686,0.23,FALSE,FALSE
 meae.congressional.congress03.ma.county,,Benjamin Goodhue,GB0015,At-large,Federalist,2785,11506,0.242,TRUE,FALSE
 meae.congressional.congress03.ma.county,,Artemas Ward,WA0043,At-large,Federalist,2728,12757,0.214,TRUE,FALSE
@@ -346,7 +346,7 @@ meae.congressional.congress03.ma.county,,John Davis,DJ0181,At-large,NA,1231,1153
 meae.congressional.congress03.ma.county,,Thompson J. Skinner,ST0101,At-large,NA,1143,4093,0.279,FALSE,FALSE
 meae.congressional.congress03.ma.county,,Henry Dearborn,DH0026,At-large,NA,1107,1995,0.555,TRUE,FALSE
 meae.congressional.congress03.ma.county,,Jonathan Grout,GJ0158,At-large,NA,1054,12757,0.083,FALSE,FALSE
-meae.congressional.congress03.ma.county,,"Peleg Coffin, Jr.",CP0027,At-large,NA,1016,1953,0.52,TRUE,FALSE
+meae.congressional.congress03.ma.county,,"Peleg Coffin, Jr.",CP0027,At-large,NA,1079,1953,0.179,TRUE,FALSE
 meae.congressional.congress03.ma.county,,Charles Jarvis,JC0015,At-large,NA,893,11493,0.078,FALSE,FALSE
 meae.congressional.congress03.ma.county,,Nathaniel Wells,WN0011,At-large,NA,808,2285,0.354,FALSE,FALSE
 meae.congressional.congress03.ma.county,,Joseph B. Varnum,VJ0024,At-large,NA,743,2992,0.248,FALSE,FALSE
@@ -357,7 +357,7 @@ meae.congressional.congress03.ma.county,,Elbridge Gerry,GE0049,At-large,NA,532,1
 meae.congressional.congress03.ma.county,,James Warren,WJ0248,At-large,NA,468,13488,0.035,FALSE,FALSE
 meae.congressional.congress03.ma.county,,John Bacon,BJ0484,At-large,NA,307,12686,0.024,FALSE,FALSE
 meae.congressional.congress03.ma.county,,Phanuel Bishop,BP0031,At-large,NA,249,10546,0.024,FALSE,FALSE
-meae.congressional.congress03.ma.county,,John Coffin Jones,JJ0099,At-large,NA,164,8593,0.019,FALSE,FALSE
+meae.congressional.congress03.ma.county,,John Coffin Jones,JJ0099,At-large,NA,229,8593,0.027,FALSE,FALSE
 meae.congressional.congress03.ma.county,,Tristram Jordan,JT0039,At-large,NA,158,2285,0.069,FALSE,FALSE
 meae.congressional.congress03.ma.county,,James Sullivan,SJ0366,At-large,NA,126,8593,0.015,FALSE,FALSE
 meae.congressional.congress03.ma.county,,Samuel Phillips,PS0029,At-large,NA,125,11506,0.011,FALSE,FALSE
@@ -368,8 +368,6 @@ meae.congressional.congress03.ma.county,,James Bowdoin,BJ0467,At-large,NA,90,114
 meae.congressional.congress03.ma.county,,Martin Kinsley,KM0013,At-large,NA,89,4164,0.021,FALSE,FALSE
 meae.congressional.congress03.ma.county,,Nathaniel Gorham,GN0007,At-large,NA,83,8593,0.01,FALSE,FALSE
 meae.congressional.congress03.ma.county,,Ebenezer Bridge,BE0139,At-large,NA,82,11585,0.007,FALSE,FALSE
-meae.congressional.congress03.ma.county,,John C. Jones,JJ0099,At-large,NA,65,2900,0.022,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Peleg Coffin,CP0027,At-large,NA,63,8593,0.007,TRUE,FALSE
 meae.congressional.congress03.ma.county,,Alexander Campbell,CA0083,At-large,NA,62,1995,0.031,FALSE,FALSE
 meae.congressional.congress03.ma.county,,Nathaniel Paine,PN0020,At-large,NA,61,4164,0.015,FALSE,FALSE
 meae.congressional.congress03.ma.county,,Timothy Paine,PT0071,At-large,NA,61,12757,0.005,FALSE,FALSE
@@ -377,12 +375,11 @@ meae.congressional.congress03.ma.county,,Elijah Dwight,DE0016,At-large,NA,58,409
 meae.congressional.congress03.ma.county,,Moses Gill,GM0022,At-large,NA,51,12757,0.004,FALSE,FALSE
 meae.congressional.congress03.ma.county,,Azor Orne,OA0008,At-large,NA,47,11506,0.004,FALSE,FALSE
 meae.congressional.congress03.ma.county,,Samuel Henshaw,HS0048,At-large,NA,46,8593,0.005,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Benjamin Austin,AB0013,At-large,NA,45,8593,0.005,FALSE,FALSE
 meae.congressional.congress03.ma.county,,John Brooks,BJ0505,At-large,Federalist,43,2992,0.014,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Nathan Dana,DN0011,At-large,Federalist,40,8593,0.005,FALSE,FALSE
+meae.congressional.congress03.ma.county,,Nathan Dana,DN0011,At-large,Federalist,43,8593,0.005,FALSE,FALSE
 meae.congressional.congress03.ma.county,,Edward H. Robbins,RE0018,At-large,NA,39,8593,0.005,FALSE,FALSE
 meae.congressional.congress03.ma.county,,Thomas Jones,JT0041,At-large,NA,39,4093,0.01,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Daniel Bigelow,BD0045,At-large,NA,38,4164,0.009,FALSE,FALSE
+meae.congressional.congress03.ma.county,,Daniel Bigelow,BD0045,At-large,NA,40,4164,0.01,FALSE,FALSE
 meae.congressional.congress03.ma.county,,Barnabus Bidwell,BB0057,At-large,NA,35,12686,0.003,FALSE,FALSE
 meae.congressional.congress03.ma.county,,Henry Davin,DH0016,At-large,NA,29,1995,0.015,FALSE,FALSE
 meae.congressional.congress03.ma.county,,Thomas Rice,RT0039,At-large,NA,21,1995,0.011,FALSE,FALSE
@@ -420,9 +417,7 @@ meae.congressional.congress03.ma.county,,Micah White,WM0017,At-large,NA,4,8593,0
 meae.congressional.congress03.ma.county,,John Gardiner,GJ0180,At-large,NA,3,1995,0.002,FALSE,FALSE
 meae.congressional.congress03.ma.county,,John Pratt,PJ0233,At-large,NA,3,1953,0.002,FALSE,FALSE
 meae.congressional.congress03.ma.county,,John Williams,WJ0343,At-large,NA,3,8593,0,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Nathan Dane,DN0011,At-large,Federalist,3,2913,0.001,FALSE,FALSE
 meae.congressional.congress03.ma.county,,William Whiting,WW0090,At-large,NA,3,4093,0.001,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Daniel Biggelow,BD0045,At-large,NA,2,8593,0,FALSE,FALSE
 meae.congressional.congress03.ma.county,,Daniel Howard,HD0040,At-large,NA,2,2942,0.001,FALSE,FALSE
 meae.congressional.congress03.ma.county,,Samuel Brown,BS0111,At-large,NA,2,11493,0,FALSE,FALSE
 meae.congressional.congress03.ma.county,,Simeon Danbar,DS0031,At-large,NA,2,2942,0.001,FALSE,FALSE
