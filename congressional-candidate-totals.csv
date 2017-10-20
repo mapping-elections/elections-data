@@ -327,118 +327,354 @@ meae.congressional.congress03.ga.county,ga.uscongress.1792,Francis Willis,WF0022
 meae.congressional.congress03.ga.county,ga.uscongress.1792,James Jackson,JJ0004,At-large,NA,20,12322,0.002,FALSE,FALSE
 meae.congressional.congress03.ga.county,ga.uscongress.1792,Matthew MacAllister,MM0004,At-large,Federalist,8,12322,0.001,FALSE,FALSE
 meae.congressional.congress03.ga.county,ga.uscongress.1792,scattering,NA,At-large,NA,14,12322,0.001,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Samuel Lyman,LS0018,At-large,Federalist,5754,21108,0.273,FALSE,FALSE
-meae.congressional.congress03.ma.county,,David Cobb,CD0056,At-large,NA,4553,10546,0.432,TRUE,FALSE
-meae.congressional.congress03.ma.county,,Samuel Holten,HS0071,At-large,NA,4544,17803,0.255,TRUE,FALSE
-meae.congressional.congress03.ma.county,,Dwight Foster,FD0007,At-large,Federalist,3640,10573,0.344,TRUE,FALSE
-meae.congressional.congress03.ma.county,,William Lyman,LW0055,At-large,NA,3283,21108,0.156,TRUE,FALSE
-meae.congressional.congress03.ma.county,,"Benjamin Austin, Jr.",AB0013,At-large,NA,3004,9197,0.327,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Theodore Sedgwick,ST0102,At-large,Federalist,2922,12686,0.23,TRUE,FALSE
-meae.congressional.congress03.ma.county,,Benjamin Goodhue,GB0015,At-large,Federalist,2785,11506,0.242,TRUE,FALSE
-meae.congressional.congress03.ma.county,,Artemas Ward,WA0043,At-large,Federalist,2728,12757,0.214,TRUE,FALSE
-meae.congressional.congress03.ma.county,,Peleg Wadsworth,WP0012,At-large,Federalist,2558,4412,0.58,TRUE,FALSE
-meae.congressional.congress03.ma.county,,Daniel Davis,DD0013,At-large,NA,1854,4412,0.42,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Fisher Ames,AF0004,At-large,Federalist,1772,11493,0.154,TRUE,FALSE
-meae.congressional.congress03.ma.county,,"Samuel Dexter, Jr.",DS0053,At-large,Federalist,1756,11585,0.152,TRUE,FALSE
-meae.congressional.congress03.ma.county,,Shearjashub Bourne,BS0036,At-large,NA,1585,11535,0.137,TRUE,FALSE
-meae.congressional.congress03.ma.county,,George Thacher,TG0012,At-large,Federalist,1319,2285,0.577,TRUE,FALSE
-meae.congressional.congress03.ma.county,,John Davis,DJ0181,At-large,NA,1231,11535,0.107,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Thompson J. Skinner,ST0101,At-large,NA,1143,4093,0.279,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Henry Dearborn,DH0026,At-large,NA,1107,1995,0.555,TRUE,FALSE
-meae.congressional.congress03.ma.county,,Jonathan Grout,GJ0158,At-large,NA,1054,12757,0.083,FALSE,FALSE
-meae.congressional.congress03.ma.county,,"Peleg Coffin, Jr.",CP0027,At-large,NA,1079,1953,0.179,TRUE,FALSE
-meae.congressional.congress03.ma.county,,Charles Jarvis,JC0015,At-large,NA,893,11493,0.078,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Nathaniel Wells,WN0011,At-large,NA,808,2285,0.354,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Joseph B. Varnum,VJ0024,At-large,NA,743,2992,0.248,FALSE,FALSE
-meae.congressional.congress03.ma.county,,"William Lithgow, Jr.",LW0054,At-large,NA,731,1995,0.366,FALSE,FALSE
-meae.congressional.congress03.ma.county,,George Leonard,LG0029,At-large,NA,691,10546,0.066,FALSE,FALSE
-meae.congressional.congress03.ma.county,,William Heath,HW0171,At-large,NA,634,14485,0.044,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Elbridge Gerry,GE0049,At-large,NA,532,11585,0.046,FALSE,FALSE
-meae.congressional.congress03.ma.county,,James Warren,WJ0248,At-large,NA,468,13488,0.035,FALSE,FALSE
-meae.congressional.congress03.ma.county,,John Bacon,BJ0484,At-large,NA,307,12686,0.024,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Phanuel Bishop,BP0031,At-large,NA,249,10546,0.024,FALSE,FALSE
-meae.congressional.congress03.ma.county,,John Coffin Jones,JJ0099,At-large,NA,229,8593,0.027,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Tristram Jordan,JT0039,At-large,NA,158,2285,0.069,FALSE,FALSE
-meae.congressional.congress03.ma.county,,James Sullivan,SJ0366,At-large,NA,126,8593,0.015,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Samuel Phillips,PS0029,At-large,NA,125,11506,0.011,FALSE,FALSE
-meae.congressional.congress03.ma.county,,William Eustis,EW0031,At-large,NA,98,11493,0.009,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Levi Lincoln,LL0038,At-large,NA,94,12757,0.007,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Theophilus Parsons,PT0090,At-large,Federalist,93,11506,0.008,FALSE,FALSE
-meae.congressional.congress03.ma.county,,James Bowdoin,BJ0467,At-large,NA,90,11493,0.008,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Martin Kinsley,KM0013,At-large,NA,89,4164,0.021,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Nathaniel Gorham,GN0007,At-large,NA,83,8593,0.01,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Ebenezer Bridge,BE0139,At-large,NA,82,11585,0.007,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Alexander Campbell,CA0083,At-large,NA,62,1995,0.031,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Nathaniel Paine,PN0020,At-large,NA,61,4164,0.015,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Timothy Paine,PT0071,At-large,NA,61,12757,0.005,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Elijah Dwight,DE0016,At-large,NA,58,4093,0.014,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Moses Gill,GM0022,At-large,NA,51,12757,0.004,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Azor Orne,OA0008,At-large,NA,47,11506,0.004,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Samuel Henshaw,HS0048,At-large,NA,46,8593,0.005,FALSE,FALSE
-meae.congressional.congress03.ma.county,,John Brooks,BJ0505,At-large,Federalist,43,2992,0.014,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Nathan Dana,DN0011,At-large,Federalist,43,8593,0.005,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Edward H. Robbins,RE0018,At-large,NA,39,8593,0.005,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Thomas Jones,JT0041,At-large,NA,39,4093,0.01,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Daniel Bigelow,BD0045,At-large,NA,40,4164,0.01,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Barnabus Bidwell,BB0057,At-large,NA,35,12686,0.003,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Henry Davin,DH0016,At-large,NA,29,1995,0.015,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Thomas Rice,RT0039,At-large,NA,21,1995,0.011,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Thomas Russell,RT0060,At-large,NA,21,8593,0.002,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Benjamin Lincoln,LB0025,At-large,Federalist,20,8593,0.002,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Oliver Wendell,WO0023,At-large,NA,20,2900,0.007,FALSE,FALSE
-meae.congressional.congress03.ma.county,,John Lowell,LJ0103,At-large,Federalist,19,2900,0.007,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Joseph Homer,HJ0390,At-large,NA,19,2992,0.006,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Ebenezer Hunt,HE0035,At-large,NA,18,8593,0.002,FALSE,FALSE
-meae.congressional.congress03.ma.county,,John Jarvis,JJ0059,At-large,NA,16,8593,0.002,FALSE,FALSE
-meae.congressional.congress03.ma.county,,William Williams,WW0126,At-large,NA,16,12686,0.001,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Paul Dudley Sergeant,SP0040,At-large,NA,15,1995,0.008,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Henry Sewall,SH0030,At-large,NA,14,1995,0.007,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Abel Wilder,WA0042,At-large,NA,13,4164,0.003,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Ebenezer Wales,WE0053,At-large,NA,13,8593,0.002,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Elijah Brigham,BE0103,At-large,NA,13,12757,0.001,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Josiah Stearns,SJ0359,At-large,NA,12,4164,0.003,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Timothy Newell,NT0001,At-large,NA,12,8593,0.001,FALSE,FALSE
-meae.congressional.congress03.ma.county,,John Coffin,CJ0313,At-large,NA,11,8593,0.001,FALSE,FALSE
-meae.congressional.congress03.ma.county,,John Thompson Skinner,SJ0468,At-large,NA,11,4093,0.003,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Timothy Edwards,ET0013,At-large,NA,8,4093,0.002,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Dummer Sewall,SD0057,At-large,NA,7,1995,0.004,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Francis Dana,DF0019,At-large,Federalist,7,8593,0.001,FALSE,FALSE
-meae.congressional.congress03.ma.county,,John Mycall,MJ0303,At-large,NA,7,2913,0.002,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Stephen Cross,CS0088,At-large,NA,7,11506,0.001,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Stephen Higginson,HS0074,At-large,Federalist,7,11493,0.001,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Tristram Dalton,DT0022,At-large,NA,7,8593,0.001,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Benjamin Grant,GB0023,At-large,NA,5,4164,0.001,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Daniel Cony,CD0042,At-large,NA,5,1995,0.003,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Eleazer Brooks,BE0031,At-large,NA,5,11585,0,FALSE,FALSE
-meae.congressional.congress03.ma.county,,George Partridge,PG0027,At-large,NA,5,11535,0,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Aaron Hobart,HA0109,At-large,NA,4,8593,0,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Caleb Strong,SC0023,At-large,Federalist,4,8593,0,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Micah White,WM0017,At-large,NA,4,8593,0,FALSE,FALSE
-meae.congressional.congress03.ma.county,,John Gardiner,GJ0180,At-large,NA,3,1995,0.002,FALSE,FALSE
-meae.congressional.congress03.ma.county,,John Pratt,PJ0233,At-large,NA,3,1953,0.002,FALSE,FALSE
-meae.congressional.congress03.ma.county,,John Williams,WJ0343,At-large,NA,3,8593,0,FALSE,FALSE
-meae.congressional.congress03.ma.county,,William Whiting,WW0090,At-large,NA,3,4093,0.001,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Daniel Howard,HD0040,At-large,NA,2,2942,0.001,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Samuel Brown,BS0111,At-large,NA,2,11493,0,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Simeon Danbar,DS0031,At-large,NA,2,2942,0.001,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Simeon Strong,SS0125,At-large,NA,2,8593,0,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Benjamin Haywood,HB0067,At-large,NA,1,4164,0,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Benjamin Whitman,WB0026,At-large,NA,1,8593,0,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Ebenezer Parsons,PE0031,At-large,NA,1,2900,0,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Edward Pullen,PE0033,At-large,NA,1,2913,0,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Harleman Thomas,TH0008,At-large,NA,1,1995,0.001,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Haskell Derby,DH0014,At-large,NA,1,2913,0,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Holder Slocum,SH0032,At-large,NA,1,1953,0.001,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Isaac Thompson,TI0012,At-large,NA,1,2942,0,FALSE,FALSE
-meae.congressional.congress03.ma.county,,James Winthrop,WJ0341,At-large,NA,1,2992,0,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Leonard Jarvis,JL0007,At-large,NA,1,8593,0,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Moses Wood,WM0029,At-large,NA,1,2992,0,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Nathaniel Bishop,BN0011,At-large,NA,1,4093,0,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Nathaniel Goodwin,GN0009,At-large,NA,1,8593,0,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Parker Varnum,VP0021,At-large,NA,1,2992,0,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Richard Devens,DR0028,At-large,NA,1,2992,0,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Samuel Jarvis,JS0005,At-large,NA,1,8593,0,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Thomas Davis,DT0096,At-large,NA,1,2900,0,FALSE,FALSE
-meae.congressional.congress03.ma.county,,Walter Spooner,SW0151,At-large,NA,1,1953,0.001,FALSE,FALSE
-meae.congressional.congress03.ma.county,,William Bidwell,BW0167,At-large,NA,1,4093,0,FALSE,FALSE
-meae.congressional.congress03.ma.county,,William Shepard,SW0150,At-large,NA,1,8593,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Samuel Lyman,LS0018,At-large,Federalist,5754,21108,0.273,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,David Cobb,CD0056,At-large,NA,4553,10546,0.432,TRUE,FALSE
+meae.congressional.congress03.ma.county,NA,Samuel Holten,HS0071,At-large,NA,4544,17803,0.255,TRUE,FALSE
+meae.congressional.congress03.ma.county,NA,Dwight Foster,FD0007,At-large,Federalist,3640,10573,0.344,TRUE,FALSE
+meae.congressional.congress03.ma.county,NA,William Lyman,LW0055,At-large,NA,3283,21108,0.156,TRUE,FALSE
+meae.congressional.congress03.ma.county,NA,"Benjamin Austin, Jr.",AB0013,At-large,NA,3004,9197,0.327,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Theodore Sedgwick,ST0102,At-large,Federalist,2922,12686,0.23,TRUE,FALSE
+meae.congressional.congress03.ma.county,NA,Benjamin Goodhue,GB0015,At-large,Federalist,2785,11506,0.242,TRUE,FALSE
+meae.congressional.congress03.ma.county,NA,Artemas Ward,WA0043,At-large,Federalist,2728,12757,0.214,TRUE,FALSE
+meae.congressional.congress03.ma.county,NA,Peleg Wadsworth,WP0012,At-large,Federalist,2558,4412,0.58,TRUE,FALSE
+meae.congressional.congress03.ma.county,NA,Daniel Davis,DD0013,At-large,NA,1854,4412,0.42,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Fisher Ames,AF0004,At-large,Federalist,1772,11493,0.154,TRUE,FALSE
+meae.congressional.congress03.ma.county,NA,"Samuel Dexter, Jr.",DS0053,At-large,Federalist,1756,11585,0.152,TRUE,FALSE
+meae.congressional.congress03.ma.county,NA,Shearjashub Bourne,BS0036,At-large,NA,1585,11535,0.137,TRUE,FALSE
+meae.congressional.congress03.ma.county,NA,George Thacher,TG0012,At-large,Federalist,1319,2285,0.577,TRUE,FALSE
+meae.congressional.congress03.ma.county,NA,John Davis,DJ0181,At-large,NA,1231,11535,0.107,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Thompson J. Skinner,ST0101,At-large,NA,1143,4093,0.279,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Henry Dearborn,DH0026,At-large,NA,1107,1995,0.555,TRUE,FALSE
+meae.congressional.congress03.ma.county,NA,Jonathan Grout,GJ0158,At-large,NA,1054,12757,0.083,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Peleg Coffin, Jr.",CP0027,At-large,NA,1079,1953,0.179,TRUE,FALSE
+meae.congressional.congress03.ma.county,NA,Charles Jarvis,JC0015,At-large,NA,893,11493,0.078,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Nathaniel Wells,WN0011,At-large,NA,808,2285,0.354,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Joseph B. Varnum,VJ0024,At-large,NA,743,2992,0.248,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"William Lithgow, Jr.",LW0054,At-large,NA,731,1995,0.366,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,George Leonard,LG0029,At-large,NA,691,10546,0.066,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,William Heath,HW0171,At-large,NA,634,14485,0.044,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Elbridge Gerry,GE0049,At-large,NA,532,11585,0.046,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,James Warren,WJ0248,At-large,NA,468,13488,0.035,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,John Bacon,BJ0484,At-large,NA,307,12686,0.024,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Phanuel Bishop,BP0031,At-large,NA,249,10546,0.024,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,John Coffin Jones,JJ0099,At-large,NA,229,8593,0.027,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Tristram Jordan,JT0039,At-large,NA,158,2285,0.069,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,James Sullivan,SJ0366,At-large,NA,126,8593,0.015,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Samuel Phillips,PS0029,At-large,NA,125,11506,0.011,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,William Eustis,EW0031,At-large,NA,98,11493,0.009,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Levi Lincoln,LL0038,At-large,NA,94,12757,0.007,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Theophilus Parsons,PT0090,At-large,Federalist,93,11506,0.008,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,James Bowdoin,BJ0467,At-large,NA,90,11493,0.008,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Martin Kinsley,KM0013,At-large,NA,89,4164,0.021,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Nathaniel Gorham,GN0007,At-large,NA,83,8593,0.01,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Ebenezer Bridge,BE0139,At-large,NA,82,11585,0.007,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Alexander Campbell,CA0083,At-large,NA,62,1995,0.031,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Nathaniel Paine,PN0020,At-large,NA,61,4164,0.015,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Timothy Paine,PT0071,At-large,NA,61,12757,0.005,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Elijah Dwight,DE0016,At-large,NA,58,4093,0.014,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Moses Gill,GM0022,At-large,NA,51,12757,0.004,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Azor Orne,OA0008,At-large,NA,47,11506,0.004,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Samuel Henshaw,HS0048,At-large,NA,46,8593,0.005,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,John Brooks,BJ0505,At-large,Federalist,43,2992,0.014,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Nathan Dana,DN0011,At-large,Federalist,43,8593,0.005,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Edward H. Robbins,RE0018,At-large,NA,39,8593,0.005,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Thomas Jones,JT0041,At-large,NA,39,4093,0.01,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Daniel Bigelow,BD0045,At-large,NA,40,4164,0.01,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Barnabus Bidwell,BB0057,At-large,NA,35,12686,0.003,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Henry Davin,DH0016,At-large,NA,29,1995,0.015,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Thomas Rice,RT0039,At-large,NA,21,1995,0.011,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Thomas Russell,RT0060,At-large,NA,21,8593,0.002,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Benjamin Lincoln,LB0025,At-large,Federalist,20,8593,0.002,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Oliver Wendell,WO0023,At-large,NA,20,2900,0.007,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,John Lowell,LJ0103,At-large,Federalist,19,2900,0.007,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Joseph Homer,HJ0390,At-large,NA,19,2992,0.006,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Ebenezer Hunt,HE0035,At-large,NA,18,8593,0.002,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,John Jarvis,JJ0059,At-large,NA,16,8593,0.002,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,William Williams,WW0126,At-large,NA,16,12686,0.001,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Paul Dudley Sergeant,SP0040,At-large,NA,15,1995,0.008,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Henry Sewall,SH0030,At-large,NA,14,1995,0.007,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Abel Wilder,WA0042,At-large,NA,13,4164,0.003,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Ebenezer Wales,WE0053,At-large,NA,13,8593,0.002,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Elijah Brigham,BE0103,At-large,NA,13,12757,0.001,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Josiah Stearns,SJ0359,At-large,NA,12,4164,0.003,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Timothy Newell,NT0001,At-large,NA,12,8593,0.001,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,John Coffin,CJ0313,At-large,NA,11,8593,0.001,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,John Thompson Skinner,SJ0468,At-large,NA,11,4093,0.003,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Timothy Edwards,ET0013,At-large,NA,8,4093,0.002,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Dummer Sewall,SD0057,At-large,NA,7,1995,0.004,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Francis Dana,DF0019,At-large,Federalist,7,8593,0.001,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,John Mycall,MJ0303,At-large,NA,7,2913,0.002,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Stephen Cross,CS0088,At-large,NA,7,11506,0.001,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Stephen Higginson,HS0074,At-large,Federalist,7,11493,0.001,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Tristram Dalton,DT0022,At-large,NA,7,8593,0.001,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Benjamin Grant,GB0023,At-large,NA,5,4164,0.001,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Daniel Cony,CD0042,At-large,NA,5,1995,0.003,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Eleazer Brooks,BE0031,At-large,NA,5,11585,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,George Partridge,PG0027,At-large,NA,5,11535,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Aaron Hobart,HA0109,At-large,NA,4,8593,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Caleb Strong,SC0023,At-large,Federalist,4,8593,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Micah White,WM0017,At-large,NA,4,8593,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,John Gardiner,GJ0180,At-large,NA,3,1995,0.002,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,John Pratt,PJ0233,At-large,NA,3,1953,0.002,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,John Williams,WJ0343,At-large,NA,3,8593,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,William Whiting,WW0090,At-large,NA,3,4093,0.001,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Daniel Howard,HD0040,At-large,NA,2,2942,0.001,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Samuel Brown,BS0111,At-large,NA,2,11493,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Simeon Danbar,DS0031,At-large,NA,2,2942,0.001,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Simeon Strong,SS0125,At-large,NA,2,8593,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Benjamin Haywood,HB0067,At-large,NA,1,4164,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Benjamin Whitman,WB0026,At-large,NA,1,8593,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Ebenezer Parsons,PE0031,At-large,NA,1,2900,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Edward Pullen,PE0033,At-large,NA,1,2913,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Harleman Thomas,TH0008,At-large,NA,1,1995,0.001,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Haskell Derby,DH0014,At-large,NA,1,2913,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Holder Slocum,SH0032,At-large,NA,1,1953,0.001,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Isaac Thompson,TI0012,At-large,NA,1,2942,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,James Winthrop,WJ0341,At-large,NA,1,2992,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Leonard Jarvis,JL0007,At-large,NA,1,8593,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Moses Wood,WM0029,At-large,NA,1,2992,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Nathaniel Bishop,BN0011,At-large,NA,1,4093,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Nathaniel Goodwin,GN0009,At-large,NA,1,8593,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Parker Varnum,VP0021,At-large,NA,1,2992,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Richard Devens,DR0028,At-large,NA,1,2992,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Samuel Jarvis,JS0005,At-large,NA,1,8593,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Thomas Davis,DT0096,At-large,NA,1,2900,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,Walter Spooner,SW0151,At-large,NA,1,1953,0.001,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,William Bidwell,BW0167,At-large,NA,1,4093,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,William Shepard,SW0150,At-large,NA,1,8593,0,FALSE,FALSE
+meae.congressional.congress02.de.county,de.uscongress.1790,John Vining,VJ0002,At-large,NA,252,507,0.497,TRUE,FALSE
+meae.congressional.congress02.de.county,de.uscongress.1790,Joshua Clayton,CJ0087,At-large,NA,145,507,0.286,FALSE,FALSE
+meae.congressional.congress02.de.county,de.uscongress.1790,Thomas Duff,DT0018,At-large,NA,104,507,0.205,FALSE,FALSE
+meae.congressional.congress02.de.county,de.uscongress.1790,John Banning,BJ0072,At-large,NA,2,507,0.004,FALSE,FALSE
+meae.congressional.congress02.de.county,de.uscongress.1790,Nathaniel Mitchell,MN0002,At-large,NA,2,507,0.004,FALSE,FALSE
+meae.congressional.congress02.de.county,de.uscongress.1790,John Gordon,GJ0019,At-large,NA,1,507,0.002,FALSE,FALSE
+meae.congressional.congress02.de.county,de.uscongress.1790,William Perry,PW0014,At-large,NA,1,507,0.002,FALSE,FALSE
+meae.congressional.congress02.ga.county,ga.uscongress.MiddleDistrict.1791,Abraham Baldwin,BA0026,2,Anti-Federalist,330,587,0.562,TRUE,FALSE
+meae.congressional.congress02.ga.county,ga.uscongress.MiddleDistrict.1791,Thomas P. Carnes,CT0042,2,Federalist,248,587,0.422,FALSE,FALSE
+meae.congressional.congress02.ga.county,ga.uscongress.MiddleDistrict.1791,James Jackson,JJ0004,2,NA,7,587,0.012,FALSE,FALSE
+meae.congressional.congress02.ga.county,ga.uscongress.MiddleDistrict.1791,John Jones,JJ0009,2,NA,2,587,0.003,FALSE,FALSE
+meae.congressional.congress02.ga.county,ga.uscongress.NorthernDistrict.1791,Francis Willis,WF0022,3,Anti-Federalist,549,825,0.665,TRUE,FALSE
+meae.congressional.congress02.ga.county,ga.uscongress.NorthernDistrict.1791,George Mathews,MG0009,3,Federalist,276,825,0.335,FALSE,FALSE
+meae.congressional.congress02.ga.county,ga.uscongress.SouthernDistrict.1791,Anthony Wayne,WA0009,1,Federalist,278,552,0.504,TRUE,FALSE
+meae.congressional.congress02.ga.county,ga.uscongress.SouthernDistrict.1791,James Jackson,JJ0004,1,Anti-Federalist,273,552,0.495,FALSE,FALSE
+meae.congressional.congress02.ga.county,ga.uscongress.SouthernDistrict.1791,scattering,NA,1,NA,1,552,0.002,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.1.1790,Fisher Ames,AF0004,1,Federalist,1850,2509,0.737,TRUE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.1.1790,"Benjamin Austin, Jr.",AB0013,1,NA,397,2509,0.158,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.1.1790,"Thomas Dawes, Jr.",DT0015,1,NA,248,2509,0.099,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.1.1790,William Heath,HW0171,1,NA,12,2509,0.005,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.1.1790,Elijah Dunbar,DE0023,1,NA,1,2509,0,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.1.1790,Oliver Pond,PO0008,1,NA,1,2509,0,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.2.1790,Benjamin Goodhue,GB0015,2,Federalist,1027,1182,0.869,TRUE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.2.1790,Samuel Holten,HS0071,2,NA,129,1182,0.109,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.2.1790,Azor Orne,OA0008,2,NA,9,1182,0.008,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.2.1790,Nathan Dane,DN0011,2,Federalist,6,1182,0.005,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.2.1790,Theophilus Parsons,PT0090,2,Federalist,6,1182,0.005,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.2.1790,Daniel Kilham,KD0021,2,NA,3,1182,0.003,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.2.1790,Samuel Sewall,SS0068,2,Federalist,2,1182,0.002,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.3.1790,Elbridge Gerry,GE0049,3,NA,1067,1792,0.595,TRUE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.3.1790,Nathaniel Gorham,GN0007,3,NA,699,1792,0.39,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.3.1790,Joseph B. Varnum,VJ0024,3,NA,13,1792,0.007,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.3.1790,Francis Dana,DF0019,3,Federalist,9,1792,0.005,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.3.1790,Ebenezer Bridge,BE0139,3,NA,2,1792,0.001,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.3.1790,William Hull,HW0079,3,NA,1,1792,0.001,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.3.1790,Oliver Prescott,PO0007,3,NA,1,1792,0.001,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.4.1790,Theodore Sedgwick,ST0102,4,Federalist,2241,2987,0.75,TRUE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.4.1790,Samuel Lyman,LS0018,4,Federalist,487,2987,0.163,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.4.1790,William Lyman,LW0055,4,NA,74,2987,0.025,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.4.1790,Thompson J. Skinner,ST0101,4,NA,62,2987,0.021,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.4.1790,John Bacon,BJ0484,4,NA,60,2987,0.02,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.4.1790,Samuel Fowler,FS0045,4,NA,29,2987,0.01,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.4.1790,William Whiting,WW0090,4,NA,19,2987,0.006,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.4.1790,Simeon Strong,SS0125,4,NA,11,2987,0.004,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.4.1790,Jonathan Arms,AJ0087,4,NA,1,2987,0,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.4.1790,Elijah Hunt,HE0036,4,NA,1,2987,0,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.4.1790,Samuel Pomeroy,PS0061,4,NA,1,2987,0,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.4.1790,William Williams,WW0126,4,NA,1,2987,0,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.5.ballot2.1790,Shearjashub Bourne,BS0036,5,NA,667,1151,0.579,TRUE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.5.ballot2.1790,Joshua Thomas,TJ0188,5,NA,278,1151,0.242,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.5.ballot2.1790,James Warren,WJ0248,5,NA,85,1151,0.074,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.5.ballot2.1790,Thomas Davis,DT0014,5,NA,77,1151,0.067,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.5.ballot2.1790,George Partridge,PG0027,5,NA,28,1151,0.024,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.5.ballot2.1790,John Davis,DJ0181,5,NA,9,1151,0.008,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.5.ballot2.1790,James Sprout,SJ0412,5,NA,5,1151,0.004,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.5.ballot2.1790,Abner Hammett,HA0094,5,NA,1,1151,0.001,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.5.ballot2.1790,Ephraim Spooner,SE0027,5,NA,1,1151,0.001,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.7.ballot2.1790,Artemas Ward,WA0043,7,Federalist,1254,2457,0.51,TRUE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.7.ballot2.1790,Jonathan Grout,GJ0158,7,NA,1119,2457,0.455,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.7.ballot2.1790,Nathan Tyler,TN0002,7,NA,61,2457,0.025,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.7.ballot2.1790,John Sprague,SJ0360,7,NA,13,2457,0.005,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.7.ballot2.1790,Plingo Merick,MP0066,7,NA,3,2457,0.001,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.7.ballot2.1790,Jeremiah Learned,LJ0102,7,NA,2,2457,0.001,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.7.ballot2.1790,Timothy Paine,PT0071,7,NA,2,2457,0.001,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.7.ballot2.1790,Daniel Bigelow,BD0045,7,NA,1,2457,0,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.7.ballot2.1790,David Bigelow,BD0046,7,NA,1,2457,0,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.7.ballot2.1790,Joseph Stone,SJ0356,7,NA,1,2457,0,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.8.ballot4.1791,George Thacher,TG0012,8,Federalist,2738,5343,0.512,TRUE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.8.ballot4.1791,"William Lithgow, Jr.",LW0054,8,NA,2178,5343,0.408,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.8.ballot4.1791,Nathaniel Wells,WN0011,8,NA,347,5343,0.065,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.8.ballot4.1791,Josiah Thacher,TJ0159,8,NA,26,5343,0.005,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.8.ballot4.1791,John Gardner,GJ0180,8,NA,22,5343,0.004,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.8.ballot4.1791,Henry Dearborn,DH0026,8,NA,21,5343,0.004,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.8.ballot4.1791,David Mitchell,MD0024,8,NA,4,5343,0.001,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.8.ballot4.1791,Joshua B. Osgood,OJ0065,8,NA,2,5343,0,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.8.ballot4.1791,Dummer Sewall,SD0057,8,NA,2,5343,0,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.8.ballot4.1791,Robert Dyer,DR0034,8,NA,1,5343,0,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.8.ballot4.1791,George Lewis,LG0036,8,NA,1,5343,0,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.8.ballot4.1791,William Wedgery,WW0129,8,NA,1,5343,0,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.6.ballot9.1792,George Leonard,LG0029,6,NA,1161,2150,0.54,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.6.ballot9.1792,Phanuel Bishop,BP0031,6,NA,578,2150,0.269,TRUE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.6.ballot9.1792,"Peleg Coffin, Jr.",CP0027,6,NA,348,2150,0.162,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.6.ballot9.1792,David Cobb,CD0056,6,NA,62,2150,0.029,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.6.ballot9.1792,Philip Miller,MP0033,6,NA,1,2150,0,FALSE,FALSE
+meae.congressional.congress02.nc.county,nc.uscongress1.1791,John Steele,SJ0192,1,Anti-Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress02.nc.county,nc.uscongress1.1791,Joseph MacDowell,MJ0540,1,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.nc.county,nc.uscongress2.1791,Nathaniel Macon,MN0068,2,Anti-Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress02.nc.county,nc.uscongress2.1791,Alexander Mebane,MA0149,2,Anti-Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.nc.county,nc.uscongress3.1791,John Baptist Ashe,AJ0212,3,Anti-Federalist,NA,0,NA,TRUE,TRUE
+meae.congressional.congress02.nc.county,nc.uscongress4.1791,Hugh Williamson,WH0019,4,Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress02.nc.county,nc.uscongress4.1791,Charles Johnson,JC0019,4,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.nc.county,nc.uscongress5.1791,William B. Grove,GW0091,5,Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress02.nc.county,nc.uscongress5.1791,Timothy Bloodworth,BT0199,5,Anti-Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.nc.county,nc.uscongress5.1791,Benjamin Smith,SB0058,5,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.nh.county,nh.uscongress.1790,Samuel Livermore,LS0047,At-large,Federalist,3585,13388,0.268,TRUE,FALSE
+meae.congressional.congress02.nh.county,nh.uscongress.1790,Jeremiah Smith,SJ0471,At-large,Federalist,1876,13388,0.14,TRUE,FALSE
+meae.congressional.congress02.nh.county,nh.uscongress.1790,Nicholas Gilman,GN0015,At-large,NA,1681,13388,0.126,TRUE,FALSE
+meae.congressional.congress02.nh.county,nh.uscongress.1790,John Samuel Sherburne,SJ0474,At-large,NA,1591,13388,0.119,FALSE,FALSE
+meae.congressional.congress02.nh.county,nh.uscongress.1790,Abiel Foster,FA0029,At-large,Federalist,1213,13388,0.091,FALSE,FALSE
+meae.congressional.congress02.nh.county,nh.uscongress.1790,James Sheafe,SJ0463,At-large,Federalist,1111,13388,0.083,FALSE,FALSE
+meae.congressional.congress02.nh.county,nh.uscongress.1790,Nathaniel Peabody,PN0034,At-large,NA,1002,13388,0.075,FALSE,FALSE
+meae.congressional.congress02.nh.county,nh.uscongress.1790,Phillips White,WP0055,At-large,NA,NA,13388,NA,FALSE,FALSE
+meae.congressional.congress02.nh.county,nh.uscongress.1790,William Page,PW0114,At-large,NA,NA,13388,NA,FALSE,FALSE
+meae.congressional.congress02.nh.county,nh.uscongress.1790,Benjamin Bellows,BB0023,At-large,NA,NA,13388,NA,FALSE,FALSE
+meae.congressional.congress02.nh.county,nh.uscongress.1790,Joshua Atherton,AJ0151,At-large,NA,NA,13388,NA,FALSE,FALSE
+meae.congressional.congress02.nh.county,nh.uscongress.1790,Simon Olcott,OS0017,At-large,Federalist,NA,13388,NA,FALSE,FALSE
+meae.congressional.congress02.nh.county,nh.uscongress.1790,Amos Cogswell,CA0016,At-large,NA,NA,13388,NA,FALSE,FALSE
+meae.congressional.congress02.nh.county,nh.uscongress.1790,Dana,NA,At-large,NA,NA,13388,NA,FALSE,FALSE
+meae.congressional.congress02.nh.county,nh.uscongress.1790,Elisha Payne,PE0134,At-large,NA,NA,13388,NA,FALSE,FALSE
+meae.congressional.congress02.nh.county,nh.uscongress.1790,John Bell,BJ0559,At-large,NA,NA,13388,NA,FALSE,FALSE
+meae.congressional.congress02.nh.county,nh.uscongress.1790,Joshua Wentworth,WJ0318,At-large,NA,NA,13388,NA,FALSE,FALSE
+meae.congressional.congress02.nh.county,nh.uscongress.1790,Woodbury Langdon,LW0088,At-large,NA,NA,13388,NA,FALSE,FALSE
+meae.congressional.congress02.nh.county,nh.uscongress.1790,Jonathan Freeman,FJ0138,At-large,Federalist,NA,13388,NA,FALSE,FALSE
+meae.congressional.congress02.nh.county,nh.uscongress.1790,Aaron Hutchinton,HA0058,At-large,NA,NA,13388,NA,FALSE,FALSE
+meae.congressional.congress02.nh.county,nh.uscongress.1790,John Pickering,PJ0232,At-large,NA,NA,13388,NA,FALSE,FALSE
+meae.congressional.congress02.nh.county,nh.uscongress.1790,Thomas Cogswell,CT0136,At-large,NA,NA,13388,NA,FALSE,FALSE
+meae.congressional.congress02.nh.county,nh.uscongress.1790,Ladd,NA,At-large,NA,NA,13388,NA,FALSE,FALSE
+meae.congressional.congress02.nh.county,nh.uscongress.1790,Oliver Peabody,PO0014,At-large,Federalist,NA,13388,NA,FALSE,FALSE
+meae.congressional.congress02.nh.county,nh.uscongress.1790,Charles Henzell,HC0149,At-large,NA,NA,13388,NA,FALSE,FALSE
+meae.congressional.congress02.nh.county,nh.uscongress.1790,Elihu Hyde,HE0175,At-large,NA,NA,13388,NA,FALSE,FALSE
+meae.congressional.congress02.nh.county,nh.uscongress.1790,Elisha Ticknor,TE0082,At-large,NA,NA,13388,NA,FALSE,FALSE
+meae.congressional.congress02.nh.county,nh.uscongress.1790,scattering,NA,At-large,NA,1329,13388,0.099,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Abraham Clark,CA0071,At-large,NA,6435,32338,0.199,TRUE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Jonathan Dayton,DJ0209,At-large,Federalist,4446,32338,0.137,TRUE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Elias Boudinot,BE0179,At-large,Federalist,4433,32338,0.137,TRUE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Aaron Kitchel,KA0023,At-large,NA,2828,32338,0.087,TRUE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Lambert Cadwalader,CL0010,At-large,Federalist,2275,32338,0.07,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,James Linn,LJ0151,At-large,NA,1773,32338,0.055,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Thomas Sinnickson,ST0147,At-large,Federalist,1648,32338,0.051,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Robert Hoops,HR0098,At-large,NA,1592,32338,0.049,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Thomas Henderson,HT0100,At-large,Federalist,1210,32338,0.037,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,John Witherspoon,WJ0338,At-large,NA,884,32338,0.027,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,John Beatty,BJ0587,At-large,Federalist,731,32338,0.023,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,John Sheppard,SJ0521,At-large,NA,598,32338,0.018,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Joseph Ellis,EJ0229,At-large,NA,560,32338,0.017,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Robert Ogden,OR0010,At-large,NA,490,32338,0.015,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,James Schureman,SJ0522,At-large,NA,489,32338,0.015,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,John Harring,HJ0385,At-large,NA,365,32338,0.011,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Joseph Hugg,HJ0386,At-large,NA,356,32338,0.011,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Samuel Dick,DS0108,At-large,NA,210,32338,0.006,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,John Bayard,BJ0588,At-large,NA,196,32338,0.006,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Job Smith,SJ0523,At-large,NA,158,32338,0.005,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Ebenezer Elmer,EE0016,At-large,NA,157,32338,0.005,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Abraham Ogden,OA0023,At-large,NA,103,32338,0.003,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Jeremiah Elbridge,EJ0093,At-large,NA,69,32338,0.002,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Franklin Davenport,DF0014,At-large,Federalist,53,32338,0.002,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Robert L. Hooper,HR0099,At-large,NA,50,32338,0.002,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Samuel Sharp,SS0153,At-large,NA,35,32338,0.001,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Richard Howell,HR0100,At-large,NA,33,32338,0.001,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Cornelius Hunnison,HC0052,At-large,NA,32,32338,0.001,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Joseph Bloomfield,BJ0589,At-large,NA,22,32338,0.001,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Bateman Lloyd,LB0030,At-large,NA,21,32338,0.001,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,James Parker,PJ0264,At-large,NA,21,32338,0.001,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Archibald Campbell,CA0072,At-large,NA,19,32338,0.001,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,William Eugene Imlay,IW0000,At-large,NA,15,32338,0,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Garret Leydecker,LG0015,At-large,NA,8,32338,0,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,James Cadwalader,CJ0388,At-large,NA,4,32338,0,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Henry Land,LH0024,At-large,NA,4,32338,0,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Abraham Ryerson,RA0022,At-large,NA,4,32338,0,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,John Benson,BJ0590,At-large,NA,3,32338,0,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Ebenezer Howell,HE0075,At-large,NA,3,32338,0,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Robert Hooper,HR0101,At-large,NA,2,32338,0,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Adonijah Schuyler,SA0107,At-large,NA,2,32338,0,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,George Dooremus,DG0026,At-large,NA,1,32338,0,FALSE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongress2.1790,John Laurence,LJ0218,2,Federalist,691,702,0.984,TRUE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongress2.1790,Melancton Smith,SM0075,2,Anti-Federalist,11,702,0.016,FALSE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongress3.1790,Egbert Benson,BE0171,3,Federalist,723,1191,0.607,TRUE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongress3.1790,Theodorus Bailey,BT0171,3,Anti-Federalist,468,1191,0.393,FALSE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongress4.1790,Cornelius C. Schoonmaker,SC0076,4,Anti-Federalist,898,1728,0.52,TRUE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongress4.1790,Peter Van Gaesbeck,VP0015,4,Federalist,753,1728,0.436,FALSE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongress4.1790,John Hathorn,HJ0485,4,Federalist,61,1728,0.035,FALSE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongress4.1790,Christopher Tappen,TC0039,4,Anti-Federalist,13,1728,0.008,FALSE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongress4.1790,William Arnold,AW0049,4,NA,1,1728,0.001,FALSE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongress4.1790,P. Tappen,TP0033,4,NA,1,1728,0.001,FALSE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongress4.1790,W. Thompson,TW0052,4,NA,1,1728,0.001,FALSE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongress5.1790,Peter Sylvester,SP0060,5,Federalist,1712,2930,0.584,TRUE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongress5.1790,John Livingston,LJ0214,5,Anti-Federalist,1218,2930,0.416,FALSE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongress6.1790,James Gordon,GJ0267,6,Federalist,1465,2482,0.59,TRUE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongress6.1790,Jeremiah Van Rensselaer,VJ0189,6,Anti-Federalist,1017,2482,0.41,FALSE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongressspecial.1791,Thomas Tredwell,TT0055,1,Anti-Federalist,666,2538,0.262,TRUE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongressspecial.1791,John Vanderbilt,VJ0061,1,Federalist,481,2538,0.19,FALSE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongressspecial.1791,Henry Peters,PH0027,1,Federalist,369,2538,0.145,FALSE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongressspecial.1791,Ezra L'Hommedieu,LE0003,1,Anti-Federalist,361,2538,0.142,FALSE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongressspecial.1791,Stephen Carman,CS0101,1,Federalist,360,2538,0.142,FALSE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongressspecial.1791,Isaac Ledyard,LI0009,1,Anti-Federalist,301,2538,0.119,FALSE,FALSE
+meae.congressional.congress02.pa.county,pa.uscongress1.1791,Thomas Fitzsimons,FT0061,1,Federalist,1291,1517,0.851,TRUE,FALSE
+meae.congressional.congress02.pa.county,pa.uscongress1.1791,Charles Thompson,TC0054,1,Republican,226,1517,0.149,FALSE,FALSE
+meae.congressional.congress02.pa.county,pa.uscongress2.1791,Frederick A. Muhlenberg,MF0016,2,Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress02.pa.county,pa.uscongress2.1791,Amos Gregg,GA0063,2,Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.pa.county,pa.uscongress2.1791,Jones,NA,2,Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.pa.county,pa.uscongress3.1791,Israel Jacobs,JI0006,3,Federalist,1878,3463,0.542,TRUE,FALSE
+meae.congressional.congress02.pa.county,pa.uscongress3.1791,Peter Muhlenberg,MP0089,3,Republican,1585,3463,0.458,FALSE,FALSE
+meae.congressional.congress02.pa.county,pa.uscongress4.1791,Daniel Hiester,HD0091,4,Federalist,NA,0,NA,TRUE,TRUE
+meae.congressional.congress02.pa.county,pa.uscongress5.1791,John W. Kittera,KJ0172,5,Federalist,NA,0,NA,TRUE,TRUE
+meae.congressional.congress02.pa.county,pa.uscongress6.1791,Andrew Gregg,GA0060,6,Republican,3437,6709,0.512,TRUE,FALSE
+meae.congressional.congress02.pa.county,pa.uscongress6.1791,John Allison,AJ0252,6,Federalist,1229,6709,0.183,FALSE,FALSE
+meae.congressional.congress02.pa.county,pa.uscongress6.1791,James MacLean,MJ0807,6,Federalist,728,6709,0.109,FALSE,FALSE
+meae.congressional.congress02.pa.county,pa.uscongress6.1791,Thomas Johnston,JT0037,6,Federalist,692,6709,0.103,FALSE,FALSE
+meae.congressional.congress02.pa.county,pa.uscongress6.1791,William Montgomery,MW0284,6,Republican,623,6709,0.093,FALSE,FALSE
+meae.congressional.congress02.pa.county,pa.uscongress7.1791,Thomas Hartley,HT0154,7,Federalist,2908,4088,0.711,TRUE,FALSE
+meae.congressional.congress02.pa.county,pa.uscongress7.1791,William Irvine,IW0016,7,Republican,1180,4088,0.289,FALSE,FALSE
+meae.congressional.congress02.pa.county,pa.uscongress8.1791,William Findley,FW0062,8,Republican,2899,4416,0.656,TRUE,FALSE
+meae.congressional.congress02.pa.county,pa.uscongress8.1791,John Woods,WJ0613,8,Federalist,1517,4416,0.344,FALSE,FALSE
+meae.congressional.congress02.ri.county,ri.uscongress2.1790,Benjamin Bourne,BB0013,At-large,Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress02.ri.county,ri.uscongress2.1790,Paul Mumford,MP0122,At-large,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.ri.county,ri.uscongress2.1790,James Sheldon,SJ0042,At-large,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.ri.county,ri.uscongress2.1790,Job Comstock,CJ0038,At-large,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.ri.county,ri.uscongress2.1790,Stephen Arnold,AS0002,At-large,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.ri.county,ri.uscongress2.1790,Peleg Arnold,AP0028,At-large,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.sc.county,sc.uscongress.district1.1790,William Smith,SW0299,1,NA,NA,0,NA,TRUE,TRUE
+meae.congressional.congress02.sc.county,sc.uscongress.district2.1790,Robert Barnwell,BR0143,2,NA,NA,0,NA,TRUE,TRUE
+meae.congressional.congress02.sc.county,sc.uscongress.district3.1790,Daniel Huger,HD0170,3,NA,NA,0,NA,TRUE,TRUE
+meae.congressional.congress02.sc.county,sc.uscongress.district4.1790,Thomas Sumter,ST0266,4,NA,NA,0,NA,TRUE,TRUE
+meae.congressional.congress02.sc.county,sc.uscongress.district5.1790,Thomas Tudor Tucker,TT0007,5,NA,NA,0,NA,TRUE,TRUE
+meae.congressional.congress02.va.county,va.uscongress.1.1790,Alexander White,WA0166,1,NA,999,1064,0.939,TRUE,FALSE
+meae.congressional.congress02.va.county,va.uscongress.1.1790,J.P. Duval,DJ0577,1,NA,65,1064,0.061,FALSE,FALSE
+meae.congressional.congress02.va.county,va.uscongress.10.1790,Samuel Griffin,GS0114,10,NA,NA,0,NA,TRUE,TRUE
+meae.congressional.congress02.va.county,va.uscongress.2.1790,John Brown,BJ0175,2,NA,NA,0,NA,TRUE,FALSE
+meae.congressional.congress02.va.county,va.uscongress.2.1790,James M.  Marshall,MJ1328,2,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.va.county,va.uscongress.3.1790,Andrew Moore,MA0281,3,NA,NA,0,NA,TRUE,TRUE
+meae.congressional.congress02.va.county,va.uscongress.4.1790,Richard Bland Lee,LR0090,4,NA,954,1536,0.621,TRUE,FALSE
+meae.congressional.congress02.va.county,va.uscongress.4.1790,Arthur Lee,LA0122,4,NA,582,1536,0.379,FALSE,FALSE
+meae.congressional.congress02.va.county,va.uscongress.5.1790,James Madison,MJ1315,5,NA,NA,0,NA,TRUE,FALSE
+meae.congressional.congress02.va.county,va.uscongress.5.1790,James Monroe,MJ1316,5,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.va.county,va.uscongress.6.1790,Abraham B. Venable,VA0029,6,NA,NA,0,NA,TRUE,FALSE
+meae.congressional.congress02.va.county,va.uscongress.6.1790,Charles Lintch,LC0069,6,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.va.county,va.uscongress.6.1790,Charles Clay,CC0130,6,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.va.county,va.uscongress.7.1790,John Page,PJ0728,7,NA,NA,0,NA,TRUE,FALSE
+meae.congressional.congress02.va.county,va.uscongress.7.1790,Meriwether Smith,SM0119,7,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.va.county,va.uscongress.7.1790,Francis Corbin,CF0032,7,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.va.county,va.uscongress.7.1790,Henry Lee,LH0064,7,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.va.county,va.uscongress.8.1790,Josiah Parker,PJ0725,8,NA,NA,0,NA,TRUE,FALSE
+meae.congressional.congress02.va.county,va.uscongress.8.1790,Isaac Avery,AI0028,8,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.va.county,va.uscongress.9.1790,William B. Giles,GW0186,9,NA,2097,3532,0.594,TRUE,FALSE
+meae.congressional.congress02.va.county,va.uscongress.9.1790,Thomas Edmonds,ET0047,9,NA,1435,3532,0.406,FALSE,FALSE
+meae.congressional.congress02.va.county,va.uscongress.9.1790,John Mason,MJ1314,9,NA,NA,3532,NA,FALSE,FALSE
