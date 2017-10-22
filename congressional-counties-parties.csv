@@ -463,6 +463,13 @@ meae.congressional.congress02.va.county,wvs_monongalia,54061,1,NA,NA,NA,NA,NA,NA
 meae.congressional.congress02.va.county,wvs_ohio,54069,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress02.va.county,wvs_pendleton,54071,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress02.va.county,wvs_randolph,54083,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress02.vt.county,vts_addison,50001,1,NA,0.022,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.978,district
+meae.congressional.congress02.vt.county,vts_bennington,50003,1,NA,0.022,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.978,district
+meae.congressional.congress02.vt.county,vts_chittenden,50007,1,NA,0.022,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.978,district
+meae.congressional.congress02.vt.county,vts_orange,50017,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress02.vt.county,vts_rutland,50021,1,NA,0.022,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.978,district
+meae.congressional.congress02.vt.county,vts_windham,50025,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress02.vt.county,vts_windsor,50027,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress03.de.county,des_kent,10001,At-large,905,0.306,710,0.24,NA,NA,NA,NA,NA,NA,1345,0.454,county
 meae.congressional.congress03.de.county,des_newcastle,10003,At-large,476,0.398,719,0.602,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress03.de.county,des_sussex,10005,At-large,862,0.505,844,0.495,NA,NA,NA,NA,NA,NA,NA,NA,county
