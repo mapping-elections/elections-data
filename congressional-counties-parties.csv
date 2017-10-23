@@ -347,7 +347,7 @@ meae.congressional.congress02.ny.county,nys_ontario,36069,6,NA,NA,NA,NA,NA,NA,NA
 meae.congressional.congress02.ny.county,nys_westchester,36119,"2,3",356,0.944,21,0.056,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress02.ny.county,nys_albany,36001,"5,6",1757,0.71,716,0.29,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress02.pa.county,pas_allegheny,42003,8,572,0.802,NA,NA,141,0.198,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress02.pa.county,pas_bedford,42009,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress02.pa.county,pas_bedford,42009,6,NA,0.395,NA,NA,NA,0.605,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress02.pa.county,pas_berks,42011,4,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress02.pa.county,pas_bucks,42017,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress02.pa.county,pas_chester,42029,3,1221,0.601,NA,NA,811,0.399,NA,NA,NA,NA,NA,NA,county
@@ -359,10 +359,10 @@ meae.congressional.congress02.pa.county,pas_franklin,42055,6,895,0.753,NA,NA,293
 meae.congressional.congress02.pa.county,pas_huntingdon,42061,6,694,0.768,NA,NA,210,0.232,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress02.pa.county,pas_lancaster,42071,5,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress02.pa.county,pas_luzerne,42079,4,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
-meae.congressional.congress02.pa.county,pas_mifflin,42087,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress02.pa.county,pas_mifflin,42087,6,NA,0.395,NA,NA,NA,0.605,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress02.pa.county,pas_montgomery,42091,3,657,0.459,NA,NA,774,0.541,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress02.pa.county,pas_northampton,42095,4,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
-meae.congressional.congress02.pa.county,pas_northumberland,42097,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress02.pa.county,pas_northumberland,42097,6,NA,0.395,NA,NA,NA,0.605,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress02.pa.county,pas_philadelphia,42101,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress02.pa.county,pas_washington,42125,8,633,0.363,NA,NA,1109,0.637,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress02.pa.county,pas_westmoreland,42129,8,149,0.107,NA,NA,1248,0.893,NA,NA,NA,NA,NA,NA,county
