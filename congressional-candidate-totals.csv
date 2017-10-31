@@ -378,7 +378,7 @@ meae.congressional.congress02.nc.county,nc.uscongress1.1791,John Steele,SJ0192,1
 meae.congressional.congress02.nc.county,nc.uscongress1.1791,Joseph MacDowell,MJ0540,1,Federalist,NA,0,NA,FALSE,FALSE
 meae.congressional.congress02.nc.county,nc.uscongress2.1791,Nathaniel Macon,MN0068,2,Anti-Federalist,NA,0,NA,TRUE,FALSE
 meae.congressional.congress02.nc.county,nc.uscongress2.1791,Alexander Mebane,MA0149,2,Anti-Federalist,NA,0,NA,FALSE,FALSE
-meae.congressional.congress02.nc.county,nc.uscongress3.1791,John Baptist Ashe,AJ0212,3,Anti-Federalist,NA,0,NA,TRUE,TRUE
+meae.congressional.congress02.nc.county,nc.uscongress3.1791,John Baptist Ashe,AJ0212,3,Anti-Federalist,NA,0,1,TRUE,TRUE
 meae.congressional.congress02.nc.county,nc.uscongress4.1791,Hugh Williamson,WH0019,4,Federalist,NA,0,NA,TRUE,FALSE
 meae.congressional.congress02.nc.county,nc.uscongress4.1791,Charles Johnson,JC0019,4,Federalist,NA,0,NA,FALSE,FALSE
 meae.congressional.congress02.nc.county,nc.uscongress5.1791,William B. Grove,GW0091,5,Federalist,NA,0,NA,TRUE,FALSE
@@ -482,8 +482,8 @@ meae.congressional.congress02.pa.county,pa.uscongress2.1791,Amos Gregg,GA0063,2,
 meae.congressional.congress02.pa.county,pa.uscongress2.1791,Jones,NA,2,Republican,NA,0,NA,FALSE,FALSE
 meae.congressional.congress02.pa.county,pa.uscongress3.1791,Israel Jacobs,JI0006,3,Federalist,1878,3463,0.542,TRUE,FALSE
 meae.congressional.congress02.pa.county,pa.uscongress3.1791,Peter Muhlenberg,MP0089,3,Republican,1585,3463,0.458,FALSE,FALSE
-meae.congressional.congress02.pa.county,pa.uscongress4.1791,Daniel Hiester,HD0091,4,Federalist,NA,0,NA,TRUE,TRUE
-meae.congressional.congress02.pa.county,pa.uscongress5.1791,John W. Kittera,KJ0172,5,Federalist,NA,0,NA,TRUE,TRUE
+meae.congressional.congress02.pa.county,pa.uscongress4.1791,Daniel Hiester,HD0091,4,Federalist,NA,0,1,TRUE,TRUE
+meae.congressional.congress02.pa.county,pa.uscongress5.1791,John W. Kittera,KJ0172,5,Federalist,NA,0,1,TRUE,TRUE
 meae.congressional.congress02.pa.county,pa.uscongress6.1791,Andrew Gregg,GA0060,6,Republican,3437,6709,0.512,TRUE,FALSE
 meae.congressional.congress02.pa.county,pa.uscongress6.1791,John Allison,AJ0252,6,Federalist,1229,6709,0.183,FALSE,FALSE
 meae.congressional.congress02.pa.county,pa.uscongress6.1791,James MacLean,MJ0807,6,Federalist,728,6709,0.109,FALSE,FALSE
@@ -499,17 +499,17 @@ meae.congressional.congress02.ri.county,ri.uscongress2.1790,James Sheldon,SJ0042
 meae.congressional.congress02.ri.county,ri.uscongress2.1790,Job Comstock,CJ0038,At-large,NA,NA,0,NA,FALSE,FALSE
 meae.congressional.congress02.ri.county,ri.uscongress2.1790,Stephen Arnold,AS0002,At-large,NA,NA,0,NA,FALSE,FALSE
 meae.congressional.congress02.ri.county,ri.uscongress2.1790,Peleg Arnold,AP0028,At-large,NA,NA,0,NA,FALSE,FALSE
-meae.congressional.congress02.sc.county,sc.uscongress.district1.1790,William Smith,SW0299,1,NA,NA,0,NA,TRUE,TRUE
-meae.congressional.congress02.sc.county,sc.uscongress.district2.1790,Robert Barnwell,BR0143,2,NA,NA,0,NA,TRUE,TRUE
-meae.congressional.congress02.sc.county,sc.uscongress.district3.1790,Daniel Huger,HD0170,3,NA,NA,0,NA,TRUE,TRUE
-meae.congressional.congress02.sc.county,sc.uscongress.district4.1790,Thomas Sumter,ST0266,4,NA,NA,0,NA,TRUE,TRUE
-meae.congressional.congress02.sc.county,sc.uscongress.district5.1790,Thomas Tudor Tucker,TT0007,5,NA,NA,0,NA,TRUE,TRUE
+meae.congressional.congress02.sc.county,sc.uscongress.district1.1790,William Smith,SW0299,1,NA,NA,0,1,TRUE,TRUE
+meae.congressional.congress02.sc.county,sc.uscongress.district2.1790,Robert Barnwell,BR0143,2,NA,NA,0,1,TRUE,TRUE
+meae.congressional.congress02.sc.county,sc.uscongress.district3.1790,Daniel Huger,HD0170,3,NA,NA,0,1,TRUE,TRUE
+meae.congressional.congress02.sc.county,sc.uscongress.district4.1790,Thomas Sumter,ST0266,4,NA,NA,0,1,TRUE,TRUE
+meae.congressional.congress02.sc.county,sc.uscongress.district5.1790,Thomas Tudor Tucker,TT0007,5,NA,NA,0,1,TRUE,TRUE
 meae.congressional.congress02.va.county,va.uscongress.1.1790,Alexander White,WA0166,1,NA,999,1064,0.939,TRUE,FALSE
 meae.congressional.congress02.va.county,va.uscongress.1.1790,J.P. Duval,DJ0577,1,NA,65,1064,0.061,FALSE,FALSE
-meae.congressional.congress02.va.county,va.uscongress.10.1790,Samuel Griffin,GS0114,10,NA,NA,0,NA,TRUE,TRUE
+meae.congressional.congress02.va.county,va.uscongress.10.1790,Samuel Griffin,GS0114,10,NA,NA,0,1,TRUE,TRUE
 meae.congressional.congress02.va.county,va.uscongress.2.1790,John Brown,BJ0175,2,NA,NA,0,NA,TRUE,FALSE
 meae.congressional.congress02.va.county,va.uscongress.2.1790,James M.  Marshall,MJ1328,2,NA,NA,0,NA,FALSE,FALSE
-meae.congressional.congress02.va.county,va.uscongress.3.1790,Andrew Moore,MA0281,3,NA,NA,0,NA,TRUE,TRUE
+meae.congressional.congress02.va.county,va.uscongress.3.1790,Andrew Moore,MA0281,3,NA,NA,0,1,TRUE,TRUE
 meae.congressional.congress02.va.county,va.uscongress.4.1790,Richard Bland Lee,LR0090,4,NA,954,1536,0.621,TRUE,FALSE
 meae.congressional.congress02.va.county,va.uscongress.4.1790,Arthur Lee,LA0122,4,NA,582,1536,0.379,FALSE,FALSE
 meae.congressional.congress02.va.county,va.uscongress.5.1790,James Madison,MJ1315,5,NA,NA,0,NA,TRUE,FALSE
