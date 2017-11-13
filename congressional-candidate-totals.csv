@@ -557,6 +557,10 @@ meae.congressional.congress03.ga.county,ga.uscongress.1792,Francis Willis,WF0022
 meae.congressional.congress03.ga.county,ga.uscongress.1792,James Jackson,JJ0004,At-large,NA,20,12322,0.002,FALSE,FALSE
 meae.congressional.congress03.ga.county,ga.uscongress.1792,Matthew MacAllister,MM0004,At-large,Federalist,8,12322,0.001,FALSE,FALSE
 meae.congressional.congress03.ga.county,ga.uscongress.1792,scattering,NA,At-large,NA,14,12322,0.001,FALSE,FALSE
+meae.congressional.congress03.ky.county,ky.uscongressnortherndistrict.1792,Alexander D. Orr,OA0007,2,Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress03.ky.county,ky.uscongressnortherndistrict.1792,Hubbard Taylor,TH0002,2,Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress03.ky.county,ky.uscongresssoutherndistrict.1792,Christopher Greenup,GC0053,1,NA,NA,0,NA,TRUE,FALSE
+meae.congressional.congress03.ky.county,ky.uscongresssoutherndistrict.1792,Robert Brackenridge,BR0018,1,NA,NA,0,NA,FALSE,FALSE
 meae.congressional.congress03.ma.county,NA,Samuel Lyman,LS0018,At-large,Federalist,5754,21108,0.273,FALSE,FALSE
 meae.congressional.congress03.ma.county,NA,David Cobb,CD0056,At-large,NA,4553,10546,0.432,TRUE,FALSE
 meae.congressional.congress03.ma.county,NA,Samuel Holten,HS0071,At-large,NA,4544,17803,0.255,TRUE,FALSE
@@ -1354,6 +1358,10 @@ meae.congressional.congress05.ga.county,ga.uscongress.1796,Howell Cobb,CH0029,At
 meae.congressional.congress05.ga.county,ga.uscongress.1796,A.C.G. Elholm,EA0052,At-large,NA,1,16576,0,FALSE,FALSE
 meae.congressional.congress05.ga.county,ga.uscongress.1796,Josiah Tatnall,TJ0074,At-large,NA,1,16576,0,FALSE,FALSE
 meae.congressional.congress05.ga.county,ga.uscongress.1796,John W. Thompson,TJ0469,At-large,NA,1,16576,0,FALSE,FALSE
+meae.congressional.congress05.ky.county,ky.uscongressnortherndistrict.1796,John Fowler,FJ0047,2,NA,NA,0,NA,TRUE,FALSE
+meae.congressional.congress05.ky.county,ky.uscongressnortherndistrict.1796,Notley Conn,CN0007,2,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress05.ky.county,ky.uscongressnortherndistrict.1796,Edmund Bullock,BE0063,2,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress05.ky.county,ky.uscongresssoutherndistrict.1796,Thomas Terry Davis,DT0030,1,NA,NA,0,NA,TRUE,TRUE
 meae.congressional.congress05.ma.county,ma.uscongress.eastern.1.ballot3.1797,Isaac Parker,PI0010,12,NA,1612,3065,0.526,TRUE,FALSE
 meae.congressional.congress05.ma.county,ma.uscongress.eastern.1.ballot3.1797,Henry Dearborn,DH0026,12,NA,1450,3065,0.473,FALSE,FALSE
 meae.congressional.congress05.ma.county,ma.uscongress.eastern.1.ballot3.1797,Timothy Parsons,PT0016,12,NA,2,3065,0.001,FALSE,FALSE
@@ -2185,7 +2193,3 @@ meae.congressional.congress19.md.county,md.uscongress7.1824,John Leeds Kerr,KJ00
 meae.congressional.congress19.md.county,md.uscongress7.1824,Thomas Emory,ET0007,7,Republican,1924,3874,0.497,FALSE,FALSE
 meae.congressional.congress19.md.county,md.uscongress8.1824,Robert N. Martin,MR0053,8,Federalist,3088,5946,0.519,TRUE,FALSE
 meae.congressional.congress19.md.county,md.uscongress8.1824,John Spence,SJ0312,8,Republican,2858,5946,0.481,FALSE,FALSE
-meae.congressional.congress03.ky.county,ky.uscongressnortherndistrict.1792,Alexander D. Orr,OA0007,2,Republican,NA,0,NA,TRUE,FALSE
-meae.congressional.congress03.ky.county,ky.uscongressnortherndistrict.1792,Hubbard Taylor,TH0002,2,Republican,NA,0,NA,FALSE,FALSE
-meae.congressional.congress03.ky.county,ky.uscongresssoutherndistrict.1792,Christopher Greenup,GC0053,1,NA,NA,0,NA,TRUE,FALSE
-meae.congressional.congress03.ky.county,ky.uscongresssoutherndistrict.1792,Robert Brackenridge,BR0018,1,NA,NA,0,NA,FALSE,FALSE
