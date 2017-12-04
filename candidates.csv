@@ -2327,7 +2327,7 @@ FW0079,"Forkinson, William",NA,NA,NA,NA,NA
 FW0081,"Ferris, William",NA,NA,NA,NA,NA
 FW0082,"Fellows, William",NA,NA,NA,NA,NA
 FW0084,"Filbe, William",NA,NA,NA,NA,NA
-FW0098,"Forward, Walter",F000290,"Forward, Chauncey",1793,1839,http://bioguide.congress.gov/scripts/biodisplay.pl?index=F000290
+FC0039,"Forward, Chauncey",F000290,"Forward, Chauncey",1793,1839,http://bioguide.congress.gov/scripts/biodisplay.pl?index=F000290
 FW0098,"Forward, Walter",F000291,"Forward, Walter",1786,1852,http://bioguide.congress.gov/scripts/biodisplay.pl?index=F000291
 FW0110,"Fisher, William",NA,NA,NA,NA,NA
 FW0111,"Felton, William",NA,NA,NA,NA,NA
@@ -4241,7 +4241,6 @@ MJ0529,"Mallory, James",NA,NA,NA,NA,NA
 MJ0534,"Mann, James",NA,NA,NA,NA,NA
 MJ0539,"Moshure, John",NA,NA,NA,NA,NA
 MJ0540,"MacDowell, Joseph",M000424,"Mcdowell, Joseph",1758,1799,http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000424
-MJ0540,"MacDowell, Joseph",M000423,"Mcdowell, Joseph",1756,1801,http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000423
 MJ0541,"Martin, James",NA,NA,NA,NA,NA
 MJ0546,"Mebane, James",NA,NA,NA,NA,NA
 MJ0560,"MacClain, John",NA,NA,NA,NA,NA
@@ -5183,11 +5182,10 @@ RC0025,"Ridgeley, Charles, of William",NA,NA,NA,NA,NA
 RC0029,"Rich, Calvin",NA,NA,NA,NA,NA
 RC0033,"Rockwood, Cephas A.",NA,NA,NA,NA,NA
 RC0034,"Richard, Charles",NA,NA,NA,NA,NA
-RC0047,"Rankin, Christopher",NA,NA,NA,NA,NA
+RC0047,"Rankin, Christopher",R000054,"Rankin, Christopher",1788,1826,http://bioguide.congress.gov/scripts/biodisplay.pl?index=R000054
 RC0048,"Reed, Cheney",NA,NA,NA,NA,NA
 RC0049,"Rice, Charles",NA,NA,NA,NA,NA
-RC0058,"Rankin, Christopher",R000054,"Rankin, Christopher",1788,1826,http://bioguide.congress.gov/scripts/biodisplay.pl?index=R000054
-RC0058,"Rankin, Christopher",R000207,"Rich, Charles",1771,1824,http://bioguide.congress.gov/scripts/biodisplay.pl?index=R000207
+RC0058,"Rich, Charles",R000207,"Rich, Charles",1771,1824,http://bioguide.congress.gov/scripts/biodisplay.pl?index=R000207
 RC0067,"Rouse, Casper M.",NA,NA,NA,NA,NA
 RC0069,"Ruggles, Charles H.",R000501,"Ruggles, Charles Herman",1789,1865,http://bioguide.congress.gov/scripts/biodisplay.pl?index=R000501
 RD0004,"Rodney, Daniel",R000378,"Rodney, Daniel",1764,1846,http://bioguide.congress.gov/scripts/biodisplay.pl?index=R000378
@@ -5270,7 +5268,6 @@ RJ0171,"Rutherford, John",R000550,"Rutherfurd, John",1760,1840,http://bioguide.c
 RJ0204,"Root, Jeremiah",NA,NA,NA,NA,NA
 RJ0209,"Russell, John",R000529,"Russell, John",1772,1842,http://bioguide.congress.gov/scripts/biodisplay.pl?index=R000529
 RJ0226,"Read, John",R000120,"Reed, John",1751,1831,http://bioguide.congress.gov/scripts/biodisplay.pl?index=R000120
-RJ0226,"Read, John",R000121,"Reed, John",1781,1860,http://bioguide.congress.gov/scripts/biodisplay.pl?index=R000121
 RJ0228,"Rice, Joseph",NA,NA,NA,NA,NA
 RJ0230,"Richmond, Jonathan",R000235,"Richmond, Jonathan",1774,1853,http://bioguide.congress.gov/scripts/biodisplay.pl?index=R000235
 RJ0231,"Russell, James",NA,NA,NA,NA,NA
@@ -5316,7 +5313,7 @@ RJ0517,"Robinson, Joseph",NA,NA,NA,NA,NA
 RJ0520,"Rawson, John",NA,NA,NA,NA,NA
 RJ0521,"Rand, John",NA,NA,NA,NA,NA
 RJ0538,"Rogers, John",NA,NA,NA,NA,NA
-RJ0539,"Reed, John",NA,NA,NA,NA,NA
+RJ0539,"Reed, John",R000121,"Reed, John",1781,1860,http://bioguide.congress.gov/scripts/biodisplay.pl?index=R000121
 RJ0542,"Read, John",NA,NA,NA,NA,NA
 RJ0547,"Rogers, John",NA,NA,NA,NA,NA
 RJ0553,"Russell, Josiah",NA,NA,NA,NA,NA
@@ -7251,3 +7248,4 @@ ZZ0002,"Blackledge, William S.",B000512,"Blackledge, William Salter",1793,1856,h
 ZZ0004,"Ward, Artemas, Jr.",W000128,"Ward, Artemas, Jr.",1762,1847,http://bioguide.congress.gov/scripts/biodisplay.pl?index=W000128
 ZZ0005,"Heister, Daniel",H000570,"Hiester, Daniel",1747,1804,http://bioguide.congress.gov/scripts/biodisplay.pl?index=H000570
 ZZ0006,"Heister, Daniel",H000571,"Hiester, Daniel",1774,1834,http://bioguide.congress.gov/scripts/biodisplay.pl?index=H000571
+ZZ0007,"MacDowell, Joseph",M000423,"Mcdowell, Joseph",1756,1801,http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000423
