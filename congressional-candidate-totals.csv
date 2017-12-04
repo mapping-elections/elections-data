@@ -842,14 +842,14 @@ meae.congressional.congress03.pa.county,pa.uscongress.1792,scattering,NA,At-larg
 meae.congressional.congress03.ri.county,ri.uscongress.1792,Benjamin Bourn,BB0013,At-large,Federalist,NA,0,NA,TRUE,FALSE
 meae.congressional.congress03.ri.county,ri.uscongress.1792,Francis Malbone,MF0037,At-large,Federalist,NA,0,NA,TRUE,FALSE
 meae.congressional.congress03.ri.county,ri.uscongress.1792,Paul Mumford,MP0122,At-large,NA,NA,0,NA,FALSE,FALSE
-meae.congressional.congress03.sc.county,sc.uscongress.district1.1793,William L. Smith,SW0299,1,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress03.sc.county,sc.uscongress.district1.1793,William L. Smith,SW0299,1,NA,NA,0,NA,TRUE,FALSE
 meae.congressional.congress03.sc.county,sc.uscongress.district1.1793,Thomas Tucker,TT0123,1,NA,NA,0,NA,FALSE,FALSE
 meae.congressional.congress03.sc.county,sc.uscongress.district1.1793,Jacob Read,RJ0598,1,Federalist,NA,0,NA,FALSE,FALSE
-meae.congressional.congress03.sc.county,sc.uscongress.district2.1793,Alexander Gillon,GA0121,2,NA,NA,0,NA,FALSE,TRUE
-meae.congressional.congress03.sc.county,sc.uscongress.district3.1793,Lemuel Benton,BL0075,3,NA,NA,0,NA,FALSE,TRUE
-meae.congressional.congress03.sc.county,sc.uscongress.district4.1793,Richard Winn,WR0158,4,NA,NA,0,NA,FALSE,TRUE
-meae.congressional.congress03.sc.county,sc.uscongress.district5.1793,John Hunter,HJ1210,5,NA,NA,0,NA,FALSE,TRUE
-meae.congressional.congress03.sc.county,sc.uscongress.district6.1793,Andrew Pickens,PA0107,6,NA,NA,0,NA,FALSE,TRUE
+meae.congressional.congress03.sc.county,sc.uscongress.district2.1793,Alexander Gillon,GA0121,2,NA,NA,0,NA,TRUE,TRUE
+meae.congressional.congress03.sc.county,sc.uscongress.district3.1793,Lemuel Benton,BL0075,3,NA,NA,0,NA,TRUE,TRUE
+meae.congressional.congress03.sc.county,sc.uscongress.district4.1793,Richard Winn,WR0158,4,NA,NA,0,NA,TRUE,TRUE
+meae.congressional.congress03.sc.county,sc.uscongress.district5.1793,John Hunter,HJ1210,5,NA,NA,0,NA,TRUE,TRUE
+meae.congressional.congress03.sc.county,sc.uscongress.district6.1793,Andrew Pickens,PA0107,6,NA,NA,0,NA,TRUE,TRUE
 meae.congressional.congress03.va.county,va.uscongress.10.1793,Carter B. Harrison,HC0136,10,NA,NA,0,NA,TRUE,FALSE
 meae.congressional.congress03.va.county,va.uscongress.10.1793,John H. Briggs,BJ1440,10,NA,NA,0,NA,FALSE,FALSE
 meae.congressional.congress03.va.county,va.uscongress.11.1793,Josiah Parker,PJ0725,11,Republican,NA,0,NA,TRUE,FALSE
