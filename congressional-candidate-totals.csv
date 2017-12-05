@@ -143,10 +143,10 @@ meae.congressional.congress01.nc.county,nc.uscongress4.1790,John Steele,SJ0192,4
 meae.congressional.congress01.nc.county,nc.uscongress4.1790,Joseph MacDowell,MJ0540,4,Federalist,NA,NA,NA,FALSE,FALSE
 meae.congressional.congress01.nc.county,nc.uscongress4.1790,Waightstill Avery,AW0018,4,NA,NA,NA,NA,FALSE,FALSE
 meae.congressional.congress01.nc.county,nc.uscongress5.1790,John Sevier,SJ0166,5,Federalist,NA,NA,1,TRUE,TRUE
-meae.congressional.congress01.nh.county,nh.uscongress.1789,Benjamin West,WB0027,At-large,Pro-Administration,2733,8238,0.332,FALSE,FALSE
+meae.congressional.congress01.nh.county,nh.uscongress.1789,Benjamin West,WB0027,At-large,Pro-Administration,2733,8238,0.332,TRUE,FALSE
 meae.congressional.congress01.nh.county,nh.uscongress.1789,Samuel Livermore,LS0047,At-large,Pro-Administration,2116,8238,0.257,TRUE,FALSE
 meae.congressional.congress01.nh.county,nh.uscongress.1789,Nicholas Gilman,GN0015,At-large,Pro-Administration,1619,8238,0.197,TRUE,FALSE
-meae.congressional.congress01.nh.county,nh.uscongress.1789,Abiel Foster,FA0029,At-large,Federalist,1612,8238,0.196,TRUE,FALSE
+meae.congressional.congress01.nh.county,nh.uscongress.1789,Abiel Foster,FA0029,At-large,Federalist,1612,8238,0.196,FALSE,FALSE
 meae.congressional.congress01.nh.county,nh.uscongress.1789,John Sullivan,SJ0462,At-large,NA,154,8238,0.019,FALSE,FALSE
 meae.congressional.congress01.nh.county,nh.uscongress.1789,Paine Wingate,WP0051,At-large,Federalist,4,8238,0,FALSE,FALSE
 meae.congressional.congress01.nj.county,nj.uscongress.1789,James Schureman,SJ0522,At-large,NA,13871,69598,0.199,TRUE,FALSE
