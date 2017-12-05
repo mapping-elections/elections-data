@@ -79,7 +79,7 @@ meae.congressional.congress01.ma.county,ma.uscongress.5.1788,William Cushing,CW0
 meae.congressional.congress01.ma.county,ma.uscongress.5.1788,John Gray,GJ0177,5,NA,1,554,0.002,FALSE,FALSE
 meae.congressional.congress01.ma.county,ma.uscongress.5.1788,William Hall Jackson,JW0023,5,NA,1,554,0.002,FALSE,FALSE
 meae.congressional.congress01.ma.county,ma.uscongress.5.1788,Samuel Savage,SS0067,5,NA,1,554,0.002,FALSE,FALSE
-meae.congressional.congress01.ma.county,ma.uscongress.6.1788,George Thatcher,TG0012,6,Federalist,588,948,0.62,TRUE,FALSE
+meae.congressional.congress01.ma.county,ma.uscongress.6.1788,George Thacher,TG0012,6,Federalist,588,948,0.62,TRUE,FALSE
 meae.congressional.congress01.ma.county,ma.uscongress.6.1788,Josiah Thacher,TJ0159,6,NA,182,948,0.192,FALSE,FALSE
 meae.congressional.congress01.ma.county,ma.uscongress.6.1788,Nathaniel Willson,WN0023,6,NA,73,948,0.077,FALSE,FALSE
 meae.congressional.congress01.ma.county,ma.uscongress.6.1788,"William Lithgow, Jr.",LW0054,6,NA,23,948,0.024,FALSE,FALSE
@@ -92,7 +92,7 @@ meae.congressional.congress01.ma.county,ma.uscongress.6.1788,John Fox,FJ0136,6,N
 meae.congressional.congress01.ma.county,ma.uscongress.6.1788,David Sewall,SD0058,6,NA,3,948,0.003,FALSE,FALSE
 meae.congressional.congress01.ma.county,ma.uscongress.6.1788,Thomas Rice,RT0039,6,NA,1,948,0.001,FALSE,FALSE
 meae.congressional.congress01.ma.county,ma.uscongress.7.1788,George Leonard,LG0029,7,Federalist,710,1316,0.54,TRUE,FALSE
-meae.congressional.congress01.ma.county,ma.uscongress.7.1788,Phaneul Bishop,BP0031,7,Anti-Federalist,342,1316,0.26,FALSE,FALSE
+meae.congressional.congress01.ma.county,ma.uscongress.7.1788,Phanuel Bishop,BP0031,7,Anti-Federalist,342,1316,0.26,FALSE,FALSE
 meae.congressional.congress01.ma.county,ma.uscongress.7.1788,David Cobb,CD0056,7,NA,241,1316,0.183,FALSE,FALSE
 meae.congressional.congress01.ma.county,ma.uscongress.7.1788,William Rolch,RW0098,7,NA,22,1316,0.017,FALSE,FALSE
 meae.congressional.congress01.ma.county,ma.uscongress.7.1788,Paul Sanford,SP0038,7,NA,1,1316,0.001,FALSE,FALSE
@@ -363,8 +363,8 @@ meae.congressional.congress02.ma.county,ma.uscongress.8.ballot4.1791,Dummer Sewa
 meae.congressional.congress02.ma.county,ma.uscongress.8.ballot4.1791,Robert Dyer,DR0034,8,NA,1,5343,0,FALSE,FALSE
 meae.congressional.congress02.ma.county,ma.uscongress.8.ballot4.1791,George Lewis,LG0036,8,NA,1,5343,0,FALSE,FALSE
 meae.congressional.congress02.ma.county,ma.uscongress.8.ballot4.1791,William Wedgery,WW0129,8,NA,1,5343,0,FALSE,FALSE
-meae.congressional.congress02.ma.county,ma.uscongress.6.ballot9.1792,George Leonard,LG0029,6,NA,1161,2150,0.54,FALSE,FALSE
-meae.congressional.congress02.ma.county,ma.uscongress.6.ballot9.1792,Phanuel Bishop,BP0031,6,NA,578,2150,0.269,TRUE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.6.ballot9.1792,George Leonard,LG0029,6,NA,1161,2150,0.54,TRUE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.6.ballot9.1792,Phanuel Bishop,BP0031,6,NA,578,2150,0.269,FALSE,FALSE
 meae.congressional.congress02.ma.county,ma.uscongress.6.ballot9.1792,"Peleg Coffin, Jr.",CP0027,6,NA,348,2150,0.162,FALSE,FALSE
 meae.congressional.congress02.ma.county,ma.uscongress.6.ballot9.1792,David Cobb,CD0056,6,NA,62,2150,0.029,FALSE,FALSE
 meae.congressional.congress02.ma.county,ma.uscongress.6.ballot9.1792,Philip Miller,MP0033,6,NA,1,2150,0,FALSE,FALSE
