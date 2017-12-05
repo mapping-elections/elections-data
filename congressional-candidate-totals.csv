@@ -16,23 +16,18 @@ meae.congressional.congress01.de.county,de.uscongress.1789,Rhoads Shankland,SR00
 meae.congressional.congress01.de.county,de.uscongress.1789,"Gunning Bedford, Jr.",BG0002,At-large,NA,308,2059,0.15,FALSE,FALSE
 meae.congressional.congress01.de.county,de.uscongress.1789,Joshua Clayton,CJ0087,At-large,NA,272,2059,0.132,FALSE,FALSE
 meae.congressional.congress01.de.county,de.uscongress.1789,Allen MacLean,MA0018,At-large,NA,90,2059,0.044,FALSE,FALSE
-meae.congressional.congress01.ga.county,ga.uscongress.lowerdistrict.1789,James Jackson,JJ0004,1,NA,604,1187,0.509,TRUE,FALSE
-meae.congressional.congress01.ga.county,ga.uscongress.lowerdistrict.1789,William Houston,HW0061,1,NA,399,1187,0.336,FALSE,FALSE
-meae.congressional.congress01.ga.county,ga.uscongress.lowerdistrict.1789,Henry Osborne,OH0000,1,NA,172,1187,0.145,FALSE,FALSE
-meae.congressional.congress01.ga.county,ga.uscongress.lowerdistrict.1789,James Seagrove,SJ0082,1,NA,7,1187,0.006,FALSE,FALSE
-meae.congressional.congress01.ga.county,ga.uscongress.lowerdistrict.1789,scattering,NA,1,NA,5,1187,0.004,FALSE,FALSE
-meae.congressional.congress01.ga.county,ga.uscongress.middledistrict.1789,Abraham Baldwin,BA0026,2,NA,1096,1584,0.692,TRUE,FALSE
-meae.congressional.congress01.ga.county,ga.uscongress.middledistrict.1789,Henry Osborne,OH0000,2,NA,241,1584,0.152,FALSE,FALSE
-meae.congressional.congress01.ga.county,ga.uscongress.middledistrict.1789,Joseph Sumner,SJ0083,2,NA,165,1584,0.104,FALSE,FALSE
-meae.congressional.congress01.ga.county,ga.uscongress.middledistrict.1789,Isaac Briggs,BI0007,2,NA,42,1584,0.027,FALSE,FALSE
-meae.congressional.congress01.ga.county,ga.uscongress.middledistrict.1789,William Houston,HW0061,2,NA,23,1584,0.015,FALSE,FALSE
-meae.congressional.congress01.ga.county,ga.uscongress.middledistrict.1789,James Jackson,JJ0004,2,NA,9,1584,0.006,FALSE,FALSE
-meae.congressional.congress01.ga.county,ga.uscongress.middledistrict.1789,scattering,NA,2,NA,8,1584,0.005,FALSE,FALSE
-meae.congressional.congress01.ga.county,ga.uscongress.upperdistrict.1789,George Matthews,MG0009,3,NA,1158,1203,0.963,TRUE,FALSE
-meae.congressional.congress01.ga.county,ga.uscongress.upperdistrict.1789,Henry Osborne,OH0000,3,NA,24,1203,0.02,FALSE,FALSE
-meae.congressional.congress01.ga.county,ga.uscongress.upperdistrict.1789,Anthony Wayne,WA0009,3,NA,8,1203,0.007,FALSE,FALSE
-meae.congressional.congress01.ga.county,ga.uscongress.upperdistrict.1789,Joseph Sumner,SJ0083,3,NA,5,1203,0.004,FALSE,FALSE
-meae.congressional.congress01.ga.county,ga.uscongress.upperdistrict.1789,scattering,NA,3,NA,8,1203,0.007,FALSE,FALSE
+meae.congressional.congress01.ga.county,ga.uscongress.lowerdistrict.1789,James Jackson,JJ0004,1,NA,613,3974,0.154,TRUE,FALSE
+meae.congressional.congress01.ga.county,ga.uscongress.lowerdistrict.1789,William Houston,HW0061,1,NA,422,3974,0.106,FALSE,FALSE
+meae.congressional.congress01.ga.county,ga.uscongress.lowerdistrict.1789,James Seagrove,SJ0082,1,NA,7,3974,0.002,FALSE,FALSE
+meae.congressional.congress01.ga.county,ga.uscongress.lowerdistrict.1789,scattering,NA,1,NA,5,3974,0.001,FALSE,FALSE
+meae.congressional.congress01.ga.county,ga.uscongress.middledistrict.1789,Abraham Baldwin,BA0026,2,NA,1096,3974,0.276,TRUE,FALSE
+meae.congressional.congress01.ga.county,ga.uscongress.middledistrict.1789,Henry Osborne,OH0000,2,NA,437,3974,0.11,FALSE,FALSE
+meae.congressional.congress01.ga.county,ga.uscongress.middledistrict.1789,Joseph Sumner,SJ0083,2,NA,170,3974,0.043,FALSE,FALSE
+meae.congressional.congress01.ga.county,ga.uscongress.middledistrict.1789,Isaac Briggs,BI0007,2,NA,42,3974,0.011,FALSE,FALSE
+meae.congressional.congress01.ga.county,ga.uscongress.middledistrict.1789,scattering,NA,2,NA,8,3974,0.002,FALSE,FALSE
+meae.congressional.congress01.ga.county,ga.uscongress.upperdistrict.1789,George Matthews,MG0009,3,NA,1158,3974,0.291,TRUE,FALSE
+meae.congressional.congress01.ga.county,ga.uscongress.upperdistrict.1789,Anthony Wayne,WA0009,3,NA,8,3974,0.002,FALSE,FALSE
+meae.congressional.congress01.ga.county,ga.uscongress.upperdistrict.1789,scattering,NA,3,NA,8,3974,0.002,FALSE,FALSE
 meae.congressional.congress01.ma.county,ma.uscongress.1.1788,Fisher Ames,AF0004,1,Federalist,818,1613,0.507,TRUE,FALSE
 meae.congressional.congress01.ma.county,ma.uscongress.1.1788,Samuel Adams,AS0022,1,Anti-Federalist,521,1613,0.323,FALSE,FALSE
 meae.congressional.congress01.ma.county,ma.uscongress.1.1788,Samuel A. Otis,OS0005,1,Federalist,70,1613,0.043,FALSE,FALSE
