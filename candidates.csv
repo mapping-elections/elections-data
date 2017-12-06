@@ -85,7 +85,7 @@ AJ0029,"Abbott, Joel",A000003,"Abbot, Joel",1776,1826,http://bioguide.congress.g
 AJ0030,"Adams, John",NA,NA,NA,NA,NA
 AJ0043,"Adams, John Quincy",A000041,"Adams, John Quincy",1767,1848,http://bioguide.congress.gov/scripts/biodisplay.pl?index=A000041
 AJ0045,"Adams, Joseph",NA,NA,NA,NA,NA
-AJ0047,NA,A000026,"Adair, John",1757,1840,http://bioguide.congress.gov/scripts/biodisplay.pl?index=A000026
+AJ0047,"Adair, John",A000026,"Adair, John",1757,1840,http://bioguide.congress.gov/scripts/biodisplay.pl?index=A000026
 AJ0048,"Ayer, James, Jr.",NA,NA,NA,NA,NA
 AJ0069,"Andrews, Joseph",NA,NA,NA,NA,NA
 AJ0075,"Archer, John",A000272,"Archer, John",1741,1810,http://bioguide.congress.gov/scripts/biodisplay.pl?index=A000272
@@ -2209,7 +2209,7 @@ FJ0376,"Foster, Jeremiah J.",NA,NA,NA,NA,NA
 FJ0377,"Fletcher, John",NA,NA,NA,NA,NA
 FJ0390,"Forbes, John",NA,NA,NA,NA,NA
 FJ0394,"Findlay, John",F000120,"Findlay, John",1766,1838,http://bioguide.congress.gov/scripts/biodisplay.pl?index=F000120
-FJ0410,NA,F000074,"Fenner, James",1771,1846,http://bioguide.congress.gov/scripts/biodisplay.pl?index=F000074
+FJ0410,"Fenner, James",F000074,"Fenner, James",1771,1846,http://bioguide.congress.gov/scripts/biodisplay.pl?index=F000074
 FJ0414,"Farnsworth, Jonathan",NA,NA,NA,NA,NA
 FJ0428,"Fifield, Joshua",NA,NA,NA,NA,NA
 FJ0432,"Folsom, John",NA,NA,NA,NA,NA
@@ -2282,7 +2282,7 @@ FS0079,"Fox, Samuel",NA,NA,NA,NA,NA
 FS0081,"Fowler, Samuel",NA,NA,NA,NA,NA
 FS0118,"Fellows, Simon",NA,NA,NA,NA,NA
 FS0121,"Folsom, Simeon",NA,NA,NA,NA,NA
-FS0123,NA,F000036,"Farrow, Samuel",1759,1824,http://bioguide.congress.gov/scripts/biodisplay.pl?index=F000036
+FS0123,"Farrow, Samuel",F000036,"Farrow, Samuel",1759,1824,http://bioguide.congress.gov/scripts/biodisplay.pl?index=F000036
 FS0124,"Fletcher, Samuel",NA,NA,NA,NA,NA
 FS0128,"Frank, Stephen",NA,NA,NA,NA,NA
 FS0129,"Fisk, Stephen",NA,NA,NA,NA,NA
@@ -2320,7 +2320,7 @@ FW0026,"Folger, Walter, Jr.",F000242,"Folger, Walter, Jr.",1765,1849,http://biog
 FW0034,"Floyd, William",F000224,"Floyd, William",1734,1821,http://bioguide.congress.gov/scripts/biodisplay.pl?index=F000224
 FW0046,"Ford, William D.",F000269,"Ford, William Donnison",1779,1833,http://bioguide.congress.gov/scripts/biodisplay.pl?index=F000269
 FW0051,"Fee, William",NA,NA,NA,NA,NA
-FW0061,NA,F000122,"Findlay, William",1768,1846,http://bioguide.congress.gov/scripts/biodisplay.pl?index=F000122
+FW0061,"Findlay, William",F000122,"Findlay, William",1768,1846,http://bioguide.congress.gov/scripts/biodisplay.pl?index=F000122
 FW0062,"Findley, William",F000124,"Findley, William",1742,1821,http://bioguide.congress.gov/scripts/biodisplay.pl?index=F000124
 FW0066,"Farnsworth, Whitney Jones",NA,NA,NA,NA,NA
 FW0079,"Forkinson, William",NA,NA,NA,NA,NA
@@ -2348,8 +2348,8 @@ GA0067,"Green, Archer",NA,NA,NA,NA,NA
 GA0074,"Gardiner, Abraham",NA,NA,NA,NA,NA
 GA0075,"Gazzner, Abraham",NA,NA,NA,NA,NA
 GA0101,"Gilchrist, Alexander",NA,NA,NA,NA,NA
-GA0112,NA,G000346,"Govan, Andrew Robison",1794,1841,http://bioguide.congress.gov/scripts/biodisplay.pl?index=G000346
-GA0121,NA,G000211,"Gillon, Alexander",1741,1794,http://bioguide.congress.gov/scripts/biodisplay.pl?index=G000211
+GA0112,"Govan, Andrew Robison",G000346,"Govan, Andrew Robison",1794,1841,http://bioguide.congress.gov/scripts/biodisplay.pl?index=G000346
+GA0121,"Gillon, Alexander",G000211,"Gillon, Alexander",1741,1794,http://bioguide.congress.gov/scripts/biodisplay.pl?index=G000211
 GB0005,"Galloway, Benjamin",NA,NA,NA,NA,NA
 GB0010,"Gilman, Benjamin I.",NA,NA,NA,NA,NA
 GB0014,"Gannett, Barzillai",G000039,"Gannett, Barzillai",1764,1832,http://bioguide.congress.gov/scripts/biodisplay.pl?index=G000039
@@ -2368,7 +2368,7 @@ GB0042,"Gardner, Billy",NA,NA,NA,NA,NA
 GB0043,"Gardenier, Barent",NA,NA,NA,NA,NA
 GB0057,"Gilbert, Benjamin",NA,NA,NA,NA,NA
 GB0071,"Graves, Barzellai",NA,NA,NA,NA,NA
-GC0000,NA,G000293,"Goodrich, Chauncey",1759,1815,http://bioguide.congress.gov/scripts/biodisplay.pl?index=G000293
+GC0000,"Goodrich, Chauncey",G000293,"Goodrich, Chauncey",1759,1815,http://bioguide.congress.gov/scripts/biodisplay.pl?index=G000293
 GC0002,"Gordon, Charles",NA,NA,NA,NA,NA
 GC0005,"Goddard, Calvin",G000248,"Goddard, Calvin",1768,1842,http://bioguide.congress.gov/scripts/biodisplay.pl?index=G000248
 GC0007,"Grans, Crispus",NA,NA,NA,NA,NA
@@ -2397,7 +2397,7 @@ GD0042,"Goes, Dirck D.",NA,NA,NA,NA,NA
 GD0043,"Garnsey, Daniel G.",G000078,"Garnsey, Daniel Greene",1779,1851,http://bioguide.congress.gov/scripts/biodisplay.pl?index=G000078
 GD0044,"Glisson, Daniel",NA,NA,NA,NA,NA
 GD0052,"Gear, Daniel",NA,NA,NA,NA,NA
-GD0070,NA,G000066,"Garland, David Shepherd",1769,1841,http://bioguide.congress.gov/scripts/biodisplay.pl?index=G000066
+GD0070,"Garland, David S.",G000066,"Garland, David Shepherd",1769,1841,http://bioguide.congress.gov/scripts/biodisplay.pl?index=G000066
 GD0072,"Garland, David",NA,NA,NA,NA,NA
 GD0078,"Garnsey, Dunkirk",NA,NA,NA,NA,NA
 GD0094,"Gilman, David",NA,NA,NA,NA,NA
@@ -2949,7 +2949,7 @@ HJ0576,"Hoffnagel, John",NA,NA,NA,NA,NA
 HJ0581,"Horton, Joshua",NA,NA,NA,NA,NA
 HJ0588,"Hawks, James",H000366,"Hawkes, James",1776,1865,http://bioguide.congress.gov/scripts/biodisplay.pl?index=H000366
 HJ0589,"Haight, Jacob",NA,NA,NA,NA,NA
-HJ0599,"Hunter, John",H000982,"Hunter, John",1760,1802,http://bioguide.congress.gov/scripts/biodisplay.pl?index=H000982
+HJ0599,"Hunter, John",NA,NA,NA,NA,NA
 HJ0600,"Hallock, John, Jr.",H000082,"Hallock, John, Jr.",1783,1840,http://bioguide.congress.gov/scripts/biodisplay.pl?index=H000082
 HJ0601,"Hay, John",NA,NA,NA,NA,NA
 HJ0602,"Holland, James",H000718,"Holland, James",1754,1823,http://bioguide.congress.gov/scripts/biodisplay.pl?index=H000718
@@ -2966,7 +2966,7 @@ HJ0724,"Hawkins, J.L.",NA,NA,NA,NA,NA
 HJ0746,"Hamilton, John",NA,NA,NA,NA,NA
 HJ0754,"Hanna, John A.",H000161,"Hanna, John Andre",1762,1805,http://bioguide.congress.gov/scripts/biodisplay.pl?index=H000161
 HJ0757,"Hopkinson, Joseph",NA,NA,NA,NA,NA
-HJ0764,NA,H000695,"Hoge, John",1760,1824,http://bioguide.congress.gov/scripts/biodisplay.pl?index=H000695
+HJ0764,"Hoge, John",H000695,"Hoge, John",1760,1824,http://bioguide.congress.gov/scripts/biodisplay.pl?index=H000695
 HJ0774,"Hemphill, Joseph",H000470,"Hemphill, Joseph",1770,1842,http://bioguide.congress.gov/scripts/biodisplay.pl?index=H000470
 HJ0778,"Hostetter, Jacob",H000806,"Hostetter, Jacob",1754,1831,http://bioguide.congress.gov/scripts/biodisplay.pl?index=H000806
 HJ0784,"Heister, John",H000573,"Hiester, John",1745,1821,http://bioguide.congress.gov/scripts/biodisplay.pl?index=H000573
@@ -3012,7 +3012,8 @@ HJ1116,"Helfenstein, John P.",NA,NA,NA,NA,NA
 HJ1123,"Houton, Jacob",NA,NA,NA,NA,NA
 HJ1164,"Haymond, John",NA,NA,NA,NA,NA
 HJ1192,"Hooe, John",NA,NA,NA,NA,NA
-HJ1250,NA,H000110,"Hamilton, James, Jr.",1786,1857,http://bioguide.congress.gov/scripts/biodisplay.pl?index=H000110
+HJ1210,"Hunter, John",H000982,"Hunter, John",1760,1802,http://bioguide.congress.gov/scripts/biodisplay.pl?index=H000982
+HJ1250,"Hamilton, James",H000110,"Hamilton, James, Jr.",1786,1857,http://bioguide.congress.gov/scripts/biodisplay.pl?index=H000110
 HJ1258,"Huntington, Jabez H.",NA,NA,NA,NA,NA
 HJ1266,"Holkins, Joel",NA,NA,NA,NA,NA
 HJ1267,"Hallam, John",NA,NA,NA,NA,NA
@@ -3351,9 +3352,10 @@ JF0010,"Jones, Francis",J000218,"Jones, Francis",NA,NA,http://bioguide.congress.
 JF0016,"Jarvis, Frederick",NA,NA,NA,NA,NA
 JG0000,"Jones, George",J000220,"Jones, George",1766,1838,http://bioguide.congress.gov/scripts/biodisplay.pl?index=J000220
 JG0014,"Jewitt, George",NA,NA,NA,NA,NA
-JG0015,"Jackson, George",J000012,"Jackson, George",1757,1831,http://bioguide.congress.gov/scripts/biodisplay.pl?index=J000012
+JG0015,"Jackson, George",NA,NA,NA,NA,NA
 JG0027,"Jenkins, Gideon T.",NA,NA,NA,NA,NA
-JG0032,"Jacobs, German",NA,NA,NA,NA,NA
+JG0029,"Jacobs, German",NA,NA,NA,NA,NA
+JG0032,"Jackson, George",J000012,"Jackson, George",1757,1831,http://bioguide.congress.gov/scripts/biodisplay.pl?index=J000012
 JH0003,"Johnson, Henry",J000137,"Johnson, Henry",1783,1864,http://bioguide.congress.gov/scripts/biodisplay.pl?index=J000137
 JH0020,"Jerome, Horace",NA,NA,NA,NA,NA
 JH0022,"Jennings, Hudson",NA,NA,NA,NA,NA
@@ -6765,12 +6767,12 @@ WE0188,"Williams, Everett",NA,NA,NA,NA,NA
 WF0009,"Winter, Francis",NA,NA,NA,NA,NA
 WF0014,"Whitney, Francis",NA,NA,NA,NA,NA
 WF0018,"Wolcott, Frederick",NA,NA,NA,NA,NA
-WF0022,"Willis, Francis",NA,NA,NA,NA,NA
+WF0022,"Willis, Francis",W000560,"Willis, Francis",1745,1829,http://bioguide.congress.gov/scripts/biodisplay.pl?index=W000560
 WF0027,"White, Francis",W000367,"White, Francis",NA,1826,http://bioguide.congress.gov/scripts/biodisplay.pl?index=W000367
 WF0029,NA,W000052,"Walker, Freeman",1780,1827,http://bioguide.congress.gov/scripts/biodisplay.pl?index=W000052
 WF0031,"Weed, Frederick",NA,NA,NA,NA,NA
 WF0033,"Walker, Francis E.",NA,NA,NA,NA,NA
-WF0038,"Willis, Francis",W000560,"Willis, Francis",1745,1829,http://bioguide.congress.gov/scripts/biodisplay.pl?index=W000560
+WF0038,"Willis, Francis",NA,NA,NA,NA,NA
 WF0041,"Walker, Felix",W000050,"Walker, Felix",1753,1828,http://bioguide.congress.gov/scripts/biodisplay.pl?index=W000050
 WF0049,"Walker, Francis",W000051,"Walker, Francis",1764,1806,http://bioguide.congress.gov/scripts/biodisplay.pl?index=W000051
 WG0006,"Walton, George",W000114,"Walton, George",1750,1804,http://bioguide.congress.gov/scripts/biodisplay.pl?index=W000114
