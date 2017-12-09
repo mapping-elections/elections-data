@@ -1,7 +1,7 @@
 meae_id,county_ahcb,county_fips,districts,federalist_vote,federalist_percentage,antifederalist_vote,antifederalist_percentage,demrep_vote,demrep_percentage,chesapeake_vote,chesapeake_percentage,potomac_vote,potomac_percentage,other_vote,other_percentage,county_source
-meae.congressional.congress01.de.county,des_kent,10001,At-large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,652,1,county
-meae.congressional.congress01.de.county,des_newcastle,10003,At-large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,304,1,county
-meae.congressional.congress01.de.county,des_sussex,10005,At-large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1103,1,county
+meae.congressional.congress01.de.county,des_kent,10001,At-large,604,0.926,NA,NA,NA,NA,NA,NA,NA,NA,48,0.074,county
+meae.congressional.congress01.de.county,des_newcastle,10003,At-large,52,0.171,NA,NA,NA,NA,NA,NA,NA,NA,252,0.829,county
+meae.congressional.congress01.de.county,des_sussex,10005,At-large,514,0.466,NA,NA,NA,NA,NA,NA,NA,NA,589,0.534,county
 meae.congressional.congress01.ga.county,gas_burke,13033,At-large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,475,1,county
 meae.congressional.congress01.ga.county,gas_camden,13039,At-large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,90,1,county
 meae.congressional.congress01.ga.county,gas_chatham,13051,At-large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,554,1,county
