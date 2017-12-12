@@ -491,7 +491,7 @@ meae.congressional.congress03.ky.county,kys_mercer,21167,1,NA,NA,NA,NA,NA,NA,NA,
 meae.congressional.congress03.ky.county,kys_nelson,21179,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress03.ky.county,kys_shelby,21211,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress03.ky.county,kys_washington,21229,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress03.ky.county,kys_bourbon,21017,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress03.ky.county,kys_bourbon,21017,"1, 2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress03.ky.county,kys_fayette,21067,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress03.ky.county,kys_mason,21161,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress03.ky.county,kys_scott,21209,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
@@ -582,10 +582,10 @@ meae.congressional.congress03.nc.county,ncs_lenoir,37107,10,NA,NA,NA,NA,NA,NA,NA
 meae.congressional.congress03.nc.county,ncs_wayne,37191,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress03.nc.county,tns_greene,47059,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress03.nj.county,njs_burlington,34005,At-large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress03.nj.county,njs_gloucester,34015,At-large,1803,0.775,NA,NA,NA,NA,NA,NA,NA,NA,522,0.225,county
-meae.congressional.congress03.nj.county,njs_hunterdon,34019,At-large,4315,0.717,NA,NA,NA,NA,NA,NA,NA,NA,1705,0.283,county
-meae.congressional.congress03.nj.county,njs_monmouth,34025,At-large,987,0.739,NA,NA,NA,NA,NA,NA,NA,NA,349,0.261,county
-meae.congressional.congress03.nj.county,njs_morris,34027,At-large,3086,0.476,NA,NA,NA,NA,NA,NA,NA,NA,3398,0.524,county
+meae.congressional.congress03.nj.county,njs_gloucester,34015,At-large,1821,0.783,31,0.013,NA,NA,NA,NA,NA,NA,473,0.203,county
+meae.congressional.congress03.nj.county,njs_hunterdon,34019,At-large,4994,0.83,611,0.101,NA,NA,NA,NA,NA,NA,415,0.069,county
+meae.congressional.congress03.nj.county,njs_monmouth,34025,At-large,1157,0.866,120,0.09,NA,NA,NA,NA,NA,NA,59,0.044,county
+meae.congressional.congress03.nj.county,njs_morris,34027,At-large,4358,0.672,2126,0.328,NA,NA,NA,NA,NA,NA,0,0,county
 meae.congressional.congress03.ny.county,nys_kings,36047,1,460,0.975,NA,NA,12,0.025,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress03.ny.county,nys_queens,36081,1,908,0.713,NA,NA,365,0.287,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress03.ny.county,nys_suffolk,36103,1,74,0.065,NA,NA,1069,0.935,NA,NA,NA,NA,NA,NA,county
