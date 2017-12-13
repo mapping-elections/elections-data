@@ -716,10 +716,10 @@ meae.congressional.congress03.va.county,vas_lancaster,51103,19,NA,NA,NA,NA,NA,NA
 meae.congressional.congress03.va.county,vas_northumberland,51133,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress03.va.county,vas_richmond,51159,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress03.va.county,vas_westmoreland,51193,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,234,1,county
-meae.congressional.congress03.vt.county,vts_addison,50001,1,25,0.029,NA,NA,NA,NA,NA,NA,NA,NA,826,0.971,county
-meae.congressional.congress03.vt.county,vts_bennington,50003,1,49,0.059,NA,NA,NA,NA,NA,NA,NA,NA,780,0.941,county
-meae.congressional.congress03.vt.county,vts_chittenden,50007,1,23,0.037,NA,NA,NA,NA,NA,NA,NA,NA,603,0.963,county
-meae.congressional.congress03.vt.county,vts_rutland,50021,1,73,0.046,NA,NA,NA,NA,NA,NA,NA,NA,1501,0.954,county
+meae.congressional.congress03.vt.county,vts_addison,50001,1,25,0.029,NA,NA,826,0.971,NA,NA,NA,NA,0,0,county
+meae.congressional.congress03.vt.county,vts_bennington,50003,1,49,0.059,NA,NA,780,0.941,NA,NA,NA,NA,0,0,county
+meae.congressional.congress03.vt.county,vts_chittenden,50007,1,23,0.037,NA,NA,603,0.963,NA,NA,NA,NA,0,0,county
+meae.congressional.congress03.vt.county,vts_rutland,50021,1,73,0.046,NA,NA,1501,0.954,NA,NA,NA,NA,0,0,county
 meae.congressional.congress04.de.county,des_kent,10001,NA,593,0.409,NA,NA,857,0.591,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress04.de.county,des_newcastle,10003,NA,709,0.519,NA,NA,656,0.481,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress04.de.county,des_sussex,10005,NA,983,0.523,NA,NA,896,0.477,NA,NA,NA,NA,NA,NA,county
