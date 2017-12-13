@@ -1545,11 +1545,11 @@ meae.congressional.congress05.pa.county,pa.uscongress9.1796,William Irvine,IW001
 meae.congressional.congress05.pa.county,pa.uscongress9.1796,James Wallace,WJ0609,9,Federalist,168,2122,0.079,FALSE,FALSE
 meae.congressional.congress05.pa.county,pa.uscongress9.1796,Robert Whitehill,WR0153,9,Democratic-Republican,86,2122,0.041,FALSE,FALSE
 meae.congressional.congress05.pa.county,pa.uscongress9.1796,Thomas Kennedy,KT0064,9,Federalist,49,2122,0.023,FALSE,FALSE
-meae.congressional.congress05.ri.county,ri.uscongress.secondcongressmen.1796,Christopher Champlin,CC0006,At-large,Federalist,1915,3723,0.514,TRUE,FALSE
-meae.congressional.congress05.ri.county,ri.uscongress.secondcongressmen.1796,William Greene,GW0161,At-large,Federalist,1801,3723,0.484,FALSE,FALSE
-meae.congressional.congress05.ri.county,ri.uscongress.secondcongressmen.1796,scattering,NA,At-large,NA,7,3723,0.002,FALSE,FALSE
-meae.congressional.congress05.ri.county,ri.uscongress.firstcongressmen.1796,Benjamin Bourne,BB0013,At-large,Federalist,3707,3710,0.999,TRUE,FALSE
-meae.congressional.congress05.ri.county,ri.uscongress.firstcongressmen.1796,scattering,NA,At-large,NA,3,3710,0.001,FALSE,FALSE
+meae.congressional.congress05.ri.county,ri.uscongress.secondcongressmen.1796,Christopher Champlin,CC0006,2,Federalist,1915,3723,0.514,TRUE,FALSE
+meae.congressional.congress05.ri.county,ri.uscongress.secondcongressmen.1796,William Greene,GW0161,2,Federalist,1801,3723,0.484,FALSE,FALSE
+meae.congressional.congress05.ri.county,ri.uscongress.secondcongressmen.1796,scattering,NA,2,NA,7,3723,0.002,FALSE,FALSE
+meae.congressional.congress05.ri.county,ri.uscongress.firstcongressmen.1796,Benjamin Bourne,BB0013,1,Federalist,3707,3710,0.999,TRUE,FALSE
+meae.congressional.congress05.ri.county,ri.uscongress.firstcongressmen.1796,scattering,NA,1,NA,3,3710,0.001,FALSE,FALSE
 meae.congressional.congress05.sc.county,sc.uscongress.beaufort.1796,"John Rutledge, Jr.",RJ0621,2,Federalist,839,961,0.873,TRUE,FALSE
 meae.congressional.congress05.sc.county,sc.uscongress.beaufort.1796,Elnathan Haskell,HE0016,2,Democratic-Republican,122,961,0.127,FALSE,FALSE
 meae.congressional.congress05.sc.county,sc.uscongress.camden.1796,Thomas Sumpter,ST0266,4,Democratic-Republican,854,1685,0.507,TRUE,FALSE
