@@ -1145,8 +1145,12 @@ meae.congressional.congress04.ri.county,ri.uscongress2.1794,"Joseph Stanton, Jr.
 meae.congressional.congress04.sc.county,sc.uscongress.district1.1794,William Smith,SW0299,1,Federalist,698,1351,0.517,TRUE,FALSE
 meae.congressional.congress04.sc.county,sc.uscongress.district1.1794,"John Rutledge, Jr.",RJ0621,1,Federalist,504,1351,0.373,FALSE,FALSE
 meae.congressional.congress04.sc.county,sc.uscongress.district1.1794,Thomas Tucker,TT0123,1,NA,149,1351,0.11,FALSE,FALSE
+meae.congressional.congress04.sc.county,NA,Wade Hampton,HW0374,2,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress04.sc.county,NA,Lemuel Benton,BL0075,3,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress04.sc.county,NA,Richard Winn,WR0158,4,Democratic-Republican,NA,NA,NA,TRUE,FALSE
 meae.congressional.congress04.sc.county,sc.uscongress.district3.1794,Robert G. Harper,HR0079,5,Federalist,1389,2381,0.583,TRUE,FALSE
 meae.congressional.congress04.sc.county,sc.uscongress.district3.1794,John Hunter,HJ1210,5,Democratic-Republican,992,2381,0.417,FALSE,FALSE
+meae.congressional.congress04.sc.county,NA,Samuel Earle,NA,6,Democratic-Republican,NA,NA,NA,TRUE,FALSE
 meae.congressional.congress04.tn.county,tn.uscongress.1796,Andrew Jackson,JA0014,At-large,Democratic-Republican,1113,1125,0.989,TRUE,FALSE
 meae.congressional.congress04.tn.county,tn.uscongress.1796,James Rody,RJ0038,At-large,NA,12,1125,0.011,FALSE,FALSE
 meae.congressional.congress04.va.county,va.uscongress.1.1795,Robert Rutherford,RR0071,1,Democratic-Republican,NA,0,NA,TRUE,FALSE
