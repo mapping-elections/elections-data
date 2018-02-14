@@ -2023,6 +2023,21 @@ meae.congressional.congress06.ri.county,ri.uscongress.1strep.1798,Christopher G.
 meae.congressional.congress06.ri.county,ri.uscongress.1strep.1798,scattering,NA,At-large,NA,72,2908,0.025,FALSE,FALSE
 meae.congressional.congress06.ri.county,ri.uscongress.2ndrep.1798,John Brown,BJ1311,At-large,Federalist,2680,4095,0.654,TRUE,FALSE
 meae.congressional.congress06.ri.county,ri.uscongress.2ndrep.1798,Thomas Tillinghast,TT0119,At-large,Democratic-Republican,1415,4095,0.346,FALSE,FALSE
+meae.congressional.congress06.sc.county,sc.uscongress.beaufort.1798,"John Rutledge, Jr.",RJ0621,2,Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress06.sc.county,sc.uscongress.beaufort.1798,Pierce Butler,BP0091,2,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress06.sc.county,sc.uscongress.camden.1798,Thomas Sumter,ST0266,4,Democratic-Republican,1228,1900,0.646,TRUE,FALSE
+meae.congressional.congress06.sc.county,sc.uscongress.camden.1798,Richard Winn,WR0158,4,Federalist,672,1900,0.354,FALSE,FALSE
+meae.congressional.congress06.sc.county,sc.uscongress.charleston.1798,Thomas Pinckney,PT0162,1,Federalist,NA,NA,1,TRUE,TRUE
+meae.congressional.congress06.sc.county,sc.uscongress.georgetown.1798,Benjamin Huger,HB0145,3,Federalist,743,1774,0.419,TRUE,FALSE
+meae.congressional.congress06.sc.county,sc.uscongress.georgetown.1798,Lemuel Benton,BL0075,3,Democratic-Republican,574,1774,0.324,FALSE,FALSE
+meae.congressional.congress06.sc.county,sc.uscongress.georgetown.1798,Tristram Thomas,TT0124,3,Federalist,394,1774,0.222,FALSE,FALSE
+meae.congressional.congress06.sc.county,sc.uscongress.georgetown.1798,William Thomas,TW0121,3,Democratic-Republican,35,1774,0.02,FALSE,FALSE
+meae.congressional.congress06.sc.county,sc.uscongress.georgetown.1798,Joseph Blyth,BJ1341,3,Democratic-Republican,28,1774,0.016,FALSE,FALSE
+meae.congressional.congress06.sc.county,sc.uscongress.ninety-six.1798,Robert G. Harper,HR0079,5,Federalist,1963,3004,0.653,TRUE,FALSE
+meae.congressional.congress06.sc.county,sc.uscongress.ninety-six.1798,William Butler,BW0365,5,Democratic-Republican,1041,3004,0.347,FALSE,FALSE
+meae.congressional.congress06.sc.county,sc.uscongress.washington.1798,Abraham Nott,NA0041,6,Federalist,1415,3227,0.438,TRUE,FALSE
+meae.congressional.congress06.sc.county,sc.uscongress.washington.1798,William Smith,SW0300,6,Democratic-Republican,1393,3227,0.432,FALSE,FALSE
+meae.congressional.congress06.sc.county,sc.uscongress.washington.1798,William Hill,HW0378,6,Federalist,419,3227,0.13,FALSE,FALSE
 meae.congressional.congress06.tn.county,tn.congress.1799,William C.C. Clairborne,CW0037,At-large,Democratic-Republican,6519,6519,1,TRUE,TRUE
 meae.congressional.congress06.va.county,va.uscongress.1.1799,Robert Page,PR0096,1,Federalist,941,1733,0.543,TRUE,FALSE
 meae.congressional.congress06.va.county,va.uscongress.1.1799,John Smith,SJ1530,1,Democratic-Republican,792,1733,0.457,FALSE,FALSE
