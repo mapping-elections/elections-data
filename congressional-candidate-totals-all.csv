@@ -144,20 +144,20 @@ ct.congress.1804,GS0003,Sylvester Gilbert,A01,Federalist,79
 ct.congress.1804,HE0008,Ebenezer Huntington,A01,Federalist,52
 ct.congress.1804,CJ0040,John Caldwell,A01,Federalist,43
 ct.congress.1804,BS0001,Simeon Baldwin,A01,Federalist,16
-ct.congress.1806,MJ0022,Jonathan O. Moseley,NA,NA,NA
-ct.congress.1806,SL0001,Lewis B. Sturges,NA,NA,NA
-ct.congress.1806,CE0020,Epaphroditus Champion,NA,NA,NA
-ct.congress.1806,PT0001,"Timothy Pitkin, Jr.",NA,NA,NA
-ct.congress.1806,DS0003,Samuel W. Dana,NA,NA,NA
-ct.congress.1806,DJ0022,John Davenport,NA,NA,NA
-ct.congress.1806,TB0015,Benjamin Tallmadge,NA,NA,NA
-ct.congress.1808,SL0001,Lewis B. Sturges,NA,NA,NA
-ct.congress.1808,CE0020,Epaphroditus Champion,NA,NA,NA
-ct.congress.1808,MJ0022,Jonathan O. Moseley,NA,NA,NA
-ct.congress.1808,DS0003,Samuel W. Dana,NA,NA,NA
-ct.congress.1808,TB0015,Benjamin Tallmadge,NA,NA,NA
-ct.congress.1808,DJ0022,John Davenport,NA,NA,NA
-ct.congress.1808,PT0001,"Timothy Pitkin, Jr.",NA,NA,NA
+ct.congress.1806,MJ0022,Jonathan O. Moseley,NA,Federalist,NA
+ct.congress.1806,SL0001,Lewis B. Sturges,NA,Federalist,NA
+ct.congress.1806,CE0020,Epaphroditus Champion,NA,Federalist,NA
+ct.congress.1806,PT0001,"Timothy Pitkin, Jr.",NA,Federalist,NA
+ct.congress.1806,DS0003,Samuel W. Dana,NA,Federalist,NA
+ct.congress.1806,DJ0022,John Davenport,NA,Federalist,NA
+ct.congress.1806,TB0015,Benjamin Tallmadge,NA,Federalist,NA
+ct.congress.1808,SL0001,Lewis B. Sturges,NA,Federalist,NA
+ct.congress.1808,CE0020,Epaphroditus Champion,NA,Federalist,NA
+ct.congress.1808,MJ0022,Jonathan O. Moseley,NA,Federalist,NA
+ct.congress.1808,DS0003,Samuel W. Dana,NA,Federalist,NA
+ct.congress.1808,TB0015,Benjamin Tallmadge,NA,Federalist,NA
+ct.congress.1808,DJ0022,John Davenport,NA,Federalist,NA
+ct.congress.1808,PT0001,"Timothy Pitkin, Jr.",NA,Federalist,NA
 ct.congress.1810,SL0001,Lewis B. Sturges,A01,Federalist,4744
 ct.congress.1810,MJ0022,Jonathan O. Mosely,A01,Federalist,4447
 ct.congress.1810,TB0015,Benjamin Tallmadge,A01,Federalist,4396
@@ -581,11 +581,6 @@ de.uscongress.1806,BJ0090,James M. Broom,A01,Federalist,2353
 de.uscongress.1806,FT0001,Thomas Fitzgerald,A03,Democratic-Republican,830
 de.uscongress.1806,HJ0024,Joseph Haslet,A03,Democratic-Republican,382
 de.uscongress.1806,MT0004,Thomas Montgomery,A03,Democratic-Republican,323
-de.uscongress.1807,VN0010,Nicholas Van Dyke,A01,Federalist,3294
-de.uscongress.1807,DJ0039,John Dickinson,A03,Democratic-Republican,3078
-de.uscongress.1807,BP0118,Peter Bayard,NA,NA,1
-de.uscongress.1807,BW0429,William Brady,NA,NA,1
-de.uscongress.1807,DR0001,Richard C. Dale,NA,NA,1
 de.uscongress.1808,VN0010,Nicholas Van Dyke,A01,Federalist,3242
 de.uscongress.1808,HJ0024,Joseph Haslet,A03,Democratic-Republican,2837
 de.uscongress.1810,RH0001,Henry M. Ridgely,A01,Federalist,3634
@@ -792,15 +787,15 @@ ga.uscongress.1804,HC0003,Charles Harris,NA,NA,1
 ga.uscongress.1804,JW0090,William Jones,NA,NA,1
 ga.uscongress.1804,OC0000,Charles Odingsills,NA,NA,1
 ga.uscongress.1804,NA,Willis,NA,NA,1
-ga.uscongress.1806,SD0007,Dennis Smelt,NA,NA,9758
-ga.uscongress.1806,TG0014,George M. Troup,NA,NA,9112
-ga.uscongress.1806,BW0000,William W. Bibb,NA,NA,8274
-ga.uscongress.1806,CH0029,Howell Cobb,NA,NA,6985
-ga.uscongress.1806,CE0024,Elijah Clarke,NA,NA,6491
-ga.uscongress.1806,BW0037,William Barnett,NA,NA,3721
+ga.uscongress.1806,SD0007,Dennis Smelt,NA,Democratic-Republican,9758
+ga.uscongress.1806,TG0014,George M. Troup,NA,Democratic-Republican,9112
+ga.uscongress.1806,BW0000,William W. Bibb,NA,Democratic-Republican,8274
+ga.uscongress.1806,CH0029,Howell Cobb,NA,Democratic-Republican,6985
+ga.uscongress.1806,CE0024,Elijah Clarke,NA,Democratic-Republican,6491
+ga.uscongress.1806,BW0037,William Barnett,NA,Democratic-Republican,3721
 ga.uscongress.1806,CT0026,Thomas Carr,NA,NA,3187
 ga.uscongress.1806,SJ0091,James Simms,NA,NA,3124
-ga.uscongress.1806,ST0028,Thomas Spalding,NA,NA,1669
+ga.uscongress.1806,ST0028,Thomas Spalding,NA,Democratic-Republican,1669
 ga.uscongress.1806,JO0000,Obediah Jones,NA,NA,534
 ga.uscongress.1806,HB0020,Buckner Harris,NA,NA,353
 ga.uscongress.1808,BW0000,William Bibb,A03,Democratic-Republican,12805
@@ -977,16 +972,16 @@ ky.uscongress5.1804,HB0032,Benjamin Howard,NA,NA,NA
 ky.uscongress6.1804,BG0011,George M. Bedinger,NA,NA,NA
 ky.uscongress6.1804,GR0098,Robert H. Grayson,NA,NA,NA
 ky.uscongress6.1804,TP0004,Philemon Thomas,NA,NA,NA
-ky.uscongress1.1806,LM0053,Matthew Lyon,NA,NA,4484
-ky.uscongress1.1806,WD0004,David Walker,NA,NA,3261
-ky.uscongress2.1806,BJ0201,John Boyle,NA,NA,NA
-ky.uscongress3.1806,RJ0044,John Rowan,NA,NA,2747
-ky.uscongress3.1806,OS0002,Stephen Ormsby,NA,NA,2173
-ky.uscongress4.1806,JR0007,Richard M. Johnson,NA,NA,2315
-ky.uscongress4.1806,ST0052,Thomas Sandford,NA,NA,1643
+ky.uscongress1.1806,LM0053,Matthew Lyon,NA,Democratic-Republican,4484
+ky.uscongress1.1806,WD0004,David Walker,NA,Democratic-Republican,3261
+ky.uscongress2.1806,BJ0201,John Boyle,NA,Democratic-Republican,NA
+ky.uscongress3.1806,RJ0044,John Rowan,NA,Democratic-Republican,2747
+ky.uscongress3.1806,OS0002,Stephen Ormsby,NA,Democratic-Republican,2173
+ky.uscongress4.1806,JR0007,Richard M. Johnson,NA,Democratic-Republican,2315
+ky.uscongress4.1806,ST0052,Thomas Sandford,NA,Democratic-Republican,1643
 ky.uscongress4.1806,MJ0155,James Moore,NA,NA,1488
-ky.uscongress5.1806,HB0032,Benjamin Howard,NA,NA,4353
-ky.uscongress6.1806,DJ0079,Joseph Desha,NA,NA,NA
+ky.uscongress5.1806,HB0032,Benjamin Howard,NA,Democratic-Republican,4353
+ky.uscongress6.1806,DJ0079,Joseph Desha,NA,Democratic-Republican,NA
 ky.uscongress1.1808,LM0053,Matthew Lyon,A03,Democratic-Republican,NA
 ky.uscongress1.1808,NA0009,Anthony New,NA,NA,NA
 ky.uscongress2.1808,MS0028,Samuel MacKee,NA,NA,NA
@@ -2220,7 +2215,7 @@ ma.uscongress.barnstable.1806,DW0062,Wendell Davis,A01,Federalist,363
 ma.uscongress.barnstable.1806,BE0028,Ebenezer Bacon,NA,NA,11
 ma.uscongress.barnstable.1806,WL0031,Lemuel Williams,NA,NA,9
 ma.uscongress.barnstable.1806,SD0011,David Scudder,NA,NA,1
-ma.uscongress.berkshire.1806,BB0057,Barnabus Bidwell,NA,NA,1446
+ma.uscongress.berkshire.1806,BB0057,Barnabus Bidwell,NA,Democratic-Republican,1446
 ma.uscongress.berkshire.1806,DD0043,Daniel Dewey,A01,Federalist,971
 ma.uscongress.berkshire.1806,HJ0395,J. Hulbart,NA,NA,2
 ma.uscongress.berkshire.1806,BE0033,Ezekiel Bacon,NA,NA,1
@@ -2243,7 +2238,7 @@ ma.uscongress.essexsouth.1806,PJ0240,John Panchard,NA,NA,1
 ma.uscongress.essexsouth.1806,PJ0211,"John Pickering, Jr.",NA,NA,1
 ma.uscongress.essexsouth.1806,RN0017,Nathan Reed,NA,NA,1
 ma.uscongress.hampshirenorth.1806,TS0046,Samuel Taggart,A01,Federalist,1840
-ma.uscongress.hampshirenorth.1806,SS0117,Solomon Smead,NA,NA,978
+ma.uscongress.hampshirenorth.1806,SS0117,Solomon Smead,NA,Democratic-Republican,978
 ma.uscongress.hampshirenorth.1806,SB0037,Benjamin Smith,NA,NA,4
 ma.uscongress.hampshirenorth.1806,WE0051,Ephraim Williams,NA,NA,2
 ma.uscongress.hampshirenorth.1806,BJ0392,Jeduthen Bartlett,NA,NA,1
@@ -2280,8 +2275,8 @@ ma.uscongress.middlesex.1806,PO0007,Oliver Prescott,NA,NA,1
 ma.uscongress.middlesex.1806,WA0088,Alexander Willard,NA,NA,1
 ma.uscongress.middlesex.1806,WJ0432,Jonas Wood,NA,NA,1
 ma.uscongress.middlesex.1806,WA0087,Abraham B. Wright,NA,NA,1
-ma.uscongress.norfolk.1806,SE0023,Ebenezer Seaver,NA,NA,1321
-ma.uscongress.norfolk.1806,RE0018,E. H. Robbins,NA,NA,709
+ma.uscongress.norfolk.1806,SE0023,Ebenezer Seaver,NA,Democratic-Republican,1321
+ma.uscongress.norfolk.1806,RE0018,E. H. Robbins,NA,Federalist,709
 ma.uscongress.norfolk.1806,CE0034,Elijah Crane,NA,NA,10
 ma.uscongress.norfolk.1806,AT0017,Thomas B. Adams,NA,NA,7
 ma.uscongress.norfolk.1806,FE0012,Ebenezer Fisher,NA,NA,1
@@ -2321,7 +2316,7 @@ ma.uscongress.worcestersouth.1806,HS0073,Seth Hastings,NA,NA,1
 ma.uscongress.worcestersouth.1806,LL0038,Levi Lincoln,NA,NA,1
 ma.uscongress.worcestersouth.1806,MP0066,Pliny Merrick,NA,NA,1
 ma.uscongress.york.1806,CR0035,Richard Cutts,A03,Democratic-Republican,920
-ma.uscongress.york.1806,LJ0105,Joseph Leland,NA,NA,438
+ma.uscongress.york.1806,LJ0105,Joseph Leland,NA,Federalist,438
 ma.uscongress.york.1806,BJ0329,Joseph Bartlett,A03,Democratic-Republican,327
 ma.uscongress.york.1806,EN0001,Nicholas Emery,NA,NA,2
 ma.uscongress.york.1806,CJ0289,Jonas Clark,NA,NA,1
@@ -11910,7 +11905,7 @@ vt.uscongress.northeast.3.1805,WP0061,Pres West,NA,NA,1
 vt.uscongress.northeast.3.1805,NA,scattering,NA,NA,7
 vt.uscongress.northwest.1804,CM0084,Martin Chittenden,A01,Federalist,2354
 vt.uscongress.northwest.1804,BE0213,Ezra Butler,A03,Democratic-Republican,2180
-vt.uscongress.northwest.1804,CN0046,Noah Chittenden,NA,NA,43
+vt.uscongress.northwest.1804,CN0046,Noah Chittenden,NA,Democratic-Republican,43
 vt.uscongress.northwest.1804,HU0003,Udney Hay,NA,NA,15
 vt.uscongress.northwest.1804,TI0032,Isaac Tichenor,NA,Federalist,9
 vt.uscongress.northwest.1804,MA0292,Amos Marsh,NA,NA,8
