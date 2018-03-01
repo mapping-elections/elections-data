@@ -2672,7 +2672,7 @@ meae.congressional.congress08.ga.county,ga.uscongress.1802,Matthew MacAlister,MM
 meae.congressional.congress08.ga.county,ga.uscongress.1802,William Crawford,CW0010,At-large,NA,140,38565,0.004,FALSE,FALSE
 meae.congressional.congress08.ga.county,ga.uscongress.1802,Jared Irwin,IJ0023,At-large,NA,15,38565,0,FALSE,FALSE
 meae.congressional.congress08.ga.county,ga.uscongress.1802,scattering,NA,At-large,NA,52,38565,0.001,FALSE,FALSE
-meae.congressional.congress08.ky.county,ky.uscongress1.1803,Matthew Lyon,LM0053,1,NA,2472,4845,0.51,TRUE,FALSE
+meae.congressional.congress08.ky.county,ky.uscongress1.1803,Matthew Lyon,LM0053,1,Democratic-Republican,2472,4845,0.51,TRUE,FALSE
 meae.congressional.congress08.ky.county,ky.uscongress1.1803,David Walker,WD0004,1,Democratic-Republican,2373,4845,0.49,FALSE,FALSE
 meae.congressional.congress08.ky.county,ky.uscongress2.1803,John Boyle,BJ0201,2,Democratic-Republican,NA,0,NA,TRUE,TRUE
 meae.congressional.congress08.ky.county,ky.uscongress3.1803,Matthew Walton,WM0023,3,Democratic-Republican,NA,0,NA,TRUE,TRUE
@@ -2728,7 +2728,7 @@ meae.congressional.congress08.ma.county,ma.uscongress.plymouth.1802,Joseph Smith
 meae.congressional.congress08.ma.county,ma.uscongress.plymouth.1802,Josiah Smith,SJ0404,7,NA,1,2424,0,FALSE,FALSE
 meae.congressional.congress08.ma.county,ma.uscongress.plymouth.1802,Joshua Thomas,TJ0188,7,NA,1,2424,0,FALSE,FALSE
 meae.congressional.congress08.ma.county,ma.uscongress.barnstable.1802,Lemuel Williams,WL0031,8,Federalist,543,981,0.554,TRUE,FALSE
-meae.congressional.congress08.ma.county,ma.uscongress.barnstable.1802,Isaiah Lewis Green,GI0007,8,NA,436,981,0.444,FALSE,FALSE
+meae.congressional.congress08.ma.county,ma.uscongress.barnstable.1802,Isaiah Lewis Green,GI0007,8,Democratic-Republican,436,981,0.444,FALSE,FALSE
 meae.congressional.congress08.ma.county,ma.uscongress.barnstable.1802,Isaac Coffin,CI0010,8,NA,1,981,0.001,FALSE,FALSE
 meae.congressional.congress08.ma.county,ma.uscongress.barnstable.1802,Jatham Waterman,WJ0413,8,NA,1,981,0.001,FALSE,FALSE
 meae.congressional.congress08.ma.county,ma.uscongress.bristol.1802,Phanuel Bishop,BP0031,9,Democratic-Republican,1257,2195,0.573,TRUE,FALSE
@@ -2772,16 +2772,16 @@ meae.congressional.congress08.ma.county,ma.uscongress.york.1802,Richard Cutts,CR
 meae.congressional.congress08.ma.county,ma.uscongress.york.1802,John Lord,LJ0185,14,Federalist,553,1335,0.414,FALSE,FALSE
 meae.congressional.congress08.ma.county,ma.uscongress.york.1802,Moses Sweat,SM0011,14,NA,38,1335,0.028,FALSE,FALSE
 meae.congressional.congress08.ma.county,ma.uscongress.cumberland.1802,Peleg Wadsworth,WP0012,15,Federalist,829,937,0.885,TRUE,FALSE
-meae.congressional.congress08.ma.county,ma.uscongress.cumberland.1802,Isaac Parsons,PI0017,15,NA,80,937,0.085,FALSE,FALSE
+meae.congressional.congress08.ma.county,ma.uscongress.cumberland.1802,Isaac Parsons,PI0017,15,Democratic-Republican,80,937,0.085,FALSE,FALSE
 meae.congressional.congress08.ma.county,ma.uscongress.cumberland.1802,Josiah Pierce,PJ0210,15,NA,14,937,0.015,FALSE,FALSE
 meae.congressional.congress08.ma.county,ma.uscongress.cumberland.1802,Woodbury Storer,SW0008,15,NA,11,937,0.012,FALSE,FALSE
 meae.congressional.congress08.ma.county,ma.uscongress.cumberland.1802,Salmon Chase,CS0085,15,NA,1,937,0.001,FALSE,FALSE
 meae.congressional.congress08.ma.county,ma.uscongress.cumberland.1802,John Cushing,CJ0337,15,NA,1,937,0.001,FALSE,FALSE
 meae.congressional.congress08.ma.county,ma.uscongress.cumberland.1802,Daniel Tucker,TD0015,15,NA,1,937,0.001,FALSE,FALSE
-meae.congressional.congress08.ma.county,ma.uscongress.lincoln.1802,Samuel Thacher,TS0035,16,NA,451,696,0.648,TRUE,FALSE
+meae.congressional.congress08.ma.county,ma.uscongress.lincoln.1802,Samuel Thacher,TS0035,16,Federalist,451,696,0.648,TRUE,FALSE
 meae.congressional.congress08.ma.county,ma.uscongress.lincoln.1802,William King,KW0033,16,Federalist,123,696,0.177,FALSE,FALSE
-meae.congressional.congress08.ma.county,ma.uscongress.lincoln.1802,John Farley,FJ0124,16,NA,85,696,0.122,FALSE,FALSE
-meae.congressional.congress08.ma.county,ma.uscongress.lincoln.1802,George Ulmer,UG0003,16,NA,18,696,0.026,FALSE,FALSE
+meae.congressional.congress08.ma.county,ma.uscongress.lincoln.1802,John Farley,FJ0124,16,Federalist,85,696,0.122,FALSE,FALSE
+meae.congressional.congress08.ma.county,ma.uscongress.lincoln.1802,George Ulmer,UG0003,16,Democratic-Republican,18,696,0.026,FALSE,FALSE
 meae.congressional.congress08.ma.county,ma.uscongress.lincoln.1802,Henry Knox,KH0025,16,Federalist,15,696,0.022,FALSE,FALSE
 meae.congressional.congress08.ma.county,ma.uscongress.lincoln.1802,Orchard Cook,CO0004,16,NA,3,696,0.004,FALSE,FALSE
 meae.congressional.congress08.ma.county,ma.uscongress.lincoln.1802,Waterman Thomas,TW0063,16,NA,1,696,0.001,FALSE,FALSE
@@ -2820,7 +2820,7 @@ meae.congressional.congress08.md.county,md.uscongress8.1803,Arthur Whitely,WA000
 meae.congressional.congress08.md.county,md.uscongress8.1803,Samuel Heath,HS0010,8,NA,20,1846,0.011,FALSE,FALSE
 meae.congressional.congress08.md.county,md.uscongress8.1803,Thomas S. Tapett,TT0044,8,NA,2,1846,0.001,FALSE,FALSE
 meae.congressional.congress08.md.county,md.uscongress8.1803,William Polk,PW0048,8,NA,1,1846,0.001,FALSE,FALSE
-meae.congressional.congress08.nc.county,nc.uscongress1.1803,Thomas Wynns,WT0142,1,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress1.1803,Thomas Wynns,WT0142,1,Democratic-Republican,NA,NA,NA,TRUE,TRUE
 meae.congressional.congress08.nc.county,nc.uscongress10.1803,Nathaniel Alexander,AN0006,10,Democratic-Republican,1966,3525,0.558,TRUE,FALSE
 meae.congressional.congress08.nc.county,nc.uscongress10.1803,Basil Gaither,GB0036,10,Federalist,1559,3525,0.442,FALSE,FALSE
 meae.congressional.congress08.nc.county,nc.uscongress11.1803,James Holland,HJ0602,11,Democratic-Republican,3052,4318,0.707,TRUE,FALSE
@@ -3164,7 +3164,7 @@ meae.congressional.congress08.va.county,va.uscongress.11.1803,Anthony New,NA0009
 meae.congressional.congress08.va.county,va.uscongress.11.1803,John Taylor,TJ0625,11,Democratic-Republican,364,1271,0.286,FALSE,FALSE
 meae.congressional.congress08.va.county,va.uscongress.12.1803,Thomas Griffin,GT0058,12,Federalist,1089,2145,0.508,TRUE,FALSE
 meae.congressional.congress08.va.county,va.uscongress.12.1803,Burwell Bassett,BB0099,12,Democratic-Republican,1056,2145,0.492,FALSE,FALSE
-meae.congressional.congress08.va.county,va.uscongress.13.1803,John Trigg,TJ0571,13,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress08.va.county,va.uscongress.13.1803,John Trigg,TJ0571,13,Democratic-Republican,NA,NA,NA,TRUE,TRUE
 meae.congressional.congress08.va.county,va.uscongress.14.1803,Matthew Clay,CM0108,14,Democratic-Republican,2067,2325,0.889,TRUE,FALSE
 meae.congressional.congress08.va.county,va.uscongress.14.1803,James Hurt,HJ1339,14,Federalist,258,2325,0.111,FALSE,FALSE
 meae.congressional.congress08.va.county,va.uscongress.15.1803,John Randolph,RJ0610,15,Democratic-Republican,NA,NA,NA,TRUE,FALSE
@@ -3177,7 +3177,7 @@ meae.congressional.congress08.va.county,va.uscongress.17.1803,Thomas Claiborne,C
 meae.congressional.congress08.va.county,va.uscongress.17.1803,Richard Field,FR0060,17,Federalist,851,1749,0.487,FALSE,FALSE
 meae.congressional.congress08.va.county,va.uscongress.18.1803,Peterson Goodwyn,GP0075,18,Democratic-Republican,839,1254,0.669,TRUE,FALSE
 meae.congressional.congress08.va.county,va.uscongress.18.1803,James Jones,JJ0276,18,Democratic-Republican,415,1254,0.331,FALSE,FALSE
-meae.congressional.congress08.va.county,va.uscongress.19.1803,Edwin Gray,GE0059,19,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress08.va.county,va.uscongress.19.1803,Edwin Gray,GE0059,19,Democratic-Republican,NA,NA,NA,TRUE,TRUE
 meae.congressional.congress08.va.county,va.uscongress.2.1803,James Stephenson,SJ1474,2,Federalist,984,1837,0.536,TRUE,FALSE
 meae.congressional.congress08.va.county,va.uscongress.2.1803,Osborn Sprigg,SO0017,2,Democratic-Republican,853,1837,0.464,FALSE,FALSE
 meae.congressional.congress08.va.county,va.uscongress.20.1803,"Thomas Newton, Jr.",NT0024,20,Democratic-Republican,1157,1157,1,TRUE,FALSE
@@ -3194,7 +3194,7 @@ meae.congressional.congress08.va.county,va.uscongress.4.1803,Isaac Van Meter,VI0
 meae.congressional.congress08.va.county,va.uscongress.5.1803,Andrew Moore,MA0281,5,Democratic-Republican,708,1780,0.398,TRUE,FALSE
 meae.congressional.congress08.va.county,va.uscongress.5.1803,Thomas Lewis,LT0108,5,Federalist,649,1780,0.365,FALSE,FALSE
 meae.congressional.congress08.va.county,va.uscongress.5.1803,John Woodward,WJ1007,5,Federalist,423,1780,0.238,FALSE,FALSE
-meae.congressional.congress08.va.county,va.uscongress.6.1803,Abram Trigg,TA0080,6,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress08.va.county,va.uscongress.6.1803,Abram Trigg,TA0080,6,Democratic-Republican,NA,NA,NA,TRUE,TRUE
 meae.congressional.congress08.va.county,va.uscongress.7.1803,"Joseph Lewis, Jr.",LJ0458,7,Federalist,687,1216,0.565,TRUE,FALSE
 meae.congressional.congress08.va.county,va.uscongress.7.1803,Richard Brent,BR0163,7,Democratic-Republican,529,1216,0.435,FALSE,FALSE
 meae.congressional.congress08.va.county,va.uscongress.8.1803,Walter Jones,JW0100,8,Democratic-Republican,NA,NA,NA,TRUE,FALSE
@@ -3212,7 +3212,7 @@ meae.congressional.congress08.va.county,va.uscongress.8.1803,John Shipton,SJ1550
 meae.congressional.congress08.va.county,va.uscongress.8.1803,W. Slaughter,SW0355,8,NA,NA,NA,NA,FALSE,FALSE
 meae.congressional.congress08.va.county,va.uscongress.8.1803,Thomas Taylor,TT0082,8,NA,NA,NA,NA,FALSE,FALSE
 meae.congressional.congress08.va.county,va.uscongress.8.1803,Unreadable,NA,8,NA,NA,NA,NA,FALSE,FALSE
-meae.congressional.congress08.va.county,va.uscongress.9.1803,Philip R. Thompson,TP0042,9,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress08.va.county,va.uscongress.9.1803,Philip R. Thompson,TP0042,9,Democratic-Republican,NA,NA,NA,TRUE,TRUE
 meae.congressional.congress08.vt.county,vt.uscongress.northeast.1802,William Chamberlain,CW0352,3,Federalist,891,1684,0.529,TRUE,FALSE
 meae.congressional.congress08.vt.county,vt.uscongress.northeast.1802,Nathaniel Niles,NN0014,3,Democratic-Republican,679,1684,0.403,FALSE,FALSE
 meae.congressional.congress08.vt.county,vt.uscongress.northeast.1802,James Fisk,FJ0462,3,Democratic-Republican,108,1684,0.064,FALSE,FALSE
