@@ -3671,16 +3671,16 @@ meae.congressional.congress09.ga.county,ga.uscongress.1804,Charles Harris,HC0003
 meae.congressional.congress09.ga.county,ga.uscongress.1804,William Jones,JW0090,At-large,NA,1,43412,0,FALSE,FALSE
 meae.congressional.congress09.ga.county,ga.uscongress.1804,Charles Odingsills,OC0000,At-large,NA,1,43412,0,FALSE,FALSE
 meae.congressional.congress09.ga.county,ga.uscongress.1804,Willis,NA,At-large,NA,1,43412,0,FALSE,FALSE
-meae.congressional.congress09.ky.county,ky.uscongress1.1804,Matthew Lyon,LM0053,1,NA,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress09.ky.county,ky.uscongress1.1804,Matthew Lyon,LM0053,1,Democratic-Republican,NA,NA,NA,TRUE,FALSE
 meae.congressional.congress09.ky.county,ky.uscongress1.1804,Samuel Hopkins,HS0042,1,NA,NA,NA,NA,FALSE,FALSE
-meae.congressional.congress09.ky.county,ky.uscongress2.1804,John Boyle,BJ0201,2,NA,NA,NA,NA,TRUE,FALSE
-meae.congressional.congress09.ky.county,ky.uscongress3.1804,Mathew Walton,WM0023,3,NA,NA,NA,NA,TRUE,FALSE
-meae.congressional.congress09.ky.county,ky.uscongress4.1804,Thomas Sandford,ST0052,4,NA,NA,NA,NA,TRUE,FALSE
-meae.congressional.congress09.ky.county,ky.uscongress5.1804,John Fowler,FJ0047,5,NA,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress09.ky.county,ky.uscongress2.1804,John Boyle,BJ0201,2,Democratic-Republican,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress09.ky.county,ky.uscongress3.1804,Mathew Walton,WM0023,3,Democratic-Republican,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress09.ky.county,ky.uscongress4.1804,Thomas Sandford,ST0052,4,Democratic-Republican,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress09.ky.county,ky.uscongress5.1804,John Fowler,FJ0047,5,Democratic-Republican,NA,NA,NA,TRUE,FALSE
 meae.congressional.congress09.ky.county,ky.uscongress5.1804,Benjamin Howard,HB0032,5,NA,NA,NA,NA,FALSE,FALSE
-meae.congressional.congress09.ky.county,ky.uscongress6.1804,George M. Bedinger,BG0011,6,NA,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress09.ky.county,ky.uscongress6.1804,George M. Bedinger,BG0011,6,Democratic-Republican,NA,NA,NA,TRUE,FALSE
 meae.congressional.congress09.ky.county,ky.uscongress6.1804,Robert H. Grayson,GR0098,6,NA,NA,NA,NA,FALSE,FALSE
-meae.congressional.congress09.ky.county,ky.uscongress6.1804,Philemon Thomas,TP0004,6,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress09.ky.county,ky.uscongress6.1804,Philemon Thomas,TP0004,6,Democratic-Republican,NA,NA,NA,FALSE,FALSE
 meae.congressional.congress09.ma.county,ma.uscongress.barnstable.1804,Isaiah Lewis Green,GI0007,8,Democratic-Republican,979,1618,0.605,TRUE,FALSE
 meae.congressional.congress09.ma.county,ma.uscongress.barnstable.1804,Lemuel Williams,WL0031,8,Federalist,638,1618,0.394,FALSE,FALSE
 meae.congressional.congress09.ma.county,ma.uscongress.barnstable.1804,Samuel Perry,PS0060,8,NA,1,1618,0.001,FALSE,FALSE
