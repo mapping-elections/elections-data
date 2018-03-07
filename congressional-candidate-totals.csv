@@ -4137,9 +4137,9 @@ meae.congressional.congress09.pa.county,pa.uscongress6.1804,James Kelly,KJ0173,6
 meae.congressional.congress09.pa.county,pa.uscongress6.1804,John Stewart,SJ0949,6,Democratic-Republican,1211,2916,0.415,FALSE,FALSE
 meae.congressional.congress09.pa.county,pa.uscongress7.1804,John Rea,RJ0310,7,Democratic-Republican,1494,1500,0.996,TRUE,FALSE
 meae.congressional.congress09.pa.county,pa.uscongress7.1804,Robert Shannon,SR0226,7,NA,6,1500,0.004,FALSE,FALSE
-meae.congressional.congress09.pa.county,pa.uscongress8.1804,William Findley,FW0062,8,Democratic-Republican,NA,0,NA,TRUE,FALSE
-meae.congressional.congress09.pa.county,pa.uscongress8.1804,John Brandon,BJ1002,8,Democratic-Republican,NA,0,NA,FALSE,FALSE
-meae.congressional.congress09.pa.county,pa.uscongress9.1804,John Smilie,SJ0970,9,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress09.pa.county,pa.uscongress8.1804,William Findley,FW0062,8,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress8.1804,John Brandon,BJ1002,8,Democratic-Republican,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress9.1804,John Smilie,SJ0970,9,Democratic-Republican,NA,NA,NA,TRUE,TRUE
 meae.congressional.congress09.vt.county,vt.uscongress.northeast.3.1805,James Fisk,FJ0462,3,Democratic-Republican,2352,4190,0.561,TRUE,FALSE
 meae.congressional.congress09.vt.county,vt.uscongress.northeast.3.1805,William Chamberlain,CW0352,3,Federalist,1789,4190,0.427,FALSE,FALSE
 meae.congressional.congress09.vt.county,vt.uscongress.northeast.3.1805,Samuel C. Crafts,CS0219,3,Democratic-Republican,39,4190,0.009,FALSE,FALSE
@@ -4381,14 +4381,14 @@ meae.congressional.congress10.nc.county,nc.uscongress12.1806,Peter Eaton,EP0019,
 meae.congressional.congress10.nc.county,nc.uscongress2.1806,Willis Alston,AW0047,2,Democratic-Republican,1442,1442,1,TRUE,FALSE
 meae.congressional.congress10.nc.county,nc.uscongress3.1806,Thomas Blount,BT0194,3,Democratic-Republican,2056,4106,0.501,TRUE,FALSE
 meae.congressional.congress10.nc.county,nc.uscongress3.1806,William Kennedy,KW0059,3,Democratic-Republican,2050,4106,0.499,FALSE,FALSE
-meae.congressional.congress10.nc.county,nc.uscongress4.1806,William Blackledge,BW0216,4,Democratic-Republican,NA,0,NA,TRUE,FALSE
-meae.congressional.congress10.nc.county,nc.uscongress5.1806,Thomas Kenan,KT0049,5,Democratic-Republican,NA,0,NA,TRUE,FALSE
-meae.congressional.congress10.nc.county,nc.uscongress5.1806,Benjamin Smith,SB0058,5,Democratic-Republican,NA,0,NA,FALSE,FALSE
-meae.congressional.congress10.nc.county,nc.uscongress5.1806,Samuel Jacelyn,JS0002,5,NA,NA,0,NA,FALSE,FALSE
-meae.congressional.congress10.nc.county,nc.uscongress5.1806,Alexander D. Moore,MA0151,5,NA,NA,0,NA,FALSE,FALSE
-meae.congressional.congress10.nc.county,nc.uscongress5.1806,O. James,JO0001,5,NA,NA,0,NA,FALSE,FALSE
-meae.congressional.congress10.nc.county,nc.uscongress5.1806,Peter Chase,CP0075,5,NA,NA,0,NA,FALSE,FALSE
-meae.congressional.congress10.nc.county,nc.uscongress5.1806,Thomas Brown,BT0023,5,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress10.nc.county,nc.uscongress4.1806,William Blackledge,BW0216,4,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress10.nc.county,nc.uscongress5.1806,Thomas Kenan,KT0049,5,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress10.nc.county,nc.uscongress5.1806,Benjamin Smith,SB0058,5,Democratic-Republican,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.nc.county,nc.uscongress5.1806,Samuel Jacelyn,JS0002,5,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.nc.county,nc.uscongress5.1806,Alexander D. Moore,MA0151,5,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.nc.county,nc.uscongress5.1806,O. James,JO0001,5,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.nc.county,nc.uscongress5.1806,Peter Chase,CP0075,5,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.nc.county,nc.uscongress5.1806,Thomas Brown,BT0023,5,NA,NA,NA,NA,FALSE,FALSE
 meae.congressional.congress10.nc.county,nc.uscongress6.1806,Nathaniel Macon,MN0068,6,Democratic-Republican,2366,2370,0.998,TRUE,FALSE
 meae.congressional.congress10.nc.county,nc.uscongress6.1806,Henderson,NA,6,NA,2,2370,0.001,FALSE,FALSE
 meae.congressional.congress10.nc.county,nc.uscongress6.1806,Burton,NA,6,NA,1,2370,0,FALSE,FALSE
