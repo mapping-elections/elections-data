@@ -1700,7 +1700,7 @@ meae.congressional.congress06.va.county,vas_bedford,51019,5,NA,NA,NA,NA,NA,NA,NA
 meae.congressional.congress06.va.county,vas_botetourt,51023,5,700,0.983,NA,NA,12,0.017,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.va.county,vas_brunswick,51025,8,278,0.327,NA,NA,571,0.673,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.va.county,vas_buckingham,51029,7,492,0.888,NA,NA,62,0.112,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress06.va.county,vas_campbell,51031,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress06.va.county,vas_campbell,51031,6,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress06.va.county,vas_caroline,51033,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.va.county,vas_charlescity,51036,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.va.county,vas_charlotte,51037,7,277,0.682,NA,NA,129,0.318,NA,NA,NA,NA,NA,NA,NA,NA,county
@@ -1719,7 +1719,7 @@ meae.congressional.congress06.va.county,vas_gloucester,51073,12,70,0.239,NA,NA,2
 meae.congressional.congress06.va.county,vas_goochland,51075,14,15,0.057,NA,NA,247,0.943,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.va.county,vas_grayson,51077,4,7,0.016,NA,NA,434,0.984,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.va.county,vas_greensville,51081,8,138,0.469,NA,NA,156,0.531,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress06.va.county,vas_halifax,51083,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress06.va.county,vas_halifax,51083,6,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress06.va.county,vas_hanover,51085,13,310,0.494,NA,NA,317,0.506,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.va.county,vas_henrico,51087,13,299,0.544,NA,NA,251,0.456,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.va.county,vas_henry,51089,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
@@ -1746,7 +1746,7 @@ meae.congressional.congress06.va.county,vas_northumberland,51133,19,106,0.327,NA
 meae.congressional.congress06.va.county,vas_nottoway,51135,9,29,0.112,NA,NA,230,0.888,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.va.county,vas_orange,51137,15,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress06.va.county,vas_patrick,51141,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress06.va.county,vas_pittsylvania,51143,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress06.va.county,vas_pittsylvania,51143,6,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress06.va.county,vas_powhatan,51145,7,49,0.233,NA,NA,161,0.767,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.va.county,vas_princeedward,51147,7,178,0.427,NA,NA,239,0.573,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.va.county,vas_princegeorge,51149,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
