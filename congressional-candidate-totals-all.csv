@@ -3385,7 +3385,7 @@ md.uscongress2.1806,NA,Holland,NA,NA,NA
 md.uscongress3.1806,KP0001,Philip B. Key,A01,Federalist,1935
 md.uscongress3.1806,MP0018,Patrick Magruder,A03,Democratic-Republican,1696
 md.uscongress4.1806,NR0020,Roger Nelson,A03,Democratic-Republican,3962
-md.uscongress4.1806,RN0010,Nathaniel Rochester,A04,Quid,122
+md.uscongress4.1806,RN0010,Nathaniel Rochester,A04,Dissenting Republican,122
 md.uscongress4.1806,WD0007,Daniel Weizel,NA,NA,4
 md.uscongress4.1806,BE0149,Edmund Boyd,NA,NA,3
 md.uscongress4.1806,FG0001,George Fedrich,NA,NA,3
@@ -3404,17 +3404,17 @@ md.uscongress4.1806,SH0051,Henry Shaffer,NA,NA,1
 md.uscongress4.1806,WE0027,Eli Williams,NA,NA,1
 md.uscongress5.1806,MN0021,Nicholas Moore,A03,Democratic-Republican,6164
 md.uscongress5.1806,MW0092,William MacCreery,A03,Democratic-Republican,3559
-md.uscongress5.1806,BJ0327,Joshua Barney,A04,Quid,2063
+md.uscongress5.1806,BJ0327,Joshua Barney,A04,Dissenting Republican,2063
 md.uscongress5.1806,SJ0201,John Scott,A01,Federalist,353
 md.uscongress6.1806,MJ0205,John Montgomery,A03,Democratic-Republican,1885
-md.uscongress6.1806,AJ0075,John Archer,A04,Quid,1829
+md.uscongress6.1806,AJ0075,John Archer,A04,Dissenting Republican,1829
 md.uscongress6.1806,SS0071,Samuel Sutton,NA,NA,38
 md.uscongress7.1806,LE0016,Edward Lloyd,A03,Democratic-Republican,2614
-md.uscongress7.1806,BJ0266,James Brown,A04,Quid,607
+md.uscongress7.1806,BJ0266,James Brown,A04,Dissenting Republican,607
 md.uscongress7.1806,SH0028,Hugh Sherwood,NA,NA,1
 md.uscongress7.1806,TS0083,Samuel Tilghman,NA,NA,1
 md.uscongress8.1806,GC0057,Charles Goldsborough,A01,Federalist,3243
-md.uscongress8.1806,QP0000,Philip Quinton,A04,Quid,1466
+md.uscongress8.1806,QP0000,Philip Quinton,A04,Dissenting Republican,1466
 md.uscongress8.1806,FH0020,Henry Fontaine,NA,NA,2
 md.uscongress8.1806,TP0043,Peter Tofrett,NA,NA,2
 md.uscongress8.1806,IT0002,Thomas Insley,NA,NA,1
@@ -6977,7 +6977,7 @@ ny.uscongress10.1806,DI0012,Isaac Danforth,NA,NA,1
 ny.uscongress10.1806,SJ0587,Joseph Sheldon,NA,NA,1
 ny.uscongress11.1806,TJ0297,John Thompson,A03,Democratic-Republican,2018
 ny.uscongress11.1806,PA0073,Asahel Porter,A01,Federalist,1381
-ny.uscongress11.1806,SP0076,Peter Sailly,A08,Quid,91
+ny.uscongress11.1806,SP0076,Peter Sailly,A08,Dissenting Republican,91
 ny.uscongress11.1806,SJ0665,Jacob Snell,NA,NA,12
 ny.uscongress11.1806,PN0030,Nathaniel Z. Platt,A01,Federalist,8
 ny.uscongress11.1806,MB0043,Benjamin Mooers,NA,NA,3
@@ -7054,7 +7054,7 @@ ny.uscongress14.1806,RR0035,Robert Roseboom,NA,NA,1
 ny.uscongress14.1806,NA,Russel,NA,NA,1
 ny.uscongress14.1806,SZ0004,Zachariah Snyder,NA,NA,1
 ny.uscongress14.1806,WJ0423,Joseph White,NA,NA,1
-ny.uscongress15.1806,KW0057,William Kirkpatrick,A08,Quid,2630
+ny.uscongress15.1806,KW0057,William Kirkpatrick,A08,Dissenting Republican,2630
 ny.uscongress15.1806,NJ0071,John Nicholson,A03,Democratic-Republican,2124
 ny.uscongress15.1806,GG0018,Gaylord Griswold,A01,Federalist,17
 ny.uscongress15.1806,KM0021,Moss Kent,NA,NA,5
@@ -7071,8 +7071,8 @@ ny.uscongress15.1806,PC0050,Charles Z. Platt,NA,NA,1
 ny.uscongress15.1806,PJ0297,Jonas Platt,A01,Federalist,1
 ny.uscongress16.1806,HR0127,Reuben Humphreys,A03,Democratic-Republican,3309
 ny.uscongress16.1806,WT0135,Thaddeus M. Wood,A01,Federalist,313
-ny.uscongress16.1806,CJ0467,John Cantine,A08,Quid,119
-ny.uscongress16.1806,TU0001,Uri Tracy,A08,Quid,101
+ny.uscongress16.1806,CJ0467,John Cantine,A08,Dissenting Republican,119
+ny.uscongress16.1806,TU0001,Uri Tracy,A08,Dissenting Republican,101
 ny.uscongress16.1806,BE0172,"Ebenezer Butler, Jr.",NA,NA,6
 ny.uscongress16.1806,HC0064,Cornelius Humprhrey,NA,NA,6
 ny.uscongress16.1806,MJ0460,John MacWhorter,NA,NA,4
@@ -7101,7 +7101,7 @@ ny.uscongress16.1806,SJ0556,Joseph Simons,NA,NA,1
 ny.uscongress16.1806,SJ0586,Jonas Spafford,NA,NA,1
 ny.uscongress17.1806,HJ0541,John Harris,A03,Democratic-Republican,1768
 ny.uscongress17.1806,LD0014,Daniel W. Lewis,A01,Federalist,1676
-ny.uscongress17.1806,HS0138,Silas Halsey,A08,Quid,1570
+ny.uscongress17.1806,HS0138,Silas Halsey,A08,Dissenting Republican,1570
 ny.uscongress17.1806,FJ0192,James Faulkner,A03,Democratic-Republican,93
 ny.uscongress17.1806,BB0111,Benjamin Barton,NA,NA,42
 ny.uscongress17.1806,PE0064,Elijah Price,NA,NA,29
@@ -7129,7 +7129,7 @@ ny.uscongress2and3.1806,MG0050,Gurdon S. Mumford,A03,Democratic-Republican,4615
 ny.uscongress2and3.1806,CG0080,George Clinton,A03,Democratic-Republican,4406
 ny.uscongress2and3.1806,CJ0493,John B. Coles,A01,Federalist,3698
 ny.uscongress2and3.1806,FN0016,Nicholas Fish,A01,Federalist,3688
-ny.uscongress2and3.1806,LJ0232,John R. Livingston,A08,Quid,173
+ny.uscongress2and3.1806,LJ0232,John R. Livingston,A08,Dissenting Republican,173
 ny.uscongress2and3.1806,MJ0473,James Morris,NA,NA,8
 ny.uscongress2and3.1806,JS0049,Samuel Jones,NA,NA,6
 ny.uscongress2and3.1806,WJ0457,Jonathan Ward,NA,NA,4
@@ -7150,7 +7150,7 @@ ny.uscongress2and3.1806,WG0058,George Wells,NA,NA,1
 ny.uscongress4.1806,VP0041,Philip Van Cortlandt,A03,Democratic-Republican,969
 ny.uscongress4.1806,JP0004,Peter Augustus Jay,A01,Federalist,854
 ny.uscongress4.1806,TP0036,Peter Tallman,A03,Democratic-Republican,136
-ny.uscongress4.1806,SS0152,Samuel L. Smith,A08,Quid,127
+ny.uscongress4.1806,SS0152,Samuel L. Smith,A08,Dissenting Republican,127
 ny.uscongress4.1806,CB0069,Benjamin Coe,NA,NA,5
 ny.uscongress4.1806,LA0055,Azra Lockwood,NA,NA,4
 ny.uscongress4.1806,MS0102,Samuel Marvine,NA,NA,4
@@ -7184,7 +7184,7 @@ ny.uscongress6.1806,SA0120,Agrippa Sheldon,NA,NA,1
 ny.uscongress6.1806,SW0237,Walter Skidmore,NA,NA,1
 ny.uscongress6.1806,SG0098,Gerard S. Sloan,NA,NA,1
 ny.uscongress7.1806,GB0043,Barent Gardenier,A01,Federalist,1408
-ny.uscongress7.1806,TW0062,William A. Thompson,A08,Quid,1024
+ny.uscongress7.1806,TW0062,William A. Thompson,A08,Dissenting Republican,1024
 ny.uscongress7.1806,BJ0667,Johannes Bruyn,A03,Democratic-Republican,517
 ny.uscongress7.1806,BH0186,Harmanus Brown,NA,NA,11
 ny.uscongress7.1806,TJ0305,James A. Thompson,NA,NA,2
@@ -7210,7 +7210,7 @@ ny.uscongress8.1806,VA0036,Abraham J. Vandler,NA,NA,1
 ny.uscongress8.1806,WJ0521,John Woodward,NA,NA,1
 ny.uscongress9.1806,VK0000,Killian K. Van Rensselaer,A01,Federalist,1277
 ny.uscongress9.1806,DB0019,Benjamin DeWitt,A03,Democratic-Republican,892
-ny.uscongress9.1806,GH0039,Henry Glen,A08,Quid,562
+ny.uscongress9.1806,GH0039,Henry Glen,A08,Dissenting Republican,562
 ny.uscongress9.1806,SJ0665,Jacob Snell,NA,NA,2
 ny.uscongress9.1806,BJ0579,Jaup Braat,NA,NA,1
 ny.uscongress9.1806,HD0007,Daniel Hale,NA,NA,1
@@ -8209,10 +8209,10 @@ ny.uscongress9.1816,JE0013,Elisha Jenkins,A03,Democratic-Republican,1424
 ny.uscongress9.1816,LJ0221,John Lovett,A01,Federalist,277
 ny.uscongress9.1816,DC0044,Charles E. Dudley,NA,NA,1
 ny.uscongress9.1816,OA0017,Abraham Oake,NA,NA,1
-ny.uscongress1.1818,WS0120,Silas Wood,A05,Clintonian,2171
+ny.uscongress1.1818,WS0120,Silas Wood,A05,Dissenting Republican,2171
 ny.uscongress1.1818,GJ0318,James Guion Jr.,A03,Democratic-Republican,2166
 ny.uscongress1.1818,SE0063,Ebenezer Sage,A03,Democratic-Republican,2085
-ny.uscongress1.1818,GJ0306,John Garretson,A05,Clintonian,1992
+ny.uscongress1.1818,GJ0306,John Garretson,A05,Dissenting Republican,1992
 ny.uscongress1.1818,GB0026,Barent Gardinier,A01,Federalist,34
 ny.uscongress1.1818,WP0068,Peter H. Wendover,A03,Democratic-Republican,14
 ny.uscongress1.1818,MH0072,Henry Meigs,A03,Democratic-Republican,13
@@ -8278,8 +8278,8 @@ ny.uscongress14.1818,EJ0169,Jacob Eyegenbroat,NA,NA,1
 ny.uscongress14.1818,JS0059,Samuel Jackson,NA,NA,1
 ny.uscongress14.1818,RG0043,George Rosecrantz,NA,NA,1
 ny.uscongress14.1818,WJ0667,Jacob Wilson,NA,NA,1
-ny.uscongress15.1818,MR0076,Robert Monell,A05,Clintonian,2903
-ny.uscongress15.1818,LJ0246,Joseph S. Lyman,A05,Clintonian,2849
+ny.uscongress15.1818,MR0076,Robert Monell,A05,Dissenting Republican,2903
+ny.uscongress15.1818,LJ0246,Joseph S. Lyman,A05,Dissenting Republican,2849
 ny.uscongress15.1818,CS0136,Samuel Campbell,A03,Democratic-Republican,2689
 ny.uscongress15.1818,PE0074,Edward Pratt,A03,Democratic-Republican,2604
 ny.uscongress15.1818,WJ0475,Joshua Whitney,NA,NA,6
@@ -8306,7 +8306,7 @@ ny.uscongress15.1818,PJ0269,Jarvis K. Pike,NA,NA,1
 ny.uscongress15.1818,TG0033,George Thompson,NA,NA,1
 ny.uscongress15.1818,TJ0323,Joel Thompson,NA,NA,1
 ny.uscongress15.1818,WE0091,Ebenezer Wakely,NA,NA,1
-ny.uscongress16.1818,SH0095,Henry Storrs,A05,Clintonian,2332
+ny.uscongress16.1818,SH0095,Henry Storrs,A05,Dissenting Republican,2332
 ny.uscongress16.1818,FA0043,Allen Frazer,A03,Democratic-Republican,119
 ny.uscongress16.1818,BE0242,Ezekiel H. Bacon,NA,NA,17
 ny.uscongress16.1818,HT0065,Thomas Hamilton,NA,NA,4
@@ -8333,7 +8333,7 @@ ny.uscongress16.1818,WA0178,Andrew White,NA,NA,1
 ny.uscongress16.1818,WN0088,Nathan Williams,NA,NA,1
 ny.uscongress16.1818,WT0072,Theoron Woodruff,NA,NA,1
 ny.uscongress17.1818,HA0093,"Aaron Hackley, Jr.",A03,Democratic-Republican,1934
-ny.uscongress17.1818,FS0078,Simeon Ford,A05,Clintonian,23
+ny.uscongress17.1818,FS0078,Simeon Ford,A05,Dissenting Republican,23
 ny.uscongress17.1818,WW0164,Westely Willoughby,NA,NA,8
 ny.uscongress17.1818,CJ0513,Jonas Cleland,NA,NA,5
 ny.uscongress17.1818,FN0023,Nicholas Fosdick,NA,NA,3
@@ -8355,8 +8355,8 @@ ny.uscongress17.1818,SE0162,Ellery Shaw,NA,NA,1
 ny.uscongress17.1818,SJ0823,John Smith,NA,NA,1
 ny.uscongress17.1818,WA0175,Aaron Wilcox,NA,NA,1
 ny.uscongress18.1818,FW0046,William D. Ford,A03,Democratic-Republican,2933
-ny.uscongress18.1818,OH0024,Horatio Orvis,A05,Clintonian,991
-ny.uscongress18.1818,OD0006,David Ogden,A05,Clintonian,25
+ny.uscongress18.1818,OH0024,Horatio Orvis,A05,Dissenting Republican,991
+ny.uscongress18.1818,OD0006,David Ogden,A05,Dissenting Republican,25
 ny.uscongress18.1818,DG0060,George Davies,NA,NA,11
 ny.uscongress18.1818,HR0129,Roswell Hopkins,NA,NA,10
 ny.uscongress18.1818,EW0038,William Ellis,NA,NA,9
@@ -8401,7 +8401,7 @@ ny.uscongress19.1818,TL0028,Lemuel Tyler,NA,NA,1
 ny.uscongress19.1818,WB0071,Billy Watson,NA,NA,1
 ny.uscongress2.1818,MH0072,Henry Meigs,A03,Democratic-Republican,3226
 ny.uscongress2.1818,WP0068,Peter H. Wendover,A03,Democratic-Republican,3207
-ny.uscongress2.1818,GB0026,Barent Gardenier,A05,Clintonian,2557
+ny.uscongress2.1818,GB0026,Barent Gardenier,A05,Dissenting Republican,2557
 ny.uscongress2.1818,GA0075,Abraham Gazzner,NA,NA,25
 ny.uscongress2.1818,GJ0306,John Garretson,NA,NA,6
 ny.uscongress2.1818,WS0120,Silas Wood,NA,NA,5
@@ -8549,8 +8549,8 @@ ny.uscongress21.1818,TJ0039,Jacob Teeples,NA,NA,1
 ny.uscongress21.1818,WA0174,Abraham Wagener,NA,NA,1
 ny.uscongress21.1818,WW0200,Walter Wolcott,NA,NA,1
 ny.uscongress3.1818,TC0045,Caleb Tompkins,A03,Democratic-Republican,1439
-ny.uscongress3.1818,IB0001,Benjamin Isaacs,A05,Clintonian,623
-ny.uscongress3.1818,VP0041,Philip Van Cortlandt,A05,Clintonian,406
+ny.uscongress3.1818,IB0001,Benjamin Isaacs,A05,Dissenting Republican,623
+ny.uscongress3.1818,VP0041,Philip Van Cortlandt,A05,Dissenting Republican,406
 ny.uscongress3.1818,CD0100,Darius Crosby,NA,NA,4
 ny.uscongress3.1818,SE0068,Edward Suffren,NA,NA,3
 ny.uscongress3.1818,BW0181,William Barker,NA,NA,2
@@ -8562,7 +8562,7 @@ ny.uscongress3.1818,GJ0289,John Garretson,NA,NA,1
 ny.uscongress3.1818,SJ0755,John S. Sutton,NA,NA,1
 ny.uscongress3.1818,WJ0457,Jonathan Ward,NA,NA,1
 ny.uscongress3.1818,WJ0515,John Wood,NA,NA,1
-ny.uscongress4.1818,SR0169,Randall S. Street,A05,Clintonian,1389
+ny.uscongress4.1818,SR0169,Randall S. Street,A05,Dissenting Republican,1389
 ny.uscongress4.1818,JW0036,William H. Johnson,A03,Democratic-Republican,1356
 ny.uscongress4.1818,QO0000,Obadiah Quimby,NA,NA,4
 ny.uscongress4.1818,CA0096,A. Campbell,NA,NA,1
@@ -8572,9 +8572,9 @@ ny.uscongress4.1818,CD0100,Darius Crosby,NA,NA,1
 ny.uscongress4.1818,SJ0778,James Strong,NA,NA,1
 ny.uscongress4.1818,WH0043,Hart Weed,NA,NA,1
 ny.uscongress4.1818,NA,blank,NA,NA,3
-ny.uscongress5.1818,SJ0778,James S. Strong,A05,Clintonian,1983
+ny.uscongress5.1818,SJ0778,James S. Strong,A05,Dissenting Republican,1983
 ny.uscongress5.1818,MJ0504,John J. Miller,A03,Democratic-Republican,1261
-ny.uscongress5.1818,LR0024,Robert LeRoy Livingston,A04,Quid,732
+ny.uscongress5.1818,LR0024,Robert LeRoy Livingston,A04,Dissenting Republican,732
 ny.uscongress5.1818,AA0000,James J. Miller,NA,NA,1
 ny.uscongress6.1818,CW0169,Walter Case,A03,Democratic-Republican,1289
 ny.uscongress6.1818,MJ0386,John MacQuod,NA,NA,17
@@ -8615,8 +8615,8 @@ ny.uscongress8.1818,OI0002,Isaac Ogden,NA,NA,1
 ny.uscongress9.1818,VS0034,Solomon Van Rensselaer,A01,Federalist,2003
 ny.uscongress9.1818,SJ0817,Jabius Sisson,NA,NA,5
 ny.uscongress9.1818,HG0114,Gold Hoyt,NA,NA,2
-ny.uscongress1.1821,WS0120,Silas Wood,A05,Clintonian/Federalist,3961
-ny.uscongress1.1821,CC0074,Cadwallader D. Colden,A05,Clintonian/Federalist,3959
+ny.uscongress1.1821,WS0120,Silas Wood,A05,Dissenting Republican,3961
+ny.uscongress1.1821,CC0074,Cadwallader D. Colden,A05,Dissenting Republican,3959
 ny.uscongress1.1821,SP0100,Peter Sharpe,A03,Democratic-Republican,3369
 ny.uscongress1.1821,SJ0784,Joshua Smith,A03,Democratic-Republican,3326
 ny.uscongress1.1821,MJ0525,John J. Morgan,NA,NA,4
@@ -8634,21 +8634,21 @@ ny.uscongress1.1821,RA0030,Abraham Rose,NA,NA,1
 ny.uscongress1.1821,HA0101,Abel Huntington,NA,NA,1
 ny.uscongress1.1821,GA0034,Abraham Gurnee,NA,NA,1
 ny.uscongress1.1821,SE0063,Ebenezer Sage,NA,NA,1
-ny.uscongress10.1821,DJ0326,John D. Dickinson,A05,Clintonian/Federalist,2852
+ny.uscongress10.1821,DJ0326,John D. Dickinson,A05,Dissenting Republican,2852
 ny.uscongress10.1821,HJ0519,James L. Hogeboom,A03,Democratic-Republican,2181
-ny.uscongress10.1821,NS0011,Simon Newcomb,A05,Clintonian/Federalist,102
+ny.uscongress10.1821,NS0011,Simon Newcomb,A05,Dissenting Republican,102
 ny.uscongress10.1821,MG0048,George Manachester,NA,NA,3
 ny.uscongress10.1821,CS0153,Solomon Cone,NA,NA,1
 ny.uscongress10.1821,DD0034,Daniel Darrow,NA,NA,1
 ny.uscongress10.1821,TG0044,George Tibbits,A01,Federalist,1
-ny.uscongress11.1821,TJ0328,John W. Taylor,A05,Clintonian/Federalist,2344
+ny.uscongress11.1821,TJ0328,John W. Taylor,A05,Dissenting Republican,2344
 ny.uscongress11.1821,VG0020,Guert Van Schoonhoven,A03,Democratic-Republican,2043
 ny.uscongress11.1821,CS0132,Salmon Child,NA,NA,7
 ny.uscongress11.1821,DG0058,George W. Deake,NA,NA,1
 ny.uscongress12.1821,WR0100,Reuben H. Walworth,A03,Democratic-Republican,5300
 ny.uscongress12.1821,PN0050,Nathaniel Pitcher,A03,Democratic-Republican,4951
-ny.uscongress12.1821,CJ0523,John Crary,A05,Clintonian/Federalist,4151
-ny.uscongress12.1821,GE0070,Ezra C. Gross,A05,Clintonian/Federalist,3964
+ny.uscongress12.1821,CJ0523,John Crary,A05,Dissenting Republican,4151
+ny.uscongress12.1821,GE0070,Ezra C. Gross,A05,Dissenting Republican,3964
 ny.uscongress12.1821,SD0072,Daniel Shipherd,NA,NA,2
 ny.uscongress12.1821,JD0008,David Judson,NA,NA,2
 ny.uscongress12.1821,HA0099,Asa Hascall,NA,NA,2
@@ -8659,14 +8659,14 @@ ny.uscongress12.1821,GR0083,Richard Goodell,NA,NA,1
 ny.uscongress12.1821,DE0048,Ebenezer Douglass,NA,NA,5
 ny.uscongress12.1821,FI0016,Isaac Finch,NA,NA,2
 ny.uscongress12.1821,DJ0385,Jacob Day,NA,NA,1
-ny.uscongress13.1821,GJ0283,John Gebhard,A05,Clintonian/Federalist,2320
+ny.uscongress13.1821,GJ0283,John Gebhard,A05,Dissenting Republican,2320
 ny.uscongress13.1821,MW0224,William Mann,A03,Democratic-Republican,2229
-ny.uscongress14.1821,CA0117,Alfred Conkling,A05,Clintonian/Federalist,2672
+ny.uscongress14.1821,CA0117,Alfred Conkling,A05,Dissenting Republican,2672
 ny.uscongress14.1821,HJ0524,John Herkimer,A03,Democratic-Republican,2426
 ny.uscongress15.1821,HJ0588,James Hawks,A03,Democratic-Republican,5363
 ny.uscongress15.1821,CS0136,Samuel Campbell,A03,Democratic-Republican,5222
-ny.uscongress15.1821,MR0076,Robert Monell,A05,Clintonian/Federalist,4184
-ny.uscongress15.1821,SA0146,Alvan Stewart,A05,Clintonian/Federalist,4038
+ny.uscongress15.1821,MR0076,Robert Monell,A05,Dissenting Republican,4184
+ny.uscongress15.1821,SA0146,Alvan Stewart,A05,Dissenting Republican,4038
 ny.uscongress15.1821,CC0068,Cannull Campbell,NA,NA,9
 ny.uscongress15.1821,SF0026,Farrand Stranahan,NA,NA,2
 ny.uscongress15.1821,SH0093,Henry Seymour,NA,NA,1
@@ -8677,7 +8677,7 @@ ny.uscongress15.1821,BD0091,David Buttolph,NA,NA,1
 ny.uscongress15.1821,LJ0376,James Lake,NA,NA,1
 ny.uscongress15.1821,LW0111,Wells Lake,NA,NA,1
 ny.uscongress15.1821,VV0002,V. P. Van Rensselaer,NA,NA,1
-ny.uscongress16.1821,KJ0109,Joseph Kirkland,A05,Clintonian/Federalist,3608
+ny.uscongress16.1821,KJ0109,Joseph Kirkland,A05,Dissenting Republican,3608
 ny.uscongress16.1821,WN0088,Nathan Williams,A03,Democratic-Republican,2774
 ny.uscongress16.1821,HE0087,Ephriam Hart,NA,NA,2
 ny.uscongress16.1821,SH0095,Henry R. Storrs,NA,NA,2
@@ -8689,10 +8689,10 @@ ny.uscongress16.1821,PR0072,Ralph Patrick,NA,NA,1
 ny.uscongress16.1821,SH0093,Henry Seymour,NA,NA,1
 ny.uscongress16.1821,SW0219,William Smith,NA,NA,1
 ny.uscongress17.1821,HT0120,Thomas H. Hubbard,A03,Democratic-Republican,3235
-ny.uscongress17.1821,WD0056,David Woods,A05,Clintonian/Federalist,3103
+ny.uscongress17.1821,WD0056,David Woods,A05,Dissenting Republican,3103
 ny.uscongress17.1821,BR0073,Rutherford Barker,NA,NA,2
 ny.uscongress17.1821,HP0019,Philo M. Hackley,NA,NA,1
-ny.uscongress18.1821,SM0087,Micah Sterling,A05,Clintonian/Federalist,3568
+ny.uscongress18.1821,SM0087,Micah Sterling,A05,Dissenting Republican,3568
 ny.uscongress18.1821,KP0018,Perley Keyes,A03,Democratic-Republican,3228
 ny.uscongress18.1821,GR0083,Richard Goodell,NA,NA,4
 ny.uscongress18.1821,LA0088,Alexander Livingston,NA,NA,4
@@ -8713,7 +8713,7 @@ ny.uscongress18.1821,KS0058,Sylvester King,NA,NA,1
 ny.uscongress18.1821,OH0024,Horatio Orvis,NA,NA,1
 ny.uscongress18.1821,WE0105,Ebenezer Wood,NA,NA,1
 ny.uscongress19.1821,LE0066,Elisha Litchfield,A03,Democratic-Republican,3208
-ny.uscongress19.1821,HG0062,George Hall,A05,Clintonian/Federalist,3046
+ny.uscongress19.1821,HG0062,George Hall,A05,Dissenting Republican,3046
 ny.uscongress19.1821,HS0156,Samuel M. Hopkins,A01,Federalist,3
 ny.uscongress19.1821,BS0202,Stephen Bates,NA,NA,2
 ny.uscongress19.1821,MJ0460,John MacWhorter,NA,NA,1
@@ -8724,8 +8724,8 @@ ny.uscongress19.1821,GJ0280,James Geddes,NA,NA,1
 ny.uscongress19.1821,MD0048,David Munro,NA,NA,1
 ny.uscongress2.1821,MJ0525,John I. Morgan,A03,Democratic-Republican,6645
 ny.uscongress2.1821,CC0075,Churchill C. Cambrelleng,A03,Democratic-Republican,3970
-ny.uscongress2.1821,EH0020,Henry Eckford,A05,Clintonian/Federalist,2814
-ny.uscongress2.1821,CC0074,Cadwallader D. Colden,A05,Clintonian,5
+ny.uscongress2.1821,EH0020,Henry Eckford,A05,Dissenting Republican,2814
+ny.uscongress2.1821,CC0074,Cadwallader D. Colden,A05,Dissenting Republican,5
 ny.uscongress2.1821,SP0100,Peter Sharp,NA,NA,3
 ny.uscongress2.1821,KE0032,Elisha W. King,NA,NA,2
 ny.uscongress2.1821,SJ0784,Joshua Smith,NA,NA,2
@@ -8745,8 +8745,8 @@ ny.uscongress2.1821,TJ0022,Jacob B. Taylor,NA,NA,1
 ny.uscongress2.1821,UW0005,William Underhill,NA,NA,1
 ny.uscongress20.1821,RW0109,William Rochester,A03,Democratic-Republican,7551
 ny.uscongress20.1821,WD0058,David Woodcock,A03,Democratic-Republican,6306
-ny.uscongress20.1821,RJ0230,Jonathan Richmond,A05,Clintonian/Federalist,6104
-ny.uscongress20.1821,CH0103,Herman Camp,A05,Clintonian/Federalist,5568
+ny.uscongress20.1821,RJ0230,Jonathan Richmond,A05,Dissenting Republican,6104
+ny.uscongress20.1821,CH0103,Herman Camp,A05,Dissenting Republican,5568
 ny.uscongress20.1821,MJ0507,James MacCall,NA,NA,2
 ny.uscongress20.1821,SH0093,Henry Seymour,NA,NA,2
 ny.uscongress20.1821,BS0202,Stephen Bates,NA,NA,2
@@ -8759,15 +8759,15 @@ ny.uscongress20.1821,JH0022,Hudson Jennings,NA,NA,5
 ny.uscongress20.1821,HP0020,"Peter Hagar, II",NA,NA,4
 ny.uscongress20.1821,CS0135,Samuel Crittenden,NA,NA,1
 ny.uscongress21.1821,SE0072,Elijah Spencer,A03,Democratic-Republican,4798
-ny.uscongress21.1821,AN0004,Nathaniel Allen,A05,Clintonian/Federalist,4692
-ny.uscongress21.1821,LD0014,Daniel W. Lewis,A05,Clintonian/Federalist,159
+ny.uscongress21.1821,AN0004,Nathaniel Allen,A05,Dissenting Republican,4692
+ny.uscongress21.1821,LD0014,Daniel W. Lewis,A05,Dissenting Republican,159
 ny.uscongress21.1821,RN0028,Nathaniel Rochester,NA,NA,9
 ny.uscongress21.1821,HR0146,Roswell Hart,NA,NA,2
 ny.uscongress21.1821,TA0015,Albert H. Tracy,NA,NA,1
 ny.uscongress21.1821,SH0093,Henry Seymour,NA,NA,1
 ny.uscongress21.1821,MJ0566,James MacCall,NA,NA,1
 ny.uscongress21.1821,WN0053,Nathaniel Wager,NA,NA,1
-ny.uscongress22.1821,TA0015,Albert H. Tracey,A05,Clintonian/Federalist,7020
+ny.uscongress22.1821,TA0015,Albert H. Tracey,A05,Dissenting Republican,7020
 ny.uscongress22.1821,EB0013,Benjamin Ellicott,A03,Democratic-Republican,6789
 ny.uscongress22.1821,BB0104,Benedict Brooks,NA,NA,2
 ny.uscongress22.1821,AR0017,Robert Anderson,NA,NA,2
@@ -8784,27 +8784,27 @@ ny.uscongress22.1821,BJ0771,John A. Bryan,NA,NA,1
 ny.uscongress22.1821,HS0156,Samuel M. Hopkins,A01,Federalist,1
 ny.uscongress22.1821,BS0202,Stephen Bates,NA,NA,1
 ny.uscongress3.1821,PJ0331,Jeremiah H. Pierson,A03,Democratic-Republican,1863
-ny.uscongress3.1821,SJ0772,John T. Smith,A05,Clintonian/Federalist,1330
-ny.uscongress3.1821,VP0038,Peter S. Van Orden,A05,Clintonian/Federalist,331
+ny.uscongress3.1821,SJ0772,John T. Smith,A05,Dissenting Republican,1330
+ny.uscongress3.1821,VP0038,Peter S. Van Orden,A05,Dissenting Republican,331
 ny.uscongress3.1821,CC0067,Cornelius D. Clark,NA,NA,1
 ny.uscongress3.1821,RA0030,Abraham Rose,NA,NA,1
 ny.uscongress3.1821,SP0087,Peter Stephen,NA,NA,1
 ny.uscongress4.1821,VW0040,William W. Van Wyck,A03,Democratic-Republican,2795
-ny.uscongress4.1821,TW0076,William Tabor,A05,Clintonian/Federalist,2125
+ny.uscongress4.1821,TW0076,William Tabor,A05,Dissenting Republican,2125
 ny.uscongress4.1821,KR0003,Rufus King,A01,Federalist,1
 ny.uscongress4.1821,SA0125,Abraham H. Schenck,NA,NA,1
-ny.uscongress5.1821,PW0172,Walter Patterson,A05,Clintonian/Federalist,3467
+ny.uscongress5.1821,PW0172,Walter Patterson,A05,Dissenting Republican,3467
 ny.uscongress5.1821,SP0065,Philip I. Schuyler,A03,Democratic-Republican,2524
 ny.uscongress5.1821,SJ0778,James Strong,NA,NA,5
 ny.uscongress5.1821,TW0066,William Tabor,NA,NA,3
 ny.uscongress5.1821,VW0040,William W. Van Wyck,NA,NA,2
 ny.uscongress6.1821,TS0072,Selah Tuthill,A03,Democratic-Republican,2156
-ny.uscongress6.1821,WS0132,Samuel J. Wilkin,A05,Clintonian/Federalist,1341
+ny.uscongress6.1821,WS0132,Samuel J. Wilkin,A05,Dissenting Republican,1341
 ny.uscongress6.1821,DJ0321,John Duer,NA,NA,5
-ny.uscongress7.1821,RC0069,Charles H. Ruggles,A05,Clintonian/Federalist,2577
+ny.uscongress7.1821,RC0069,Charles H. Ruggles,A05,Dissenting Republican,2577
 ny.uscongress7.1821,GW0087,William Gillespie,A03,Democratic-Republican,2139
 ny.uscongress7.1821,GJ0307,James Gillespie,NA,NA,2
-ny.uscongress8.1821,MR0080,Richard MacCarty,A05,Clintonian/Federalist,2592
+ny.uscongress8.1821,MR0080,Richard MacCarty,A05,Dissenting Republican,2592
 ny.uscongress8.1821,HJ0589,Jacob Haight,A03,Democratic-Republican,1812
 ny.uscongress8.1821,MD0211,Daniel MacCarty,NA,NA,1
 ny.uscongress8.1821,AB0020,Benoni Austin,NA,NA,2
@@ -8812,7 +8812,7 @@ ny.uscongress8.1821,BT0185,Thomas E. Barker,NA,NA,1
 ny.uscongress8.1821,CH0044,Herman Carter,NA,NA,1
 ny.uscongress8.1821,BL0036,Leonard Bronk,NA,NA,1
 ny.uscongress8.1821,HH0057,Henry C. Houghtaling,NA,NA,1
-ny.uscongress9.1821,VS0034,Solomon Van Rensselaer,A05,Clintonian/Federalist,2393
+ny.uscongress9.1821,VS0034,Solomon Van Rensselaer,A05,Dissenting Republican,2393
 ny.uscongress9.1821,BH0050,Harmanus Bleecker,A03,Democratic-Republican,1798
 ny.uscongress9.1821,FL0028,Lancelot Fidler,NA,NA,2
 ny.uscongress9.1821,MA0146,Alexander MacDooll,NA,NA,2
@@ -8820,24 +8820,24 @@ ny.uscongress9.1821,MA0106,Archibald MacIntyre,NA,NA,1
 ny.uscongress9.1821,VD0012,Daniel L. Van Antwerp,NA,NA,1
 ny.uscongress9.1821,VO0001,Oman Van Rennsselaer,NA,NA,1
 ny.uscongress9.1821,VG0016,Gaffer Van Wie,NA,NA,1
-ny.uscongress1.1822,WS0120,Silas Wood,A05,Clintonian/Federalist,1383
+ny.uscongress1.1822,WS0120,Silas Wood,A05,Dissenting Republican,1383
 ny.uscongress1.1822,OJ0078,John P. Osborne,A03,Democratic-Republican,1353
 ny.uscongress1.1822,LJ0255,James Lent,NA,NA,1
 ny.uscongress1.1822,SC0149,Charles Smith,NA,NA,1
-ny.uscongress10.1822,VS0033,Stephen Van Rensselaer,A05,Clintonian/Federalist,2725
+ny.uscongress10.1822,VS0033,Stephen Van Rensselaer,A05,Dissenting Republican,2725
 ny.uscongress10.1822,VD0009,Dirck L. Vanderheyden,NA,NA,4
 ny.uscongress10.1822,HT0064,Teunis Houghteling,NA,NA,2
 ny.uscongress10.1822,BL0059,Lyman Bliss,NA,NA,1
 ny.uscongress10.1822,CW0198,William W. Crannell,NA,NA,1
 ny.uscongress10.1822,VJ0141,Jacob Vandenbergh,NA,NA,1
 ny.uscongress11.1822,FC0018,Charles A. Foote,A03,Democratic-Republican,3184
-ny.uscongress11.1822,MJ0512,John T. Moore,A05,Clintonian/Federalist,2698
+ny.uscongress11.1822,MJ0512,John T. Moore,A05,Dissenting Republican,2698
 ny.uscongress11.1822,DH0042,Henry Dumond,NA,NA,2
 ny.uscongress11.1822,BI0059,Isaac Burr,NA,NA,1
 ny.uscongress11.1822,LS0056,Stephen Lockwood,NA,NA,1
 ny.uscongress12.1822,EL0013,Lewis Eaton,A03,Democratic-Republican,2800
-ny.uscongress12.1822,BN0073,Nicholas F. Beck,A05,Clintonian/Federalist,1594
-ny.uscongress12.1822,TH0026,Henry R. Teller,A05,Clintonian/Federalist,76
+ny.uscongress12.1822,BN0073,Nicholas F. Beck,A05,Dissenting Republican,1594
+ny.uscongress12.1822,TH0026,Henry R. Teller,A05,Dissenting Republican,76
 ny.uscongress12.1822,HG0077,Gideon Holladay,NA,NA,33
 ny.uscongress13.1822,WI0029,Isaac Williams,A03,Democratic-Republican,2343
 ny.uscongress13.1822,CS0119,Samuel Chase,NA,NA,17
@@ -8849,27 +8849,27 @@ ny.uscongress13.1822,HI0059,Isaac Hayes,NA,NA,1
 ny.uscongress13.1822,HI0060,Ivory Holland,NA,NA,1
 ny.uscongress13.1822,SG0095,George Starkweather,NA,NA,1
 ny.uscongress13.1822,WD0050,Delos White,NA,NA,1
-ny.uscongress14.1822,SH0095,Henry R. Storrs,A05,Clintonian/Federalist,2687
+ny.uscongress14.1822,SH0095,Henry R. Storrs,A05,Dissenting Republican,2687
 ny.uscongress14.1822,BE0242,Ezekiel Bacon,A03,Democratic-Republican,2632
 ny.uscongress14.1822,CE0106,Erastus Clark,NA,NA,2
 ny.uscongress14.1822,LJ0256,James Lynch,NA,NA,2
 ny.uscongress14.1822,BB0119,Benjamin Ballou,NA,NA,1
 ny.uscongress15.1822,HJ0524,John Herkimer,A03,Democratic-Republican,2050
-ny.uscongress15.1822,FS0078,Simeon Ford,A05,Clintonian/Federalist,1390
-ny.uscongress16.1822,CJ0528,John W. Cady,A05,Clintonian/Federalist,2215
+ny.uscongress15.1822,FS0078,Simeon Ford,A05,Dissenting Republican,1390
+ny.uscongress16.1822,CJ0528,John W. Cady,A05,Dissenting Republican,2215
 ny.uscongress16.1822,SA0122,Alexander Sheldon,A03,Democratic-Republican,2148
 ny.uscongress16.1822,CA0117,Alfred Conkling,NA,NA,1
 ny.uscongress16.1822,DJ0281,Jesse J. De Graaf,NA,NA,1
 ny.uscongress16.1822,SA0142,Adam Smith,NA,NA,1
-ny.uscongress17.1822,TJ0328,John W. Taylor,A05,Clintonian/Federalist,2505
+ny.uscongress17.1822,TJ0328,John W. Taylor,A05,Dissenting Republican,2505
 ny.uscongress17.1822,PG0057,George Palmer,A03,Democratic-Republican,2115
 ny.uscongress17.1822,PT0023,T. Palmer,NA,NA,1
 ny.uscongress18.1822,MH0074,Henry C. Martindale,A03,Democratic-Republican,2425
-ny.uscongress18.1822,RD0032,David Russell,A05,Clintonian/Federalist,1979
+ny.uscongress18.1822,RD0032,David Russell,A05,Dissenting Republican,1979
 ny.uscongress18.1822,BC0064,Caleb Baker,NA,NA,1
 ny.uscongress18.1822,MJ1385,John Martindale,NA,NA,1
 ny.uscongress19.1822,RJ0233,John Richards,A03,Democratic-Republican,2234
-ny.uscongress19.1822,GE0070,Ezra C. Gross,A05,Clintonian/Federalist,1962
+ny.uscongress19.1822,GE0070,Ezra C. Gross,A05,Dissenting Republican,1962
 ny.uscongress19.1822,SR0165,Reuben Sanford,NA,NA,80
 ny.uscongress19.1822,BH0134,Horatio Buell,NA,NA,4
 ny.uscongress19.1822,WR0100,Reuben W. Walworth,NA,NA,4
@@ -8880,7 +8880,7 @@ ny.uscongress19.1822,DJ0232,John Doe,NA,NA,1
 ny.uscongress19.1822,HH0042,Henry Huntington,NA,NA,1
 ny.uscongress19.1822,YJ0018,Joseph C. Yates,NA,NA,1
 ny.uscongress2.1822,TJ0357,Jacob Tyson,A03,Democratic-Republican,1754
-ny.uscongress2.1822,PJ0332,Jacob Patchen,A05,Clintonian/Federalist,174
+ny.uscongress2.1822,PJ0332,Jacob Patchen,A05,Dissenting Republican,174
 ny.uscongress20.1822,TE0062,Egbert Ten Eyck,A03,Democratic-Republican,6455
 ny.uscongress20.1822,CE0108,Ela Collins,A03,Democratic-Republican,6407
 ny.uscongress20.1822,HL0045,Louis Hasbrouck,NA,NA,19
@@ -8904,7 +8904,7 @@ ny.uscongress20.1822,BJ0752,Jacob Brown,NA,NA,1
 ny.uscongress20.1822,FJ0193,John Fine,NA,NA,1
 ny.uscongress20.1822,FN0037,Nathan Ford,NA,NA,1
 ny.uscongress21.1822,CL0046,Lot Clark,A03,Democratic-Republican,2267
-ny.uscongress21.1822,CS0136,Samuel Campbell,A05,Clintonian/Federalist,821
+ny.uscongress21.1822,CS0136,Samuel Campbell,A05,Dissenting Republican,821
 ny.uscongress21.1822,TJ0206,John Tracey,NA,NA,8
 ny.uscongress21.1822,BC0114,Charles Burlington,NA,NA,2
 ny.uscongress21.1822,CF0023,Festus Cone,NA,NA,2
@@ -8929,20 +8929,20 @@ ny.uscongress22.1822,BO0011,Oran E. Baker,NA,NA,1
 ny.uscongress22.1822,WR0049,Robert Wells,NA,NA,1
 ny.uscongress22.1822,WD0056,David Woods,NA,NA,1
 ny.uscongress23.1822,LE0066,Elisha Litchfield,A03,Democratic-Republican,2042
-ny.uscongress23.1822,WA0115,Asa Wells,A05,Clintonian/Federalist,1387
+ny.uscongress23.1822,WA0115,Asa Wells,A05,Dissenting Republican,1387
 ny.uscongress23.1822,BL0047,Luther Badger,NA,NA,1
 ny.uscongress23.1822,WJ0598,Jacob Winchel,NA,NA,1
 ny.uscongress24.1822,DR0036,Rowland Day,A03,Democratic-Republican,2622
-ny.uscongress24.1822,RJ0230,Jonathan Richmond,A05,Clintonian/Federalist,1804
+ny.uscongress24.1822,RJ0230,Jonathan Richmond,A05,Dissenting Republican,1804
 ny.uscongress24.1822,MJ0374,John MacFadden,NA,NA,1
 ny.uscongress24.1822,PE0075,Enoch Porter,NA,NA,1
-ny.uscongress25.1822,LS0060,Samuel Lawrence,A05,Clintonian/Federalist,2449
+ny.uscongress25.1822,LS0060,Samuel Lawrence,A05,Dissenting Republican,2449
 ny.uscongress25.1822,WD0058,David Woodcock,A03,Democratic-Republican,2215
 ny.uscongress25.1822,BL0045,Latham A. Burrows,NA,NA,1
-ny.uscongress26.1822,MD0116,Dudley Marvin,A05,Clintonian/Federalist,4514
+ny.uscongress26.1822,MD0116,Dudley Marvin,A05,Dissenting Republican,4514
 ny.uscongress26.1822,RR0038,Robert S. Rose,A03,Democratic-Republican,3047
-ny.uscongress26.1822,TW0071,William Thompson,A05,Clintonian/Federalist,2564
-ny.uscongress26.1822,PJ0333,John Price,A05,Clintonian/Federalist,1866
+ny.uscongress26.1822,TW0071,William Thompson,A05,Dissenting Republican,2564
+ny.uscongress26.1822,PJ0333,John Price,A05,Dissenting Republican,1866
 ny.uscongress26.1822,BM0060,Micah Brooks,A03,Democratic-Republican,1418
 ny.uscongress26.1822,CG0045,George Clark,NA,NA,3
 ny.uscongress26.1822,HM0051,Myron Holley,NA,NA,3
@@ -8950,7 +8950,7 @@ ny.uscongress26.1822,LD0014,Daniel W. Lewis,NA,NA,1
 ny.uscongress26.1822,ML0051,Luther Millard,NA,NA,1
 ny.uscongress26.1822,RS0065,Samuel Rice,NA,NA,1
 ny.uscongress26.1822,DD0024,David Depue,NA,NA,1
-ny.uscongress27.1822,HM0053,Moses Hayden,A05,Clintonian/Federalist,3117
+ny.uscongress27.1822,HM0053,Moses Hayden,A05,Dissenting Republican,3117
 ny.uscongress27.1822,JJ0148,John H. Jones,A03,Democratic-Republican,2023
 ny.uscongress27.1822,RJ0347,Joseph R. Ramsdale,NA,NA,3
 ny.uscongress27.1822,CE0081,Eleazer Church,NA,NA,1
@@ -8965,7 +8965,7 @@ ny.uscongress28.1822,HW0119,William Helm,NA,NA,1
 ny.uscongress28.1822,PT0101,Timothy H. Porter,NA,NA,1
 ny.uscongress28.1822,SB0077,Benjamin Shick,NA,NA,1
 ny.uscongress28.1822,WG0067,Grattan H. Wheeler,NA,NA,1
-ny.uscongress29.1822,AP0018,Parmenio Adams,A05,Clintonian/Federalist,2072
+ny.uscongress29.1822,AP0018,Parmenio Adams,A05,Dissenting Republican,2072
 ny.uscongress29.1822,WI0028,Isaac Wilson,A03,Democratic-Republican,2071
 ny.uscongress29.1822,FW0066,Whitney Jones Farnsworth,NA,NA,5
 ny.uscongress29.1822,BB0104,Benedict Brooks,NA,NA,2
@@ -8979,7 +8979,7 @@ ny.uscongress29.1822,SI0066,Isaac Sutherland,NA,NA,1
 ny.uscongress3.1822,MJ0525,John I. Morgan,A03,Democratic-Republican,4428
 ny.uscongress3.1822,CC0075,Churchill C. Cambreleng,A03,Democratic-Republican,4389
 ny.uscongress3.1822,SP0100,Peter Sharpe,A03,Democratic-Republican,4199
-ny.uscongress3.1822,CC0074,Cadwallader D. Colden,A05,Clintonian,20
+ny.uscongress3.1822,CC0074,Cadwallader D. Colden,A05,Dissenting Republican,20
 ny.uscongress3.1822,HC0077,Charles G. Haines,NA,NA,2
 ny.uscongress3.1822,DG0038,George Davis,NA,NA,1
 ny.uscongress3.1822,TJ0203,John B. Thorpe,NA,NA,1
@@ -8999,7 +8999,7 @@ ny.uscongress3.1822,IN0001,Nathaniel G. Ingraham,NA,NA,1
 ny.uscongress3.1822,MG0033,Gideon March,NA,NA,1
 ny.uscongress3.1822,WP0035,Peter Wanamaker,NA,NA,1
 ny.uscongress3.1822,NA,scattering,NA,NA,5
-ny.uscongress30.1822,TA0015,Albert H. Tracey,A05,Clintonian/Federalist,3556
+ny.uscongress30.1822,TA0015,Albert H. Tracey,A05,Dissenting Republican,3556
 ny.uscongress30.1822,PA0079,Augustus Porter,A03,Democratic-Republican,2091
 ny.uscongress30.1822,MF0024,Frederick B. Merrill,NA,NA,2
 ny.uscongress30.1822,DJ0280,Jared Dorman,NA,NA,1
@@ -9008,24 +9008,24 @@ ny.uscongress30.1822,CA0097,Archibald S. Clark,NA,NA,1
 ny.uscongress30.1822,HA0151,Ashbel G. Hinman,NA,NA,1
 ny.uscongress30.1822,PA0100,Albert H. Porter,NA,NA,1
 ny.uscongress4.1822,FJ0195,Joel Frost,A03,Democratic-Republican,2214
-ny.uscongress4.1822,SA0150,Abraham Smith,A05,Clintonian/Federalist,678
-ny.uscongress4.1822,JP0004,Peter A. Jay,A05,Clintonian/Federalist,333
+ny.uscongress4.1822,SA0150,Abraham Smith,A05,Dissenting Republican,678
+ny.uscongress4.1822,JP0004,Peter A. Jay,A05,Dissenting Republican,333
 ny.uscongress4.1822,BG0065,Gilbert Brown,NA,NA,1
 ny.uscongress4.1822,GJ0318,James Guion,NA,NA,1
 ny.uscongress4.1822,SS0144,Samuel Snider,NA,NA,1
 ny.uscongress5.1822,VW0040,William W. Van Wyck,A03,Democratic-Republican,3119
-ny.uscongress5.1822,SD0074,Dereck B. Stockolm,A05,Clintonian/Federalist,1265
+ny.uscongress5.1822,SD0074,Dereck B. Stockolm,A05,Dissenting Republican,1265
 ny.uscongress5.1822,LH0022,Hezekiah Lewis,NA,NA,4
 ny.uscongress5.1822,AP0011,Peter Aiken,NA,NA,1
 ny.uscongress5.1822,MJ0660,Jeremiah Martin,NA,NA,1
 ny.uscongress5.1822,MN0034,Nathaniel Mitchell,NA,NA,1
 ny.uscongress5.1822,OT0003,Thomas J. Oakley,NA,NA,1
-ny.uscongress6.1822,CH0107,Hector Craig,A05,Clintonian/Federalist,2191
+ny.uscongress6.1822,CH0107,Hector Craig,A05,Dissenting Republican,2191
 ny.uscongress6.1822,LC0028,Charles Ludlow,A03,Democratic-Republican,1617
 ny.uscongress7.1822,JL0010,Lemuel Jenkins,A03,Democratic-Republican,2864
-ny.uscongress7.1822,RC0069,Charles H. Ruggles,A05,Clintonian/Federalist,2153
+ny.uscongress7.1822,RC0069,Charles H. Ruggles,A05,Dissenting Republican,2153
 ny.uscongress7.1822,HD0102,David Hammond,NA,NA,1
-ny.uscongress8.1822,SJ0778,James Strong,A05,Clintonian/Federalist,2647
+ny.uscongress8.1822,SJ0778,James Strong,A05,Dissenting Republican,2647
 ny.uscongress8.1822,MJ0520,Joseph D. Monell,A03,Democratic-Republican,1940
 ny.uscongress8.1822,BE0220,Elijah Bunker,NA,NA,5
 ny.uscongress8.1822,DA0067,Aron Dow,NA,NA,1
@@ -9033,15 +9033,15 @@ ny.uscongress8.1822,KJ0211,John King,NA,NA,1
 ny.uscongress8.1822,MN0031,Nicholas MacIntyre,NA,NA,1
 ny.uscongress8.1822,TJ0209,Joseph Terbush,NA,NA,1
 ny.uscongress9.1822,HJ0519,James L. Hogeboom,A03,Democratic-Republican,3214
-ny.uscongress9.1822,DJ0326,John D. Dickinson,A05,Clintonian/Federalist,2859
+ny.uscongress9.1822,DJ0326,John D. Dickinson,A05,Dissenting Republican,2859
 ny.uscongress9.1822,VW0028,Wessel Van Schaick,NA,NA,3
 ny.uscongress9.1822,WE0102,Ebenezer W. Walbridge,NA,NA,3
 ny.uscongress9.1822,WW0120,William Walsh,NA,NA,2
 ny.uscongress9.1822,SJ0623,John Smith,NA,NA,1
-ny.uscongress1.1824,WS0120,Silas Wood,A05,Clintonian/Federalist,2140
+ny.uscongress1.1824,WS0120,Silas Wood,A05,Dissenting Republican,2140
 ny.uscongress1.1824,LJ0255,James Lent,A03,Democratic-Republican,1398
 ny.uscongress1.1824,HC0061,Charles H. Havens,NA,NA,1
-ny.uscongress10.1824,VS0033,Stephen Van Rensselaer,A05,Clintonian/Federalist,3851
+ny.uscongress10.1824,VS0033,Stephen Van Rensselaer,A05,Dissenting Republican,3851
 ny.uscongress10.1824,JS0021,Stephen W. Johnson,NA,NA,7
 ny.uscongress10.1824,SE0143,Edward Sanford,NA,NA,3
 ny.uscongress10.1824,CD0092,DeWitt Clinton,NA,NA,1
@@ -9051,7 +9051,7 @@ ny.uscongress10.1824,KJ0183,John L. Knap,NA,NA,1
 ny.uscongress10.1824,SW0215,William Shear,NA,NA,1
 ny.uscongress10.1824,SE0142,Erastus Shear,NA,NA,1
 ny.uscongress11.1824,AH0008,Henry Ashley,A03,Democratic-Republican,3531
-ny.uscongress11.1824,HW0230,William V.B. Heermance,A05,Clintonian/Federalist,2552
+ny.uscongress11.1824,HW0230,William V.B. Heermance,A05,Dissenting Republican,2552
 ny.uscongress11.1824,HA0147,Amos Hamlin,NA,NA,64
 ny.uscongress11.1824,HR0061,Reuben Hosford,NA,NA,3
 ny.uscongress11.1824,PA0072,Amasa Parker,NA,NA,2
@@ -9060,8 +9060,8 @@ ny.uscongress11.1824,CI0042,Isaac Cleever,NA,NA,1
 ny.uscongress11.1824,BA0154,Alvin Bushnell,NA,NA,1
 ny.uscongress11.1824,FA0056,Alexander Fraser,NA,NA,1
 ny.uscongress12.1824,DW0091,William Deitz,A03,Democratic-Republican,2810
-ny.uscongress12.1824,BC0073,Constant Brown,A05,Clintonian/Federalist,2129
-ny.uscongress12.1824,GH0053,Henry Green,A05,Clintonian/Federalist,54
+ny.uscongress12.1824,BC0073,Constant Brown,A05,Dissenting Republican,2129
+ny.uscongress12.1824,GH0053,Henry Green,A05,Dissenting Republican,54
 ny.uscongress12.1824,KA0051,Abraham Keyser,NA,NA,2
 ny.uscongress12.1824,GJ0410,Joseph Green,NA,NA,2
 ny.uscongress12.1824,JS0030,Samuel W. Jones,NA,NA,1
@@ -9072,10 +9072,10 @@ ny.uscongress12.1824,HA0145,Alexander Humphrey,NA,NA,1
 ny.uscongress12.1824,TI0025,Isaac H. Tiffany,NA,NA,1
 ny.uscongress12.1824,GJ0282,Jacob Gebhard,NA,NA,1
 ny.uscongress13.1824,AW0046,William G. Angel,A03,Democratic-Republican,3379
-ny.uscongress13.1824,CW0147,William Campbell,A05,Clintonian/Federalist,2357
+ny.uscongress13.1824,CW0147,William Campbell,A05,Dissenting Republican,2357
 ny.uscongress13.1824,FG0014,George Fenno,NA,NA,7
 ny.uscongress13.1824,FP0026,Paschal Franchott,NA,NA,1
-ny.uscongress14.1824,SH0095,Henry R. Storrs,A05,Clintonian/Federalist,4146
+ny.uscongress14.1824,SH0095,Henry R. Storrs,A05,Dissenting Republican,4146
 ny.uscongress14.1824,LJ0256,James Lynch,A03,Democratic-Republican,3094
 ny.uscongress14.1824,PJ0297,Jonas Platt,A01,Federalist,30
 ny.uscongress14.1824,BG0082,George Brayton,NA,NA,2
@@ -9091,15 +9091,15 @@ ny.uscongress14.1824,SI0054,Israel Stoddard,NA,NA,1
 ny.uscongress14.1824,WB0053,Broughton White,NA,NA,1
 ny.uscongress14.1824,WS0126,Samuel Woodworth,NA,NA,1
 ny.uscongress15.1824,HM0054,Michael Hoffman,A03,Democratic-Republican,2410
-ny.uscongress15.1824,HJ0524,John Herkimer,A05,Clintonian/Federalist,2164
+ny.uscongress15.1824,HJ0524,John Herkimer,A05,Dissenting Republican,2164
 ny.uscongress15.1824,FS0078,Simeon Ford,NA,NA,2
 ny.uscongress15.1824,ET0024,Truman Enos,NA,NA,1
-ny.uscongress16.1824,MH0075,Henry Markell,A05,Clintonian/Federalist,3115
+ny.uscongress16.1824,MH0075,Henry Markell,A05,Dissenting Republican,3115
 ny.uscongress16.1824,DW0104,William L. Dodge,A03,Democratic-Republican,2565
 ny.uscongress16.1824,CW0191,William I. Clase,NA,NA,1
 ny.uscongress16.1824,CH0027,Henry Cunningham,NA,NA,1
 ny.uscongress16.1824,VM0022,Martin Van Beuren,NA,NA,1
-ny.uscongress17.1824,TJ0328,John W. Taylor,A05,Clintonian/Federalist,3863
+ny.uscongress17.1824,TJ0328,John W. Taylor,A05,Dissenting Republican,3863
 ny.uscongress17.1824,VH0019,Henry V.S. Vandenbergh,NA,NA,10
 ny.uscongress17.1824,AI0019,Isaac Ackerman,NA,NA,8
 ny.uscongress17.1824,CJ0470,Jonathan R. Chandler,NA,NA,3
@@ -9119,11 +9119,11 @@ ny.uscongress17.1824,SJ0762,Jonathan R. Spencer,NA,NA,1
 ny.uscongress17.1824,VP0029,Peter Van Buren,NA,NA,1
 ny.uscongress17.1824,VJ0053,Jack Van Schoonhoven,NA,NA,1
 ny.uscongress17.1824,WE0109,Elisha Ward,NA,NA,1
-ny.uscongress18.1824,MH0074,Henry C. Martindale,A05,Clintonian/Federalist,3449
+ny.uscongress18.1824,MH0074,Henry C. Martindale,A05,Dissenting Republican,3449
 ny.uscongress18.1824,GJ0295,John Gale,A03,Democratic-Republican,1893
 ny.uscongress18.1824,CM0065,Moses Cowen,NA,NA,1
 ny.uscongress18.1824,CJ0523,John Crary,NA,NA,1
-ny.uscongress19.1824,RH0035,Henry H. Ross,A05,Clintonian/Federalist,3210
+ny.uscongress19.1824,RH0035,Henry H. Ross,A05,Dissenting Republican,3210
 ny.uscongress19.1824,HW0231,William Hogen,A03,Democratic-Republican,2933
 ny.uscongress19.1824,SW0254,William Smith,NA,NA,11
 ny.uscongress19.1824,AM0006,Martin I. Aikin,NA,NA,6
@@ -9133,10 +9133,10 @@ ny.uscongress19.1824,CJ0523,John Crary,NA,NA,2
 ny.uscongress19.1824,SW0250,William Swetland,NA,NA,1
 ny.uscongress19.1824,YS0004,Samuel Young,NA,NA,1
 ny.uscongress19.1824,CD0092,DeWitt Clinton,NA,NA,1
-ny.uscongress2.1824,SJ0646,Joshua Sands,A05,Clintonian/Federalist,1683
+ny.uscongress2.1824,SJ0646,Joshua Sands,A05,Dissenting Republican,1683
 ny.uscongress2.1824,BJ0780,John T. Bergen,A03,Democratic-Republican,1485
-ny.uscongress20.1824,FN0023,Nicoll Fosdick,A05,Clintonian/Federalist,5677
-ny.uscongress20.1824,HD0063,"Daniel Hugunin, Jr.",A05,Clintonian/Federalist,5665
+ny.uscongress20.1824,FN0023,Nicoll Fosdick,A05,Dissenting Republican,5677
+ny.uscongress20.1824,HD0063,"Daniel Hugunin, Jr.",A05,Dissenting Republican,5665
 ny.uscongress20.1824,TE0062,Egbert Ten Eyck,A03,Democratic-Republican,5488
 ny.uscongress20.1824,AH0009,Horace Allen,A03,Democratic-Republican,5473
 ny.uscongress20.1824,WG0068,George White,NA,NA,7
@@ -9164,23 +9164,23 @@ ny.uscongress20.1824,CJ0523,John Crary,NA,NA,1
 ny.uscongress20.1824,FG0041,George W. Ford,NA,NA,1
 ny.uscongress20.1824,PN0050,Nathaniel Picher,NA,NA,1
 ny.uscongress20.1824,GW0067,Worden Griffin,NA,NA,1
-ny.uscongress21.1824,WE0111,Elias Whitemore,A05,Clintonian/Federalist,3128
+ny.uscongress21.1824,WE0111,Elias Whitemore,A05,Dissenting Republican,3128
 ny.uscongress21.1824,CL0046,Lot Clark,A03,Democratic-Republican,3073
 ny.uscongress21.1824,CJ0458,John C. Clark,NA,NA,8
 ny.uscongress21.1824,DP0029,Philip M. Dezeng,NA,NA,1
 ny.uscongress21.1824,SD0115,Daniel Shumway,NA,NA,1
 ny.uscongress21.1824,TJ0206,John Tracey,NA,NA,1
-ny.uscongress22.1824,MJ0472,John Miller,A05,Clintonian/Federalist,3857
+ny.uscongress22.1824,MJ0472,John Miller,A05,Dissenting Republican,3857
 ny.uscongress22.1824,LJ0257,John Lynde,A03,Democratic-Republican,3243
 ny.uscongress22.1824,OJ0078,John Osborn,NA,NA,2
-ny.uscongress23.1824,BL0047,Luther Badger,A05,Clintonian/Federalist,3214
+ny.uscongress23.1824,BL0047,Luther Badger,A05,Dissenting Republican,3214
 ny.uscongress23.1824,LE0066,Elisha Litchfield,A03,Democratic-Republican,3117
 ny.uscongress23.1824,DH0041,Henry DePew,NA,NA,1
 ny.uscongress23.1824,KD0023,Daniel Kellog,NA,NA,1
-ny.uscongress24.1824,KC0017,Charles Kellogg,A05,Clintonian/Federalist,3372
+ny.uscongress24.1824,KC0017,Charles Kellogg,A05,Dissenting Republican,3372
 ny.uscongress24.1824,DR0036,Rowland Day,A03,Democratic-Republican,2976
 ny.uscongress24.1824,PA0080,Andrews Preston,NA,NA,1
-ny.uscongress25.1824,HC0076,Charles Humphrey,A05,Clintonian/Federalist,3144
+ny.uscongress25.1824,HC0076,Charles Humphrey,A05,Dissenting Republican,3144
 ny.uscongress25.1824,WD0058,David Woodcock,A03,Democratic-Republican,2999
 ny.uscongress25.1824,EJ0135,John Ellis,NA,NA,5
 ny.uscongress25.1824,HN0046,Nicoll Halsey,NA,NA,5
@@ -9192,8 +9192,8 @@ ny.uscongress25.1824,PC0051,Charles Pumpelly,NA,NA,1
 ny.uscongress25.1824,TJ0207,John Tuthill,NA,NA,1
 ny.uscongress25.1824,WD0071,David Williams,NA,NA,1
 ny.uscongress25.1824,WS0133,Samuel Winton,NA,NA,1
-ny.uscongress26.1824,MD0116,Dudley Marvin,A05,Clintonian/Federalist,8367
-ny.uscongress26.1824,RR0038,Robert S. Rose,A05,Clintonian/Federalist,4901
+ny.uscongress26.1824,MD0116,Dudley Marvin,A05,Dissenting Republican,8367
+ny.uscongress26.1824,RR0038,Robert S. Rose,A05,Dissenting Republican,4901
 ny.uscongress26.1824,MJ0526,John Maynard,A03,Democratic-Republican,4438
 ny.uscongress26.1824,RA0037,Aaron Remer,A03,Democratic-Republican,2732
 ny.uscongress26.1824,PG0036,Gideon Pitts,NA,NA,2
@@ -9206,7 +9206,7 @@ ny.uscongress26.1824,SJ0745,John C. Spencer,NA,NA,1
 ny.uscongress26.1824,AN0004,Nathaniel Allen,NA,NA,1
 ny.uscongress26.1824,BH0118,Henry Balwin,NA,NA,1
 ny.uscongress26.1824,JA0048,Andrew Jackson,NA,NA,1
-ny.uscongress27.1824,HM0053,Moses Hayden,A05,Clintonian/Federalist,4456
+ny.uscongress27.1824,HM0053,Moses Hayden,A05,Dissenting Republican,4456
 ny.uscongress27.1824,CC0079,Charles H. Carroll,A03,Democratic-Republican,3028
 ny.uscongress27.1824,MR0075,Robert MacKay,NA,NA,5
 ny.uscongress27.1824,GL0013,Leman Gibbs,NA,NA,4
@@ -9222,12 +9222,12 @@ ny.uscongress27.1824,GW0065,William Groves,NA,NA,1
 ny.uscongress27.1824,FR0036,Robert Fleming,NA,NA,1
 ny.uscongress28.1824,PT0101,Timothy H. Porter,A03,Democratic-Republican,2100
 ny.uscongress28.1824,WW0171,William Woods,A03,Democratic-Republican,1937
-ny.uscongress28.1824,CD0115,Daniel Cruger,A05,Clintonian/Federalist,1693
-ny.uscongress28.1824,CP0032,Philip Church,A05,Clintonian/Federalist,210
+ny.uscongress28.1824,CD0115,Daniel Cruger,A05,Dissenting Republican,1693
+ny.uscongress28.1824,CP0032,Philip Church,A05,Dissenting Republican,210
 ny.uscongress28.1824,PS0120,Shadrach Powers,NA,NA,2
 ny.uscongress28.1824,JJ0115,James Jackson,NA,NA,1
 ny.uscongress28.1824,TJ0239,James Taylor,NA,NA,1
-ny.uscongress29.1824,AP0018,Parmenio Adams,A05,Clintonian/Federalist,4035
+ny.uscongress29.1824,AP0018,Parmenio Adams,A05,Dissenting Republican,4035
 ny.uscongress29.1824,WI0028,Isaac Wilson,A03,Democratic-Republican,2969
 ny.uscongress29.1824,AE0042,Ethan B. Allen,NA,NA,1
 ny.uscongress29.1824,AA0017,Apollos B. Augur,NA,NA,1
@@ -9239,9 +9239,9 @@ ny.uscongress29.1824,TB0013,Barack Thayer,NA,NA,1
 ny.uscongress3.1824,CC0075,Churchill C. Cambreling,A03,Democratic-Republican,5718
 ny.uscongress3.1824,VG0006,Gulian C. Verplanck,A03,Democratic-Republican,4877
 ny.uscongress3.1824,JJ0150,Jeromus Johnson,A03,Democratic-Republican,4588
-ny.uscongress3.1824,RJ0245,"John Rathbone, Jr.",A05,Clintonian,3981
-ny.uscongress3.1824,HC0077,Charles G. Haines,A05,Clintonian,3857
-ny.uscongress3.1824,SP0100,Peter Sharpe,A05,Clintonian,3741
+ny.uscongress3.1824,RJ0245,"John Rathbone, Jr.",A05,Dissenting Republican,3981
+ny.uscongress3.1824,HC0077,Charles G. Haines,A05,Dissenting Republican,3857
+ny.uscongress3.1824,SP0100,Peter Sharpe,A05,Dissenting Republican,3741
 ny.uscongress3.1824,WH0044,Henry Wheaton,A07,Independent,750
 ny.uscongress3.1824,BJ0634,Joseph Blunt,NA,NA,3
 ny.uscongress3.1824,RP0016,Peter Ritter,NA,NA,2
@@ -9273,7 +9273,7 @@ ny.uscongress3.1824,OD0020,David B. Ogden,NA,NA,1
 ny.uscongress3.1824,BJ0478,John Bloodgood,NA,NA,1
 ny.uscongress3.1824,BL0055,Leonard Baum,NA,NA,1
 ny.uscongress30.1824,GD0043,Daniel G. Garnsey,A03,Democratic-Republican,2387
-ny.uscongress30.1824,HW0223,William Hotchkiss,A05,Clintonian/Federalist,2235
+ny.uscongress30.1824,HW0223,William Hotchkiss,A05,Dissenting Republican,2235
 ny.uscongress30.1824,CJ0532,John G. Camp,A03,Democratic-Republican,2127
 ny.uscongress30.1824,CB0084,Bela H. Colegrove,NA,NA,4
 ny.uscongress30.1824,WD0063,Daniel Washburn,NA,NA,2
@@ -9287,27 +9287,27 @@ ny.uscongress30.1824,MN0067,Nathan Mixer,NA,NA,1
 ny.uscongress30.1824,BS0216,Samuel A. Brown,NA,NA,1
 ny.uscongress30.1824,TA0015,Albert H. Tracy,NA,NA,1
 ny.uscongress30.1824,AJ0043,John Quincy Adams,NA,NA,1
-ny.uscongress4.1824,WA0119,Aaron Ward,A05,Clintonian/Federalist,1586
+ny.uscongress4.1824,WA0119,Aaron Ward,A05,Dissenting Republican,1586
 ny.uscongress4.1824,WJ0457,Jonathan Ward,A03,Democratic-Republican,1297
 ny.uscongress4.1824,HJ0599,John Hunter,A03,Democratic-Republican,1188
 ny.uscongress4.1824,KD0039,David Knapp,NA,NA,2
 ny.uscongress4.1824,CL0021,Levi Carpenter,NA,NA,1
 ny.uscongress4.1824,MN0026,Nathan Merritt,NA,NA,1
 ny.uscongress4.1824,WN0048,Nathan Ward,NA,NA,1
-ny.uscongress5.1824,WB0038,Bartow White,A05,Clintonian/Federalist,3596
+ny.uscongress5.1824,WB0038,Bartow White,A05,Dissenting Republican,3596
 ny.uscongress5.1824,LP0036,Peter R. Livingston,A03,Democratic-Republican,3210
 ny.uscongress6.1824,HJ0600,"John Hallock, Jr.",A03,Democratic-Republican,2105
-ny.uscongress6.1824,CH0107,Hector Craig,A05,Clintonian/Federalist,1978
+ny.uscongress6.1824,CH0107,Hector Craig,A05,Dissenting Republican,1978
 ny.uscongress6.1824,CW0169,Walter Case,A03,Democratic-Republican,374
-ny.uscongress7.1824,HA0085,Abraham Bruyn Hasbrouck,A05,Clintonian/Federalist,2917
+ny.uscongress7.1824,HA0085,Abraham Bruyn Hasbrouck,A05,Dissenting Republican,2917
 ny.uscongress7.1824,LJ0245,John Lounsberry,A03,Democratic-Republican,2781
 ny.uscongress7.1824,LJ0339,John Lindsley,NA,NA,1
 ny.uscongress7.1824,JJ0144,John P. Jones,NA,NA,1
-ny.uscongress8.1824,SJ0778,James Strong,A05,Clintonian/Federalist,3130
+ny.uscongress8.1824,SJ0778,James Strong,A05,Dissenting Republican,3130
 ny.uscongress8.1824,LR0024,Robert L. Livingston,A03,Democratic-Republican,2089
 ny.uscongress8.1824,CA0107,Alexander Coffin,NA,NA,1
 ny.uscongress8.1824,NA,Sampson,NA,NA,1
-ny.uscongress9.1824,MW0221,William MacManus,A05,Clintonian/Federalist,3807
+ny.uscongress9.1824,MW0221,William MacManus,A05,Dissenting Republican,3807
 ny.uscongress9.1824,DG0032,George R. Davis,A03,Democratic-Republican,2925
 ny.uscongress9.1824,MS0067,Staats Morris,NA,NA,4
 ny.uscongress9.1824,CG0055,Gilbert Carpenter,NA,NA,2
@@ -9333,12 +9333,12 @@ oh.uscongress.1804,MJ0625,Jeremiah Morrow,A03,Democratic-Republican,4101
 oh.uscongress.1804,LE0075,Elias Langham,A01,Federalist,1718
 oh.uscongress.1804,PR0119,Rufus Putnam,A01,Federalist,23
 oh.us.houseofrepresentatives.1806,MJ0625,Jeremiah Morrow,A03,Democratic-Republican,6735
-oh.us.houseofrepresentatives.1806,PJ0360,James Pritchard,A04,Quid,2364
+oh.us.houseofrepresentatives.1806,PJ0360,James Pritchard,A04,Dissenting Republican,2364
 oh.us.houseofrepresentatives.1806,AC0008,Chapman Arthur,NA,NA,1
 oh.us.houseofrepresentatives.1806,BJ0912,Jacob Burnett,NA,NA,6
 oh.us.houseofrepresentatives.1806,FM0007,Michael Fame,NA,NA,1
 oh.us.houseofrepresentatives.1806,DW0066,W. Donham,NA,NA,1
-oh.ushouseofrepresentatives.1808,MJ0625,Jeremiah Morrow,A04,Quid,11852
+oh.ushouseofrepresentatives.1808,MJ0625,Jeremiah Morrow,A04,Dissenting Republican,11852
 oh.ushouseofrepresentatives.1808,BP0045,Philemon Beecher,A01,Federalist,4724
 oh.ushouseofrepresentatives.1808,FW0051,William Fee,A01,Federalist,2
 oh.ushouseofrepresentatives.1808,FJ0281,Joseph Foos,NA,NA,2
@@ -9347,7 +9347,7 @@ oh.ushouseofrepresentatives.1808,MJ1347,Jonathan Morrow,NA,NA,1
 oh.ushouseofrepresentatives.1808,RJ0204,Jeremiah Root,NA,NA,1
 oh.ushouseofrepresentatives.1808,KJ0096,J. Kerker,A01,Federalist,1
 oh.ushouseofrepresentatives.1810,MJ0625,Jeremiah Morrow,A03,Democratic-Republican,NA
-oh.ushouseofrepresentatives.1810,PC0033,Calvin Pease,A04,Quid,NA
+oh.ushouseofrepresentatives.1810,PC0033,Calvin Pease,A04,Dissenting Republican,NA
 oh.ushouseofrepresentatives.1810,HS0167,Samuel Huntington,NA,NA,NA
 oh.ushouseofrepresentatives.1810,MJ1346,Jeremiah Mote,NA,NA,NA
 oh.ushouseofrepresentatives.1810,PR0044,Robert Patterson,NA,NA,NA
@@ -9814,13 +9814,13 @@ pa.uscongress1.1804,LM0058,Michael Leib,A03,Democratic-Republican,3992
 pa.uscongress1.1804,PW0209,William Penrose,A01,Federalist,3685
 pa.uscongress1.1804,GW0141,William Graham,NA,NA,NA
 pa.uscongress10.1804,HJ0746,John Hamilton,A03,Democratic-Republican,868
-pa.uscongress10.1804,IJ0072,John Israel,A04,Quid,NA
+pa.uscongress10.1804,IJ0072,John Israel,A04,Dissenting Republican,NA
 pa.uscongress11.1804,LJ0337,John B. Lucas,A03,Democratic-Republican,2526
 pa.uscongress11.1804,OJ0042,James O'Hara,A01,Federalist,1373
 pa.uscongress2.1804,PJ0443,John Pugh,A03,Democratic-Republican,6701
 pa.uscongress2.1804,CF0031,Frederick Conrad,A03,Democratic-Republican,6596
 pa.uscongress2.1804,BR0106,Robert Brown,A03,Democratic-Republican,4532
-pa.uscongress2.1804,RJ0312,John Ross,A04,Quid,2710
+pa.uscongress2.1804,RJ0312,John Ross,A04,Dissenting Republican,2710
 pa.uscongress2.1804,PS0087,Samuel Preston,NA,NA,268
 pa.uscongress2.1804,CJ0770,Joseph Clunn,NA,NA,38
 pa.uscongress3.1804,LC0033,Christian Lower,A03,Democratic-Republican,9079
@@ -9852,11 +9852,11 @@ pa.uscongress10.1806,HJ0746,John Hamilton,A01,Federalist,737
 pa.uscongress11.1806,SS0274,Samuel Smith,A03,Democratic-Republican,3339
 pa.uscongress11.1806,WJ0616,John Wilkins,A01,Federalist,2621
 pa.uscongress2.1806,BR0106,Robert Brown,A03,Democratic-Republican,5180
-pa.uscongress2.1806,MW0326,William Milnor,A07,Quid,4824
+pa.uscongress2.1806,MW0326,William Milnor,A07,Dissenting Republican,4824
 pa.uscongress2.1806,PJ0443,John Pugh,A03,Democratic-Republican,4761
 pa.uscongress2.1806,HJ1003,John Hahn,A03,Democratic-Republican,4750
-pa.uscongress2.1806,CF0031,Frederick Conrad,A07,Quid,4659
-pa.uscongress2.1806,LW0156,William Lattimore,A07,Quid,4589
+pa.uscongress2.1806,CF0031,Frederick Conrad,A07,Dissenting Republican,4659
+pa.uscongress2.1806,LW0156,William Lattimore,A07,Dissenting Republican,4589
 pa.uscongress3.1806,HJ0784,John Heister,A01,Federalist,6709
 pa.uscongress3.1806,RM0041,Matthais Richards,A01,Federalist,6625
 pa.uscongress3.1806,JR0043,Robert Jenkins,A01,Federalist,6487
@@ -9864,15 +9864,15 @@ pa.uscongress3.1806,WJ0661,John Whitehill,A03,Democratic-Republican,5666
 pa.uscongress3.1806,DR0049,Roger Davis,A03,Democratic-Republican,5545
 pa.uscongress3.1806,WW0223,William Witman,A03,Democratic-Republican,5539
 pa.uscongress4.1806,WR0153,Robert Whitehill,A03,Democratic-Republican,6024
-pa.uscongress4.1806,BD0120,David Baird,A04,Quid,5388
+pa.uscongress4.1806,BD0120,David Baird,A04,Dissenting Republican,5388
 pa.uscongress4.1806,DE0075,Ezra Doty,A03,Democratic-Republican,983
-pa.uscongress4.1806,PO0022,Oliver Pollack,A04,Quid,225
+pa.uscongress4.1806,PO0022,Oliver Pollack,A04,Dissenting Republican,225
 pa.uscongress5.1806,MD0192,"Daniel Montgomery, Jr.",A03,Democratic-Republican,3161
-pa.uscongress5.1806,GA0060,Andrew Gregg,A07,Quid,2321
+pa.uscongress5.1806,GA0060,Andrew Gregg,A07,Dissenting Republican,2321
 pa.uscongress6.1806,KJ0173,James Kelly,A01,Federalist,2979
 pa.uscongress7.1806,RJ0310,John Rea,A03,Democratic-Republican,1511
 pa.uscongress7.1806,DA0079,Andrew Dunlap,A01,Federalist,852
-pa.uscongress7.1806,WH0059,Henry Woods,A07,Quid,503
+pa.uscongress7.1806,WH0059,Henry Woods,A07,Dissenting Republican,503
 pa.uscongress8.1806,FW0062,William Findley,A03,Democratic-Republican,NA
 pa.uscongress9.1806,SJ0970,John Smilie,A03,Democratic-Republican,1987
 pa.uscongress1.1808,SB0099,Benjamin Say,A03,Democratic-Republican,7598
@@ -9930,9 +9930,9 @@ pa.uscongress11.1810,SS0274,Samuel Smith,A03,Democratic-Republican,326
 pa.uscongress2.1810,BR0106,Robert Brown,A03,Democratic-Republican,5444
 pa.uscongress2.1810,RJ0414,Jonathan Roberts,A03,Democratic-Republican,5409
 pa.uscongress2.1810,RW0146,William Rodman,A03,Democratic-Republican,5377
-pa.uscongress2.1810,MW0326,William Milnor,A07,Constitutionalist,4132
+pa.uscongress2.1810,MW0326,William Milnor,A07,Dissenting Republican,4132
 pa.uscongress2.1810,PL0018,Levi Pawling,A01,Federalist,4033
-pa.uscongress2.1810,LW0156,William Lattimore,A07,Constitutionalist,3955
+pa.uscongress2.1810,LW0156,William Lattimore,A07,Dissenting Republican,3955
 pa.uscongress2.1810,MC0051,Charles Miner,A01,Federalist,102
 pa.uscongress3.1810,LJ0342,Joseph Lefever,A03,Democratic-Republican,6616
 pa.uscongress3.1810,DR0049,Roger Davis,A03,Democratic-Republican,6612
@@ -10365,7 +10365,7 @@ ri.uscongress.1806,KN0024,Nehemiah Knight,A03,Democratic-Republican,1794
 ri.uscongress.1806,WI0068,Isaac Wilbour,A03,Democratic-Republican,1630
 ri.uscongress.1806,HW0370,William Hunter,A01,Federalist,1483
 ri.uscongress.1806,AT0043,Thomas Arnold,A01,Federalist,1456
-ri.uscongress.1806,HT0204,Thomas B. Hazard,A04,Quid,310
+ri.uscongress.1806,HT0204,Thomas B. Hazard,A04,Dissenting Republican,310
 ri.uscongress.1806,NA,scattering,NA,NA,27
 ri.uscongress.1808,JR0052,"Richard Jackson, Jr.",A01,Federalist,3308
 ri.uscongress.1808,PE0102,Elisha Potter,A01,Federalist,3278
@@ -11217,7 +11217,7 @@ va.uscongress.9.1803,TP0042,Philip R. Thompson,A03,Democratic-Republican,NA
 va.uscongress.1.1805,JJ0287,John G. Jackson,A03,Democratic-Republican,NA
 va.uscongress.1.1805,WT0140,Thomas Wilson,A01,Federalist,NA
 va.uscongress.10.1805,DJ0582,John Dawson,A03,Democratic-Republican,NA
-va.uscongress.10.1805,BJ1485,James Barbour,A04,Quid,NA
+va.uscongress.10.1805,BJ1485,James Barbour,A04,Dissenting Republican,NA
 va.uscongress.11.1805,GJ0658,James M. Garnett,A03,Democratic-Republican,NA
 va.uscongress.11.1805,BC0134,Carter Braxton,NA,NA,NA
 va.uscongress.11.1805,RJ0605,John Roane,NA,NA,NA
@@ -11230,22 +11230,22 @@ va.uscongress.12.1805,ET0046,Thomas Evans,A01,Federalist,NA
 va.uscongress.13.1805,CC0134,Christopher Clark,A03,Democratic-Republican,NA
 va.uscongress.14.1805,CM0108,Mathew Clay,A03,Democratic-Republican,1833
 va.uscongress.14.1805,LW0165,William Lewis,A01,Federalist,230
-va.uscongress.15.1805,RJ0610,John Randolph,A04,Quid,NA
+va.uscongress.15.1805,RJ0610,John Randolph,A04,Dissenting Republican,NA
 va.uscongress.16.1805,EJ0283,John W. Eppes,A03,Democratic-Republican,NA
 va.uscongress.17.1805,CJ1099,John Claiborne,A03,Democratic-Republican,NA
 va.uscongress.17.1805,AM0013,Mark Alexander,A03,Democratic-Republican,NA
 va.uscongress.18.1805,GP0075,Peterson Goodwyn,A03,Democratic-Republican,NA
-va.uscongress.19.1805,GE0059,Edwin Gray,A04,Quid,NA
+va.uscongress.19.1805,GE0059,Edwin Gray,A04,Dissenting Republican,NA
 va.uscongress.2.1805,MJ1223,John Morrow,A03,Democratic-Republican,NA
 va.uscongress.2.1805,SJ1474,James Stephenson,A01,Federalist,NA
 va.uscongress.20.1805,NT0024,"Thomas Newton, Jr.",A03,Democratic-Republican,1542
 va.uscongress.21.1805,RT0122,Thomas M. Randolph,A03,Democratic-Republican,1175
-va.uscongress.21.1805,LW0166,Walter Leake,A04,Quid,670
+va.uscongress.21.1805,LW0166,Walter Leake,A04,Dissenting Republican,670
 va.uscongress.22.1805,CJ1097,John Clopton,A03,Democratic-Republican,NA
 va.uscongress.3.1805,SJ1530,John Smith,A03,Democratic-Republican,NA
 va.uscongress.4.1805,HD0041,David Holmes,A03,Democratic-Republican,NA
 va.uscongress.5.1805,WA0179,Alexander Wilson,A03,Democratic-Republican,786
-va.uscongress.5.1805,BR0183,Robert Bailey,A04,Quid,510
+va.uscongress.5.1805,BR0183,Robert Bailey,A04,Dissenting Republican,510
 va.uscongress.6.1805,TA0080,Abraham Trigg,A03,Democratic-Republican,NA
 va.uscongress.7.1805,LJ0458,"Joseph Lewis, Jr.",A01,Federalist,719
 va.uscongress.7.1805,EW0051,William Ellzey,A03,Democratic-Republican,606
@@ -11258,32 +11258,32 @@ va.uscongress.9.1805,TP0042,Philip R. Thompson,A03,Democratic-Republican,NA
 va.uscongress.1.1807,JJ0287,John G. Jackson,A03,Democratic-Republican,NA
 va.uscongress.1.1807,LN0023,Noah Linsley,A01,Federalist,NA
 va.uscongress.10.1807,DJ0582,John Dawson,A03,Democratic-Republican,NA
-va.uscongress.10.1807,MJ0201,John Mercer,A04,Quid,NA
+va.uscongress.10.1807,MJ0201,John Mercer,A04,Dissenting Republican,NA
 va.uscongress.11.1807,GJ0658,James M. Garnett,A03,Democratic-Republican,NA
 va.uscongress.11.1807,SL0067,Larkin Smith,A03,Democratic-Republican,NA
 va.uscongress.12.1807,BB0099,Burwell Bassett,A03,Democratic-Republican,NA
 va.uscongress.13.1807,BW0451,William A. Burwell,A03,Democratic-Republican,NA
 va.uscongress.14.1807,CM0108,Matthew Clay,A03,Democratic-Republican,2017
 va.uscongress.14.1807,NA,scattering,NA,NA,10
-va.uscongress.15.1807,RJ0610,John Randolph,A04,Quid,NA
+va.uscongress.15.1807,RJ0610,John Randolph,A04,Dissenting Republican,NA
 va.uscongress.16.1807,EJ0283,John W. Eppes,A03,Democratic-Republican,NA
 va.uscongress.17.1807,CJ1099,John Claiborne,A03,Democratic-Republican,NA
 va.uscongress.18.1807,GP0075,Peterson Goodwyn,A03,Democratic-Republican,NA
-va.uscongress.19.1807,GE0059,Edwin Gray,A04,Quid,NA
+va.uscongress.19.1807,GE0059,Edwin Gray,A04,Dissenting Republican,NA
 va.uscongress.2.1807,MJ1223,John Morrow,A03,Democratic-Republican,NA
 va.uscongress.20.1807,NT0024,Thomas Newton Jr.,A03,Democratic-Republican,NA
 va.uscongress.21.1807,NW0043,Wilson C. Nicholas,A03,Democratic-Republican,NA
 va.uscongress.22.1807,CJ1097,John Clopton,A03,Democratic-Republican,NA
-va.uscongress.22.1807,RP0059,Peyton Randolph,A04,Quid,NA
+va.uscongress.22.1807,RP0059,Peyton Randolph,A04,Dissenting Republican,NA
 va.uscongress.3.1807,SJ1530,John Smith,A03,Democratic-Republican,NA
 va.uscongress.3.1807,SJ1557,James Singleton,A01,Federalist,NA
 va.uscongress.4.1807,HD0041,David Holmes,A03,Democratic-Republican,NA
 va.uscongress.5.1807,WA0179,Alexander Wilson,A03,Democratic-Republican,1093
 va.uscongress.5.1807,TO0001,Oliver Towles,A03,Democratic-Republican,449
-va.uscongress.5.1807,BR0183,Robert Bailey,A04,Quid,369
+va.uscongress.5.1807,BR0183,Robert Bailey,A04,Dissenting Republican,369
 va.uscongress.5.1807,NA,scattering,NA,NA,5
 va.uscongress.6.1807,TA0080,Abraham Trigg,A03,Democratic-Republican,NA
-va.uscongress.6.1807,SD0212,Daniel Sheffey,A04,Quid,NA
+va.uscongress.6.1807,SD0212,Daniel Sheffey,A04,Dissenting Republican,NA
 va.uscongress.7.1807,LJ0458,"Joseph Lewis, Jr.",A01,Federalist,665
 va.uscongress.7.1807,LJ0556,John Littlejohn,A03,Democratic-Republican,540
 va.uscongress.8.1807,JW0100,Walter Jones,A03,Democratic-Republican,NA
@@ -11312,7 +11312,7 @@ va.uscongress.12.1809,BB0099,Burwell Bassett,A03,Democratic-Republican,1172
 va.uscongress.12.1809,EJ0307,John Eyre,A01,Federalist,869
 va.uscongress.13.1809,BW0451,William A. Burwell,A03,Democratic-Republican,NA
 va.uscongress.14.1809,CM0108,Matthew Clay,A03,Democratic-Republican,NA
-va.uscongress.15.1809,RJ0610,John Randolph,A04,Federalist/Quid,1243
+va.uscongress.15.1809,RJ0610,John Randolph,A04,Dissenting Republican,1243
 va.uscongress.15.1809,BJ1470,Jerman Baker,A03,Democratic-Republican,492
 va.uscongress.16.1809,EJ0283,John W. Eppes,A03,Democratic-Republican,NA
 va.uscongress.17.1809,GT0098,"Thomas Gholson, Jr.",A03,Democratic-Republican,NA
@@ -11328,7 +11328,7 @@ va.uscongress.20.1809,NT0024,Thomas Newton,A03,Democratic-Republican,1051
 va.uscongress.20.1809,TR0086,Robert B. Tayler,A01,Federalist,699
 va.uscongress.21.1809,NW0043,Wilson C. Nicholas,A03,Democratic-Republican,NA
 va.uscongress.22.1809,CJ1097,John Clopton,A03,Democratic-Republican,NA
-va.uscongress.22.1809,DC0063,Charles Dabney,A04,Quid,NA
+va.uscongress.22.1809,DC0063,Charles Dabney,A04,Dissenting Republican,NA
 va.uscongress.3.1809,SJ1530,John Smith,A03,Democratic-Republican,1085
 va.uscongress.3.1809,PR0096,Robert Page,A01,Federalist,163
 va.uscongress.4.1809,SJ1411,Jacob Swoope,A01,Federalist,1369
@@ -11358,7 +11358,7 @@ va.uscongress.12.1811,NA,scattering,NA,NA,NA
 va.uscongress.13.1811,BW0451,William A. Burwell,A03,Democratic-Republican,NA
 va.uscongress.14.1811,CM0108,Matthew Clay,A03,Democratic-Republican,NA
 va.uscongress.14.1811,KJ0364,John Kerr,A03,Democratic-Republican,NA
-va.uscongress.15.1811,RJ0610,John Randolph,A04,Federalist/Quid,1080
+va.uscongress.15.1811,RJ0610,John Randolph,A04,Dissenting Republican,1080
 va.uscongress.15.1811,EJ0283,John W. Eppes,A03,Democratic-Republican,514
 va.uscongress.16.1811,PJ0579,James Pleasants,A03,Democratic-Republican,NA
 va.uscongress.17.1811,GT0098,Thomas Gholson,A03,Democratic-Republican,NA
