@@ -962,8 +962,8 @@ meae.congressional.congress04.ga.county,ga.uscongress.1795,George Ray,RG0063,At-
 meae.congressional.congress04.ga.county,ga.uscongress.1795,J. Stone,SJ1233,At-large,NA,1,7276,0,FALSE,FALSE
 meae.congressional.congress04.ga.county,ga.uscongress.1795,Bartholomew Thompson,TB0057,At-large,NA,1,7276,0,FALSE,FALSE
 meae.congressional.congress04.ga.county,ga.uscongress.1795,Elias Wilbourne,WE0173,At-large,NA,1,7276,0,FALSE,FALSE
-meae.congressional.congress04.ky.county,ky.congress.1794,Alexander D. Orr,OA0007,2,Democratic-Republican,NA,NA,NA,TRUE,FALSE
-meae.congressional.congress04.ky.county,ky.congress.1794,Christopher Greenup,GC0053,1,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress04.ky.county,ky.congress.1794,Alexander D. Orr,OA0007,2,Democratic-Republican,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress04.ky.county,ky.congress.1794,Christopher Greenup,GC0053,1,Democratic-Republican,NA,NA,NA,TRUE,TRUE
 meae.congressional.congress04.ma.county,ma.uscongress.eastern.1.1794,Henry Dearborn,DH0026,12,Democratic-Republican,464,906,0.512,TRUE,FALSE
 meae.congressional.congress04.ma.county,ma.uscongress.eastern.1.1794,Jonathan Bowman,BJ0314,12,Federalist,260,906,0.287,FALSE,FALSE
 meae.congressional.congress04.ma.county,ma.uscongress.eastern.1.1794,Daniel Coney,CD0053,12,Federalist,51,906,0.056,FALSE,FALSE
@@ -1261,12 +1261,12 @@ meae.congressional.congress04.ri.county,ri.uscongress2.1794,"Joseph Stanton, Jr.
 meae.congressional.congress04.sc.county,sc.uscongress.district1.1794,William Smith,SW0299,1,Federalist,698,1351,0.517,TRUE,FALSE
 meae.congressional.congress04.sc.county,sc.uscongress.district1.1794,"John Rutledge, Jr.",RJ0621,1,Federalist,504,1351,0.373,FALSE,FALSE
 meae.congressional.congress04.sc.county,sc.uscongress.district1.1794,Thomas Tucker,TT0123,1,Democratic-Republican,149,1351,0.11,FALSE,FALSE
-meae.congressional.congress04.sc.county,NA,Wade Hampton,HW0374,2,Democratic-Republican,NA,NA,NA,TRUE,FALSE
-meae.congressional.congress04.sc.county,NA,Lemuel Benton,BL0075,3,Democratic-Republican,NA,NA,NA,TRUE,FALSE
-meae.congressional.congress04.sc.county,NA,Richard Winn,WR0158,4,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress04.sc.county,NA,Wade Hampton,HW0374,2,Democratic-Republican,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress04.sc.county,NA,Lemuel Benton,BL0075,3,Democratic-Republican,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress04.sc.county,NA,Richard Winn,WR0158,4,Democratic-Republican,NA,NA,NA,TRUE,TRUE
 meae.congressional.congress04.sc.county,sc.uscongress.district3.1794,Robert G. Harper,HR0079,5,Federalist,1389,2381,0.583,TRUE,FALSE
 meae.congressional.congress04.sc.county,sc.uscongress.district3.1794,John Hunter,HJ1210,5,Democratic-Republican,992,2381,0.417,FALSE,FALSE
-meae.congressional.congress04.sc.county,NA,Samuel Earle,NA,6,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress04.sc.county,NA,Samuel Earle,NA,6,Democratic-Republican,NA,NA,NA,TRUE,TRUE
 meae.congressional.congress04.tn.county,tn.uscongress.1796,Andrew Jackson,JA0014,At-large,Democratic-Republican,1113,1125,0.989,TRUE,FALSE
 meae.congressional.congress04.tn.county,tn.uscongress.1796,James Rody,RJ0038,At-large,NA,12,1125,0.011,FALSE,FALSE
 meae.congressional.congress04.va.county,va.uscongress.1.1795,Robert Rutherford,RR0071,1,Democratic-Republican,NA,0,NA,TRUE,FALSE
@@ -1783,7 +1783,7 @@ meae.congressional.congress06.ga.county,ga.uscongress.1798,Robert Watkins,WR0006
 meae.congressional.congress06.ky.county,ky.uscongressnortherndistrict.1799,John Fowler,FJ0047,2,Democratic-Republican,5519,9976,0.553,TRUE,FALSE
 meae.congressional.congress06.ky.county,ky.uscongressnortherndistrict.1799,Robert Johnston,JR0005,2,NA,2543,9976,0.255,FALSE,FALSE
 meae.congressional.congress06.ky.county,ky.uscongressnortherndistrict.1799,Philemon Thomas,TP0004,2,Democratic-Republican,1914,9976,0.192,FALSE,FALSE
-meae.congressional.congress06.ky.county,ky.uscongresssoutherndistrict.1799,Thomas T. Davis,DT0030,1,Democratic-Republican,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress06.ky.county,ky.uscongresssoutherndistrict.1799,Thomas T. Davis,DT0030,1,Democratic-Republican,NA,NA,1,TRUE,TRUE
 meae.congressional.congress06.ma.county,ma.uscongress.eastern.1.1798,Silas Lee,LS0019,12,Federalist,872,1524,0.572,TRUE,FALSE
 meae.congressional.congress06.ma.county,ma.uscongress.eastern.1.1798,Henry Dearborn,DH0026,12,Democratic-Republican,512,1524,0.336,FALSE,FALSE
 meae.congressional.congress06.ma.county,ma.uscongress.eastern.1.1798,Nathaniel Dummer,DN0019,12,Federalist,127,1524,0.083,FALSE,FALSE
@@ -1918,7 +1918,7 @@ meae.congressional.congress06.nc.county,nc.uscongress3.1798,Robert Williams,WR01
 meae.congressional.congress06.nc.county,nc.uscongress3.1798,James Martin,MJ0541,3,Federalist,1174,3885,0.302,FALSE,FALSE
 meae.congressional.congress06.nc.county,nc.uscongress4.1798,Richard Stanford,SR0175,4,Democratic-Republican,2005,3680,0.545,TRUE,FALSE
 meae.congressional.congress06.nc.county,nc.uscongress4.1798,Samuel Benton,BS0217,4,Federalist,1675,3680,0.455,FALSE,FALSE
-meae.congressional.congress06.nc.county,nc.uscongress5.1798,Nathaniel Macon,MN0068,5,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress06.nc.county,nc.uscongress5.1798,Nathaniel Macon,MN0068,5,Democratic-Republican,NA,NA,NA,TRUE,TRUE
 meae.congressional.congress06.nc.county,nc.uscongress6.1798,William H. Hill,HW0233,6,Federalist,1372,2741,0.501,TRUE,FALSE
 meae.congressional.congress06.nc.county,nc.uscongress6.1798,James Gillespie,GJ0328,6,Democratic-Republican,1091,2741,0.398,FALSE,FALSE
 meae.congressional.congress06.nc.county,nc.uscongress6.1798,Alexander D. Moore,MA0151,6,Federalist,278,2741,0.101,FALSE,FALSE
@@ -2515,7 +2515,7 @@ meae.congressional.congress07.pa.county,pa.uscongress1.1800,William Jones,JW0065
 meae.congressional.congress07.pa.county,pa.uscongress1.1800,Francis Gurney,GF0011,1,Federalist,1684,3382,0.498,FALSE,FALSE
 meae.congressional.congress07.pa.county,pa.uscongress10.1800,Henry Woods,WH0059,10,Federalist,2096,4102,0.511,TRUE,FALSE
 meae.congressional.congress07.pa.county,pa.uscongress10.1800,David Bard,BD0120,10,Democratic-Republican,2006,4102,0.489,FALSE,FALSE
-meae.congressional.congress07.pa.county,pa.uscongress11.1800,John Smilie,SJ0970,11,Democratic-Republican,2182,2182,1,TRUE,FALSE
+meae.congressional.congress07.pa.county,pa.uscongress11.1800,John Smilie,SJ0970,11,Democratic-Republican,2182,2182,1,TRUE,TRUE
 meae.congressional.congress07.pa.county,pa.uscongress12.1800,Albert Gallatin,GA0061,12,Democratic-Republican,4273,5863,0.729,TRUE,FALSE
 meae.congressional.congress07.pa.county,pa.uscongress12.1800,Presley Neville,NP0010,12,Federalist,1590,5863,0.271,FALSE,FALSE
 meae.congressional.congress07.pa.county,pa.uscongress2.1800,Michael Leib,LM0058,2,Democratic-Republican,2744,3527,0.778,TRUE,FALSE
@@ -2577,7 +2577,7 @@ meae.congressional.congress07.va.county,va.uscongress.12.1801,John Stratton,SJ14
 meae.congressional.congress07.va.county,va.uscongress.12.1801,John Page,PJ0728,12,Democratic-Republican,NA,0,NA,FALSE,FALSE
 meae.congressional.congress07.va.county,va.uscongress.13.1801,John Clopton,CJ1097,13,Democratic-Republican,NA,0,NA,TRUE,FALSE
 meae.congressional.congress07.va.county,va.uscongress.13.1801,Samuel Tyler,TS0114,13,Democratic-Republican,NA,0,NA,FALSE,FALSE
-meae.congressional.congress07.va.county,va.uscongress.14.1801,Samuel J. Cabell,CS0229,14,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.14.1801,Samuel J. Cabell,CS0229,14,Democratic-Republican,NA,0,NA,TRUE,TRUE
 meae.congressional.congress07.va.county,va.uscongress.15.1801,John Dawson,DJ0582,15,Democratic-Republican,NA,0,NA,TRUE,FALSE
 meae.congressional.congress07.va.county,va.uscongress.15.1801,John Mercer,MJ0201,15,Democratic-Republican,NA,0,NA,FALSE,FALSE
 meae.congressional.congress07.va.county,va.uscongress.16.1801,Anthony New,NA0009,16,Democratic-Republican,NA,0,NA,TRUE,FALSE
@@ -2601,11 +2601,11 @@ meae.congressional.congress07.va.county,va.uscongress.3.1801,George Jackson,JG00
 meae.congressional.congress07.va.county,va.uscongress.3.1801,Jonathan J. Jacobs,JJ0284,3,Federalist,NA,0,NA,FALSE,FALSE
 meae.congressional.congress07.va.county,va.uscongress.3.1801,Skidmore,NA,3,Federalist,NA,0,NA,FALSE,FALSE
 meae.congressional.congress07.va.county,va.uscongress.4.1801,Abraham Trigg,TA0080,4,Democratic-Republican,NA,0,NA,TRUE,TRUE
-meae.congressional.congress07.va.county,va.uscongress.5.1801,John Trigg,TJ0571,5,Democratic-Republican,NA,0,NA,TRUE,FALSE
-meae.congressional.congress07.va.county,va.uscongress.6.1801,Matthew Clay,CM0108,6,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.5.1801,John Trigg,TJ0571,5,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress07.va.county,va.uscongress.6.1801,Matthew Clay,CM0108,6,Democratic-Republican,NA,0,NA,TRUE,TRUE
 meae.congressional.congress07.va.county,va.uscongress.7.1801,John Randolph,RJ0610,7,Democratic-Republican,NA,0,NA,TRUE,FALSE
 meae.congressional.congress07.va.county,va.uscongress.7.1801,Abraham Venable,VA0029,7,NA,NA,0,NA,FALSE,FALSE
-meae.congressional.congress07.va.county,va.uscongress.8.1801,Thomas Claiborne,CT0181,8,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.8.1801,Thomas Claiborne,CT0181,8,Democratic-Republican,NA,0,NA,TRUE,TRUE
 meae.congressional.congress07.va.county,va.uscongress.9.1801,William B. Giles,GW0186,9,Democratic-Republican,NA,0,NA,TRUE,TRUE
 meae.congressional.congress07.vt.county,vt.uscongress.eastern.2.1800,Lewis R. Morris,ML0045,2,Federalist,NA,0,NA,TRUE,FALSE
 meae.congressional.congress07.vt.county,vt.uscongress.eastern.2.1800,Nathaniel Niles,NN0014,2,Democratic-Republican,NA,0,NA,FALSE,FALSE
@@ -3097,7 +3097,7 @@ meae.congressional.congress08.pa.county,pa.uscongress1.1802,George Latimer,LG003
 meae.congressional.congress08.pa.county,pa.uscongress1.1802,Peter Brown,BP0075,1,Federalist,3082,24770,0.124,FALSE,FALSE
 meae.congressional.congress08.pa.county,pa.uscongress1.1802,Jonas Preston,PJ0428,1,Federalist,3061,24770,0.124,FALSE,FALSE
 meae.congressional.congress08.pa.county,pa.uscongress1.1802,Elisha Gordon,GE0078,1,Democratic-Republican,364,24770,0.015,FALSE,FALSE
-meae.congressional.congress08.pa.county,pa.uscongress10.1802,William Hoge,HW0316,10,Democratic-Republican,2300,2300,1,TRUE,FALSE
+meae.congressional.congress08.pa.county,pa.uscongress10.1802,William Hoge,HW0316,10,Democratic-Republican,2300,2300,1,TRUE,TRUE
 meae.congressional.congress08.pa.county,pa.uscongress11.1802,John B.C. Lucas,LJ0337,11,Democratic-Republican,2169,4433,0.489,TRUE,FALSE
 meae.congressional.congress08.pa.county,pa.uscongress11.1802,"John Wilkins, Jr.",WJ0616,11,Federalist,1625,4433,0.367,FALSE,FALSE
 meae.congressional.congress08.pa.county,pa.uscongress11.1802,Alexander W. Foster,FA0053,11,Federalist,639,4433,0.144,FALSE,FALSE
@@ -3782,8 +3782,8 @@ meae.congressional.congress09.ma.county,ma.uscongress.york.1804,Ichabod Fairfiel
 meae.congressional.congress09.ma.county,ma.uscongress.york.1804,Isaac Lane,LI0031,14,NA,1,2822,0,FALSE,FALSE
 meae.congressional.congress09.nc.county,nc.uscongress1.1804,Thomas Wynns,WT0142,1,Democratic-Republican,NA,NA,NA,TRUE,FALSE
 meae.congressional.congress09.nc.county,nc.uscongress1.1804,Thomas Harvey,HT0023,1,NA,NA,NA,NA,FALSE,FALSE
-meae.congressional.congress09.nc.county,nc.uscongress10.1804,Nathaniel Alexander,AN0006,10,Democratic-Republican,NA,NA,NA,TRUE,FALSE
-meae.congressional.congress09.nc.county,nc.uscongress11.1804,James Holland,HJ0602,11,Democratic-Republican,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress09.nc.county,nc.uscongress10.1804,Nathaniel Alexander,AN0006,10,Democratic-Republican,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress09.nc.county,nc.uscongress11.1804,James Holland,HJ0602,11,Democratic-Republican,NA,NA,NA,TRUE,TRUE
 meae.congressional.congress09.nc.county,nc.uscongress12.1804,Joseph Winston,WJ0494,12,Democratic-Republican,2681,4700,0.57,TRUE,FALSE
 meae.congressional.congress09.nc.county,nc.uscongress12.1804,Meshack Franklin,FM0021,12,Democratic-Republican,2019,4700,0.43,FALSE,FALSE
 meae.congressional.congress09.nc.county,nc.uscongress2.1804,Willis Alston,AW0047,2,Democratic-Republican,1869,2808,0.666,TRUE,FALSE
@@ -4378,10 +4378,10 @@ meae.congressional.congress10.nc.county,nc.uscongress11.1806,William Erwin,EW004
 meae.congressional.congress10.nc.county,nc.uscongress12.1806,Meshack Franklin,FM0021,12,Democratic-Republican,3155,4999,0.631,TRUE,FALSE
 meae.congressional.congress10.nc.county,nc.uscongress12.1806,William Lenoir,LW0115,12,Democratic-Republican,1625,4999,0.325,FALSE,FALSE
 meae.congressional.congress10.nc.county,nc.uscongress12.1806,Peter Eaton,EP0019,12,Democratic-Republican,219,4999,0.044,FALSE,FALSE
-meae.congressional.congress10.nc.county,nc.uscongress2.1806,Willis Alston,AW0047,2,Democratic-Republican,1442,1442,1,TRUE,FALSE
+meae.congressional.congress10.nc.county,nc.uscongress2.1806,Willis Alston,AW0047,2,Democratic-Republican,1442,1442,1,TRUE,TRUE
 meae.congressional.congress10.nc.county,nc.uscongress3.1806,Thomas Blount,BT0194,3,Democratic-Republican,2056,4106,0.501,TRUE,FALSE
 meae.congressional.congress10.nc.county,nc.uscongress3.1806,William Kennedy,KW0059,3,Democratic-Republican,2050,4106,0.499,FALSE,FALSE
-meae.congressional.congress10.nc.county,nc.uscongress4.1806,William Blackledge,BW0216,4,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress10.nc.county,nc.uscongress4.1806,William Blackledge,BW0216,4,Democratic-Republican,NA,NA,NA,TRUE,TRUE
 meae.congressional.congress10.nc.county,nc.uscongress5.1806,Thomas Kenan,KT0049,5,Democratic-Republican,NA,NA,NA,TRUE,FALSE
 meae.congressional.congress10.nc.county,nc.uscongress5.1806,Benjamin Smith,SB0058,5,Democratic-Republican,NA,NA,NA,FALSE,FALSE
 meae.congressional.congress10.nc.county,nc.uscongress5.1806,Samuel Jacelyn,JS0002,5,NA,NA,NA,NA,FALSE,FALSE

@@ -1321,6 +1321,8 @@ meae.congressional.congress05.sc.county,scs_abbeville,45001,5,391,0.867,NA,NA,60
 meae.congressional.congress05.sc.county,scs_edgefield,45037,5,352,0.527,NA,NA,316,0.473,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress05.sc.county,scs_laurens,45059,5,355,0.542,NA,NA,300,0.458,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress05.sc.county,scs_newberry,45071,5,520,0.841,NA,NA,98,0.159,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress05.sc.county,scs_pinckney,NA,6,NA,0.351,NA,NA,NA,0.649,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress05.sc.county,scs_washington,NA,6,NA,0.351,NA,NA,NA,0.649,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress05.tn.county,tns_greene,47059,At-large,NA,NA,NA,NA,106,0.313,NA,NA,NA,NA,NA,NA,233,0.687,county
 meae.congressional.congress05.tn.county,tns_hawkins,47073,At-large,NA,NA,NA,NA,98,0.797,NA,NA,NA,NA,NA,NA,23,0.203,county
 meae.congressional.congress05.tn.county,tns_sullivan,47163,At-large,NA,NA,NA,NA,51,0.329,NA,NA,NA,NA,NA,NA,104,0.671,county
@@ -1440,6 +1442,7 @@ meae.congressional.congress06.ga.county,gas_oglethorpe,13221,At-Large,369,0.638,
 meae.congressional.congress06.ga.county,gas_richmond,13245,At-Large,385,0.616,NA,NA,240,0.384,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.ga.county,gas_screven,13251,At-Large,197,0.534,NA,NA,172,0.466,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.ga.county,gas_warren,13301,At-Large,546,0.837,NA,NA,106,0.163,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress06.ga.county,gas_washington,13303,At-Large,NA,0.707,NA,NA,NA,0.291,NA,NA,NA,NA,NA,NA,NA,0.002,district
 meae.congressional.congress06.ga.county,gas_wilkes,13317,At-Large,979,0.73,NA,NA,363,0.27,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.ky.county,kys_barren,21009,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress06.ky.county,kys_bullitt,21029,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,district
@@ -1467,6 +1470,18 @@ meae.congressional.congress06.ky.county,kys_scott,21209,2,NA,NA,NA,NA,261,0.368,
 meae.congressional.congress06.ky.county,kys_shelby,21211,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress06.ky.county,kys_warren,21227,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress06.ky.county,kys_washington,21229,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress06.ky.county,kys_boone,21015,2,NA,NA,NA,NA,NA,0.745,NA,NA,NA,NA,NA,NA,NA,0.255,district
+meae.congressional.congress06.ky.county,kys_bourbon,21017,2,NA,NA,NA,NA,NA,0.745,NA,NA,NA,NA,NA,NA,NA,0.255,district
+meae.congressional.congress06.ky.county,kys_bracken,21023,2,NA,NA,NA,NA,NA,0.745,NA,NA,NA,NA,NA,NA,NA,0.255,district
+meae.congressional.congress06.ky.county,kys_campbell,21037,2,NA,NA,NA,NA,NA,0.745,NA,NA,NA,NA,NA,NA,NA,0.255,district
+meae.congressional.congress06.ky.county,kys_clark,21049,2,NA,NA,NA,NA,NA,0.745,NA,NA,NA,NA,NA,NA,NA,0.255,district
+meae.congressional.congress06.ky.county,kys_fleming,21069,2,NA,NA,NA,NA,NA,0.745,NA,NA,NA,NA,NA,NA,NA,0.255,district
+meae.congressional.congress06.ky.county,kys_gallatin,21077,2,NA,NA,NA,NA,NA,0.745,NA,NA,NA,NA,NA,NA,NA,0.255,district
+meae.congressional.congress06.ky.county,kys_harrison,21097,2,NA,NA,NA,NA,NA,0.745,NA,NA,NA,NA,NA,NA,NA,0.255,district
+meae.congressional.congress06.ky.county,kys_jessamine,21113,2,NA,NA,NA,NA,NA,0.745,NA,NA,NA,NA,NA,NA,NA,0.255,district
+meae.congressional.congress06.ky.county,kys_montgomery,21173,2,NA,NA,NA,NA,NA,0.745,NA,NA,NA,NA,NA,NA,NA,0.255,district
+meae.congressional.congress06.ky.county,kys_pendelton,21191,2,NA,NA,NA,NA,NA,0.745,NA,NA,NA,NA,NA,NA,NA,0.255,district
+meae.congressional.congress06.ky.county,kys_woodford,21239,2,NA,NA,NA,NA,NA,0.745,NA,NA,NA,NA,NA,NA,NA,0.255,district
 meae.congressional.congress06.ma.county,mas_barnstable,25001,5,221,0.757,NA,NA,66,0.226,NA,NA,NA,NA,NA,NA,5,0.017,county
 meae.congressional.congress06.ma.county,mas_berkshire,25003,1,1996,0.942,NA,NA,88,0.042,NA,NA,NA,NA,NA,NA,34,0.016,county
 meae.congressional.congress06.ma.county,mas_bristol,25005,"5, 7",1316,0.509,NA,NA,1270,0.491,NA,NA,NA,NA,NA,NA,1,0,county
@@ -1548,6 +1563,13 @@ meae.congressional.congress06.nc.county,ncs_surry,37171,3,308,0.398,NA,NA,465,0.
 meae.congressional.congress06.nc.county,ncs_wake,37183,5,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress06.nc.county,ncs_warren,37185,5,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress06.nc.county,ncs_wilkes,37193,1,310,0.431,NA,NA,409,0.569,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress06.nc.county,ncs_camden,37029,8,NA,0.709,NA,NA,NA,0.291,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress06.nc.county,ncs_currituck,37053,8,NA,0.709,NA,NA,NA,0.291,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress06.nc.county,ncs_gates,37073,8,NA,0.709,NA,NA,NA,0.291,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress06.nc.county,ncs_hertford,37091,8,NA,0.709,NA,NA,NA,0.291,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress06.nc.county,ncs_pasquotank,37139,8,NA,0.709,NA,NA,NA,0.291,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress06.nc.county,ncs_perquimans,37143,8,NA,0.709,NA,NA,NA,0.291,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress06.nc.county,ncs_tyrrell,37177,8,NA,0.709,NA,NA,NA,0.291,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress06.nh.county,nhs_cheshire,33005,NA,4119,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.nh.county,nhs_grafton,33009,NA,2730,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.nh.county,nhs_hillsborough,33011,NA,4098,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
@@ -1555,7 +1577,7 @@ meae.congressional.congress06.nh.county,nhs_rockingham,33015,NA,5878,1,NA,NA,NA,
 meae.congressional.congress06.nh.county,nhs_strafford,33017,NA,3739,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.nj.county,njs_bergen,34003,1,926,0.619,NA,NA,569,0.381,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.nj.county,njs_burlington,34005,4,1397,0.834,NA,NA,279,0.166,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress06.nj.county,njs_capemay,34009,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress06.nj.county,njs_capemay,34009,5,NA,0.565,NA,NA,NA,0.435,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress06.nj.county,njs_cumberland,34011,5,189,0.319,NA,NA,404,0.681,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.nj.county,njs_essex,34013,1,907,0.277,NA,NA,2372,0.723,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.nj.county,njs_gloucester,34015,5,665,0.668,NA,NA,330,0.332,NA,NA,NA,NA,NA,NA,NA,NA,county
@@ -1653,9 +1675,9 @@ meae.congressional.congress06.sc.county,scs_richland,45079,4,26,0.099,NA,NA,237,
 meae.congressional.congress06.sc.county,scs_williamsburg,45089,3,190,0.95,NA,NA,10,0.05,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.sc.county,scs_winton,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.sc.county,scs_winyaw,NA,3,135,0.804,NA,NA,33,0.196,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress06.tn.county,tns_blount,47009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress06.tn.county,tns_blount,47009,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress06.tn.county,tns_carter,47019,NA,NA,NA,NA,NA,196,1,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress06.tn.county,tns_cocke,47029,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress06.tn.county,tns_cocke,47029,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress06.tn.county,tns_davidson,47037,NA,NA,NA,NA,NA,611,1,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.tn.county,tns_grainger,47057,NA,NA,NA,NA,NA,710,1,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.tn.county,tns_greene,47059,NA,NA,NA,NA,NA,731,1,NA,NA,NA,NA,NA,NA,NA,NA,county
@@ -1665,7 +1687,7 @@ meae.congressional.congress06.tn.county,tns_knox,47093,NA,NA,NA,NA,NA,920,1,NA,N
 meae.congressional.congress06.tn.county,tns_montgomery,47125,NA,NA,NA,NA,NA,243,1,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.tn.county,tns_robertson,47147,NA,NA,NA,NA,NA,316,1,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.tn.county,tns_sevier,47155,NA,NA,NA,NA,NA,328,1,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress06.tn.county,tns_sullivan,47163,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress06.tn.county,tns_sullivan,47163,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress06.tn.county,tns_sumner,47165,NA,NA,NA,NA,NA,657,1,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.tn.county,tns_washington,47179,NA,NA,NA,NA,NA,930,1,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.va.county,vas_accomack,51001,12,703,0.994,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.006,county
@@ -1678,7 +1700,7 @@ meae.congressional.congress06.va.county,vas_bedford,51019,5,NA,NA,NA,NA,NA,NA,NA
 meae.congressional.congress06.va.county,vas_botetourt,51023,5,700,0.983,NA,NA,12,0.017,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.va.county,vas_brunswick,51025,8,278,0.327,NA,NA,571,0.673,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.va.county,vas_buckingham,51029,7,492,0.888,NA,NA,62,0.112,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress06.va.county,vas_campbell,51031,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress06.va.county,vas_campbell,51031,6,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress06.va.county,vas_caroline,51033,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.va.county,vas_charlescity,51036,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.va.county,vas_charlotte,51037,7,277,0.682,NA,NA,129,0.318,NA,NA,NA,NA,NA,NA,NA,NA,county
@@ -1697,7 +1719,7 @@ meae.congressional.congress06.va.county,vas_gloucester,51073,12,70,0.239,NA,NA,2
 meae.congressional.congress06.va.county,vas_goochland,51075,14,15,0.057,NA,NA,247,0.943,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.va.county,vas_grayson,51077,4,7,0.016,NA,NA,434,0.984,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.va.county,vas_greensville,51081,8,138,0.469,NA,NA,156,0.531,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress06.va.county,vas_halifax,51083,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress06.va.county,vas_halifax,51083,6,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress06.va.county,vas_hanover,51085,13,310,0.494,NA,NA,317,0.506,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.va.county,vas_henrico,51087,13,299,0.544,NA,NA,251,0.456,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.va.county,vas_henry,51089,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
@@ -1724,7 +1746,7 @@ meae.congressional.congress06.va.county,vas_northumberland,51133,19,106,0.327,NA
 meae.congressional.congress06.va.county,vas_nottoway,51135,9,29,0.112,NA,NA,230,0.888,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.va.county,vas_orange,51137,15,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress06.va.county,vas_patrick,51141,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress06.va.county,vas_pittsylvania,51143,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress06.va.county,vas_pittsylvania,51143,6,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress06.va.county,vas_powhatan,51145,7,49,0.233,NA,NA,161,0.767,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.va.county,vas_princeedward,51147,7,178,0.427,NA,NA,239,0.573,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.va.county,vas_princegeorge,51149,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
