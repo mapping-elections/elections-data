@@ -1538,7 +1538,14 @@ meae.congressional.congress06.nc.county,ncs_granville,37077,5,NA,NA,NA,NA,NA,1,N
 meae.congressional.congress06.nc.county,ncs_guilford,37081,3,76,0.137,NA,NA,479,0.863,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.nc.county,ncs_halifax,37083,9,1012,0.966,NA,NA,36,0.034,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.nc.county,ncs_iredell,37097,2,557,0.919,NA,NA,49,0.081,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress06.nc.county,ncs_jones,37103,10,347,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress06.nc.county,ncs_jones,37103,10,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress06.nc.county,ncs_carteret,37031,10,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress06.nc.county,ncs_craven,37049,10,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress06.nc.county,ncs_greene,37079,10,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress06.nc.county,ncs_hyde,37095,10,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress06.nc.county,ncs_johnston,37101,10,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress06.nc.county,ncs_lenoir,37107,10,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress06.nc.county,ncs_wayne,37191,10,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress06.nc.county,ncs_lincoln,37109,1,1010,0.952,NA,NA,48,0.045,NA,NA,NA,NA,NA,NA,3,0.003,county
 meae.congressional.congress06.nc.county,ncs_martin,37117,9,481,0.938,NA,NA,32,0.062,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress06.nc.county,ncs_mecklenburg,37119,2,695,0.947,NA,NA,39,0.053,NA,NA,NA,NA,NA,NA,NA,NA,county
