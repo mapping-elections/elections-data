@@ -3681,11 +3681,11 @@ meae.congressional.congress11.ky.county,kys_fayette,21067,5,NA,NA,NA,NA,1389,1,N
 meae.congressional.congress11.ky.county,kys_jessamine,21113,5,NA,NA,NA,NA,477,1,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress11.ky.county,kys_montgomery,21173,5,NA,NA,NA,NA,1255,1,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress11.ky.county,kys_woodford,21239,5,NA,NA,NA,NA,682,1,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress11.ky.county,kys_bourbon,21017,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress11.ky.county,kys_fleming,21069,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress11.ky.county,kys_floyd,21071,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress11.ky.county,kys_mason,21161,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress11.ky.county,kys_nicholas,21181,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress11.ky.county,kys_bourbon,21017,6,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress11.ky.county,kys_fleming,21069,6,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress11.ky.county,kys_floyd,21071,6,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress11.ky.county,kys_mason,21161,6,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress11.ky.county,kys_nicholas,21181,6,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress11.ma.county,mas_barnstable,25001,8,645,0.431,NA,NA,853,0.569,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress11.ma.county,mas_berkshire,25003,12,2133,0.458,NA,NA,2525,0.542,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress11.ma.county,mas_bristol,25005,"8, 9",2386,0.577,NA,NA,1742,0.422,NA,NA,NA,NA,NA,NA,4,0.001,county
