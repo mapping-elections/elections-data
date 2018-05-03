@@ -1,6 +1,6 @@
 election_id,candidate_id,candidate_name,affiliation_id,affiliation_party,overview
 al.congress.1819,CJ0004,John Crowell,A03,Democratic-Republican,8181
-al.congress.1819,CH0000,Henry Chambers,NA,NA,7203
+al.congress.1819,CH0000,Henry Chambers,A03,Democratic-Republican,7203
 al.congress.1819,NA,Ringold,NA,NA,NA
 al.congress.1821,MG0000,Gabriel Moore,NA,NA,10996
 al.congress.1821,OG0000,George W. Owen,NA,NA,5548
@@ -884,10 +884,10 @@ ga.uscongress.1824,MC0010,Charles J. MacDonald,A03,Jackson,NA
 ga.uscongress.1824,NA,Longstreet,NA,NA,NA
 ga.uscongress.1824,CT0041,Thomas Cobb,NA,NA,NA
 ga.uscongress.1824,AJ0029,Joel Abbott,NA,NA,NA
-il.uscongress.1818,MJ0101,John MacLean,A04,Dissenting Republican,1996
-il.uscongress.1818,CD0015,Daniel P. Cook,NA,NA,1982
-il.uscongress.1819,CD0015,Daniel P. Cook,NA,NA,2339
-il.uscongress.1819,MJ0101,John MacLean,NA,NA,1599
+il.uscongress.1818,MJ0101,John MacLean,A03,Democratic-Republican,1996
+il.uscongress.1818,CD0015,Daniel P. Cook,A03,Democratic-Republican,1982
+il.uscongress.1819,CD0015,Daniel P. Cook,A03,Democratic-Republican,2339
+il.uscongress.1819,MJ0101,John MacLean,A03,Democratic-Republican,1599
 il.uscongress.1819,MJ0103,Jonathan Mayo,NA,NA,1
 il.uscongress.1819,MH0027,Hugh H. Maxwell,NA,NA,1
 il.uscongress.1820,CD0015,Daniel P. Cook,A09,Restrictionist,5322
@@ -902,16 +902,16 @@ il.uscongress.1822,KE0009,Elias K. Kane,NA,NA,3
 il.uscongress.1824,CD0015,Daniel P. Cook,A09,Anti-Slavery,7619
 il.uscongress.1824,BS0053,Shadrach Bond,A09,Pro-Slavery,4402
 il.uscongress.1824,PJ0054,James Underwood Peacock,NA,NA,1
-in.uscongress.1816,HW0072,William Hendricks,A04,Dissenting Republican,5160
+in.uscongress.1816,HW0072,William Hendricks,A03,Democratic-Republican,5160
 in.uscongress.1816,TA0002,Allen D. Thom,NA,NA,1269
 in.uscongress.1816,SG0008,George R.C. Sullivan,NA,NA,1
-in.uscongress.1817,HW0072,William Hendricks,A04,Dissenting Republican,5743
+in.uscongress.1817,HW0072,William Hendricks,A03,Democratic-Republican,5743
 in.uscongress.1817,PT0039,Thomas Posey,NA,NA,3813
-in.uscongress.1818,HW0072,William Hendricks,NA,NA,10646
+in.uscongress.1818,HW0072,William Hendricks,A03,Democratic-Republican,10646
 in.uscongress.1818,NR0022,Reuben W. Nelson,NA,NA,1122
-in.uscongress.1818,TW0011,Waller Taylor,NA,NA,1
+in.uscongress.1818,TW0011,Waller Taylor,A03,Democratic-Republican,1
 in.uscongress.1818,NR0021,R. W. Noble,NA,NA,1
-in.uscongress.1820,HW0072,William Hendricks,NA,NA,16331
+in.uscongress.1820,HW0072,William Hendricks,A03,Democratic-Republican,16331
 in.uscongress.1820,NR0022,Reuben W. Nelson,NA,NA,1623
 in.usrepresentative.1st.1822,PW0025,William Prince,NA,NA,4156
 in.usrepresentative.1st.1822,DC0012,Charles Dewey,NA,NA,3072
@@ -4049,8 +4049,8 @@ mo.uscongress.1822,SA0074,Alexander Stuart,NA,NA,1465
 mo.uscongress.1824,SJ0448,John Scott,NA,NA,5031
 mo.uscongress.1824,SG0055,George F. Strother,NA,NA,4528
 mo.uscongress.1824,WR0078,Robert Wash,NA,NA,1125
-ms.congress.1817,PG0042,George Poindexter,NA,NA,3142
-ms.congress.1817,RC0047,Christopher Rankin,NA,NA,6
+ms.congress.1817,PG0042,George Poindexter,A03,Democratic-Republican,3142
+ms.congress.1817,RC0047,Christopher Rankin,A03,Democratic-Republican,6
 ms.congress.1819,RC0047,Christopher Rankin,NA,NA,2769
 ms.congress.1819,MC0004,Cowles Mead,NA,NA,1250
 ms.congress.1819,PG0042,George Poindexter,NA,NA,1
@@ -5298,15 +5298,15 @@ nh.uscongress.1819,MS0196,Stephen Moody,A01,Federalist,7242
 nh.uscongress.1819,OM0011,Mills Olcott,A01,Federalist,7158
 nh.uscongress.1819,HJ1102,John Havin,A01,Federalist,6627
 nh.uscongress.1819,LG0072,George Long,A03,Democratic-Republican,3014
-nh.uscongress.1819,HN0031,Nathaniel A. Havin,NA,NA,702
+nh.uscongress.1819,HN0031,Nathaniel A. Havin,A01,Federalist,702
 nh.uscongress.1819,HJ0381,John Harris,NA,NA,133
-nh.uscongress.1819,PM0041,Moses P. Payson,NA,NA,129
-nh.uscongress.1819,HW0187,William Hale,NA,NA,96
-nh.uscongress.1819,HJ0382,Jonathan Harvey,NA,NA,81
-nh.uscongress.1819,WJ0330,Jeduthun Wilcox,NA,NA,78
-nh.uscongress.1819,UG0000,George B. Upham,NA,NA,65
-nh.uscongress.1819,LJ0127,"John Langdon, Jr.",NA,NA,63
-nh.uscongress.1819,TJ0457,John Tappan,NA,NA,52
+nh.uscongress.1819,PM0041,Moses P. Payson,A01,Federalist,129
+nh.uscongress.1819,HW0187,William Hale,A01,Federalist,96
+nh.uscongress.1819,HJ0382,Jonathan Harvey,A03,Democratic-Republican,81
+nh.uscongress.1819,WJ0330,Jeduthun Wilcox,A01,Federalist,78
+nh.uscongress.1819,UG0000,George B. Upham,A01,Federalist,65
+nh.uscongress.1819,LJ0127,"John Langdon, Jr.",A03,Democratic-Republican,63
+nh.uscongress.1819,TJ0457,John Tappan,A03,Democratic-Republican,52
 nh.uscongress.1819,AC0017,Charles H. Atherton,A01,Federalist,38
 nh.uscongress.1819,MJ0387,Jeremiah Mason,A01,Federalist,30
 nh.uscongress.1819,BD0070,Daniel Blasdell,A01,Federalist,27
@@ -5391,31 +5391,31 @@ nh.uscongress.1819,VJ0167,John Vose,NA,NA,1
 nh.uscongress.1819,WR0136,Rueben Whittier,NA,NA,1
 nh.uscongress.1819,WJ0894,Jeremiah Wilson,NA,NA,1
 nh.uscongress.1819,WJ0994,John Wood,NA,NA,1
-nh.uscongress.1820,PW0147,"William Plummer, Jr.",NA,NA,10692
-nh.uscongress.1820,UN0000,Nathaniel Upham,NA,NA,10455
-nh.uscongress.1820,BJ0582,Josiah Butler,NA,NA,10236
-nh.uscongress.1820,HM0125,Matthew Harvey,NA,NA,9228
-nh.uscongress.1820,MA0095,Aaron Matson,NA,NA,9071
-nh.uscongress.1820,WT0107,"Thomas Whipple, Jr.",NA,NA,7102
-nh.uscongress.1820,LA0074,Arthur Livermore,NA,NA,4053
-nh.uscongress.1820,JL0008,Levi Jackson,NA,NA,1769
-nh.uscongress.1820,CC0033,Clifton Clagett,NA,NA,1475
-nh.uscongress.1820,HW0187,William Hale,NA,NA,145
+nh.uscongress.1820,PW0147,"William Plummer, Jr.",A03,Democratic-Republican,10692
+nh.uscongress.1820,UN0000,Nathaniel Upham,A03,Democratic-Republican,10455
+nh.uscongress.1820,BJ0582,Josiah Butler,A03,Democratic-Republican,10236
+nh.uscongress.1820,HM0125,Matthew Harvey,A03,Democratic-Republican,9228
+nh.uscongress.1820,MA0095,Aaron Matson,A03,Democratic-Republican,9071
+nh.uscongress.1820,WT0107,"Thomas Whipple, Jr.",A03,Democratic-Republican,7102
+nh.uscongress.1820,LA0074,Arthur Livermore,A03,Democratic-Republican,4053
+nh.uscongress.1820,JL0008,Levi Jackson,A01,Federalist,1769
+nh.uscongress.1820,CC0033,Clifton Clagett,A03,Democratic-Republican,1475
+nh.uscongress.1820,HW0187,William Hale,A01,Federalist,145
 nh.uscongress.1820,SJ0471,Jeremiah Smith,A01,Federalist,93
-nh.uscongress.1820,PM0041,Moses P. Payson,NA,NA,82
-nh.uscongress.1820,MS0196,Stephen Moody,NA,NA,68
-nh.uscongress.1820,PE0135,Edmund Parker,NA,NA,68
+nh.uscongress.1820,PM0041,Moses P. Payson,A01,Federalist,82
+nh.uscongress.1820,MS0196,Stephen Moody,A01,Federalist,68
+nh.uscongress.1820,PE0135,Edmund Parker,A03,Democratic-Republican,68
 nh.uscongress.1820,NP0004,Parker Noyes,NA,NA,51
-nh.uscongress.1820,HJ1102,John Haven,NA,NA,43
-nh.uscongress.1820,UG0000,George B. Upham,NA,NA,34
+nh.uscongress.1820,HJ1102,John Haven,A01,Federalist,43
+nh.uscongress.1820,UG0000,George B. Upham,A01,Federalist,34
 nh.uscongress.1820,KA0060,Amos Kent,NA,NA,31
-nh.uscongress.1820,RJ0547,John Rogers,NA,NA,26
-nh.uscongress.1820,PW0131,William Pickering,NA,NA,24
-nh.uscongress.1820,HN0031,Nathaniel A. Havin,NA,NA,23
-nh.uscongress.1820,BI0021,Ichabod Bartlett,NA,NA,21
-nh.uscongress.1820,TJ0464,"Joseph Tilton, Jr.",NA,NA,21
+nh.uscongress.1820,RJ0547,John Rogers,A01,Federalist,26
+nh.uscongress.1820,PW0131,William Pickering,A03,Democratic-Republican,24
+nh.uscongress.1820,HN0031,Nathaniel A. Havin,A01,Federalist,23
+nh.uscongress.1820,BI0021,Ichabod Bartlett,A03,Democratic-Republican,21
+nh.uscongress.1820,TJ0464,"Joseph Tilton, Jr.",A01,Federalist,21
 nh.uscongress.1820,AD0001,Daniel Abbot,NA,NA,20
-nh.uscongress.1820,OM0011,Mills Olcott,NA,NA,20
+nh.uscongress.1820,OM0011,Mills Olcott,A01,Federalist,20
 nh.uscongress.1820,CB0048,Bradbury Cilley,A01,Federalist,18
 nh.uscongress.1820,CE0090,"Edward Cutts, Jr.",NA,NA,17
 nh.uscongress.1820,PO0014,Oliver Peabody,A01,Federalist,14
@@ -12667,25 +12667,25 @@ vt.uscongress.1822,WP0105,Phineas White,A01,Federalist,2959
 vt.uscongress.1822,MO0010,Orsamus C. Merrill,A03,Democratic-Republican,1203
 vt.uscongress.1822,EH0029,Horace Everett,A01,Federalist,1065
 vt.uscongress.1822,AH0032,Herman Allen,A03,Democratic-Republican,810
-vt.uscongress.1822,CD0206,Dudley Chase,NA,NA,669
-vt.uscongress.1822,AA0065,Asa Aikens,NA,NA,653
-vt.uscongress.1822,ED0031,David Edmond,NA,NA,557
+vt.uscongress.1822,CD0206,Dudley Chase,A01,Federalist,669
+vt.uscongress.1822,AA0065,Asa Aikens,A03,Democratic-Republican,653
+vt.uscongress.1822,ED0031,David Edmond,A03,Democratic-Republican,557
 vt.uscongress.1822,OH0015,Henry Olin,A03,Democratic-Republican,191
-vt.uscongress.1822,WG0119,George E. Wales,NA,NA,97
-vt.uscongress.1822,ME0130,Ezra Meach,NA,NA,96
-vt.uscongress.1822,HU0004,Uriel G. Hatch,NA,NA,84
-vt.uscongress.1822,PS0139,Samuel Prentiss,NA,Federalist,84
+vt.uscongress.1822,WG0119,George E. Wales,A03,Democratic-Republican,97
+vt.uscongress.1822,ME0130,Ezra Meach,A03,Democratic-Republican,96
+vt.uscongress.1822,HU0004,Uriel G. Hatch,A03,Democratic-Republican,84
+vt.uscongress.1822,PS0139,Samuel Prentiss,A01,Federalist,84
 vt.uscongress.1822,LE0070,Elihu Luce,NA,NA,78
 vt.uscongress.1822,HJ1289,Jonathan H. Hubbard,NA,NA,66
 vt.uscongress.1822,LA0135,Aaron Leland,NA,NA,62
-vt.uscongress.1822,EJ0292,James Elliot,NA,Federalist,54
+vt.uscongress.1822,EJ0292,James Elliot,A01,Federalist,54
 vt.uscongress.1822,ES0058,Samuel Elliot,NA,NA,52
 vt.uscongress.1822,WC0090,Charles K. Williams,NA,NA,39
-vt.uscongress.1822,LC0074,Chauncey Langdon,NA,Federalist,30
+vt.uscongress.1822,LC0074,Chauncey Langdon,A01,Federalist,30
 vt.uscongress.1822,WA0203,Asa Wheelock,NA,NA,27
 vt.uscongress.1822,WP0062,Phineas Wheeler,NA,NA,24
 vt.uscongress.1822,RM0056,Mark Richards,NA,NA,19
-vt.uscongress.1822,LA0126,Asa Lyon,NA,Federalist,13
+vt.uscongress.1822,LA0126,Asa Lyon,A01,Federalist,13
 vt.uscongress.1822,CJ0757,J. Clark,NA,NA,10
 vt.uscongress.1822,SB0127,Benjamin Swift,NA,NA,8
 vt.uscongress.1822,BE0213,Ezra Butler,NA,NA,5
@@ -12694,7 +12694,7 @@ vt.uscongress.1822,SE0181,Edward Sutton,NA,NA,5
 vt.uscongress.1822,CW0099,William C. Crafts,NA,NA,4
 vt.uscongress.1822,ST0009,Timothy Stanley,NA,NA,4
 vt.uscongress.1822,AA0064,Asa Aldis,NA,NA,3
-vt.uscongress.1822,CD0204,Daniel Chipman,NA,Federalist,3
+vt.uscongress.1822,CD0204,Daniel Chipman,A01,Federalist,3
 vt.uscongress.1822,CT0025,Truman Chittenden,NA,NA,3
 vt.uscongress.1822,DJ0452,Josiah Dana,NA,NA,3
 vt.uscongress.1822,PC0072,Charles Phelps,NA,NA,3
