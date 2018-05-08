@@ -2,26 +2,26 @@ election_id,candidate_id,candidate_name,affiliation_id,affiliation_party,overvie
 al.congress.1819,CJ0004,John Crowell,A03,Democratic-Republican,8181
 al.congress.1819,CH0000,Henry Chambers,A03,Democratic-Republican,7203
 al.congress.1819,NA,Ringold,NA,NA,NA
-al.congress.1821,MG0000,Gabriel Moore,NA,NA,10996
-al.congress.1821,OG0000,George W. Owen,NA,NA,5548
+al.congress.1821,MG0000,Gabriel Moore,A03,Democratic-Republican,10996
+al.congress.1821,OG0000,George W. Owen,A03,Democratic-Republican,5548
 al.congress.1821,DS0001,Silas Dinsmoor,NA,NA,484
 al.congress.1821,ME0002,Elizah Montgomery,NA,NA,1
-al.uscongress.1.1823,MG0000,Gabriel Moore,NA,NA,NA
-al.uscongress.2.1823,MJ0013,John MacKee,NA,NA,2135
+al.uscongress.1.1823,MG0000,Gabriel Moore,NA,Jacksonian,NA
+al.uscongress.2.1823,MJ0013,John MacKee,NA,Jacksonian,2135
 al.uscongress.2.1823,FT0000,Thomas Farrar,NA,NA,1869
 al.uscongress.2.1823,GJ0004,Jesse W. Garth,NA,NA,1694
 al.uscongress.2.1823,WM0000,Marmaduke Williams,NA,NA,1646
 al.uscongress.2.1823,PS0000,Sion L. Perry,NA,NA,686
 al.uscongress.2.1823,FJ0001,John S. Fulton,NA,NA,603
-al.uscongress.3.1823,OG0000,George W. Owen,NA,NA,NA
-al.uscongress.3.1823,BA0000,Arthur P. Bagby,A07,Clay,NA
+al.uscongress.3.1823,OG0000,George W. Owen,NA,Jacksonian,NA
+al.uscongress.3.1823,BA0000,Arthur P. Bagby,A07,Adams/Clay,NA
 al.uscongress.3.1823,DS0001,Silas Dinsmoor,NA,NA,NA
-al.uscongress.1.1825,MG0000,Gabriel Moore,NA,NA,5098
+al.uscongress.1.1825,MG0000,Gabriel Moore,NA,Jacksonian,5098
 al.uscongress.1.1825,CC0000,Clement C. Clay,NA,NA,2070
-al.uscongress.2.1825,MJ0013,John MacKee,NA,NA,4284
+al.uscongress.2.1825,MJ0013,John MacKee,NA,Jacksonian,4284
 al.uscongress.2.1825,BR0001,Robert E. B. Baylor,NA,NA,4108
 al.uscongress.2.1825,TJ0003,John D. Terrill,NA,NA,2079
-al.uscongress.3.1825,OG0000,George W. Owen,NA,NA,NA
+al.uscongress.3.1825,OG0000,George W. Owen,NA,Jacksonian,NA
 ct.congress.1790,SR0003,Roger Sherman,NA,NA,2969
 ct.congress.1790,EP0001,Pierpont Edwards,NA,NA,2239
 ct.congress.1790,HJ0008,James Hillhouse,A01,Federalist,2035
