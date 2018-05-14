@@ -856,9 +856,9 @@ ga.uscongress.1820,AJ0029,Joel Abbot,A03,Democratic-Republican,8750
 ga.uscongress.1820,GG0006,George R. Gilmer,A03,Democratic-Republican,7893
 ga.uscongress.1820,TE0021,Edward F. Tatnall,A03,Democratic-Republican,7889
 ga.uscongress.1820,TW0008,Wiley Thompson,A03,Democratic-Republican,7560
-ga.uscongress.1820,CT0041,Thomas W. Cobb,NA,NA,7533
+ga.uscongress.1820,CT0041,Thomas W. Cobb,A06,Crawford,7533
 ga.uscongress.1820,WG0006,George Walton,NA,NA,5088
-ga.uscongress.1820,CZ0000,Zadock Cook,NA,NA,2997
+ga.uscongress.1820,CZ0000,Zadock Cook,A03,Democratic-Republican,2997
 ga.uscongress.1820,CG0023,Gibson Clark,NA,NA,2061
 ga.uscongress.1820,BJ0133,James Blair,NA,NA,1886
 ga.uscongress.1822,FJ0021,John Forsyth,NA,NA,18350
@@ -871,13 +871,13 @@ ga.uscongress.1822,CA0020,Alfred Cuthbert,NA,NA,13198
 ga.uscongress.1822,GT0014,Thomas Glascock,NA,NA,12959
 ga.uscongress.1822,HC0011,Charles E. Haynes,NA,NA,7987
 ga.uscongress.1822,GJ0041,John R. Golding,NA,NA,6242
-ga.uscongress.1824,TW0008,Wiley Thompson,A07,Crawford,11543
-ga.uscongress.1824,FJ0021,John Forsyth,A07,Crawford,10219
-ga.uscongress.1824,TE0021,E. F. Tattnall,A07,Crawford,10049
-ga.uscongress.1824,CA0020,Alfred Cuthbert,A07,Crawford,9950
-ga.uscongress.1824,CG0025,George Cary,A07,Crawford,9672
-ga.uscongress.1824,MJ0094,James Meriwether,A07,Crawford,9371
-ga.uscongress.1824,HC0011,Charles Haynes,A07,Crawford,8882
+ga.uscongress.1824,TW0008,Wiley Thompson,A06,Crawford,11543
+ga.uscongress.1824,FJ0021,John Forsyth,A06,Crawford,10219
+ga.uscongress.1824,TE0021,E. F. Tattnall,A06,Crawford,10049
+ga.uscongress.1824,CA0020,Alfred Cuthbert,A06,Crawford,9950
+ga.uscongress.1824,CG0025,George Cary,A06,Crawford,9672
+ga.uscongress.1824,MJ0094,James Meriwether,A06,Crawford,9371
+ga.uscongress.1824,HC0011,Charles Haynes,A06,Crawford,8882
 ga.uscongress.1824,CD0013,Duncan G. Campbell,A03,Jackson,NA
 ga.uscongress.1824,RS0004,Samuel Rockwell,A03,Jackson,NA
 ga.uscongress.1824,MC0010,Charles J. MacDonald,A03,Jackson,NA
@@ -3771,7 +3771,7 @@ me.uscongress7.1820,ES0008,Stephen Emory,NA,NA,1
 me.uscongress7.1820,NA,scattering,NA,NA,12
 me.uscongress1.fourth.1823,BW0280,William Burleigh,A03,Adams,2090
 me.uscongress1.fourth.1823,MR0008,Rufus MacIntire,A03,Adams,1904
-me.uscongress1.fourth.1823,LI0013,Isaac Lane,A03,Crawford,NA
+me.uscongress1.fourth.1823,LI0013,Isaac Lane,A06,Crawford,NA
 me.uscongress1.fourth.1823,UE0003,Ellis B. Usher,NA,NA,NA
 me.uscongress1.fourth.1823,SJ0028,John Spring,NA,NA,NA
 me.uscongress1.fourth.1823,DJ0174,Joseph Dane,NA,NA,NA
@@ -3784,7 +3784,7 @@ me.uscongress1.fourth.1823,PJ0015,Joseph Prime,NA,NA,NA
 me.uscongress1.fourth.1823,BJ0031,John Bodwell,NA,NA,NA
 me.uscongress1.fourth.1823,SE0012,Ether Shipley,NA,NA,NA
 me.uscongress2.1823,LS0011,"Stephen Longellow, Jr.",A01,Federalist,2168
-me.uscongress2.1823,AJ0025,John Anderson,A03,Crawford,2036
+me.uscongress2.1823,AJ0025,John Anderson,A06,Crawford,2036
 me.uscongress2.1823,PJ0207,Jonathan Page,NA,Adams,41
 me.uscongress2.1823,HM0038,Mark Harris,NA,NA,11
 me.uscongress2.1823,DR0007,Robert P. Dunlap,NA,NA,4
@@ -3798,7 +3798,7 @@ me.uscongress2.1823,MN0011,Nathaniel Mitchell,NA,NA,1
 me.uscongress2.1823,PW0038,William P. Preble,NA,NA,1
 me.uscongress2.1823,AJ0045,Joseph Adams,NA,NA,1
 me.uscongress3.third.1823,HE0005,Ebenezer Herrick,A03,Adams,1797
-me.uscongress3.third.1823,HM0035,Mark L. Hill,A03,Crawford,1010
+me.uscongress3.third.1823,HM0035,Mark L. Hill,A06,Crawford,1010
 me.uscongress3.third.1823,BW0011,William M. Boyd,NA,NA,5
 me.uscongress3.third.1823,SE0025,Edwin Smith,NA,NA,4
 me.uscongress3.third.1823,TP0010,Peleg Tallman,NA,NA,3
@@ -3869,7 +3869,7 @@ me.uscongress6.third.1823,PA0033,Albion K. Parris,NA,NA,1
 me.uscongress6.third.1823,MJ0024,Jabez Mowry,NA,NA,1
 me.uscongress6.third.1823,SB0017,Benjamin Smith,NA,NA,1
 me.uscongress7.1823,KD0004,David Kidder,A01,Federalist,1971
-me.uscongress7.1823,EW0015,William Emerson,A03,Crawford,941
+me.uscongress7.1823,EW0015,William Emerson,A06,Crawford,941
 me.uscongress7.1823,WO0021,Obid Wilson,NA,NA,676
 me.uscongress7.1823,DJ0027,James Dinsmore,NA,NA,30
 me.uscongress7.1823,WD0005,Daniel Wilkins,NA,NA,27
@@ -10719,7 +10719,7 @@ sc.uscongress.abbeville.1824,MG0132,George MacDuffie,NA,NA,NA
 sc.uscongress.beaufort.1824,HJ1250,"James Hamilton, Jr.",NA,NA,NA
 sc.uscongress.charleston.1824,PJ0709,Joel R. Poinsett,NA,NA,1528
 sc.uscongress.charleston.1824,WS0211,Samuel Warren,NA,NA,1099
-sc.uscongress.chester.1824,GJ0573,Joseph Gist,NA,Crawfordite,3692
+sc.uscongress.chester.1824,GJ0573,Joseph Gist,A06,Crawford,3692
 sc.uscongress.chester.1824,MJ1355,James MacCreary,NA,Adams,1869
 sc.uscongress.chester.1824,DF0015,Francis W. Davie,NA,Jackson,933
 sc.uscongress.georgetown.1824,MT0226,Thomas R. Mitchell,NA,NA,NA
