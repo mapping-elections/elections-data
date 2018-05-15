@@ -896,10 +896,10 @@ il.uscongress.1820,MJ0101,John MacLean,NA,NA,1
 il.uscongress.1820,CJ0056,John Cook,NA,NA,1
 il.uscongress.1820,CP0066,P. Copph,NA,NA,1
 il.uscongress.1820,KD0057,D. Kain,NA,NA,1
-il.uscongress.1822,CD0015,Daniel P. Cook,NA,NA,4765
-il.uscongress.1822,MJ0101,John MacLean,NA,NA,3801
-il.uscongress.1822,KE0009,Elias K. Kane,NA,NA,3
-il.uscongress.1824,CD0015,Daniel P. Cook,A09,Anti-Slavery,7619
+il.uscongress.1822,CD0015,Daniel P. Cook,A07,Adams/Clay,4765
+il.uscongress.1822,MJ0101,John MacLean,A06,Crawford,3801
+il.uscongress.1822,KE0009,Elias K. Kane,A09,Pro-Slavery,3
+il.uscongress.1824,CD0015,Daniel P. Cook,A07,Anti-Slavery,7619
 il.uscongress.1824,BS0053,Shadrach Bond,A09,Pro-Slavery,4402
 il.uscongress.1824,PJ0054,James Underwood Peacock,NA,NA,1
 in.uscongress.1816,HW0072,William Hendricks,A03,Democratic-Republican,5160
@@ -923,10 +923,10 @@ in.usrepresentative.3rd.1822,VS0001,Samuel C. Vance,NA,NA,2238
 in.usrepresentative.3rd.1822,FE0008,Ezra Ferris,NA,NA,1425
 in.usrepresentative.1st.1824,BR0010,Ratliff Boon,A08,Jacksonian,4281
 in.usrepresentative.1st.1824,CJ0160,Jacob Call,A08,Jacksonian,3230
-in.usrepresentative.1st.1824,BT0018,Thomas H. Blake,A06,Adams/Clay,2661
-in.usrepresentative.2nd.1824,JJ0041,Jonathan Jennings,A06,Adams/Clay,4680
+in.usrepresentative.1st.1824,BT0018,Thomas H. Blake,A07,Adams/Clay,2661
+in.usrepresentative.2nd.1824,JJ0041,Jonathan Jennings,A07,Adams/Clay,4680
 in.usrepresentative.2nd.1824,SJ0135,Jeremiah Sullivan,NA,NA,4119
-in.usrepresentative.3rd.1824,TJ0114,John Test,A06,Adams/Clay,3522
+in.usrepresentative.3rd.1824,TJ0114,John Test,A07,Adams/Clay,3522
 in.usrepresentative.3rd.1824,RJ0040,James Brown Ray,NA,NA,2936
 in.usrepresentative.3rd.1824,CD0021,Daniel J. Caswell,NA,NA,1459
 ky.uscongressnortherndistrict.1792,OA0007,Alexander D. Orr,A03,Democratic-Republican,NA
@@ -4006,7 +4006,7 @@ me.uscongress6.1824,MJ0024,Jabez Mowry,NA,NA,NA
 me.uscongress6.1824,AS0009,Samuel Abbot,NA,NA,NA
 me.uscongress6.1824,JA0011,Alfred Johnson. Jr.,NA,NA,NA
 me.uscongress7.1824,KD0004,David Kidder,A07,Adams/Clay,1440
-me.uscongress7.1824,WW0135,William D. Williamson,NA,Adams/Clay,515
+me.uscongress7.1824,WW0135,William D. Williamson,A07,Adams/Clay,515
 me.uscongress7.1824,GA0017,Allen Gilman,NA,NA,84
 me.uscongress7.1824,PD0025,David Perham,NA,NA,40
 me.uscongress7.1824,HJ0042,Jediah Herrick,NA,NA,35
