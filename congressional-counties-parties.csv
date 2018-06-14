@@ -5768,25 +5768,48 @@ meae.congressional.congress16.ky.county,kys_washington,21229,10,NA,NA,NA,NA,274,
 meae.congressional.congress16.ky.county,kys_wayne,21231,9,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress16.ky.county,kys_woodford,21239,2,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress16.la.county,olt_germancoastcnty,NA,At-large,NA,NA,NA,NA,140,1,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress12.la.county,las_ascension,22005,At-large,NA,NA,NA,NA,120,1,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress12.la.county,las_assumption,22007,At-large,NA,NA,NA,NA,294,0.955,NA,NA,NA,NA,NA,NA,14,0.045,county
-meae.congressional.congress12.la.county,las_avoyelles,22009,At-large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,92,1,county
-meae.congressional.congress12.la.county,las_catahoula,22025,At-large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,89,1,county
-meae.congressional.congress12.la.county,las_concordia,22029,At-large,NA,NA,NA,NA,29,0.967,NA,NA,NA,NA,NA,NA,1,0.033,county
-meae.congressional.congress12.la.county,las_eastbatonrouge,22033,At-large,NA,NA,NA,NA,302,0.987,NA,NA,NA,NA,NA,NA,4,0.013,county
-meae.congressional.congress12.la.county,las_feliciana,NA,At-large,NA,NA,NA,NA,361,1,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress12.la.county,las_iberville,22047,At-large,NA,NA,NA,NA,86,1,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress12.la.county,las_lafourche,22057,At-large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress12.la.county,las_natchitoches,22069,At-large,NA,NA,NA,NA,20,0.1,NA,NA,NA,NA,NA,NA,181,0.9,county
-meae.congressional.congress12.la.county,city_neworleans,NA,At-large,NA,NA,NA,NA,655,0.879,NA,NA,NA,NA,NA,NA,90,0.121,county
-meae.congressional.congress12.la.county,las_ouachita,22073,At-large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress12.la.county,las_plaquemines,22075,At-large,NA,NA,NA,NA,136,0.971,NA,NA,NA,NA,NA,NA,4,0.029,county
-meae.congressional.congress12.la.county,las_pointecoupee,22077,At-large,NA,NA,NA,NA,159,1,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress12.la.county,las_rapides,22079,At-large,NA,NA,NA,NA,50,0.249,NA,NA,NA,NA,NA,NA,151,0.751,county
-meae.congressional.congress12.la.county,las_sthelena,22091,At-large,NA,NA,NA,NA,213,0.991,NA,NA,NA,NA,NA,NA,2,0.009,county
-meae.congressional.congress12.la.county,las_stjames,22093,At-large,NA,NA,NA,NA,139,0.993,NA,NA,NA,NA,NA,NA,1,0.007,county
-meae.congressional.congress12.la.county,las_stlandry,22097,At-large,NA,NA,NA,NA,202,0.874,NA,NA,NA,NA,NA,NA,29,0.126,county
-meae.congressional.congress12.la.county,las_stmartin,22099,At-large,NA,NA,NA,NA,5,0.04,NA,NA,NA,NA,NA,NA,119,0.96,county
-meae.congressional.congress12.la.county,las_stmary,22101,At-large,NA,NA,NA,NA,3,0.034,NA,NA,NA,NA,NA,NA,86,0.966,county
-meae.congressional.congress12.la.county,las_sttammany,22103,At-large,NA,NA,NA,NA,244,0.968,NA,NA,NA,NA,NA,NA,8,0.032,county
-meae.congressional.congress12.la.county,las_westbatonrouge,22121,At-large,NA,NA,NA,NA,74,1,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress16.la.county,las_ascension,22005,At-large,NA,NA,NA,NA,120,1,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress16.la.county,las_assumption,22007,At-large,NA,NA,NA,NA,294,0.955,NA,NA,NA,NA,NA,NA,14,0.045,county
+meae.congressional.congress16.la.county,las_avoyelles,22009,At-large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,92,1,county
+meae.congressional.congress16.la.county,las_catahoula,22025,At-large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,89,1,county
+meae.congressional.congress16.la.county,las_concordia,22029,At-large,NA,NA,NA,NA,29,0.967,NA,NA,NA,NA,NA,NA,1,0.033,county
+meae.congressional.congress16.la.county,las_eastbatonrouge,22033,At-large,NA,NA,NA,NA,302,0.987,NA,NA,NA,NA,NA,NA,4,0.013,county
+meae.congressional.congress16.la.county,las_feliciana,NA,At-large,NA,NA,NA,NA,361,1,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress16.la.county,las_iberville,22047,At-large,NA,NA,NA,NA,86,1,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress16.la.county,las_lafourche,22057,At-large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress16.la.county,las_natchitoches,22069,At-large,NA,NA,NA,NA,20,0.1,NA,NA,NA,NA,NA,NA,181,0.9,county
+meae.congressional.congress16.la.county,city_neworleans,NA,At-large,NA,NA,NA,NA,655,0.879,NA,NA,NA,NA,NA,NA,90,0.121,county
+meae.congressional.congress16.la.county,las_ouachita,22073,At-large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress16.la.county,las_plaquemines,22075,At-large,NA,NA,NA,NA,136,0.971,NA,NA,NA,NA,NA,NA,4,0.029,county
+meae.congressional.congress16.la.county,las_pointecoupee,22077,At-large,NA,NA,NA,NA,159,1,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress16.la.county,las_rapides,22079,At-large,NA,NA,NA,NA,50,0.249,NA,NA,NA,NA,NA,NA,151,0.751,county
+meae.congressional.congress16.la.county,las_sthelena,22091,At-large,NA,NA,NA,NA,213,0.991,NA,NA,NA,NA,NA,NA,2,0.009,county
+meae.congressional.congress16.la.county,las_stjames,22093,At-large,NA,NA,NA,NA,139,0.993,NA,NA,NA,NA,NA,NA,1,0.007,county
+meae.congressional.congress16.la.county,las_stlandry,22097,At-large,NA,NA,NA,NA,202,0.874,NA,NA,NA,NA,NA,NA,29,0.126,county
+meae.congressional.congress16.la.county,las_stmartin,22099,At-large,NA,NA,NA,NA,5,0.04,NA,NA,NA,NA,NA,NA,119,0.96,county
+meae.congressional.congress16.la.county,las_stmary,22101,At-large,NA,NA,NA,NA,3,0.034,NA,NA,NA,NA,NA,NA,86,0.966,county
+meae.congressional.congress16.la.county,las_sttammany,22103,At-large,NA,NA,NA,NA,244,0.968,NA,NA,NA,NA,NA,NA,8,0.032,county
+meae.congressional.congress16.la.county,las_westbatonrouge,22121,At-large,NA,NA,NA,NA,74,1,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress16.ma.county,mas_barnstable,25001,9,279,0.544,NA,NA,234,0.456,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress16.ma.county,mas_berkshire,25003,7,25,0.006,NA,NA,3909,0.994,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress16.ma.county,mas_bristol,25005,"9, 10",1244,0.478,NA,NA,1345,0.517,NA,NA,NA,NA,NA,NA,13,0.005,county
+meae.congressional.congress16.ma.county,mas_dukes,25007,9,30,0.556,NA,NA,24,0.444,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress16.ma.county,mas_essex,25009,"2, 3",1024,0.61,NA,NA,652,0.389,NA,NA,NA,NA,NA,NA,2,0.001,county
+meae.congressional.congress16.ma.county,mas_franklin,25011,6,884,0.872,NA,NA,83,0.082,NA,NA,NA,NA,NA,NA,47,0.046,county
+meae.congressional.congress16.ma.county,mas_hampden,25013,5,1291,0.589,NA,NA,890,0.406,NA,NA,NA,NA,NA,NA,10,0.005,county
+meae.congressional.congress16.ma.county,mas_hampshire,25015,"5, 6, 7",1560,0.867,NA,NA,226,0.126,NA,NA,NA,NA,NA,NA,13,0.007,county
+meae.congressional.congress16.ma.county,mas_middlesex,25017,"1, 3, 4, 11, 12, 13",1129,0.389,NA,NA,1771,0.61,NA,NA,NA,NA,NA,NA,5,0.002,county
+meae.congressional.congress16.ma.county,mas_nantucket,25019,9,50,0.204,NA,NA,195,0.796,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress16.ma.county,mas_norfolk,25021,"10, 13",702,0.387,NA,NA,1110,0.613,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress16.ma.county,mas_plymouth,25023,8,894,0.402,NA,NA,1321,0.594,NA,NA,NA,NA,NA,NA,10,0.004,county
+meae.congressional.congress16.ma.county,mas_suffolk,25025,1,390,0.368,NA,NA,657,0.62,NA,NA,NA,NA,NA,NA,13,0.012,county
+meae.congressional.congress16.ma.county,mas_worcester,25027,"11, 12",2904,0.66,NA,NA,1484,0.337,NA,NA,NA,NA,NA,NA,13,0.003,county
+meae.congressional.congress16.ma.county,mes_cumberland,23005,"15, 20",1198,0.532,NA,NA,1050,0.466,NA,NA,NA,NA,NA,NA,5,0.002,county
+meae.congressional.congress16.ma.county,mes_hancock,23009,"16, 17",109,0.076,NA,NA,808,0.56,NA,NA,NA,NA,NA,NA,526,0.365,county
+meae.congressional.congress16.ma.county,mes_kennebec,23011,"18, 19",384,0.187,NA,NA,1671,0.812,NA,NA,NA,NA,NA,NA,3,0.001,county
+meae.congressional.congress16.ma.county,mes_lincoln,23015,"16, 18",1081,0.318,NA,NA,2316,0.682,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress16.ma.county,mes_oxford,23017,20,258,0.27,NA,NA,679,0.712,NA,NA,NA,NA,NA,NA,17,0.018,county
+meae.congressional.congress16.ma.county,mes_penobscot,23019,17,NA,NA,NA,NA,524,0.817,NA,NA,NA,NA,NA,NA,117,0.183,county
+meae.congressional.congress16.ma.county,mes_somerset,23025,19,526,0.541,NA,NA,447,0.459,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress16.ma.county,mes_washington,23029,17,NA,NA,NA,NA,255,0.612,NA,NA,NA,NA,NA,NA,162,0.388,county
+meae.congressional.congress16.ma.county,mes_york,23031,"14, 20",63,0.046,NA,NA,1231,0.899,NA,NA,NA,NA,NA,NA,76,0.055,county
