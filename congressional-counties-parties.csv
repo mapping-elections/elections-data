@@ -3685,7 +3685,7 @@ meae.congressional.congress11.ny.county,nys_niagara,36063,15,NA,NA,NA,NA,NA,NA,N
 meae.congressional.congress11.ny.county,nys_ontario,36069,15,1789,0.443,NA,NA,2249,0.557,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,county
 meae.congressional.congress11.oh.county,ohs_adams,39001,NA,13,0.023,NA,NA,NA,NA,NA,NA,NA,NA,556,0.977,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress11.oh.county,ohs_athens,39009,NA,91,0.403,NA,NA,NA,NA,NA,NA,NA,NA,135,0.597,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress11.oh.county,ohs_belmont,39013,NA,493,0.39,NA,NA,NA,NA,NA,NA,NA,NA,771,0.610,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress11.oh.county,ohs_belmont,39013,NA,493,0.39,NA,NA,NA,NA,NA,NA,NA,NA,771,0.61,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress11.oh.county,ohs_butler,39017,NA,353,0.357,NA,NA,NA,NA,NA,NA,NA,NA,635,0.643,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress11.oh.county,ohs_champaign,39021,NA,39,0.067,NA,NA,NA,NA,NA,NA,NA,NA,539,0.933,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress11.oh.county,ohs_clermont,39025,NA,34,0.055,NA,NA,NA,NA,NA,NA,NA,NA,579,0.945,NA,NA,NA,NA,NA,NA,county
@@ -3755,7 +3755,7 @@ meae.congressional.congress11.ri.county,ris_kent,44003,NA,1067,0.581,NA,NA,769,0
 meae.congressional.congress11.ri.county,ris_newport,44005,NA,1270,0.514,NA,NA,1201,0.486,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress11.ri.county,ris_providence,44007,NA,2513,0.516,NA,NA,2356,0.484,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress11.ri.county,ris_washington,44009,NA,1389,0.572,NA,NA,1041,0.428,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress11.sc.county,city_charleston,NA,1,391,0.328,NA,NA,775,0.650,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26,0.022,county
+meae.congressional.congress11.sc.county,city_charleston,NA,1,391,0.328,NA,NA,775,0.65,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26,0.022,county
 meae.congressional.congress11.sc.county,scs_christchurchparish,NA,1,1,0.018,NA,NA,56,0.982,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress11.sc.county,scs_standrewparish,NA,1,18,0.563,NA,NA,14,0.438,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress11.sc.county,scs_stjamesgoosecreekparish,NA,1,4,0.047,NA,NA,81,0.953,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
@@ -3943,7 +3943,7 @@ meae.congressional.congress12.ga.county,gas_morgan,13211,NA,26,0.008,NA,NA,3077,
 meae.congressional.congress12.ga.county,gas_oglethorpe,13221,NA,24,0.007,NA,NA,3487,0.993,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress12.ga.county,gas_pulaski,13235,NA,36,0.039,NA,NA,882,0.961,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress12.ga.county,gas_putnam,13237,NA,26,0.007,NA,NA,3694,0.992,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.001,county
-meae.congressional.congress12.ga.county,gas_randolph,13243,NA,40,0.011,NA,NA,3595,0.989,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress12.ga.county,gas_jasper,13243,NA,40,0.011,NA,NA,3595,0.989,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress12.ga.county,gas_richmond,13245,NA,136,0.1,NA,NA,1218,0.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress12.ga.county,gas_screven,13251,NA,116,0.111,NA,NA,927,0.889,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress12.ga.county,gas_tattnall,13267,NA,5,0.007,NA,NA,694,0.993,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
@@ -4060,7 +4060,7 @@ meae.congressional.congress12.md.county,mds_montgomery,24031,3,374,1,NA,NA,NA,NA
 meae.congressional.congress12.md.county,mds_allegany,24001,4,10,0.031,NA,NA,275,0.865,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,33,0.104,county
 meae.congressional.congress12.md.county,mds_washington,24043,4,20,0.026,NA,NA,740,0.957,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,0.017,county
 meae.congressional.congress12.md.county,mds_baltimore,24005,5,NA,NA,NA,NA,3939,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress12.md.county,city_baltimore,NA,5,0,0,NA,NA,6211,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress12.md.county,city_baltimore,NA,5,NA,NA,NA,NA,6211,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress12.md.county,mds_cecil,24015,6,NA,NA,NA,NA,1022,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress12.md.county,mds_harford,24025,6,NA,NA,NA,NA,1345,0.959,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,57,0.041,county
 meae.congressional.congress12.md.county,mds_kent,24029,6,NA,NA,NA,NA,510,0.998,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.002,county
