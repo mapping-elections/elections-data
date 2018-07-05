@@ -4878,6 +4878,18 @@ meae.congressional.congress13.sc.county,scs_uniondist,NA,8,NA,NA,NA,NA,NA,NA,NA,
 meae.congressional.congress13.sc.county,scs_yorkdist,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress13.sc.county,scs_claremont,NA,9,274,0.346,NA,NA,519,0.654,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress13.sc.county,scs_clarendon,45027,9,4,0.01,NA,NA,397,0.99,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress13.tn.county,tns_hawkins,47073,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress13.tn.county,tns_carter,47019,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress13.tn.county,tns_sullivan,47163,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress13.tn.county,tns_washington,47179,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress13.tn.county,tns_greene,47059,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress13.tn.county,tns_cocke,47029,2,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress13.tn.county,tns_jefferson,47089,2,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress13.tn.county,tns_grainger,47057,2,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress13.tn.county,tns_claiborne,47025,2,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress13.tn.county,tns_knox,47093,2,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress13.tn.county,tns_sevier,47155,2,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress13.tn.county,tns_blount,47009,2,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress13.tn.county,tns_bledsoe,47007,3,NA,NA,NA,NA,49,0.112,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,387,0.888,county
 meae.congressional.congress13.tn.county,tns_franklin,47051,3,NA,NA,NA,NA,173,0.306,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,393,0.694,county
 meae.congressional.congress13.tn.county,tns_overton,47133,3,NA,NA,NA,NA,279,0.679,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,132,0.321,county
@@ -4887,6 +4899,7 @@ meae.congressional.congress13.tn.county,tns_white,47185,3,NA,NA,NA,NA,316,0.508,
 meae.congressional.congress13.tn.county,tns_bedford,47003,5,NA,NA,NA,NA,996,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress13.tn.county,tns_davidson,47037,5,NA,NA,NA,NA,971,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress13.tn.county,tns_lincoln,47103,5,NA,NA,NA,NA,467,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress13.tn.county,tns_rhea,47143,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress13.tn.county,tns_rutherford,47149,5,NA,NA,NA,NA,508,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress13.tn.county,tns_williamson,47187,5,NA,NA,NA,NA,1092,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress13.va.county,wvs_brooke,54009,1,32,0.162,NA,NA,165,0.838,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
