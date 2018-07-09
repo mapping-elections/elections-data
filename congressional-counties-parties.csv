@@ -5469,8 +5469,9 @@ meae.congressional.congress14.sc.county,scs_uniondist,NA,8,NA,NA,NA,NA,NA,NA,NA,
 meae.congressional.congress14.sc.county,scs_yorkdist,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress14.sc.county,scs_chesterfielddist,NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress14.sc.county,scs_kershawdist,NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress14.sc.county,scs_lancasterdist,NA,9,216,NA,NA,NA,411,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress14.sc.county,scs_clarendon,NA,9,133,NA,NA,NA,271,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress14.sc.county,scs_lancasterdist,NA,9,216,0.344,NA,NA,411,0.656,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress14.sc.county,scs_clarendon,NA,9,133,0.329,NA,NA,271,0.671,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress14.sc.county,scs_sumterdist,NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress14.tn.county,tns_carter,47019,1,NA,NA,NA,NA,534,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress14.tn.county,tns_greene,47059,1,NA,NA,NA,NA,1197,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress14.tn.county,tns_hawkins,47073,1,NA,NA,NA,NA,909,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
