@@ -5761,14 +5761,19 @@ meae.congressional.congress15.ky.county,kys_washington,21229,10,NA,NA,NA,NA,477,
 meae.congressional.congress15.la.county,las_ascension,22005,At-large,NA,NA,NA,NA,134,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress15.la.county,las_assumption,22007,At-large,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress15.la.county,las_avoyelles,22009,At-large,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress15.la.county,las_catahoula,,At-large,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress15.la.county,las_concordia,22029,At-large,NA,NA,NA,NA,34,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress15.la.county,las_eastbatonrouge,22033,At-large,NA,NA,NA,NA,171,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress15.la.county,las_feliciana,NA,At-large,NA,NA,NA,NA,269,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress15.la.county,las_iberville,22047,At-large,NA,NA,NA,NA,91,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress15.la.county,las_lafourche,22057,At-large,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress15.la.county,las_lakemaurepasp,NA,At-large,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress15.la.county,las_lakesalvadorp,NA,At-large,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress15.la.county,las_natchitoches,22069,At-large,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress15.la.county,city_neworleans,NA,At-large,NA,NA,NA,NA,872,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress15.la.county,las_plaquemines,22075,At-large,NA,NA,NA,NA,91,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress15.la.county,las_pointecoupee,22077,At-large,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress15.la.county,las_orleans,22071,At-large,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress15.la.county,las_ouachita,22073,At-large,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress15.la.county,las_rapides,22079,At-large,NA,NA,NA,NA,178,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress15.la.county,las_stbernard,22087,At-large,NA,NA,NA,NA,69,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
@@ -5781,6 +5786,7 @@ meae.congressional.congress15.la.county,las_stmartin,22099,At-large,NA,NA,NA,NA,
 meae.congressional.congress15.la.county,las_stmary,22101,At-large,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress15.la.county,las_sttammany,22103,At-large,NA,NA,NA,NA,129,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress15.la.county,las_westbatonrouge,22121,At-large,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress15.la.county,city_neworleans,NA,At-large,NA,NA,NA,NA,872,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress15.ma.county,mes_oxford,23017,1,522,0.358,NA,NA,926,0.635,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,0.007,county
 meae.congressional.congress15.ma.county,mas_hampshire,25015,5,986,0.816,NA,NA,32,0.026,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,191,0.158,county
 meae.congressional.congress15.ma.county,mas_hampden,25013,6,747,0.777,NA,NA,189,0.196,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26,0.027,county
