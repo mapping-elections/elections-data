@@ -6833,9 +6833,14 @@ meae.congressional.congress16.tn.county,tns_washington,47179,1,NA,NA,NA,NA,604,0
 meae.congressional.congress16.tn.county,tns_white,47185,3,NA,NA,NA,NA,670,0.768,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,202,0.232,county
 meae.congressional.congress16.tn.county,tns_williamson,47187,5,NA,NA,NA,NA,981,0.588,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,688,0.412,county
 meae.congressional.congress16.tn.county,tns_wilson,47189,4,NA,NA,NA,NA,1171,0.561,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,918,0.439,county
-meae.congressional.congress16.va.county,kys_jefferson,21111,2,395,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress16.va.county,kys_madison,21151,11,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
-meae.congressional.congress16.va.county,kys_mason,21161,7,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress16.ri.county,ris_bristol,44001,At-large,NA,NA,NA,NA,3854,0.997,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,0.003,district
+meae.congressional.congress16.ri.county,ris_kent,44003,At-large,NA,NA,NA,NA,3854,0.997,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,0.003,district
+meae.congressional.congress16.ri.county,ris_newport,44005,At-large,NA,NA,NA,NA,3854,0.997,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,0.003,district
+meae.congressional.congress16.ri.county,ris_providence,44007,At-large,NA,NA,NA,NA,3854,0.997,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,0.003,district
+meae.congressional.congress16.ri.county,ris_washington,44009,At-large,NA,NA,NA,NA,3854,0.997,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,0.003,district
+meae.congressional.congress16.va.county,kys_jefferson,21111,2,NA,NA,NA,NA,3854,0.997,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,0.003,district
+meae.congressional.congress16.va.county,kys_madison,21151,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress16.va.county,kys_mason,21161,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress16.va.county,kys_nelson,21179,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress16.va.county,vas_accomack,51001,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress16.va.county,vas_albemarle,51003,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
