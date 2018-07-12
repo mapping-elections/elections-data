@@ -6297,6 +6297,7 @@ meae.congressional.congress16.de.county,des_kent,10001,At-large,1425,0.546,NA,NA
 meae.congressional.congress16.de.county,des_newcastle,10003,At-large,2144,0.374,NA,NA,3486,0.608,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,103,0.018,county
 meae.congressional.congress16.de.county,des_sussex,10005,At-large,2463,0.677,NA,NA,1176,0.323,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress16.ga.county,gas_baldwin,13009,At-large,NA,NA,NA,NA,1528,0.988,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,18,0.012,county
+meae.congressional.congress16.ga.county,gas_bryan,,At-large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress16.ga.county,gas_bulloch,13031,At-large,NA,NA,NA,NA,569,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress16.ga.county,gas_burke,13033,At-large,NA,NA,NA,NA,654,0.986,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0.014,county
 meae.congressional.congress16.ga.county,gas_camden,13039,At-large,NA,NA,NA,NA,541,0.973,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,0.027,county
@@ -6304,7 +6305,9 @@ meae.congressional.congress16.ga.county,gas_chatham,13051,At-large,NA,NA,NA,NA,2
 meae.congressional.congress16.ga.county,gas_clarke,13059,At-large,NA,NA,NA,NA,2118,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress16.ga.county,gas_columbia,13073,At-large,NA,NA,NA,NA,2247,0.943,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,135,0.057,county
 meae.congressional.congress16.ga.county,gas_effingham,13103,At-large,NA,NA,NA,NA,788,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress16.ga.county,gas_emanuel,,At-large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress16.ga.county,gas_elbert,13105,At-large,NA,NA,NA,NA,2096,0.995,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,0.005,county
+meae.congressional.congress16.ga.county,gas_franklin,,At-large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress16.ga.county,gas_glynn,13127,At-large,NA,NA,NA,NA,243,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress16.ga.county,gas_greene,13133,At-large,NA,NA,NA,NA,1037,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress16.ga.county,gas_hancock,13141,At-large,NA,NA,NA,NA,2459,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
@@ -6324,6 +6327,8 @@ meae.congressional.congress16.ga.county,gas_pulaski,13235,At-large,NA,NA,NA,NA,3
 meae.congressional.congress16.ga.county,gas_putnam,13237,At-large,NA,NA,NA,NA,2289,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress16.ga.county,gas_richmond,13245,At-large,NA,NA,NA,NA,1314,0.98,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,27,0.02,county
 meae.congressional.congress16.ga.county,gas_screven,13251,At-large,NA,NA,NA,NA,357,0.89,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,44,0.11,county
+meae.congressional.congress16.ga.county,gas_tattnall,,At-large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress16.ga.county,gas_telfair,,At-large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress16.ga.county,gas_twiggs,13289,At-large,NA,NA,NA,NA,1030,0.878,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,143,0.122,county
 meae.congressional.congress16.ga.county,gas_warren,13301,At-large,NA,NA,NA,NA,905,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress16.ga.county,gas_washington,13303,At-large,NA,NA,NA,NA,177,0.973,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.027,county
