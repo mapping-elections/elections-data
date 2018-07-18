@@ -7960,7 +7960,7 @@ meae.congressional.congress18.la.county,las_stbernard,22087,1,NA,NA,NA,NA,NA,NA,
 meae.congressional.congress18.la.county,las_stcharles,22089,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.981,NA,0.019,district
 meae.congressional.congress18.la.county,las_sthelena,22091,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,65,0.319,NA,NA,139,0.681,county
 meae.congressional.congress18.la.county,las_stjames,22093,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,216,0.896,25,0.104,county
-meae.congressional.congress18.la.county,las_stjohnbaptist,22095,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,nn,NA,NA,0.981,NA,0.019,district
+meae.congressional.congress18.la.county,las_stjohnbaptist,22095,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.981,NA,0.019,district
 meae.congressional.congress18.la.county,las_stlandry,22097,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,310,1,NA,NA,NA,NA,county
 meae.congressional.congress18.la.county,las_stmartin,22099,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,361,1,NA,NA,NA,NA,county
 meae.congressional.congress18.la.county,las_stmary,22101,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,district
@@ -8278,6 +8278,8 @@ meae.congressional.congress18.pa.county,pas_fayette,42051,14,1200,0.406,NA,NA,17
 meae.congressional.congress18.pa.county,pas_franklin,42055,11,3085,0.454,NA,NA,3711,0.546,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress18.pa.county,pas_greene,42059,14,665,0.37,NA,NA,1134,0.63,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress18.pa.county,pas_huntingdon,42061,12,NA,NA,NA,NA,2078,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress18.pa.county,pas_indiana,42063,17,NA,0.403,NA,NA,NA,0.597,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress18.pa.county,pas_jefferson,42065,17,NA,0.403,NA,NA,NA,0.597,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress18.pa.county,pas_lancaster,42071,4,7927,0.568,NA,NA,6023,0.432,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress18.pa.county,pas_lebanon,42075,6,966,0.42,NA,NA,1333,0.58,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress18.pa.county,pas_lehigh,42077,7,1674,0.398,NA,NA,2529,0.602,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
