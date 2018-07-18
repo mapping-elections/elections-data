@@ -8141,7 +8141,7 @@ meae.congressional.congress18.nj.county,njs_middlesex,34023,At-large,NA,NA,NA,NA
 meae.congressional.congress18.nj.county,njs_monmouth,34025,At-large,2,0,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA,NA,5767,0.833,1152,0.166,county
 meae.congressional.congress18.nj.county,njs_morris,34027,At-large,NA,NA,NA,NA,56,0.004,NA,NA,NA,NA,NA,NA,NA,NA,10558,0.829,2124,0.167,county
 meae.congressional.congress18.nj.county,njs_salem,34033,At-large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress18.nj.county,njs_somerset,34035,At-large,NA,NA,NA,NA,nn,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress18.nj.county,njs_somerset,34035,At-large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress18.nj.county,njs_sussex,34037,At-large,13,0.001,NA,NA,46,0.002,NA,NA,NA,NA,1,0,NA,NA,17707,0.83,3560,0.167,county
 meae.congressional.congress18.ny.county,nys_albany,36001,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2725,0.997,NA,NA,NA,NA,9,0.003,county
 meae.congressional.congress18.ny.county,nys_allegany,36003,28,NA,NA,NA,NA,1150,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
@@ -8324,6 +8324,7 @@ meae.congressional.congress18.sc.county,scs_colletondist,NA,2,NA,NA,NA,NA,NA,NA,
 meae.congressional.congress18.sc.county,scs_darlingtondist,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,502,1,NA,NA,county
 meae.congressional.congress18.sc.county,scs_edgefielddist,NA,6,NA,NA,NA,NA,88,0.057,NA,NA,NA,NA,NA,NA,NA,NA,1237,0.801,219,0.142,county
 meae.congressional.congress18.sc.county,scs_fairfielddist,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress18.sc.county,scs_georgetowndist,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,308,1,NA,NA,county
 meae.congressional.congress18.sc.county,scs_greenvilledist,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress18.sc.county,scs_horrydist,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,county
 meae.congressional.congress18.sc.county,scs_kershawdist,NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
@@ -8337,12 +8338,12 @@ meae.congressional.congress18.sc.county,scs_orangedist,NA,4,NA,NA,NA,NA,NA,NA,NA
 meae.congressional.congress18.sc.county,scs_pendletondist,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress18.sc.county,scs_richlanddist,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress18.sc.county,scs_spartanburgdist,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress18.sc.county,scs_stdennisstthomas,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress18.sc.county,scs_stjamesgoosecreek,NA,1,7,0.412,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,0.588,NA,NA,county
-meae.congressional.congress18.sc.county,scs_stjamessantee,NA,1,11,0.478,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,0.522,NA,NA,county
-meae.congressional.congress18.sc.county,scs_stjohnberkely,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress18.sc.county,scs_ststephen,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress18.sc.county,scs_sumter,NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress18.sc.county,scs_stthomasstdennisparish,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress18.sc.county,scs_stjamesgoosecreekparish,NA,1,7,0.412,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,0.588,NA,NA,county
+meae.congressional.congress18.sc.county,scs_stjamessanteeparish,NA,1,11,0.478,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,0.522,NA,NA,county
+meae.congressional.congress18.sc.county,scs_stjohnberkelyparish,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress18.sc.county,scs_ststephenparish,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress18.sc.county,scs_sumterdist,NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress18.sc.county,scs_uniondist,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress18.sc.county,scs_williamsburgdist,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress18.sc.county,scs_yorkdist,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
