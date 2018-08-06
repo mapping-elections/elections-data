@@ -6764,16 +6764,16 @@ meae.congressional.congress13.ny.county,ny.uscongress15.1812,Joel Thompson,TJ032
 meae.congressional.congress13.ny.county,ny.uscongress15.1812,William Dowse,DW0088,15,Federalist,4417,16773,0.263,TRUE,FALSE
 meae.congressional.congress13.ny.county,ny.uscongress15.1812,Robert Rosebloom,RR0035,15,Democratic-Republican,3943,16773,0.235,FALSE,FALSE
 meae.congressional.congress13.ny.county,ny.uscongress15.1812,Amos Patterson,PA0076,15,Democratic-Republican,3917,16773,0.234,FALSE,FALSE
-meae.congressional.congress13.ny.county,ny.uscongress15.1812,Arunah Metcalf,MA0129,15,NA,5,16773,0.000,FALSE,FALSE
-meae.congressional.congress13.ny.county,ny.uscongress15.1812,Jonathan Roseboom,RJ0369,15,NA,4,16773,0.000,FALSE,FALSE
-meae.congressional.congress13.ny.county,ny.uscongress15.1812,Francis Henry,HF0029,15,NA,1,16773,0.000,FALSE,FALSE
-meae.congressional.congress13.ny.county,ny.uscongress15.1812,Tom Skinner,ST0178,15,NA,1,16773,0.000,FALSE,FALSE
-meae.congressional.congress13.ny.county,ny.uscongress15.1812,Joel Dowse,DJ0380,15,NA,1,16773,0.000,FALSE,FALSE
-meae.congressional.congress13.ny.county,ny.uscongress15.1812,James Patterson,PJ0365,15,NA,1,16773,0.000,FALSE,FALSE
-meae.congressional.congress13.ny.county,ny.uscongress15.1812,Robert Patterson,PR0079,15,NA,1,16773,0.000,FALSE,FALSE
-meae.congressional.congress13.ny.county,ny.uscongress15.1812,William M. Price,PW0095,15,NA,1,16773,0.000,FALSE,FALSE
-meae.congressional.congress13.ny.county,ny.uscongress15.1812,Stephen O. Runyon,RS0055,15,NA,1,16773,0.000,FALSE,FALSE
-meae.congressional.congress13.ny.county,ny.uscongress15.1812,Nathaniel Waldron,WN0090,15,NA,1,16773,0.000,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress15.1812,Arunah Metcalf,MA0129,15,NA,5,16773,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress15.1812,Jonathan Roseboom,RJ0369,15,NA,4,16773,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress15.1812,Francis Henry,HF0029,15,NA,1,16773,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress15.1812,Tom Skinner,ST0178,15,NA,1,16773,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress15.1812,Joel Dowse,DJ0380,15,NA,1,16773,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress15.1812,James Patterson,PJ0365,15,NA,1,16773,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress15.1812,Robert Patterson,PR0079,15,NA,1,16773,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress15.1812,William M. Price,PW0095,15,NA,1,16773,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress15.1812,Stephen O. Runyon,RS0055,15,NA,1,16773,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress15.1812,Nathaniel Waldron,WN0090,15,NA,1,16773,0,FALSE,FALSE
 meae.congressional.congress13.ny.county,ny.uscongress16.1812,Morris S. Miller,MM0033,16,Federalist,2710,4283,0.633,TRUE,FALSE
 meae.congressional.congress13.ny.county,ny.uscongress16.1812,George Brayton,BG0082,16,Democratic-Republican,1573,4283,0.367,FALSE,FALSE
 meae.congressional.congress13.ny.county,ny.uscongress17.1812,William S. Smith,SW0140,17,Federalist,2605,4577,0.569,TRUE,FALSE
@@ -7069,7 +7069,7 @@ meae.congressional.congress14.ga.county,ga.uscongress.1814,Thomas Telfair,TT0002
 meae.congressional.congress14.ga.county,ga.uscongress.1814,William Barnett,BW0037,At-large,Democratic-Republican,10198,101542,0.1,FALSE,FALSE
 meae.congressional.congress14.ga.county,ga.uscongress.1814,Joel Abbott,AJ0029,At-large,Democratic-Republican,8895,101542,0.088,FALSE,FALSE
 meae.congressional.congress14.ga.county,ga.uscongress.1814,Hiram Storrs,SH0021,At-large,NA,924,101542,0.009,FALSE,FALSE
-meae.congressional.congress14.in.county,in.uscongress.1816,William Hendricks,HW0072,At-large,Republican Faction,5160,6430,0.802,TRUE,FALSE
+meae.congressional.congress14.in.county,in.uscongress.1816,William Hendricks,HW0072,At-large,Democratic-Republican,5160,6430,0.802,TRUE,FALSE
 meae.congressional.congress14.in.county,in.uscongress.1816,Allen D. Thom,TA0002,At-large,NA,1269,6430,0.197,FALSE,FALSE
 meae.congressional.congress14.in.county,in.uscongress.1816,George R.C. Sullivan,SG0008,At-large,NA,1,6430,0,FALSE,FALSE
 meae.congressional.congress14.ky.county,ky.uscongress1.1814,James Clarke,CJ0165,1,Democratic-Republican,NA,0,NA,TRUE,TRUE
@@ -7853,7 +7853,7 @@ meae.congressional.congress15.ga.county,ga.uscongress.1816,James Wood,WJ0077,At-
 meae.congressional.congress15.ga.county,ga.uscongress.1816,Key,NA,At-large,NA,12,100832,0,FALSE,FALSE
 meae.congressional.congress15.il.county,il.uscongress.1818,John MacLean,MJ0101,At-large,Republican Faction,1996,3978,0.502,TRUE,FALSE
 meae.congressional.congress15.il.county,il.uscongress.1818,Daniel P. Cook,CD0015,At-large,NA,1982,3978,0.498,FALSE,FALSE
-meae.congressional.congress15.in.county,in.uscongress.1817,William Hendricks,HW0072,At-large,Republican Faction,5743,9556,0.601,TRUE,FALSE
+meae.congressional.congress15.in.county,in.uscongress.1817,William Hendricks,HW0072,At-large,Democratic-Republican,5743,9556,0.601,TRUE,FALSE
 meae.congressional.congress15.in.county,in.uscongress.1817,Thomas Posey,PT0039,At-large,NA,3813,9556,0.399,FALSE,FALSE
 meae.congressional.congress15.ky.county,ky.uscongress1.1816,David Trimble,TD0023,1,Democratic-Republican,3319,6006,0.553,TRUE,FALSE
 meae.congressional.congress15.ky.county,ky.uscongress1.1816,George Stockton,SG0021,1,NA,2687,6006,0.447,FALSE,FALSE
