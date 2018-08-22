@@ -11954,7 +11954,7 @@ meae.congressional.congress19.ky.county,ky.uscongress8.1824,Tunstall Quarles,QT0
 meae.congressional.congress19.ky.county,ky.uscongress9.1824,Charles A. Wickliffe,WC0021,9,Jacksonian,2928,5006,0.585,TRUE,FALSE
 meae.congressional.congress19.ky.county,ky.uscongress9.1824,Burr Harrison,HB0034,9,NA,1435,5006,0.287,FALSE,FALSE
 meae.congressional.congress19.ky.county,ky.uscongress9.1824,Norborne B. Beall,BN0023,9,Democratic-Republican,643,5006,0.128,FALSE,FALSE
-meae.congressional.congress19.la.county,la.uscongress1.1824,Edward Livingston,LE0044,1,Jacksonian,1239,1259,0.984,FALSE,FALSE
+meae.congressional.congress19.la.county,la.uscongress1.1824,Edward Livingston,LE0044,1,Jacksonian,1239,1259,0.984,TRUE,FALSE
 meae.congressional.congress19.la.county,la.uscongress1.1824,J. Villere,VJ0012,1,NA,6,1259,0.005,FALSE,FALSE
 meae.congressional.congress19.la.county,la.uscongress1.1824,Cairon,NA,1,NA,4,1259,0.003,FALSE,FALSE
 meae.congressional.congress19.la.county,la.uscongress1.1824,A. Bienvenu,BA0063,1,NA,3,1259,0.002,FALSE,FALSE
@@ -11962,9 +11962,9 @@ meae.congressional.congress19.la.county,la.uscongress1.1824,Z. Nivette,NZ0001,1,
 meae.congressional.congress19.la.county,la.uscongress1.1824,Lazier,NA,1,NA,2,1259,0.002,FALSE,FALSE
 meae.congressional.congress19.la.county,la.uscongress1.1824,Bowdry,NA,1,NA,1,1259,0.001,FALSE,FALSE
 meae.congressional.congress19.la.county,la.uscongress1.1824,V. Villere,VV0000,1,NA,1,1259,0.001,FALSE,FALSE
-meae.congressional.congress19.la.county,la.uscongress2.1824,Henry H. Gurley,GH0013,2,Adams/Clay,NA,0,NA,FALSE,FALSE
+meae.congressional.congress19.la.county,la.uscongress2.1824,Henry H. Gurley,GH0013,2,Adams/Clay,NA,0,NA,TRUE,FALSE
 meae.congressional.congress19.la.county,la.uscongress2.1824,scattering,NA,2,NA,NA,0,NA,FALSE,FALSE
-meae.congressional.congress19.la.county,la.uscongress3.1824,William L. Brent,BW0111,3,Adams/Clay,NA,0,NA,FALSE,FALSE
+meae.congressional.congress19.la.county,la.uscongress3.1824,William L. Brent,BW0111,3,Adams/Clay,NA,0,NA,TRUE,FALSE
 meae.congressional.congress19.la.county,la.uscongress3.1824,Henry H. Bullard,BH0025,3,NA,NA,0,NA,FALSE,FALSE
 meae.congressional.congress19.ma.county,ma.uscongress.suffolk.1824,Daniel Webster,WD0028,1,Federalist,3669,3672,0.999,TRUE,FALSE
 meae.congressional.congress19.ma.county,ma.uscongress.suffolk.1824,scattering,NA,1,NA,3,3672,0.001,FALSE,FALSE
