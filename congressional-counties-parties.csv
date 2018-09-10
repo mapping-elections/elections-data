@@ -7108,7 +7108,7 @@ meae.congressional.congress17.ky.county,kys_campbell,21037,3,NA,NA,NA,NA,NA,NA,N
 meae.congressional.congress17.ky.county,kys_casey,21045,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress17.ky.county,kys_christian,21047,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress17.ky.county,kys_clark,21049,1,NA,NA,NA,NA,1085,0.951,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,56,0.049,county
-meae.congressional.congress17.ky.county,kys_clay,21051,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress17.ky.county,kys_clay,21051,7,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress17.ky.county,kys_cumberland,21057,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress17.ky.county,kys_daviess,21059,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress17.ky.county,kys_estill,21065,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
@@ -7117,7 +7117,7 @@ meae.congressional.congress17.ky.county,kys_fleming,21069,1,NA,NA,NA,NA,826,0.59
 meae.congressional.congress17.ky.county,kys_floyd,21071,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress17.ky.county,kys_franklin,21073,3,NA,NA,NA,NA,699,0.955,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,33,0.045,county
 meae.congressional.congress17.ky.county,kys_gallatin,21077,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress17.ky.county,kys_garrard,21079,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress17.ky.county,kys_garrard,21079,7,NA,NA,NA,NA,1038,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress17.ky.county,kys_grayson,21085,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress17.ky.county,kys_green,21087,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress17.ky.county,kys_greenup,21089,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
@@ -7135,9 +7135,9 @@ meae.congressional.congress17.ky.county,kys_lewis,21135,4,NA,NA,NA,NA,NA,1,NA,NA
 meae.congressional.congress17.ky.county,kys_lincoln,21137,9,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress17.ky.county,kys_livingston,21139,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress17.ky.county,kys_logan,21141,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress17.ky.county,kys_madison,21151,7,NA,NA,NA,NA,1636,0.978,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,37,0.022,county
+meae.congressional.congress17.ky.county,kys_madison,21151,7,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress17.ky.county,kys_mason,21161,4,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
-meae.congressional.congress17.ky.county,kys_mercer,21167,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress17.ky.county,kys_mercer,21167,7,NA,NA,NA,NA,1502,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress17.ky.county,kys_montgomery,21173,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress17.ky.county,kys_muhlenberg,21177,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress17.ky.county,kys_nelson,21179,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
