@@ -5787,7 +5787,6 @@ meae.congressional.congress15.la.county,las_stmartin,22099,At-large,NA,NA,NA,NA,
 meae.congressional.congress15.la.county,las_stmary,22101,At-large,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress15.la.county,las_sttammany,22103,At-large,NA,NA,NA,NA,129,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress15.la.county,las_westbatonrouge,22121,At-large,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
-meae.congressional.congress15.la.county,city_neworleans,NA,At-large,NA,NA,NA,NA,872,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress15.ma.county,mes_oxford,23017,1,522,0.358,NA,NA,926,0.635,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,0.007,county
 meae.congressional.congress15.ma.county,mas_hampshire,25015,5,986,0.816,NA,NA,32,0.026,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,191,0.158,county
 meae.congressional.congress15.ma.county,mas_hampden,25013,6,747,0.777,NA,NA,189,0.196,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26,0.027,county
@@ -8820,15 +8819,15 @@ meae.congressional.congress19.md.county,mds_dorchester,24019,8,1008,0.504,NA,NA,
 meae.congressional.congress19.md.county,mds_somerset,24039,8,1107,0.615,NA,NA,692,0.385,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress19.md.county,mds_worcester,24047,8,973,0.453,NA,NA,1174,0.547,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress19.md.county,mds_frederick,24021,"3, 4",3272,0.577,NA,NA,2388,0.421,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0.001,county
-meae.congressional.congress19.me.county,mes_cumberland,23005,"2, 5",1579,0.411,NA,NA,2231,0.581,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,0.008,county
+meae.congressional.congress19.me.county,mes_cumberland,23005,"2, 5",1579,0.411,NA,NA,1999,0.52,NA,NA,NA,NA,NA,NA,232,0.06,NA,NA,NA,NA,NA,NA,31,0.008,county
 meae.congressional.congress19.me.county,mes_hancock,23009,6,NA,NA,NA,NA,1154,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress19.me.county,mes_kennebec,23011,"4, 5",NA,NA,NA,NA,998,0.668,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,495,0.332,county
-meae.congressional.congress19.me.county,mes_lincoln,23015,"3, 4, 5",NA,NA,NA,NA,1320,0.565,NA,NA,NA,NA,NA,NA,394,0.169,NA,NA,NA,NA,NA,NA,623,0.267,county
-meae.congressional.congress19.me.county,mes_oxford,23017,5,NA,NA,NA,NA,827,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress19.me.county,mes_kennebec,23011,"4, 5",NA,NA,NA,NA,958,0.642,NA,NA,NA,NA,NA,NA,40,0.027,NA,NA,NA,NA,NA,NA,495,0.332,county
+meae.congressional.congress19.me.county,mes_lincoln,23015,"3, 4, 5",NA,NA,NA,NA,30,0.013,NA,NA,NA,NA,NA,NA,1684,0.721,NA,NA,NA,NA,NA,NA,623,0.267,county
+meae.congressional.congress19.me.county,mes_oxford,23017,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,827,1,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress19.me.county,mes_penobscot,23019,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0.005,923,0.796,NA,NA,NA,NA,NA,NA,231,0.199,county
 meae.congressional.congress19.me.county,mes_somerset,23025,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1032,0.976,NA,NA,NA,NA,NA,NA,25,0.024,county
 meae.congressional.congress19.me.county,mes_washington,23029,6,NA,NA,NA,NA,671,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress19.me.county,mes_york,23031,1,NA,NA,NA,NA,4110,0.979,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,90,0.021,county
+meae.congressional.congress19.me.county,mes_york,23031,1,NA,NA,NA,NA,1270,0.302,NA,NA,NA,NA,NA,NA,2840,0.676,NA,NA,NA,NA,NA,NA,90,0.021,county
 meae.congressional.congress19.mo.county,mos_boone,29019,At-large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,551,0.803,NA,NA,NA,NA,NA,NA,135,0.197,county
 meae.congressional.congress19.mo.county,mos_callaway,29027,At-large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,190,0.562,NA,NA,NA,NA,NA,NA,148,0.438,county
 meae.congressional.congress19.mo.county,mos_capegirardeau,29031,At-large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,499,0.624,NA,NA,NA,NA,NA,NA,301,0.376,county
