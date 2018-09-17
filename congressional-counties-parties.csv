@@ -7944,20 +7944,20 @@ meae.congressional.congress18.la.county,las_terrebonne,22109,1,NA,NA,NA,NA,NA,NA
 meae.congressional.congress18.la.county,las_washington,22117,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,19,0.112,NA,NA,NA,NA,NA,NA,150,0.888,county
 meae.congressional.congress18.la.county,las_westbatonrouge,22121,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,105,0.875,NA,NA,NA,NA,NA,NA,15,0.125,county
 meae.congressional.congress18.la.county,olt_germancoastcnty,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress18.ma.county,mas_barnstable,25001,13,655,0.82,NA,NA,143,0.179,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.001,county
-meae.congressional.congress18.ma.county,mas_berkshire,25003,9,1591,0.555,NA,NA,1114,0.389,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,162,0.057,county
-meae.congressional.congress18.ma.county,mas_bristol,25005,"12, 11",1332,0.649,NA,NA,710,0.346,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,0.005,county
-meae.congressional.congress18.ma.county,mas_dukes,25007,13,48,0.889,NA,NA,6,0.111,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress18.ma.county,mas_essex,25009,"3, 2",1801,0.55,NA,NA,1430,0.437,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,42,0.013,county
-meae.congressional.congress18.ma.county,mas_franklin,25011,7,667,0.993,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.007,county
-meae.congressional.congress18.ma.county,mas_hampden,25013,8,522,0.705,NA,NA,213,0.288,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.007,county
-meae.congressional.congress18.ma.county,mas_hampshire,25015,"9, 7, 8",972,0.929,NA,NA,54,0.052,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,20,0.019,county
-meae.congressional.congress18.ma.county,mas_middlesex,25017,"3, 4, 10, 6",291,0.131,NA,NA,1859,0.836,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,73,0.033,county
-meae.congressional.congress18.ma.county,mas_nantucket,25019,13,37,0.069,NA,NA,498,0.931,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress18.ma.county,mas_norfolk,25021,"10, 11",195,0.13,NA,NA,1216,0.811,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,88,0.059,county
-meae.congressional.congress18.ma.county,mas_plymouth,25023,"13, 11",866,0.425,NA,NA,1174,0.575,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress18.ma.county,mas_suffolk,25025,2,25,0.379,NA,NA,41,0.621,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress18.ma.county,mas_worcester,25027,"6, 5",2940,0.474,NA,NA,1161,0.187,NA,NA,NA,NA,NA,NA,1657,0.267,NA,NA,NA,NA,NA,NA,444,0.072,county
+meae.congressional.congress18.ma.county,mas_barnstable,25001,13,NA,NA,NA,NA,143,0.179,NA,NA,NA,NA,NA,NA,655,0.82,NA,NA,NA,NA,NA,NA,1,0.001,county
+meae.congressional.congress18.ma.county,mas_berkshire,25003,9,NA,NA,NA,NA,1114,0.389,NA,NA,NA,NA,NA,NA,1591,0.555,NA,NA,NA,NA,NA,NA,162,0.057,county
+meae.congressional.congress18.ma.county,mas_bristol,25005,"12, 11",35,0.017,NA,NA,661,0.322,NA,NA,NA,NA,NA,NA,49,0.024,1297,0.632,NA,NA,NA,NA,10,0.005,county
+meae.congressional.congress18.ma.county,mas_dukes,25007,13,NA,NA,NA,NA,6,0.111,NA,NA,NA,NA,NA,NA,48,0.889,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress18.ma.county,mas_essex,25009,"3, 2",1193,0.364,NA,NA,159,0.049,NA,NA,NA,NA,NA,NA,1879,0.574,NA,NA,NA,NA,NA,NA,42,0.013,county
+meae.congressional.congress18.ma.county,mas_franklin,25011,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,667,0.993,NA,NA,NA,NA,NA,NA,5,0.007,county
+meae.congressional.congress18.ma.county,mas_hampden,25013,8,NA,NA,NA,NA,213,0.288,NA,NA,NA,NA,NA,NA,522,0.705,NA,NA,NA,NA,NA,NA,5,0.007,county
+meae.congressional.congress18.ma.county,mas_hampshire,25015,"9, 7, 8",NA,NA,NA,NA,54,0.052,NA,NA,NA,NA,NA,NA,972,0.929,NA,NA,NA,NA,NA,NA,20,0.019,county
+meae.congressional.congress18.ma.county,mas_middlesex,25017,"3, 4, 10, 6",32,0.014,NA,NA,806,0.363,NA,NA,NA,NA,NA,NA,1312,0.59,NA,NA,NA,NA,NA,NA,73,0.033,county
+meae.congressional.congress18.ma.county,mas_nantucket,25019,13,NA,NA,NA,NA,498,0.931,NA,NA,NA,NA,NA,NA,37,0.069,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress18.ma.county,mas_norfolk,25021,"10, 11",195,0.13,NA,NA,1134,0.757,NA,NA,NA,NA,NA,NA,82,0.055,NA,NA,NA,NA,NA,NA,88,0.059,county
+meae.congressional.congress18.ma.county,mas_plymouth,25023,"13, 11",749,0.367,NA,NA,99,0.049,NA,NA,NA,NA,NA,NA,1192,0.584,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress18.ma.county,mas_suffolk,25025,2,25,0.379,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,41,0.621,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress18.ma.county,mas_worcester,25027,"6, 5",1295,0.209,NA,NA,1161,0.187,NA,NA,NA,NA,NA,NA,3302,0.532,NA,NA,NA,NA,NA,NA,444,0.072,county
 meae.congressional.congress18.md.county,mds_calvert,24009,1,448,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress18.md.county,mds_charles,24017,1,722,0.988,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0.012,county
 meae.congressional.congress18.md.county,mds_stmarys,24037,1,898,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
@@ -8784,20 +8784,20 @@ meae.congressional.congress19.la.county,las_terrebonne,22109,1,NA,NA,NA,NA,NA,NA
 meae.congressional.congress19.la.county,las_westbatonrouge,22121,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,157,1,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress19.la.county,las_westfeliciana,22125,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,225,0.978,NA,NA,NA,NA,NA,NA,5,0.022,county
 meae.congressional.congress19.la.county,olt_germancoastcnty,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress19.ma.county,mas_barnstable,25001,13,759,0.801,NA,NA,189,0.199,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress19.ma.county,mas_berkshire,25003,9,1612,0.536,NA,NA,1336,0.444,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,61,0.02,county
-meae.congressional.congress19.ma.county,mas_bristol,25005,"12, 11",1778,0.54,NA,NA,1409,0.428,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,104,0.032,county
-meae.congressional.congress19.ma.county,mas_dukes,25007,13,37,0.446,NA,NA,46,0.554,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress19.ma.county,mas_essex,25009,"3, 2",2340,0.438,NA,NA,2754,0.515,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,251,0.047,county
-meae.congressional.congress19.ma.county,mas_franklin,25011,7,1253,0.511,NA,NA,1172,0.478,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,27,0.011,county
-meae.congressional.congress19.ma.county,mas_hampden,25013,8,1101,0.484,NA,NA,1105,0.486,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,67,0.029,county
-meae.congressional.congress19.ma.county,mas_hampshire,25015,"9, 7, 8",1602,0.793,NA,NA,409,0.202,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0.004,county
-meae.congressional.congress19.ma.county,mas_middlesex,25017,"3, 4, 10, 6",580,0.122,NA,NA,4081,0.858,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,97,0.02,county
-meae.congressional.congress19.ma.county,mas_nantucket,25019,13,73,0.137,NA,NA,458,0.863,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress19.ma.county,mas_norfolk,25021,"10, 11",31,0.012,NA,NA,2347,0.892,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,253,0.096,county
-meae.congressional.congress19.ma.county,mas_plymouth,25023,"13, 11",702,0.328,NA,NA,1404,0.657,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,0.015,county
-meae.congressional.congress19.ma.county,mas_suffolk,25025,"2, 1",3669,0.987,NA,NA,45,0.012,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.001,county
-meae.congressional.congress19.ma.county,mas_worcester,25027,"6, 5",3170,0.691,NA,NA,1393,0.304,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26,0.006,county
+meae.congressional.congress19.ma.county,mas_barnstable,25001,13,NA,NA,NA,NA,189,0.199,NA,NA,NA,NA,NA,NA,759,0.801,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress19.ma.county,mas_berkshire,25003,9,NA,NA,NA,NA,1336,0.444,NA,NA,NA,NA,NA,NA,1612,0.536,NA,NA,NA,NA,NA,NA,61,0.02,county
+meae.congressional.congress19.ma.county,mas_bristol,25005,"12, 11",NA,NA,NA,NA,1363,0.414,NA,NA,NA,NA,NA,NA,46,0.014,1778,0.54,NA,NA,NA,NA,104,0.032,county
+meae.congressional.congress19.ma.county,mas_dukes,25007,13,NA,NA,NA,NA,46,0.554,NA,NA,NA,NA,NA,NA,37,0.446,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress19.ma.county,mas_essex,25009,"3, 2",2340,0.438,NA,NA,1420,0.266,NA,NA,NA,NA,NA,NA,1334,0.25,NA,NA,NA,NA,NA,NA,251,0.047,county
+meae.congressional.congress19.ma.county,mas_franklin,25011,7,NA,NA,NA,NA,1172,0.478,NA,NA,NA,NA,NA,NA,1253,0.511,NA,NA,NA,NA,NA,NA,27,0.011,county
+meae.congressional.congress19.ma.county,mas_hampden,25013,8,NA,NA,NA,NA,1105,0.486,NA,NA,NA,NA,NA,NA,1101,0.484,NA,NA,NA,NA,NA,NA,67,0.029,county
+meae.congressional.congress19.ma.county,mas_hampshire,25015,"9, 7, 8",NA,NA,NA,NA,409,0.202,NA,NA,NA,NA,NA,NA,1602,0.793,NA,NA,NA,NA,NA,NA,9,0.004,county
+meae.congressional.congress19.ma.county,mas_middlesex,25017,"3, 4, 10, 6",327,0.069,NA,NA,3768,0.792,NA,NA,NA,NA,NA,NA,566,0.119,NA,NA,NA,NA,NA,NA,97,0.02,county
+meae.congressional.congress19.ma.county,mas_nantucket,25019,13,NA,NA,NA,NA,458,0.863,NA,NA,NA,NA,NA,NA,73,0.137,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress19.ma.county,mas_norfolk,25021,"10, 11",31,0.012,NA,NA,771,0.293,NA,NA,NA,NA,NA,NA,1576,0.599,NA,NA,NA,NA,NA,NA,253,0.096,county
+meae.congressional.congress19.ma.county,mas_plymouth,25023,"13, 11",522,0.244,NA,NA,64,0.03,NA,NA,NA,NA,NA,NA,1520,0.711,NA,NA,NA,NA,NA,NA,31,0.015,county
+meae.congressional.congress19.ma.county,mas_suffolk,25025,"2, 1",3669,0.987,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,45,0.012,NA,NA,NA,NA,NA,NA,3,0.001,county
+meae.congressional.congress19.ma.county,mas_worcester,25027,"6, 5",1899,0.414,NA,NA,1393,0.304,NA,NA,NA,NA,NA,NA,1271,0.277,NA,NA,NA,NA,NA,NA,26,0.006,county
 meae.congressional.congress19.md.county,mds_calvert,24009,1,678,0.999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.001,county
 meae.congressional.congress19.md.county,mds_charles,24017,1,1401,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress19.md.county,mds_stmarys,24037,1,1221,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
