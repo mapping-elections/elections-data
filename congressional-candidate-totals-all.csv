@@ -4543,21 +4543,21 @@ nc.uscongress7.1821,CJ0545,John Culpepper,A01,Federalist,3045
 nc.uscongress8.1821,CJ0586,Josiah Crudup,A03,Democratic-Republican,NA
 nc.uscongress8.1821,SJ0859,John Scott,A01,Federalist,NA
 nc.uscongress9.1821,SR0176,Romulus M. Saunders,A03,Democratic-Republican,NA
-nc.uscongress1.1823,GA0047,Alfred M. Gatlin,A03,Democratic-Republican,2407
+nc.uscongress1.1823,GA0047,Alfred M. Gatlin,A06,Crawford,2407
 nc.uscongress1.1823,SL0032,Lemuel Sawyer,A03,Democratic-Republican,2139
 nc.uscongress10.1823,LJ0271,John Long,A06,Crawford,3308
 nc.uscongress10.1823,MJ0616,John MacClelland,NA,NA,1640
 nc.uscongress11.1823,CH0119,Henry W. Conner,A08,Jacksonian,2828
 nc.uscongress11.1823,DW0128,William Davidson,A01,Federalist,1831
-nc.uscongress12.1823,VR0007,Robert B. Vance,A08,Jacksonian,1913
+nc.uscongress12.1823,VR0007,Robert B. Vance,A03,Democratic-Republican,1913
 nc.uscongress12.1823,WF0041,Felix Walker,A03,Democratic-Republican,1913
 nc.uscongress12.1823,RH0042,Hodge Rabon,NA,NA,NA
 nc.uscongress12.1823,WG0069,George Walton,NA,NA,NA
-nc.uscongress13.1823,WL0047,Lewis Williams,A01,Federalist,NA
+nc.uscongress13.1823,WL0047,Lewis Williams,A06,Crawford,NA
 nc.uscongress13.1823,SM0089,Montford Stokes,A03,Democratic-Republican,NA
 nc.uscongress2.1823,BH0084,Hutchins G. Burton,A06,Crawford,NA
 nc.uscongress2.1823,DJ0366,Jesse A. Dawson,NA,NA,NA
-nc.uscongress3.1823,HT0135,Thomas H. Hall,A03,Democratic-Republican,2483
+nc.uscongress3.1823,HT0135,Thomas H. Hall,A06,Crawford,2483
 nc.uscongress3.1823,CW0182,William Clark,A01,Federalist,2273
 nc.uscongress4.1823,SR0172,Richard D. Spaight,A06,Crawford,NA
 nc.uscongress5.1823,HC0086,Charles Hooks,A06,Crawford,NA
@@ -4568,7 +4568,7 @@ nc.uscongress7.1823,CJ0545,John Culpepper,A07,Adams/Clay,3074
 nc.uscongress7.1823,MA0184,Alexander MacNeil,NA,NA,2969
 nc.uscongress8.1823,MW0251,Willie P. Mangum,A08,Jacksonian,2523
 nc.uscongress8.1823,BD0102,Daniel L. Barringer,A08,Jacksonian,1729
-nc.uscongress9.1823,SR0176,Romulus S. Sanders,A03,Democratic-Republican,3821
+nc.uscongress9.1823,SR0176,Romulus S. Sanders,A06,Crawford,3821
 nc.uscongress1.1825,SL0032,Lemuel Sawyer,A03,Anti-Caucus,2483
 nc.uscongress1.1825,GA0047,Alfred M. Gatlin,A07,Caucus,1671
 nc.uscongress10.1825,LJ0271,"John Long, Jr.",A07,Caucus,3246
@@ -10848,7 +10848,7 @@ tn.congress.3rd.1825,MJ1383,James C. Mitchell,A08,Jacksonian,4332
 tn.congress.3rd.1825,SJ0195,James Standifer,A08,Jacksonian,3793
 tn.congress.4th.1825,IJ0062,Jacob C. Isacks,A08,Jacksonian,3406
 tn.congress.5th.1825,AR0060,Robert Allen,A08,Jacksonian,NA
-tn.congress.6th.1825,PJ0736,James K. Polk,NA,Democrat,3659
+tn.congress.6th.1825,PJ0736,James K. Polk,NA,Jacksonian,3659
 tn.congress.6th.1825,EA0049,Andrew Erwin,NA,NA,2742
 tn.congress.6th.1825,BL0071,Lunsford M. Bramlett,NA,NA,2347
 tn.congress.6th.1825,SJ1542,James Sandford,A08,Jacksonian,1508
@@ -11582,25 +11582,25 @@ va.uscongress.9.1821,BM0097,Moore F. Brockenbrough,NA,NA,NA
 va.uscongress.9.1821,GD0072,David Garland,NA,NA,NA
 va.uscongress.9.1821,TW0154,William Taliaferro,NA,NA,NA
 va.uscongress.9.1821,MW0437,William Middleton,NA,NA,NA
-va.congress.1.1823,NT0024,Thomas Newton,A03,Democratic-Republican,NA
+va.congress.1.1823,NT0024,Thomas Newton,A07,Adams/Clay,NA
 va.congress.1.1823,LG0080,George Loyall,A03,Democratic-Republican,NA
 va.congress.1.1823,LR0091,Robert Lively,A03,Democratic-Republican,NA
 va.congress.1.1823,CS0244,Samuel Colton,A03,Democratic-Republican,NA
 va.congress.1.1823,MD0160,David Murray,A03,Democratic-Republican,NA
 va.congress.1.1823,HG0132,George Hope,A03,Democratic-Republican,NA
 va.congress.10.1823,RW0192,William C. Rives,A03,Democratic-Republican,NA
-va.congress.11.1823,BP0115,Philip P. Barbour,A03,Democratic-Republican,NA
-va.congress.12.1823,GR0068,Robert S. Garnett,A03,Democratic-Republican,1092
+va.congress.11.1823,BP0115,Philip P. Barbour,A06,Crawford,NA
+va.congress.12.1823,GR0068,Robert S. Garnett,A06,Crawford,1092
 va.congress.12.1823,UE0002,Edwin Upshaw,A01,Federalist,358
 va.congress.12.1823,CA0237,Abner Cox,NA,NA,NA
-va.congress.13.1823,BW0447,William Lee Ball,A03,Democratic-Republican,NA
+va.congress.13.1823,BW0447,William Lee Ball,A06,Crawford,NA
 va.congress.13.1823,CJ0974,John Clowning,NA,NA,NA
 va.congress.13.1823,CE0166,Ellyson Currie,NA,NA,NA
 va.congress.13.1823,HJ1317,John W. Hungerford,NA,NA,NA
 va.congress.13.1823,NA,scattering,NA,NA,NA
-va.congress.14.1823,MC0088,Charles F. Mercer,A01,Federalist,774
+va.congress.14.1823,MC0088,Charles F. Mercer,A06,Crawford,774
 va.congress.14.1823,BS0272,Sydnor Bailey,A03,Democratic-Republican,720
-va.congress.15.1823,BJ1516,John S. Barbour,A03,Democratic-Republican,578
+va.congress.15.1823,BJ1516,John S. Barbour,A06,Crawford,578
 va.congress.15.1823,MT0187,Thomas Marshall,A01,Federalist,535
 va.congress.15.1823,BT0207,Thomas Brown,A03,Democratic-Republican,206
 va.congress.16.1823,SJ1474,James Stephenson,A01,Federalist,NA
@@ -11608,75 +11608,75 @@ va.congress.16.1823,NA,scattering,NA,NA,NA
 va.congress.17.1823,WJ1022,Jared Williams,A03,Democratic-Republican,811
 va.congress.17.1823,PA0123,Alfred H. Powell,A01,Federalist,661
 va.congress.17.1823,KS0046,Samuel Kercheval,A03,Democratic-Republican,176
-va.congress.18.1823,JJ0298,Joseph Johnson,A03,Democratic-Republican,1679
+va.congress.18.1823,JJ0298,Joseph Johnson,A08,Jacksonian,1679
 va.congress.18.1823,DP0050,Phillip Doddridge,A01,Federalist,1104
 va.congress.18.1823,DE0083,Edwin S. Duncan,A03,Democratic-Republican,71
 va.congress.18.1823,BJ1399,Jeremiah Browning,A03,Democratic-Republican,30
-va.congress.19.1823,MW0392,William MacCoy,A03,Democratic-Republican,NA
-va.congress.2.1823,SA0289,Arthur Smith,A03,Democratic-Republican,NA
-va.congress.20.1823,FJ0482,John Floyd,A03,Democratic-Republican,NA
-va.congress.21.1823,SW0387,William Smith,A01,Federalist,1648
+va.congress.19.1823,MW0392,William MacCoy,A06,Crawford,NA
+va.congress.2.1823,SA0289,Arthur Smith,A06,Crawford,NA
+va.congress.20.1823,FJ0482,John Floyd,A06,Crawford,NA
+va.congress.21.1823,SW0387,William Smith,A06,Crawford,1648
 va.congress.21.1823,BJ1396,James M. Beale,A03,Democratic-Republican,937
 va.congress.21.1823,MI0068,Isaac Morris,A03,Democratic-Republican,261
 va.congress.21.1823,BR0179,Robert Bailey,A03,Democratic-Republican,92
 va.congress.21.1823,HJ1164,John Haymond,A03,Democratic-Republican,29
-va.congress.22.1823,SA0299,Alexander Smyth,A03,Democratic-Republican,1600
+va.congress.22.1823,SA0299,Alexander Smyth,A06,Crawford,1600
 va.congress.22.1823,EB0023,Benjamin Estill,A01,Federalist,1277
 va.congress.3.1823,AW0165,William S. Archer,A03,Democratic-Republican,NA
-va.congress.4.1823,AM0013,Mark Alexander,A03,Democratic-Republican,NA
+va.congress.4.1823,AM0013,Mark Alexander,A06,Crawford,NA
 va.congress.5.1823,RJ0610,John Randolph,A03,Democratic-Republican,NA
 va.congress.6.1823,TG0062,George Tucker,A03,Democratic-Republican,NA
-va.congress.7.1823,LJ0553,Jabez Leftwich,A03,Democratic-Republican,1463
+va.congress.7.1823,LJ0553,Jabez Leftwich,A06,Crawford,1463
 va.congress.7.1823,CN0061,Nathaniel H. Claiborne,A03,Democratic-Republican,1144
-va.congress.8.1823,BB0099,Burwell Bassett,A03,Democratic-Republican,1051
+va.congress.8.1823,BB0099,Burwell Bassett,A06,Crawford,1051
 va.congress.8.1823,UA0004,Abel P. Upshur,A01,Federalist,749
 va.congress.8.1823,AR0063,Robert Anderson,A01,Federalist,4
 va.congress.8.1823,NA,scattering,NA,NA,2
-va.congress.9.1823,SA0291,Andrew Stevenson,A03,Democratic-Republican,NA
-va.congress.1.1825,NT0024,Thomas Newton,A03,Democratic-Republican,NA
+va.congress.9.1823,SA0291,Andrew Stevenson,A06,Crawford,NA
+va.congress.1.1825,NT0024,Thomas Newton,A07,Adams/Clay,NA
 va.congress.10.1825,RW0192,William C. Rives,A03,Democratic-Republican,NA
-va.congress.11.1825,TR0090,Robert Taylor,A03,Democratic-Republican,1294
+va.congress.11.1825,TR0090,Robert Taylor,A07,Adams/Clay,1294
 va.congress.11.1825,NA,scattering,NA,NA,NA
-va.congress.12.1825,GR0068,Robert S. Garnett,A03,Democratic-Republican,955
+va.congress.12.1825,GR0068,Robert S. Garnett,A08,Jacksonian,955
 va.congress.12.1825,UJ0017,John H. Upshaw,A01,Federalist,439
-va.congress.13.1825,TJ0538,John Taliaferro,A03,Democratic-Republican,747
+va.congress.13.1825,TJ0538,John Taliaferro,A07,Adams/Clay,747
 va.congress.13.1825,HJ1192,John Hooe,A01,Federalist,433
-va.congress.14.1825,MC0088,Charles F. Mercer,A01,Federalist,NA
-va.congress.15.1825,BJ1516,John S. Barbour,A03,Democratic-Republican,621
+va.congress.14.1825,MC0088,Charles F. Mercer,A07,Adams/Clay,NA
+va.congress.15.1825,BJ1516,John S. Barbour,A08,Jacksonian,621
 va.congress.15.1825,MT0187,Thomas Marshall,A01,Federalist,536
-va.congress.16.1825,AW0172,William Armstrong,A03,Democratic-Republican,1050
+va.congress.16.1825,AW0172,William Armstrong,A07,Adams/Clay,1050
 va.congress.16.1825,CE0182,Edward Colston,A01,Federalist,788
-va.congress.17.1825,PA0123,Alfred H. Powell,A01,Federalist,805
+va.congress.17.1825,PA0123,Alfred H. Powell,A07,Adams/Clay,805
 va.congress.17.1825,SW0374,William Steenbergen,A03,Democratic-Republican,412
 va.congress.17.1825,SA0316,Augustine C. Smith,A03,Democratic-Republican,390
 va.congress.17.1825,KS0046,Samuel Kercheval,A03,Democratic-Republican,261
 va.congress.17.1825,AR0064,Robert Allen,A03,Democratic-Republican,49
-va.congress.18.1825,JJ0298,Joseph Johnson,A03,Democratic-Republican,NA
+va.congress.18.1825,JJ0298,Joseph Johnson,A08,Jacksonian,NA
 va.congress.18.1825,DP0050,Philip Doddridge,A01,Federalist,NA
-va.congress.19.1825,MW0392,William MacCoy,A03,Democratic-Republican,1481
+va.congress.19.1825,MW0392,William MacCoy,A08,Jacksonian,1481
 va.congress.19.1825,SD0212,Daniel Sheffey,A01,Federalist,529
-va.congress.2.1825,TJ0532,James Trezvant,A03,Democratic-Republican,1150
+va.congress.2.1825,TJ0532,James Trezvant,A08,Jacksonian,1150
 va.congress.2.1825,ER0057,Richard Eppes,A03,Democratic-Republican,469
-va.congress.20.1825,FJ0482,John Floyd,A03,Democratic-Republican,NA
+va.congress.20.1825,FJ0482,John Floyd,A08,Jacksonian,NA
 va.congress.20.1825,TA0075,Allen Taylor,A01,Federalist,NA
-va.congress.21.1825,SW0387,William Smith,A01,Federalist,NA
+va.congress.21.1825,SW0387,William Smith,A08,Jacksonian,NA
 va.congress.21.1825,LJ0589,Joseph Lovell,A03,Democratic-Republican,NA
-va.congress.22.1825,EB0023,Benjamin Estill,A01,Federalist,1816
+va.congress.22.1825,EB0023,Benjamin Estill,A07,Adams/Clay,1816
 va.congress.22.1825,CJ0930,Joseph Crockett,A03,Democratic-Republican,987
 va.congress.22.1825,GW0126,William A. Graham,A03,Democratic-Republican,281
 va.congress.3.1825,AW0165,William S. Archer,A03,Democratic-Republican,NA
-va.congress.4.1825,AM0013,Mark Alexander,A03,Democratic-Republican,NA
-va.congress.5.1825,RJ0610,John Randolph,A03,Democratic-Republican,890
+va.congress.4.1825,AM0013,Mark Alexander,A08,Jacksonian,NA
+va.congress.5.1825,RJ0610,John Randolph,A08,Jacksonian,890
 va.congress.6.1825,DT0114,Thomas Davenport,A08,Jacksonian,1004
 va.congress.6.1825,LJ0598,James Lanier,NA,NA,422
 va.congress.6.1825,GB0071,Barzillai Graves,NA,NA,303
 va.congress.6.1825,UJ1066,John D. Urquhart,NA,NA,135
-va.congress.7.1825,CN0061,Nathaniel H. Claiborne,A03,Democratic-Republican,NA
+va.congress.7.1825,CN0061,Nathaniel H. Claiborne,A08,Jacksonian,NA
 va.congress.7.1825,LJ0553,Jabez Leftwich,A03,Democratic-Republican,NA
-va.congress.8.1825,BB0099,Burwell Bassett,A03,Democratic-Republican,1221
+va.congress.8.1825,BB0099,Burwell Bassett,A08,Jacksonian,1221
 va.congress.8.1825,JS0047,Servant Jones,A03,Democratic-Republican,58
 va.congress.8.1825,WR0127,Reuben Washer,A03,Democratic-Republican,2
-va.congress.9.1825,SA0291,Andrew Stevenson,A03,Democratic-Republican,1734
+va.congress.9.1825,SA0291,Andrew Stevenson,A08,Jacksonian,1734
 vt.uscongress.eastern.1791,NN0014,Nathaniel Niles,NA,NA,NA
 vt.uscongress.eastern.1791,JS0060,Stephen Jacob,NA,NA,NA
 vt.uscongress.eastern.1791,BD0212,Daniel Buck,NA,Federalist,NA
