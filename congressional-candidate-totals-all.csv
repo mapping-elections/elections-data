@@ -394,11 +394,11 @@ ct.uscongress.1823,WJ1020,Jonathan A. Welch,NA,NA,1
 ct.uscongress.1823,WA0224,Abel Wheeler,NA,Democratic-Republican,1
 ct.uscongress.1823,WL0084,Lemuel Whiting,NA,NA,1
 ct.uscongress.1825,TG0001,Gideon Tomlinson,NA,Democratic-Republican,6266
-ct.uscongress.1825,PE0012,Elisha Phelps,NA,Democratic-Republican,5934
-ct.uscongress.1825,IR0000,Ralph I. Ingersoll,NA,Democratic-Republican,5545
-ct.uscongress.1825,MO0000,Orange Merwin,NA,Democratic-Republican,5518
-ct.uscongress.1825,BN0014,Noyes Barber,NA,Democratic-Republican,4401
-ct.uscongress.1825,BJ1555,John Baldwin,NA,Democratic-Republican,3653
+ct.uscongress.1825,PE0012,Elisha Phelps,A07,Adams/Clay,5934
+ct.uscongress.1825,IR0000,Ralph I. Ingersoll,A07,Adams/Clay,5545
+ct.uscongress.1825,MO0000,Orange Merwin,A07,Adams/Clay,5518
+ct.uscongress.1825,BN0014,Noyes Barber,A07,Adams/Clay,4401
+ct.uscongress.1825,BJ1555,John Baldwin,A07,Adams/Clay,3653
 ct.uscongress.1825,BD0248,Daniel Burrows,NA,Democratic-Republican,1785
 ct.uscongress.1825,TE0007,Elisha Tracy,NA,Democratic-Republican,1491
 ct.uscongress.1825,PT0001,Timothy Pitkin,NA,Federalist,1315
@@ -3690,29 +3690,29 @@ md.uscongress8.1822,SJ0312,John S. Spence,A03,Democratic-Republican,2558
 md.uscongress8.1822,MJ0225,James Murray,A01,Federalist,1288
 md.uscongress8.1822,GR0074,Bob Griffith,NA,NA,1
 md.uscongress8.1822,HS0010,Samuel Heath,NA,NA,1
-md.uscongress1.1824,DC0019,Clement Dorsey,A01,Federalist,1824
+md.uscongress1.1824,DC0019,Clement Dorsey,A07,Adams/Clay,1824
 md.uscongress1.1824,NR0018,Raphael Neale,A01,Federalist,1476
 md.uscongress1.1824,WN0002,Nicholas Williams,NA,NA,1
 md.uscongress2.1824,KJ0034,Joseph Kent,A03,Democratic-Republican,1908
 md.uscongress2.1824,WJ0206,John C. Weems,A01,Federalist,1741
-md.uscongress3.1824,PG0031,George Peter,A03,Democratic-Republican,1602
+md.uscongress3.1824,PG0031,George Peter,A08,Jacksonian,1602
 md.uscongress3.1824,WG0023,George C. Washington,A01,Federalist,1448
 md.uscongress3.1824,WH0013,Henry R. Warfield,A01,Federalist,1226
 md.uscongress4.1824,WT0053,Thomas C. Worthington,A03,Democratic-Republican,4321
 md.uscongress4.1824,LJ0093,John Lee,A01,Federalist,3491
 md.uscongress4.1824,BU0002,Upton Bruce,NA,NA,13
 md.uscongress4.1824,NA0013,Alexander Neill,NA,NA,1
-md.uscongress5.1824,LP0015,Peter Little,A03,Democratic-Republican,9686
-md.uscongress5.1824,BJ0397,John Barney,A03,Democratic-Republican,5515
+md.uscongress5.1824,LP0015,Peter Little,A07,Adams/Clay,9686
+md.uscongress5.1824,BJ0397,John Barney,A07,Adams/Clay,5515
 md.uscongress5.1824,MI0017,Isaac MacKim,A03,Democratic-Republican,5346
-md.uscongress6.1824,MG0025,George E. Mitchell,A03,Democratic-Republican,2854
+md.uscongress6.1824,MG0025,George E. Mitchell,A08,Jacksonian,2854
 md.uscongress6.1824,RP0009,Philip Reed,A01,Federalist,2433
 md.uscongress6.1824,RJ0050,John A. Robertson,NA,NA,8
 md.uscongress6.1824,MJ0297,Joseph Mitchell,NA,NA,NA
 md.uscongress6.1824,RW0020,William A. Robertson,NA,NA,NA
 md.uscongress7.1824,KJ0030,John Leeds Kerr,A01,Federalist,1950
 md.uscongress7.1824,ET0007,Thomas Emory,A03,Democratic-Republican,1924
-md.uscongress8.1824,MR0053,Robert N. Martin,A01,Federalist,3088
+md.uscongress8.1824,MR0053,Robert N. Martin,A07,Adams/Clay,3088
 md.uscongress8.1824,SJ0312,John Spence,A03,Democratic-Republican,2858
 me.uscongress1.1820,DJ0174,Joseph Dane,A01,Federalist,955
 me.uscongress1.1820,RA0016,Alexander Rice,A03,Democratic-Republican,700
@@ -10244,53 +10244,53 @@ pa.congress.9.1822,BE0104,Ebenezer G. Bradford,NA,NA,NA
 pa.congress.9.1822,MG0061,Garrick Mallory,NA,NA,NA
 pa.congress.1.1824,WJ0860,John Wurts,A01,Federalist,1221
 pa.congress.1.1824,SJ1275,Joel B. Sutherland,A03,Democratic-Republican,1124
-pa.congress.10.1824,MJ1038,James S. Mitchell,A03,Democratic-Republican,4260
+pa.congress.10.1824,MJ1038,James S. Mitchell,A08,Jacksonian,4260
 pa.congress.11.1824,WJ0898,James Wilson,A03,Democratic-Republican,5929
-pa.congress.11.1824,FJ0394,John Findlay,A03,Democratic-Republican,5693
+pa.congress.11.1824,FJ0394,John Findlay,A08,Jacksonian,5693
 pa.congress.11.1824,RJ0572,James Reily,NA,NA,176
 pa.congress.11.1824,FD0036,David Fullerton,NA,NA,143
 pa.congress.11.1824,WI0064,Isaac Weirman,NA,NA,99
 pa.congress.11.1824,KJ0360,John King,NA,NA,98
 pa.congress.11.1824,AS0065,S. Alexander,A01,Federalist,88
 pa.congress.11.1824,KD0050,D. R. Keller,A01,Federalist,86
-pa.congress.12.1824,MJ1130,John Mitchell,A03,Democratic-Republican,2731
+pa.congress.12.1824,MJ1130,John Mitchell,A08,Jacksonian,2731
 pa.congress.12.1824,BJ1047,John Brown,A03,Democratic-Republican,2644
 pa.congress.12.1824,AR0051,Robert Allison,A03,Democratic-Republican,1982
 pa.congress.13.1824,TA0068,Alexander Thomson,A03,Democratic-Republican,2723
-pa.congress.14.1824,SA0254,Andrew Stewart,A03,Democratic-Republican,2719
-pa.congress.15.1824,LJ0456,Joseph Lawrence,A03,Democratic-Republican,2082
-pa.congress.16.1824,AJ0332,James Allison,A03,Democratic-Republican,3327
-pa.congress.16.1824,SJ1347,James S. Stevenson,A03,Democratic-Republican,3307
+pa.congress.14.1824,SA0254,Andrew Stewart,A08,Jacksonian,2719
+pa.congress.15.1824,LJ0456,Joseph Lawrence,A07,Adams/Clay,2082
+pa.congress.16.1824,AJ0332,James Allison,A08,Jacksonian,3327
+pa.congress.16.1824,SJ1347,James S. Stevenson,A08,Jacksonian,3307
 pa.congress.16.1824,MR0144,Robert Moore,A03,Democratic-Republican,2931
 pa.congress.16.1824,FW0098,Walter Forward,A01,Federalist,2722
 pa.congress.16.1824,NJ0115,John Negley,A03,Democratic-Republican,1469
 pa.congress.16.1824,SG0153,George Sutton,A03,Democratic-Republican,1343
-pa.congress.17.1824,PG0067,George Plumer,A03,Democratic-Republican,2786
+pa.congress.17.1824,PG0067,George Plumer,A08,Jacksonian,2786
 pa.congress.17.1824,WJ0866,John H. Wise,A01,Federalist,1991
-pa.congress.18.1824,FP0028,Patrick Farrelly,A03,Democratic-Republican,4137
+pa.congress.18.1824,FP0028,Patrick Farrelly,A08,Jacksonian,4137
 pa.congress.18.1824,WS0171,Samuel Williamson,A03,Democratic-Republican,1005
-pa.congress.2.1824,HJ0774,Joseph Hemphill,A01,Federalist,2196
+pa.congress.2.1824,HJ0774,Joseph Hemphill,A08,Jacksonian,2196
 pa.congress.2.1824,DW0162,William J. Duane,A03,Democratic-Republican,1620
-pa.congress.3.1824,MD0183,Daniel H. Miller,A03,Democratic-Republican,2131
+pa.congress.3.1824,MD0183,Daniel H. Miller,A08,Jacksonian,2131
 pa.congress.3.1824,DS0159,Stephen Duncan,A01,Federalist,1163
 pa.congress.3.1824,SJ1092,Jacob Shearer,A03,Democratic-Republican,528
-pa.congress.4.1824,BJ1089,James Buchanan,A01,Federalist,6968
-pa.congress.4.1824,ES0034,Samuel Edwards,A01,Federalist,6802
-pa.congress.4.1824,MC0051,Charles Miner,A01,Federalist,6756
+pa.congress.4.1824,BJ1089,James Buchanan,A01,Democratic-Republican,6968
+pa.congress.4.1824,ES0034,Samuel Edwards,A08,Jacksonian,6802
+pa.congress.4.1824,MC0051,Charles Miner,A07,Adams/Clay,6756
 pa.congress.4.1824,BI0041,Isaac D. Barnard,A03,Democratic-Republican,6129
 pa.congress.4.1824,AW0142,William Anderson,A03,Democratic-Republican,6098
 pa.congress.4.1824,HS0223,Samuel Houston,A03,Democratic-Republican,6028
-pa.congress.5.1824,MP0124,Philip S. Markley,A03,Democratic-Republican,1817
-pa.congress.6.1824,HR0184,Robert Harris,A03,Democratic-Republican,2773
+pa.congress.5.1824,MP0124,Philip S. Markley,A07,Adams/Clay,1817
+pa.congress.6.1824,HR0184,Robert Harris,A08,Jacksonian,2773
 pa.congress.6.1824,GC0068,Christian Gleim,A01,Federalist,1652
-pa.congress.7.1824,AW0109,William Adams,A03,Democratic-Republican,3790
+pa.congress.7.1824,AW0109,William Adams,A08,Jacksonian,3790
 pa.congress.7.1824,WH0095,Henry Wilson,A03,Democratic-Republican,3722
 pa.congress.7.1824,KG0037,George Keck,A01,Federalist,2083
 pa.congress.7.1824,RD0055,Daniel Rose,A01,Federalist,2009
-pa.congress.8.1824,IS0001,Samuel D. Ingham,A03,Democratic-Republican,4982
-pa.congress.8.1824,WG0097,George Wolf,A03,Democratic-Republican,4962
-pa.congress.9.1824,MS0187,Samuel MacKean,A03,Democratic-Republican,10685
-pa.congress.9.1824,KG0025,George Kremer,A03,Democratic-Republican,10586
+pa.congress.8.1824,IS0001,Samuel D. Ingham,A08,Jacksonian,4982
+pa.congress.8.1824,WG0097,George Wolf,A08,Jacksonian,4962
+pa.congress.9.1824,MS0187,Samuel MacKean,A08,Jacksonian,10685
+pa.congress.9.1824,KG0025,George Kremer,A08,Jacksonian,10586
 pa.congress.9.1824,VE0023,Espy Van Horn,A03,Democratic-Republican,7295
 pa.congress.9.1824,EW0059,William Cox Ellis,A01,Federalist,5702
 ri.uscongress1.1790,BB0013,Benjamin Bourne,A01,Federalist,NA
@@ -10375,8 +10375,8 @@ ri.uscongress.1820,NA,scattering,NA,NA,66
 ri.uscongress.1822,DJ0538,Job Durfree,A03,Democratic-Republican,1446
 ri.uscongress.1822,ES0042,Samuel Eddy,A03,Democratic-Republican,1417
 ri.uscongress.1822,NA,scattering,NA,NA,31
-ri.uscongress.1825,BT0010,Tristam Burges,A03,Democratic-Republican,2932
-ri.uscongress.1825,PD0002,Dutee J. Pearce,A03,Democratic-Republican,2534
+ri.uscongress.1825,BT0010,Tristam Burges,A07,Adams/Clay,2932
+ri.uscongress.1825,PD0002,Dutee J. Pearce,A07,Adams/Clay,2534
 ri.uscongress.1825,DJ0538,Job Durfee,A03,Democratic-Republican,2468
 ri.uscongress.1825,ES0042,Samuel Eddy,A03,Democratic-Republican,2121
 ri.uscongress.1825,HW0370,William Hunter,A03,Democratic-Republican,364
@@ -11588,7 +11588,7 @@ va.congress.1.1823,LR0091,Robert Lively,A03,Democratic-Republican,NA
 va.congress.1.1823,CS0244,Samuel Colton,A03,Democratic-Republican,NA
 va.congress.1.1823,MD0160,David Murray,A03,Democratic-Republican,NA
 va.congress.1.1823,HG0132,George Hope,A03,Democratic-Republican,NA
-va.congress.10.1823,RW0192,William C. Rives,A03,Democratic-Republican,NA
+va.congress.10.1823,RW0192,William C. Rives,A08,Jacksonian,NA
 va.congress.11.1823,BP0115,Philip P. Barbour,A06,Crawford,NA
 va.congress.12.1823,GR0068,Robert S. Garnett,A06,Crawford,1092
 va.congress.12.1823,UE0002,Edwin Upshaw,A01,Federalist,358
@@ -11634,7 +11634,7 @@ va.congress.8.1823,AR0063,Robert Anderson,A01,Federalist,4
 va.congress.8.1823,NA,scattering,NA,NA,2
 va.congress.9.1823,SA0291,Andrew Stevenson,A06,Crawford,NA
 va.congress.1.1825,NT0024,Thomas Newton,A07,Adams/Clay,NA
-va.congress.10.1825,RW0192,William C. Rives,A03,Democratic-Republican,NA
+va.congress.10.1825,RW0192,William C. Rives,A08,Jacksonian,NA
 va.congress.11.1825,TR0090,Robert Taylor,A07,Adams/Clay,1294
 va.congress.11.1825,NA,scattering,NA,NA,NA
 va.congress.12.1825,GR0068,Robert S. Garnett,A08,Jacksonian,955
@@ -12723,7 +12723,7 @@ vt.uscongress.1822,WJ0790,Joseph Warner,NA,NA,1
 vt.uscongress.1822,WS0217,Samuel C. White,NA,NA,1
 vt.uscongress.1822,WL0006,Lemuel Whitney,NA,NA,1
 vt.uscongress.1822,NA,scattering,NA,NA,12
-vt.uscongress1.2.1824,BW0418,William C. Bradley,A03,Democratic-Republican,1741
+vt.uscongress1.2.1824,BW0418,William C. Bradley,A07,Adams/Clay,1741
 vt.uscongress1.2.1824,WP0105,Phineas White,A01,Federalist,980
 vt.uscongress1.2.1824,RM0056,Mark Richards,NA,NA,NA
 vt.uscongress1.2.1824,MO0010,Orsamus C. Merrill,A03,Democratic-Republican,NA
@@ -12735,7 +12735,7 @@ vt.uscongress1.2.1824,HW0333,William Hall,NA,Federalist,NA
 vt.uscongress1.2.1824,HJ0949,Jonathan Hunt,NA,NA,NA
 vt.uscongress1.2.1824,PS0190,"Stephen Pratt, Jr.",NA,NA,NA
 vt.uscongress1.2.1824,NA,scattering,NA,NA,10
-vt.uscongress2.1824,MR0206,Rollin C. Mallory,A03,Democratic-Republican,3284
+vt.uscongress2.1824,MR0206,Rollin C. Mallory,A07,Adams/Clay,3284
 vt.uscongress2.1824,WC0090,Charles K. Williams,A03,Democratic-Republican,74
 vt.uscongress2.1824,RC0058,Charles Rich,A03,Democratic-Republican,32
 vt.uscongress2.1824,RJ0520,John Rawson,NA,NA,5
@@ -12798,7 +12798,7 @@ vt.uscongress3.1824,SE0178,Edward Simons,NA,NA,1
 vt.uscongress3.1824,TW0173,William Thayer,NA,NA,1
 vt.uscongress3.1824,WE0178,Ebenezer E. Wales,NA,NA,1
 vt.uscongress3.1824,WP0105,Phineas White,NA,NA,1
-vt.uscongress4.1824,ME0130,Ezra Meech,A03,Democratic-Republican,3095
+vt.uscongress4.1824,ME0130,Ezra Meech,A07,Adams/Clay,3095
 vt.uscongress4.1824,SB0127,Benjamin Swift,A03,Democratic-Republican,1836
 vt.uscongress4.1824,RS0121,"Stephen Royce, Jr.",A03,Democratic-Republican,409
 vt.uscongress4.1824,AH0032,Heman Allen,A01,Federalist,204
@@ -12852,7 +12852,7 @@ vt.uscongress4.1824,WA0209,Alfred Wheeler,NA,NA,1
 vt.uscongress4.1824,WZ0002,Zerah Willoughby,NA,NA,1
 vt.uscongress4.1824,YA0011,Augustus Young,NA,NA,1
 vt.uscongress4.1824,NA,scattering,NA,NA,6
-vt.uscongress5.1824,MJ1397,John Mattocks,A01,Federalist,2629
+vt.uscongress5.1824,MJ1397,John Mattocks,A07,Adams/Clay,2629
 vt.uscongress5.1824,BD0173,Daniel Arzo A. Buck,A03,Democratic-Republican,2349
 vt.uscongress5.1824,CW0373,William Cahoon,A03,Democratic-Republican,23
 vt.uscongress5.1824,RB0038,Benjamin Rolfe,NA,NA,5
