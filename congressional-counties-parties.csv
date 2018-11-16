@@ -2904,13 +2904,13 @@ meae.congressional.congress09.tn.county,tns_williamson,47187,3,NA,NA,NA,NA,NA,1,
 meae.congressional.congress09.tn.county,tns_wilson,47189,3,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress09.va.county,city_richmond,NA,22,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress09.va.county,vas_accomack,51001,12,154,0.35,NA,NA,283,0.643,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.007,county
-meae.congressional.congress09.va.county,vas_albemarle,51003,21,NA,NA,NA,NA,503,0.782,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,140,0.218,county
+meae.congressional.congress09.va.county,vas_albemarle,51003,21,NA,NA,NA,NA,503,0.782,NA,NA,NA,NA,140,0.218,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress09.va.county,vas_amelia,51007,16,NA,NA,NA,NA,108,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress09.va.county,vas_amherst,51009,21,NA,NA,NA,NA,390,0.451,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,474,0.549,county
+meae.congressional.congress09.va.county,vas_amherst,51009,21,NA,NA,NA,NA,390,0.451,NA,NA,NA,NA,474,0.549,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress09.va.county,vas_augusta,51015,4,NA,NA,NA,NA,627,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress09.va.county,vas_bath,51017,4,NA,NA,NA,NA,215,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress09.va.county,vas_bedford,51019,13,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
-meae.congressional.congress09.va.county,vas_botetourt,51023,5,NA,NA,NA,NA,273,0.968,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0.032,county
+meae.congressional.congress09.va.county,vas_botetourt,51023,5,NA,NA,NA,NA,273,0.968,NA,NA,NA,NA,9,0.032,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress09.va.county,vas_brunswick,51025,17,NA,NA,NA,NA,804,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress09.va.county,vas_buckingham,51029,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress09.va.county,vas_campbell,51031,14,165,0.432,NA,NA,217,0.568,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
@@ -2924,7 +2924,7 @@ meae.congressional.congress09.va.county,vas_elizabethcity,51055,12,NA,NA,NA,NA,N
 meae.congressional.congress09.va.county,vas_essex,51057,11,NA,NA,NA,NA,258,0.97,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0.03,county
 meae.congressional.congress09.va.county,vas_fairfax,51059,7,130,0.464,NA,NA,150,0.536,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress09.va.county,vas_fauquier,51061,9,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
-meae.congressional.congress09.va.county,vas_fluvanna,51065,21,NA,NA,NA,NA,282,0.834,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,56,0.166,county
+meae.congressional.congress09.va.county,vas_fluvanna,51065,21,NA,NA,NA,NA,282,0.834,NA,NA,NA,NA,56,0.166,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress09.va.county,vas_franklin,51067,13,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress09.va.county,vas_frederick,51069,3,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress09.va.county,vas_gloucester,51073,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
@@ -2941,7 +2941,7 @@ meae.congressional.congress09.va.county,vas_kinggeorge,51099,8,NA,NA,NA,NA,100,1
 meae.congressional.congress09.va.county,vas_lancaster,51103,8,NA,NA,NA,NA,158,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress09.va.county,vas_lee,51105,6,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress09.va.county,vas_loudoun,51107,7,515,0.65,NA,NA,277,0.35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress09.va.county,vas_louisa,51109,10,NA,NA,NA,NA,310,0.69,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,139,0.31,county
+meae.congressional.congress09.va.county,vas_louisa,51109,10,NA,NA,NA,NA,310,0.69,NA,NA,NA,NA,139,0.31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress09.va.county,vas_lunenburg,51111,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress09.va.county,vas_madison,51113,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress09.va.county,vas_mathews,51115,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
@@ -2954,7 +2954,7 @@ meae.congressional.congress09.va.county,vas_norfolk,51129,20,NA,NA,NA,NA,814,1,N
 meae.congressional.congress09.va.county,vas_northampton,51131,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress09.va.county,vas_northumberland,51133,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress09.va.county,vas_nottoway,51135,18,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
-meae.congressional.congress09.va.county,vas_orange,51137,10,NA,NA,NA,NA,103,0.254,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,302,0.746,county
+meae.congressional.congress09.va.county,vas_orange,51137,10,NA,NA,NA,NA,103,0.254,NA,NA,NA,NA,302,0.746,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress09.va.county,vas_patrick,51141,13,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress09.va.county,vas_pittsylvania,51143,14,59,0.063,NA,NA,871,0.937,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress09.va.county,vas_powhatan,51145,16,NA,NA,NA,NA,83,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
@@ -2963,12 +2963,12 @@ meae.congressional.congress09.va.county,vas_princegeorge,51149,18,NA,NA,NA,NA,NA
 meae.congressional.congress09.va.county,vas_princessanne,51151,20,NA,NA,NA,NA,197,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress09.va.county,vas_princewilliam,51153,7,74,0.292,NA,NA,179,0.708,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress09.va.county,vas_richmond,51159,8,9,0.065,NA,NA,128,0.928,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.007,county
-meae.congressional.congress09.va.county,vas_rockbridge,51163,5,NA,NA,NA,NA,251,0.89,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,0.11,county
+meae.congressional.congress09.va.county,vas_rockbridge,51163,5,NA,NA,NA,NA,251,0.89,NA,NA,NA,NA,31,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress09.va.county,vas_rockingham,51165,4,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress09.va.county,vas_russell,51167,6,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress09.va.county,vas_shenandoah,51171,3,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress09.va.county,vas_southampton,51175,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
-meae.congressional.congress09.va.county,vas_spotsylvania,51177,10,NA,NA,NA,NA,473,0.975,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,0.025,county
+meae.congressional.congress09.va.county,vas_spotsylvania,51177,10,NA,NA,NA,NA,473,0.975,NA,NA,NA,NA,12,0.025,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress09.va.county,vas_stafford,51179,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress09.va.county,vas_surry,51181,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress09.va.county,vas_sussex,51183,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,329,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
@@ -2985,10 +2985,10 @@ meae.congressional.congress09.va.county,wvs_hampshire,54027,2,NA,NA,NA,NA,NA,NA,
 meae.congressional.congress09.va.county,wvs_hardy,54031,4,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress09.va.county,wvs_harrison,54033,1,132,0.197,NA,NA,537,0.803,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress09.va.county,wvs_jefferson,54037,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress09.va.county,wvs_kanawha,54039,5,NA,NA,NA,NA,50,0.158,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,267,0.842,county
-meae.congressional.congress09.va.county,wvs_mason,54053,5,NA,NA,NA,NA,45,0.978,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.022,county
+meae.congressional.congress09.va.county,wvs_kanawha,54039,5,NA,NA,NA,NA,50,0.158,NA,NA,NA,NA,267,0.842,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress09.va.county,wvs_mason,54053,5,NA,NA,NA,NA,45,0.978,NA,NA,NA,NA,1,0.022,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress09.va.county,wvs_monongalia,54061,1,409,0.744,NA,NA,141,0.256,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress09.va.county,wvs_monroe,54063,5,NA,NA,NA,NA,167,0.453,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,202,0.547,county
+meae.congressional.congress09.va.county,wvs_monroe,54063,5,NA,NA,NA,NA,167,0.453,NA,NA,NA,NA,202,0.547,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress09.va.county,wvs_ohio,54069,1,131,0.475,NA,NA,145,0.525,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress09.va.county,wvs_pendleton,54071,4,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
 meae.congressional.congress09.va.county,wvs_randolph,54083,1,83,0.461,NA,NA,97,0.539,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
@@ -3106,17 +3106,17 @@ meae.congressional.congress10.md.county,mds_montgomery,24031,3,980,0.572,NA,NA,7
 meae.congressional.congress10.md.county,mds_allegany,24001,4,NA,NA,NA,NA,492,0.992,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.008,county
 meae.congressional.congress10.md.county,mds_washington,24043,4,NA,NA,NA,NA,1992,0.99,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,21,0.01,county
 meae.congressional.congress10.md.county,city_baltimore,NA,5,245,0.039,NA,NA,4935,0.78,NA,NA,NA,NA,1143,0.181,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.congressional.congress10.md.county,mds_cecil,24015,6,NA,NA,NA,NA,901,0.78,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,254,0.22,county
-meae.congressional.congress10.md.county,mds_harford,24025,6,NA,NA,NA,NA,833,0.446,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1035,0.554,county
-meae.congressional.congress10.md.county,mds_kent,24029,6,NA,NA,NA,NA,151,0.207,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,578,0.793,county
-meae.congressional.congress10.md.county,mds_caroline,24011,7,NA,NA,NA,NA,881,0.869,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,133,0.131,county
-meae.congressional.congress10.md.county,mds_queenannes,24035,7,NA,NA,NA,NA,597,0.592,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,412,0.408,county
-meae.congressional.congress10.md.county,mds_talbot,24041,7,NA,NA,NA,NA,1136,0.947,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,64,0.053,county
-meae.congressional.congress10.md.county,mds_dorchester,24019,8,1680,0.965,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,61,0.035,county
-meae.congressional.congress10.md.county,mds_somerset,24039,8,914,0.76,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,289,0.24,county
-meae.congressional.congress10.md.county,mds_worcester,24047,8,649,0.366,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1122,0.634,county
-meae.congressional.congress10.md.county,mds_frederick,24021,"3, 4",955,0.271,NA,NA,2442,0.694,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,122,0.035,county
-meae.congressional.congress10.md.county,mds_baltimore,24005,"5, 5",353,0.029,NA,NA,9723,0.801,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2063,0.17,county
+meae.congressional.congress10.md.county,mds_cecil,24015,6,NA,NA,NA,NA,901,0.78,NA,NA,NA,NA,254,0.22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress10.md.county,mds_harford,24025,6,NA,NA,NA,NA,833,0.446,NA,NA,NA,NA,1035,0.554,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress10.md.county,mds_kent,24029,6,NA,NA,NA,NA,151,0.207,NA,NA,NA,NA,540,0.741,NA,NA,NA,NA,NA,NA,NA,NA,38,0.052,county
+meae.congressional.congress10.md.county,mds_caroline,24011,7,NA,NA,NA,NA,881,0.869,NA,NA,NA,NA,133,0.131,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress10.md.county,mds_queenannes,24035,7,NA,NA,NA,NA,597,0.592,NA,NA,NA,NA,412,0.408,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress10.md.county,mds_talbot,24041,7,NA,NA,NA,NA,1136,0.947,NA,NA,NA,NA,62,0.052,NA,NA,NA,NA,NA,NA,NA,NA,2,0.002,county
+meae.congressional.congress10.md.county,mds_dorchester,24019,8,1680,0.965,NA,NA,NA,NA,NA,NA,NA,NA,60,0.034,NA,NA,NA,NA,NA,NA,NA,NA,1,0.001,county
+meae.congressional.congress10.md.county,mds_somerset,24039,8,914,0.76,NA,NA,NA,NA,NA,NA,NA,NA,284,0.236,NA,NA,NA,NA,NA,NA,NA,NA,5,0.004,county
+meae.congressional.congress10.md.county,mds_worcester,24047,8,649,0.366,NA,NA,NA,NA,NA,NA,NA,NA,1122,0.634,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress10.md.county,mds_frederick,24021,"3, 4",955,0.271,NA,NA,2442,0.694,NA,NA,NA,NA,122,0.035,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress10.md.county,mds_baltimore,24005,5,108,0.019,NA,NA,4788,0.823,NA,NA,NA,NA,920,0.158,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress10.nc.county,ncs_camden,37029,1,NA,NA,NA,NA,529,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress10.nc.county,ncs_chowan,37041,1,NA,NA,NA,NA,379,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.congressional.congress10.nc.county,ncs_currituck,37053,1,NA,NA,NA,NA,413,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
