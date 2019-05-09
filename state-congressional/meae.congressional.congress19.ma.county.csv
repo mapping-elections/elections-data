@@ -1,0 +1,15 @@
+meae_id,county_ahcb,county_fips,districts,federalist_vote,federalist_percentage,antifederalist_vote,antifederalist_percentage,demrep_vote,demrep_percentage,chesapeake_vote,chesapeake_percentage,potomac_vote,potomac_percentage,repfac_vote,repfac_percentage,adamsclay_vote,adamsclay_percentage,jacksonian_vote,jacksonian_percentage,anticaucus_vote,anticaucus_percentage,caucus_vote,caucus_percentage,other_vote,other_percentage,county_source
+meae.congressional.congress19.ma.county,mas_barnstable,25001,13,NA,NA,NA,NA,189,0.199,NA,NA,NA,NA,NA,NA,759,0.801,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress19.ma.county,mas_berkshire,25003,9,NA,NA,NA,NA,1336,0.444,NA,NA,NA,NA,NA,NA,1612,0.536,NA,NA,NA,NA,NA,NA,61,0.02,county
+meae.congressional.congress19.ma.county,mas_bristol,25005,"12, 11",NA,NA,NA,NA,1363,0.414,NA,NA,NA,NA,NA,NA,46,0.014,1778,0.54,NA,NA,NA,NA,104,0.032,county
+meae.congressional.congress19.ma.county,mas_dukes,25007,13,NA,NA,NA,NA,46,0.554,NA,NA,NA,NA,NA,NA,37,0.446,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress19.ma.county,mas_essex,25009,"3, 2",2340,0.438,NA,NA,1420,0.266,NA,NA,NA,NA,NA,NA,1334,0.25,NA,NA,NA,NA,NA,NA,251,0.047,county
+meae.congressional.congress19.ma.county,mas_franklin,25011,7,NA,NA,NA,NA,1172,0.478,NA,NA,NA,NA,NA,NA,1253,0.511,NA,NA,NA,NA,NA,NA,27,0.011,county
+meae.congressional.congress19.ma.county,mas_hampden,25013,8,NA,NA,NA,NA,1105,0.486,NA,NA,NA,NA,NA,NA,1101,0.484,NA,NA,NA,NA,NA,NA,67,0.029,county
+meae.congressional.congress19.ma.county,mas_hampshire,25015,"9, 7, 8",NA,NA,NA,NA,409,0.202,NA,NA,NA,NA,NA,NA,1602,0.793,NA,NA,NA,NA,NA,NA,9,0.004,county
+meae.congressional.congress19.ma.county,mas_middlesex,25017,"3, 4, 10, 6",327,0.069,NA,NA,3768,0.792,NA,NA,NA,NA,NA,NA,566,0.119,NA,NA,NA,NA,NA,NA,97,0.02,county
+meae.congressional.congress19.ma.county,mas_nantucket,25019,13,NA,NA,NA,NA,458,0.863,NA,NA,NA,NA,NA,NA,73,0.137,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress19.ma.county,mas_norfolk,25021,"10, 11",31,0.012,NA,NA,771,0.293,NA,NA,NA,NA,NA,NA,1576,0.599,NA,NA,NA,NA,NA,NA,253,0.096,county
+meae.congressional.congress19.ma.county,mas_plymouth,25023,"13, 11",522,0.244,NA,NA,64,0.03,NA,NA,NA,NA,NA,NA,1520,0.711,NA,NA,NA,NA,NA,NA,31,0.015,county
+meae.congressional.congress19.ma.county,mas_suffolk,25025,"2, 1",3669,0.987,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,45,0.012,NA,NA,NA,NA,NA,NA,3,0.001,county
+meae.congressional.congress19.ma.county,mas_worcester,25027,"6, 5",1899,0.414,NA,NA,1393,0.304,NA,NA,NA,NA,NA,NA,1271,0.277,NA,NA,NA,NA,NA,NA,26,0.006,county

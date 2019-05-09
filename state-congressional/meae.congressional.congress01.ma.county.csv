@@ -1,0 +1,15 @@
+meae_id,county_ahcb,county_fips,districts,federalist_vote,federalist_percentage,antifederalist_vote,antifederalist_percentage,demrep_vote,demrep_percentage,chesapeake_vote,chesapeake_percentage,potomac_vote,potomac_percentage,repfac_vote,repfac_percentage,adamsclay_vote,adamsclay_percentage,jacksonian_vote,jacksonian_percentage,anticaucus_vote,anticaucus_percentage,caucus_vote,caucus_percentage,other_vote,other_percentage,county_source
+meae.congressional.congress01.ma.county,mas_barnstable,25001,5,149,0.993,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.007,county
+meae.congressional.congress01.ma.county,mas_berkshire,25003,4,1293,0.938,8,0.006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,78,0.057,county
+meae.congressional.congress01.ma.county,mas_bristol,25005,7,769,0.692,342,0.308,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.001,county
+meae.congressional.congress01.ma.county,mas_dukes,25007,7,38,0.633,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,22,0.367,county
+meae.congressional.congress01.ma.county,mas_essex,25009,2,2216,0.997,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0.003,county
+meae.congressional.congress01.ma.county,mas_hampshire,25015,4,3000,0.997,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0.002,county
+meae.congressional.congress01.ma.county,mas_middlesex,25017,3,206,0.11,1506,0.807,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,155,0.083,county
+meae.congressional.congress01.ma.county,mas_nantucket,25019,7,144,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress01.ma.county,mas_plymouth,25023,5,352,0.871,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,52,0.129,county
+meae.congressional.congress01.ma.county,mas_suffolk,25025,1,906,0.562,521,0.323,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,186,0.115,county
+meae.congressional.congress01.ma.county,mas_worcester,25027,8,256,0.072,1968,0.554,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1330,0.374,county
+meae.congressional.congress01.ma.county,mes_cumberland,23005,6,87,0.367,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,150,0.633,county
+meae.congressional.congress01.ma.county,mes_lincoln,23015,6,328,0.802,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,81,0.198,county
+meae.congressional.congress01.ma.county,mes_york,23031,6,173,0.573,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,129,0.427,county
