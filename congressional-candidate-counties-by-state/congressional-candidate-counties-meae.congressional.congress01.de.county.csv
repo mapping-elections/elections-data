@@ -1,0 +1,16 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress01.de.county,congressional,1,DE,county,state,de.uscongress.1789,Kent,des_kent,10001,"Clayton, Joshua",CJ0087,Federalist,272
+meae.congressional.congress01.de.county,congressional,1,DE,county,state,de.uscongress.1789,New Castle,des_newcastle,10003,"Clayton, Joshua",CJ0087,Federalist,0
+meae.congressional.congress01.de.county,congressional,1,DE,county,state,de.uscongress.1789,Sussex,des_sussex,10005,"Clayton, Joshua",CJ0087,Federalist,0
+meae.congressional.congress01.de.county,congressional,1,DE,county,state,de.uscongress.1789,Kent,des_kent,10001,"Vining, John",VJ0002,Federalist,332
+meae.congressional.congress01.de.county,congressional,1,DE,county,state,de.uscongress.1789,New Castle,des_newcastle,10003,"Vining, John",VJ0002,Federalist,52
+meae.congressional.congress01.de.county,congressional,1,DE,county,state,de.uscongress.1789,Sussex,des_sussex,10005,"Vining, John",VJ0002,Federalist,514
+meae.congressional.congress01.de.county,congressional,1,DE,county,state,de.uscongress.1789,Kent,des_kent,10001,"Bedford, Gunning, Jr.",BG0002,NA,48
+meae.congressional.congress01.de.county,congressional,1,DE,county,state,de.uscongress.1789,New Castle,des_newcastle,10003,"Bedford, Gunning, Jr.",BG0002,NA,162
+meae.congressional.congress01.de.county,congressional,1,DE,county,state,de.uscongress.1789,Sussex,des_sussex,10005,"Bedford, Gunning, Jr.",BG0002,NA,98
+meae.congressional.congress01.de.county,congressional,1,DE,county,state,de.uscongress.1789,Kent,des_kent,10001,"MacLean, Allen",MA0018,NA,0
+meae.congressional.congress01.de.county,congressional,1,DE,county,state,de.uscongress.1789,New Castle,des_newcastle,10003,"MacLean, Allen",MA0018,NA,90
+meae.congressional.congress01.de.county,congressional,1,DE,county,state,de.uscongress.1789,Sussex,des_sussex,10005,"MacLean, Allen",MA0018,NA,0
+meae.congressional.congress01.de.county,congressional,1,DE,county,state,de.uscongress.1789,Kent,des_kent,10001,"Shankland, Rhoads",SR0023,NA,0
+meae.congressional.congress01.de.county,congressional,1,DE,county,state,de.uscongress.1789,New Castle,des_newcastle,10003,"Shankland, Rhoads",SR0023,NA,0
+meae.congressional.congress01.de.county,congressional,1,DE,county,state,de.uscongress.1789,Sussex,des_sussex,10005,"Shankland, Rhoads",SR0023,NA,491

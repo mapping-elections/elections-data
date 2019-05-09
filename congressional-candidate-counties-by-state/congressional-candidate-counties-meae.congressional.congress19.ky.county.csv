@@ -1,0 +1,124 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress1.1824,Bath,kys_bath,21011,"Trimble, David",TD0023,Adams/Clay,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress1.1824,Fleming,kys_fleming,21069,"Trimble, David",TD0023,Adams/Clay,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress1.1824,Floyd,kys_floyd,21071,"Trimble, David",TD0023,Adams/Clay,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress1.1824,Greenup,kys_greenup,21089,"Trimble, David",TD0023,Adams/Clay,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress1.1824,Lawrence,kys_lawrence,21127,"Trimble, David",TD0023,Adams/Clay,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress1.1824,Lewis,kys_lewis,21135,"Trimble, David",TD0023,Adams/Clay,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress1.1824,Montgomery,kys_montgomery,21173,"Trimble, David",TD0023,Adams/Clay,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress1.1824,Morgan,kys_morgan,21175,"Trimble, David",TD0023,Adams/Clay,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress1.1824,Pike,kys_pike,21195,"Trimble, David",TD0023,Adams/Clay,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress10.1824,Allen,kys_allen,21003,"Johnson, Francis",JF0000,Adams/Clay,333
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress10.1824,Barren,kys_barren,21009,"Johnson, Francis",JF0000,Adams/Clay,882
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress10.1824,Logan,kys_logan,21141,"Johnson, Francis",JF0000,Adams/Clay,676
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress10.1824,Monroe,kys_monroe,21171,"Johnson, Francis",JF0000,Adams/Clay,355
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress10.1824,Simpson,kys_simpson,21213,"Johnson, Francis",JF0000,Adams/Clay,422
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress10.1824,Warren,kys_warren,21227,"Johnson, Francis",JF0000,Adams/Clay,879
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress10.1824,Allen,kys_allen,21003,"Slaughter, Robert F.",SR0044,NA,202
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress10.1824,Barren,kys_barren,21009,"Slaughter, Robert F.",SR0044,NA,243
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress10.1824,Logan,kys_logan,21141,"Slaughter, Robert F.",SR0044,NA,211
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress10.1824,Monroe,kys_monroe,21171,"Slaughter, Robert F.",SR0044,NA,197
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress10.1824,Simpson,kys_simpson,21213,"Slaughter, Robert F.",SR0044,NA,185
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress10.1824,Warren,kys_warren,21227,"Slaughter, Robert F.",SR0044,NA,472
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress11.1824,Henderson,kys_henderson,21101,"Calhoun, John",CJ0186,NA,71
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress11.1824,Henderson,kys_henderson,21101,NA,NA,NA,40
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress11.1824,Henderson,kys_henderson,21101,"Thompson, Philip",TP0009,Adams/Clay,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress11.1824,Henderson,kys_henderson,21101,"Walker, Francis E.",WF0033,NA,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress11.1824,Henderson,kys_henderson,21101,"Young, William S.",YW0000,Adams/Clay,340
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress12.1824,Caldwell,kys_caldwell,21033,"Henry, Robert P.",HR0031,Jacksonian,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress12.1824,Calloway,kys_calloway,21035,"Henry, Robert P.",HR0031,Jacksonian,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress12.1824,Christian,kys_christian,21047,"Henry, Robert P.",HR0031,Jacksonian,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress12.1824,Graves,kys_graves,21083,"Henry, Robert P.",HR0031,Jacksonian,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress12.1824,Hickman,kys_hickman,21105,"Henry, Robert P.",HR0031,Jacksonian,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress12.1824,Hopkins,kys_hopkins,21107,"Henry, Robert P.",HR0031,Jacksonian,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress12.1824,Livingston,kys_livingston,21139,"Henry, Robert P.",HR0031,Jacksonian,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress12.1824,Todd,kys_todd,21219,"Henry, Robert P.",HR0031,Jacksonian,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress12.1824,Trigg,kys_trigg,21221,"Henry, Robert P.",HR0031,Jacksonian,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress12.1824,Union,kys_union,21225,"Henry, Robert P.",HR0031,Jacksonian,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress2.1824,Bourbon,kys_bourbon,21017,"Metcalf, Thomas",MT0035,Adams/Clay,1717
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress2.1824,Bracken,kys_bracken,21023,"Metcalf, Thomas",MT0035,Adams/Clay,491
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress2.1824,Mason,kys_mason,21161,"Metcalf, Thomas",MT0035,Adams/Clay,926
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress2.1824,Nicholas,kys_nicholas,21181,"Metcalf, Thomas",MT0035,Adams/Clay,1129
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress2.1824,Bourbon,kys_bourbon,21017,"Reed, Walker",RW0032,NA,143
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress2.1824,Bracken,kys_bracken,21023,"Reed, Walker",RW0032,NA,57
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress2.1824,Mason,kys_mason,21161,"Reed, Walker",RW0032,NA,461
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress2.1824,Nicholas,kys_nicholas,21181,"Reed, Walker",RW0032,NA,22
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress2.1824,Bourbon,kys_bourbon,21017,"Worthington, William",WW0056,NA,30
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress2.1824,Bracken,kys_bracken,21023,"Worthington, William",WW0056,NA,28
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress2.1824,Mason,kys_mason,21161,"Worthington, William",WW0056,NA,155
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress2.1824,Nicholas,kys_nicholas,21181,"Worthington, William",WW0056,NA,21
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress3.1824,Clark,kys_clark,21049,"Clay, Henry",CH0035,Adams/Clay,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress3.1824,Fayette,kys_fayette,21067,"Clay, Henry",CH0035,Adams/Clay,1438
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress3.1824,Woodford,kys_woodford,21239,"Clay, Henry",CH0035,Adams/Clay,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress4.1824,Clay,kys_clay,21051,"Letcher, Robert P.",LR0005,Adams/Clay,256
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress4.1824,Estill,kys_estill,21065,"Letcher, Robert P.",LR0005,Adams/Clay,302
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress4.1824,Garrard,kys_garrard,21079,"Letcher, Robert P.",LR0005,Adams/Clay,1258
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress4.1824,Harlan,kys_harlan,21095,"Letcher, Robert P.",LR0005,Adams/Clay,276
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress4.1824,Knox,kys_knox,21121,"Letcher, Robert P.",LR0005,Adams/Clay,456
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress4.1824,Madison,kys_madison,21151,"Letcher, Robert P.",LR0005,Adams/Clay,334
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress4.1824,Perry,kys_perry,21193,"Letcher, Robert P.",LR0005,Adams/Clay,256
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress4.1824,Rockcastle,kys_rockcastle,21203,"Letcher, Robert P.",LR0005,Adams/Clay,431
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress4.1824,Whitley,kys_whitley,21235,"Letcher, Robert P.",LR0005,Adams/Clay,245
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress4.1824,Clay,kys_clay,21051,"Smith, John Speed",SJ0165,Democratic-Republican,132
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress4.1824,Estill,kys_estill,21065,"Smith, John Speed",SJ0165,Democratic-Republican,252
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress4.1824,Garrard,kys_garrard,21079,"Smith, John Speed",SJ0165,Democratic-Republican,93
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress4.1824,Harlan,kys_harlan,21095,"Smith, John Speed",SJ0165,Democratic-Republican,127
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress4.1824,Knox,kys_knox,21121,"Smith, John Speed",SJ0165,Democratic-Republican,135
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress4.1824,Madison,kys_madison,21151,"Smith, John Speed",SJ0165,Democratic-Republican,1511
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress4.1824,Perry,kys_perry,21193,"Smith, John Speed",SJ0165,Democratic-Republican,115
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress4.1824,Rockcastle,kys_rockcastle,21203,"Smith, John Speed",SJ0165,Democratic-Republican,71
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress4.1824,Whitley,kys_whitley,21235,"Smith, John Speed",SJ0165,Democratic-Republican,101
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress5.1824,Boone,kys_boone,21015,"Johnson, James",JJ0068,Jacksonian,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress5.1824,Campbell,kys_campbell,21037,"Johnson, James",JJ0068,Jacksonian,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress5.1824,Grant,kys_grant,21081,"Johnson, James",JJ0068,Jacksonian,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress5.1824,Harrison,kys_harrison,21097,"Johnson, James",JJ0068,Jacksonian,874
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress5.1824,Pendelton,kys_pendleton,21191,"Johnson, James",JJ0068,Jacksonian,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress5.1824,Scott,kys_scott,21209,"Johnson, James",JJ0068,Jacksonian,1043
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress5.1824,Boone,kys_boone,21015,"MacHatton, Robert",MR0018,Democratic-Republican,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress5.1824,Campbell,kys_campbell,21037,"MacHatton, Robert",MR0018,Democratic-Republican,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress5.1824,Grant,kys_grant,21081,"MacHatton, Robert",MR0018,Democratic-Republican,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress5.1824,Harrison,kys_harrison,21097,"MacHatton, Robert",MR0018,Democratic-Republican,749
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress5.1824,Pendelton,kys_pendleton,21191,"MacHatton, Robert",MR0018,Democratic-Republican,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress5.1824,Scott,kys_scott,21209,"MacHatton, Robert",MR0018,Democratic-Republican,768
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress6.1824,Franklin,kys_franklin,21073,"Lecompte, Joseph",LJ0051,Jacksonian,800
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress6.1824,Gallatin,kys_gallatin,21077,"Lecompte, Joseph",LJ0051,Jacksonian,407
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress6.1824,Henry,kys_henry,21103,"Lecompte, Joseph",LJ0051,Jacksonian,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress6.1824,Owen,kys_owen,21187,"Lecompte, Joseph",LJ0051,Jacksonian,390
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress6.1824,Shelby,kys_shelby,21211,"Lecompte, Joseph",LJ0051,Jacksonian,514
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress6.1824,Franklin,kys_franklin,21073,"Logan, John",LJ0052,NA,505
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress6.1824,Gallatin,kys_gallatin,21077,"Logan, John",LJ0052,NA,345
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress6.1824,Henry,kys_henry,21103,"Logan, John",LJ0052,NA,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress6.1824,Owen,kys_owen,21187,"Logan, John",LJ0052,NA,112
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress6.1824,Shelby,kys_shelby,21211,"Logan, John",LJ0052,NA,1554
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress7.1824,Jessamine,kys_jessamine,21113,"Moore, Thomas P.",MT0036,Jacksonian,268
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress7.1824,Lincoln,kys_lincoln,21137,"Moore, Thomas P.",MT0036,Jacksonian,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress7.1824,Mercer,kys_mercer,21167,"Moore, Thomas P.",MT0036,Jacksonian,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress7.1824,Washington,kys_washington,21229,"Moore, Thomas P.",MT0036,Jacksonian,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress7.1824,Jessamine,kys_jessamine,21113,"Woodson, Samuel H.",WS0054,Democratic-Republican,837
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress7.1824,Lincoln,kys_lincoln,21137,"Woodson, Samuel H.",WS0054,Democratic-Republican,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress7.1824,Mercer,kys_mercer,21167,"Woodson, Samuel H.",WS0054,Democratic-Republican,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress7.1824,Washington,kys_washington,21229,"Woodson, Samuel H.",WS0054,Democratic-Republican,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress8.1824,Adair,kys_adair,21001,"Buckner, Richard A.",BR0028,Adams/Clay,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress8.1824,Casey,kys_casey,21045,"Buckner, Richard A.",BR0028,Adams/Clay,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress8.1824,Cumberland,kys_cumberland,21057,"Buckner, Richard A.",BR0028,Adams/Clay,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress8.1824,Green,kys_green,21087,"Buckner, Richard A.",BR0028,Adams/Clay,1017
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress8.1824,Pulaski,kys_pulaski,21199,"Buckner, Richard A.",BR0028,Adams/Clay,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress8.1824,Wayne,kys_wayne,21231,"Buckner, Richard A.",BR0028,Adams/Clay,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress8.1824,Adair,kys_adair,21001,"Quarles, Tunstall",QT0001,Democratic-Republican,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress8.1824,Casey,kys_casey,21045,"Quarles, Tunstall",QT0001,Democratic-Republican,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress8.1824,Cumberland,kys_cumberland,21057,"Quarles, Tunstall",QT0001,Democratic-Republican,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress8.1824,Green,kys_green,21087,"Quarles, Tunstall",QT0001,Democratic-Republican,156
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress8.1824,Pulaski,kys_pulaski,21199,"Quarles, Tunstall",QT0001,Democratic-Republican,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress8.1824,Wayne,kys_wayne,21231,"Quarles, Tunstall",QT0001,Democratic-Republican,0
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress9.1824,Bullitt,kys_bullitt,21029,"Beall, Norborne B.",BN0023,Democratic-Republican,21
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress9.1824,Jefferson,kys_jefferson,21111,"Beall, Norborne B.",BN0023,Democratic-Republican,423
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress9.1824,Nelson,kys_nelson,21179,"Beall, Norborne B.",BN0023,Democratic-Republican,5
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress9.1824,Oldham,kys_oldham,21185,"Beall, Norborne B.",BN0023,Democratic-Republican,194
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress9.1824,Bullitt,kys_bullitt,21029,"Harrison, Burr",HB0034,NA,188
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress9.1824,Jefferson,kys_jefferson,21111,"Harrison, Burr",HB0034,NA,398
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress9.1824,Nelson,kys_nelson,21179,"Harrison, Burr",HB0034,NA,765
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress9.1824,Oldham,kys_oldham,21185,"Harrison, Burr",HB0034,NA,84
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress9.1824,Bullitt,kys_bullitt,21029,"Wickliffe, Charles A.",WC0021,Jacksonian,590
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress9.1824,Jefferson,kys_jefferson,21111,"Wickliffe, Charles A.",WC0021,Jacksonian,966
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress9.1824,Nelson,kys_nelson,21179,"Wickliffe, Charles A.",WC0021,Jacksonian,947
+meae.congressional.congress19.ky.county,congressional,19,KY,county,state,ky.uscongress9.1824,Oldham,kys_oldham,21185,"Wickliffe, Charles A.",WC0021,Jacksonian,425

@@ -1,0 +1,93 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress1.1804,Calvert,mds_calvert,24009,"Campbell, John",CJ0207,Federalist,322
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress1.1804,Charles,mds_charles,24017,"Campbell, John",CJ0207,Federalist,300
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress1.1804,Saint Mary's,mds_stmarys,24037,"Campbell, John",CJ0207,Federalist,631
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress1.1804,Calvert,mds_calvert,24009,"Tabbs, Barton",TB0021,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress1.1804,Charles,mds_charles,24017,"Tabbs, Barton",TB0021,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress1.1804,Saint Mary's,mds_stmarys,24037,"Tabbs, Barton",TB0021,NA,1
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress1.1804,Calvert,mds_calvert,24009,"Thomas, William",TW0029,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress1.1804,Charles,mds_charles,24017,"Thomas, William",TW0029,NA,4
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress1.1804,Saint Mary's,mds_stmarys,24037,"Thomas, William",TW0029,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress2.1804,Anne Arundel,mds_annearundel,24003,"Covington, Leonard",CL0008,Democratic-Republican,455
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress2.1804,Prince George's,mds_princegeorges,24033,"Covington, Leonard",CL0008,Democratic-Republican,379
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress2.1804,Anne Arundel,mds_annearundel,24003,"Van Horne, Archibald",VA0054,Democratic-Republican,441
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress2.1804,Prince George's,mds_princegeorges,24033,"Van Horne, Archibald",VA0054,Democratic-Republican,310
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress2.1804,Anne Arundel,mds_annearundel,24003,"Hill, Clement",HC0024,Federalist,3
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress2.1804,Prince George's,mds_princegeorges,24033,"Hill, Clement",HC0024,Federalist,15
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress2.1804,Anne Arundel,mds_annearundel,24003,"Hall, John",HJ0533,NA,1
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress2.1804,Prince George's,mds_princegeorges,24033,"Hall, John",HJ0533,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress3.1804,Frederick,mds_frederick,24021,"Magruder, Patrick",MP0018,Democratic-Republican,182
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress3.1804,Montgomery,mds_montgomery,24031,"Magruder, Patrick",MP0018,Democratic-Republican,569
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress3.1804,Frederick,mds_frederick,24021,"Plater, Thomas",PT0052,Federalist,606
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress3.1804,Montgomery,mds_montgomery,24031,"Plater, Thomas",PT0052,Federalist,349
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Allegany,mds_allegany,24001,"Nelson, Roger",NR0020,Democratic-Republican,330
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Frederick,mds_frederick,24021,"Nelson, Roger",NR0020,Democratic-Republican,808
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Washington,mds_washington,24043,"Nelson, Roger",NR0020,Democratic-Republican,488
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Allegany,mds_allegany,24001,"Williams, Eli",WE0027,Federalist,1
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Frederick,mds_frederick,24021,"Williams, Eli",WE0027,Federalist,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Washington,mds_washington,24043,"Williams, Eli",WE0027,Federalist,13
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Allegany,mds_allegany,24001,"Beard, William",BW0159,NA,1
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Frederick,mds_frederick,24021,"Beard, William",BW0159,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Washington,mds_washington,24043,"Beard, William",BW0159,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Allegany,mds_allegany,24001,"Boyde, Edmund",BE0149,NA,1
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Frederick,mds_frederick,24021,"Boyde, Edmund",BE0149,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Washington,mds_washington,24043,"Boyde, Edmund",BE0149,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Allegany,mds_allegany,24001,"Brady, Benjamin",BB0014,NA,1
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Frederick,mds_frederick,24021,"Brady, Benjamin",BB0014,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Washington,mds_washington,24043,"Brady, Benjamin",BB0014,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Allegany,mds_allegany,24001,"Heck, Charles",HC0092,NA,3
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Frederick,mds_frederick,24021,"Heck, Charles",HC0092,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Washington,mds_washington,24043,"Heck, Charles",HC0092,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Allegany,mds_allegany,24001,"Morrison, James",MJ0262,NA,1
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Frederick,mds_frederick,24021,"Morrison, James",MJ0262,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Washington,mds_washington,24043,"Morrison, James",MJ0262,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Allegany,mds_allegany,24001,"Rinehart, George",RG0050,NA,1
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Frederick,mds_frederick,24021,"Rinehart, George",RG0050,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Washington,mds_washington,24043,"Rinehart, George",RG0050,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Allegany,mds_allegany,24001,"Shirer, John",SJ0052,NA,1
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Frederick,mds_frederick,24021,"Shirer, John",SJ0052,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Washington,mds_washington,24043,"Shirer, John",SJ0052,NA,1
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Allegany,mds_allegany,24001,"Shook, Jacob",SJ0051,NA,1
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Frederick,mds_frederick,24021,"Shook, Jacob",SJ0051,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Washington,mds_washington,24043,"Shook, Jacob",SJ0051,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Allegany,mds_allegany,24001,"Thistle, George",TG0057,NA,1
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Frederick,mds_frederick,24021,"Thistle, George",TG0057,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress4.1804,Washington,mds_washington,24043,"Thistle, George",TG0057,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress5.1804,Baltimore,mds_baltimore,24005,"MacCreery, William",MW0092,Democratic-Republican,2672
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress5.1804,Baltimore,mds_baltimore,24005,"Moore, Nicholas",MN0021,Democratic-Republican,2938
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress5.1804,Baltimore,mds_baltimore,24005,"Strickler, John",SJ0047,Democratic-Republican,34
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress5.1804,Baltimore,mds_baltimore,24005,"Brooke, Clement",BC0098,Federalist,1
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress5.1804,Baltimore,mds_baltimore,24005,"Duncan, William",DW0114,Federalist,1
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress5.1804,Baltimore,mds_baltimore,24005,"Harper, Robert Goodloe",HR0079,Federalist,105
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress5.1804,Baltimore,mds_baltimore,24005,"Hughes, Jonathan",HJ0189,Federalist,1
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress5.1804,Baltimore,mds_baltimore,24005,"Johnson, Edward",JE0007,Federalist,2
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress5.1804,Baltimore,mds_baltimore,24005,"MacHenry, James",MJ0196,Federalist,5
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress5.1804,Baltimore,mds_baltimore,24005,"Ridgeley, Charles, of William",RC0025,Federalist,13
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress5.1804,Baltimore,mds_baltimore,24005,"Buchanan, George",BG0026,NA,4
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress6.1804,Cecil,mds_cecil,24015,"Archer, John",AJ0075,Democratic-Republican,382
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress6.1804,Harford,mds_harford,24025,"Archer, John",AJ0075,Democratic-Republican,1271
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress6.1804,Kent,mds_kent,24029,"Archer, John",AJ0075,Democratic-Republican,389
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress6.1804,Cecil,mds_cecil,24015,"Jarrett, Abraham",JA0018,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress6.1804,Harford,mds_harford,24025,"Jarrett, Abraham",JA0018,NA,1
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress6.1804,Kent,mds_kent,24029,"Jarrett, Abraham",JA0018,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress7.1804,Caroline,mds_caroline,24011,"Nicholson, Joseph H.",NJ0026,Democratic-Republican,600
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress7.1804,Queen Anne's,mds_queenannes,24035,"Nicholson, Joseph H.",NJ0026,Democratic-Republican,341
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress7.1804,Talbot,mds_talbot,24041,"Nicholson, Joseph H.",NJ0026,Democratic-Republican,851
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress7.1804,Caroline,mds_caroline,24011,"Dawson, George",DG0040,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress7.1804,Queen Anne's,mds_queenannes,24035,"Dawson, George",DG0040,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress7.1804,Talbot,mds_talbot,24041,"Dawson, George",DG0040,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress7.1804,Caroline,mds_caroline,24011,"Goldsborough, John",GJ0096,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress7.1804,Queen Anne's,mds_queenannes,24035,"Goldsborough, John",GJ0096,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress7.1804,Talbot,mds_talbot,24041,"Goldsborough, John",GJ0096,NA,11
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress7.1804,Caroline,mds_caroline,24011,"James, Thomas",JT0063,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress7.1804,Queen Anne's,mds_queenannes,24035,"James, Thomas",JT0063,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress7.1804,Talbot,mds_talbot,24041,"James, Thomas",JT0063,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress8.1804,Dorchester,mds_dorchester,24019,"Waggaman, Henry",WH0017,Democratic-Republican,419
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress8.1804,Somerset,mds_somerset,24039,"Waggaman, Henry",WH0017,Democratic-Republican,421
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress8.1804,Worcester,mds_worcester,24047,"Waggaman, Henry",WH0017,Democratic-Republican,1000
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress8.1804,Dorchester,mds_dorchester,24019,"Goldsborough, Charles",GC0057,Federalist,588
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress8.1804,Somerset,mds_somerset,24039,"Goldsborough, Charles",GC0057,Federalist,795
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress8.1804,Worcester,mds_worcester,24047,"Goldsborough, Charles",GC0057,Federalist,1014
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress8.1804,Dorchester,mds_dorchester,24019,"Winder, William H.",WW0073,NA,0
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress8.1804,Somerset,mds_somerset,24039,"Winder, William H.",WW0073,NA,1
+meae.congressional.congress09.md.county,congressional,9,MD,county,state,md.uscongress8.1804,Worcester,mds_worcester,24047,"Winder, William H.",WW0073,NA,0

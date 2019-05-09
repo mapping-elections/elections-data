@@ -1,0 +1,15 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress09.ri.county,congressional,9,RI,county,state,ri.uscongress.1804,Bristol,ris_bristol,44001,"Knight, Nehemiah",KN0024,Democratic-Republican,32
+meae.congressional.congress09.ri.county,congressional,9,RI,county,state,ri.uscongress.1804,Kent,ris_kent,44003,"Knight, Nehemiah",KN0024,Democratic-Republican,168
+meae.congressional.congress09.ri.county,congressional,9,RI,county,state,ri.uscongress.1804,Newport,ris_newport,44005,"Knight, Nehemiah",KN0024,Democratic-Republican,461
+meae.congressional.congress09.ri.county,congressional,9,RI,county,state,ri.uscongress.1804,Providence,ris_providence,44007,"Knight, Nehemiah",KN0024,Democratic-Republican,616
+meae.congressional.congress09.ri.county,congressional,9,RI,county,state,ri.uscongress.1804,Washington,ris_washington,44009,"Knight, Nehemiah",KN0024,Democratic-Republican,341
+meae.congressional.congress09.ri.county,congressional,9,RI,county,state,ri.uscongress.1804,Bristol,ris_bristol,44001,"Stanton, Joseph",SJ1416,Democratic-Republican,32
+meae.congressional.congress09.ri.county,congressional,9,RI,county,state,ri.uscongress.1804,Kent,ris_kent,44003,"Stanton, Joseph",SJ1416,Democratic-Republican,169
+meae.congressional.congress09.ri.county,congressional,9,RI,county,state,ri.uscongress.1804,Newport,ris_newport,44005,"Stanton, Joseph",SJ1416,Democratic-Republican,454
+meae.congressional.congress09.ri.county,congressional,9,RI,county,state,ri.uscongress.1804,Providence,ris_providence,44007,"Stanton, Joseph",SJ1416,Democratic-Republican,613
+meae.congressional.congress09.ri.county,congressional,9,RI,county,state,ri.uscongress.1804,Washington,ris_washington,44009,"Stanton, Joseph",SJ1416,Democratic-Republican,338
+meae.congressional.congress09.ri.county,congressional,9,RI,county,state,ri.uscongress.1804,Kent,ris_kent,44003,NA,Other candidates,NA,1
+meae.congressional.congress09.ri.county,congressional,9,RI,county,state,ri.uscongress.1804,Newport,ris_newport,44005,NA,Other candidates,NA,11
+meae.congressional.congress09.ri.county,congressional,9,RI,county,state,ri.uscongress.1804,Providence,ris_providence,44007,NA,Other candidates,NA,3
+meae.congressional.congress09.ri.county,congressional,9,RI,county,state,ri.uscongress.1804,Washington,ris_washington,44009,NA,Other candidates,NA,3

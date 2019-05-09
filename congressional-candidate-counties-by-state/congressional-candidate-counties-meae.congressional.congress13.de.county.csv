@@ -1,0 +1,19 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress13.de.county,congressional,13,DE,county,state,de.uscongress.1812,Kent,des_kent,10001,"Dale, Richard C.",DR0001,Democratic-Republican,639
+meae.congressional.congress13.de.county,congressional,13,DE,county,state,de.uscongress.1812,New Castle,des_newcastle,10003,"Dale, Richard C.",DR0001,Democratic-Republican,1683
+meae.congressional.congress13.de.county,congressional,13,DE,county,state,de.uscongress.1812,Sussex,des_sussex,10005,"Dale, Richard C.",DR0001,Democratic-Republican,889
+meae.congressional.congress13.de.county,congressional,13,DE,county,state,de.uscongress.1812,Kent,des_kent,10001,"Hall, David",HD0005,Democratic-Republican,649
+meae.congressional.congress13.de.county,congressional,13,DE,county,state,de.uscongress.1812,New Castle,des_newcastle,10003,"Hall, David",HD0005,Democratic-Republican,1682
+meae.congressional.congress13.de.county,congressional,13,DE,county,state,de.uscongress.1812,Sussex,des_sussex,10005,"Hall, David",HD0005,Democratic-Republican,890
+meae.congressional.congress13.de.county,congressional,13,DE,county,state,de.uscongress.1812,Kent,des_kent,10001,"Clements, William",CW0335,Federalist,0
+meae.congressional.congress13.de.county,congressional,13,DE,county,state,de.uscongress.1812,New Castle,des_newcastle,10003,"Clements, William",CW0335,Federalist,1
+meae.congressional.congress13.de.county,congressional,13,DE,county,state,de.uscongress.1812,Sussex,des_sussex,10005,"Clements, William",CW0335,Federalist,0
+meae.congressional.congress13.de.county,congressional,13,DE,county,state,de.uscongress.1812,Kent,des_kent,10001,"Cooper, Thomas",CT0008,Federalist,1329
+meae.congressional.congress13.de.county,congressional,13,DE,county,state,de.uscongress.1812,New Castle,des_newcastle,10003,"Cooper, Thomas",CT0008,Federalist,1034
+meae.congressional.congress13.de.county,congressional,13,DE,county,state,de.uscongress.1812,Sussex,des_sussex,10005,"Cooper, Thomas",CT0008,Federalist,1820
+meae.congressional.congress13.de.county,congressional,13,DE,county,state,de.uscongress.1812,Kent,des_kent,10001,"MacLane, Louis",ML0002,Federalist,0
+meae.congressional.congress13.de.county,congressional,13,DE,county,state,de.uscongress.1812,New Castle,des_newcastle,10003,"MacLane, Louis",ML0002,Federalist,1
+meae.congressional.congress13.de.county,congressional,13,DE,county,state,de.uscongress.1812,Sussex,des_sussex,10005,"MacLane, Louis",ML0002,Federalist,0
+meae.congressional.congress13.de.county,congressional,13,DE,county,state,de.uscongress.1812,Kent,des_kent,10001,"Ridgely, Henry M.",RH0001,Federalist,1340
+meae.congressional.congress13.de.county,congressional,13,DE,county,state,de.uscongress.1812,New Castle,des_newcastle,10003,"Ridgely, Henry M.",RH0001,Federalist,1038
+meae.congressional.congress13.de.county,congressional,13,DE,county,state,de.uscongress.1812,Sussex,des_sussex,10005,"Ridgely, Henry M.",RH0001,Federalist,1815

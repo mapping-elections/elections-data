@@ -1,0 +1,13 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress10.de.county,congressional,10,DE,county,state,de.uscongress.1806,Kent,des_kent,10001,"Fitzgerald, Thomas",FT0001,Democratic-Republican,0
+meae.congressional.congress10.de.county,congressional,10,DE,county,state,de.uscongress.1806,New Castle,des_newcastle,10003,"Fitzgerald, Thomas",FT0001,Democratic-Republican,830
+meae.congressional.congress10.de.county,congressional,10,DE,county,state,de.uscongress.1806,Sussex,des_sussex,10005,"Fitzgerald, Thomas",FT0001,Democratic-Republican,0
+meae.congressional.congress10.de.county,congressional,10,DE,county,state,de.uscongress.1806,Kent,des_kent,10001,"Haslet, Joseph",HJ0024,Democratic-Republican,0
+meae.congressional.congress10.de.county,congressional,10,DE,county,state,de.uscongress.1806,New Castle,des_newcastle,10003,"Haslet, Joseph",HJ0024,Democratic-Republican,382
+meae.congressional.congress10.de.county,congressional,10,DE,county,state,de.uscongress.1806,Sussex,des_sussex,10005,"Haslet, Joseph",HJ0024,Democratic-Republican,0
+meae.congressional.congress10.de.county,congressional,10,DE,county,state,de.uscongress.1806,Kent,des_kent,10001,"Montgomery, Thomas",MT0004,Democratic-Republican,30
+meae.congressional.congress10.de.county,congressional,10,DE,county,state,de.uscongress.1806,New Castle,des_newcastle,10003,"Montgomery, Thomas",MT0004,Democratic-Republican,0
+meae.congressional.congress10.de.county,congressional,10,DE,county,state,de.uscongress.1806,Sussex,des_sussex,10005,"Montgomery, Thomas",MT0004,Democratic-Republican,293
+meae.congressional.congress10.de.county,congressional,10,DE,county,state,de.uscongress.1806,Kent,des_kent,10001,"Broom, James M.",BJ0090,Federalist,709
+meae.congressional.congress10.de.county,congressional,10,DE,county,state,de.uscongress.1806,New Castle,des_newcastle,10003,"Broom, James M.",BJ0090,Federalist,928
+meae.congressional.congress10.de.county,congressional,10,DE,county,state,de.uscongress.1806,Sussex,des_sussex,10005,"Broom, James M.",BJ0090,Federalist,716

@@ -1,0 +1,26 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress09.tn.county,congressional,9,TN,county,state,tn.congress.hamilton.1805,Anderson,tns_anderson,47001,"Campbell, George Washington",CG0108,Democratic-Republican,1902
+meae.congressional.congress09.tn.county,congressional,9,TN,county,state,tn.congress.hamilton.1805,Blount,tns_blount,47009,"Campbell, George Washington",CG0108,Democratic-Republican,768
+meae.congressional.congress09.tn.county,congressional,9,TN,county,state,tn.congress.hamilton.1805,Claiborne,tns_claiborne,47025,"Campbell, George Washington",CG0108,Democratic-Republican,1058
+meae.congressional.congress09.tn.county,congressional,9,TN,county,state,tn.congress.hamilton.1805,Cocke,tns_cocke,47029,"Campbell, George Washington",CG0108,Democratic-Republican,887
+meae.congressional.congress09.tn.county,congressional,9,TN,county,state,tn.congress.hamilton.1805,Grainger,tns_grainger,47057,"Campbell, George Washington",CG0108,Democratic-Republican,0
+meae.congressional.congress09.tn.county,congressional,9,TN,county,state,tn.congress.hamilton.1805,Jefferson,tns_jefferson,47089,"Campbell, George Washington",CG0108,Democratic-Republican,0
+meae.congressional.congress09.tn.county,congressional,9,TN,county,state,tn.congress.hamilton.1805,Knox,tns_knox,47093,"Campbell, George Washington",CG0108,Democratic-Republican,0
+meae.congressional.congress09.tn.county,congressional,9,TN,county,state,tn.congress.hamilton.1805,Roane,tns_roane,47145,"Campbell, George Washington",CG0108,Democratic-Republican,0
+meae.congressional.congress09.tn.county,congressional,9,TN,county,state,tn.congress.hamilton.1805,Sevier,tns_sevier,47155,"Campbell, George Washington",CG0108,Democratic-Republican,595
+meae.congressional.congress09.tn.county,congressional,9,TN,county,state,tn.congressdistrict1.1805,Carter,tns_carter,47019,"Rhea, John",RJ0595,Democratic-Republican,475
+meae.congressional.congress09.tn.county,congressional,9,TN,county,state,tn.congressdistrict1.1805,Greene,tns_greene,47059,"Rhea, John",RJ0595,Democratic-Republican,958
+meae.congressional.congress09.tn.county,congressional,9,TN,county,state,tn.congressdistrict1.1805,Hawkins,tns_hawkins,47073,"Rhea, John",RJ0595,Democratic-Republican,890
+meae.congressional.congress09.tn.county,congressional,9,TN,county,state,tn.congressdistrict1.1805,Sullivan,tns_sullivan,47163,"Rhea, John",RJ0595,Democratic-Republican,787
+meae.congressional.congress09.tn.county,congressional,9,TN,county,state,tn.congressdistrict1.1805,Washington,tns_washington,47179,"Rhea, John",RJ0595,Democratic-Republican,1020
+meae.congressional.congress09.tn.county,congressional,9,TN,county,state,tn.uscongressdistrict3.1805,Davidson,tns_davidson,47037,"Dickson, William",DW0184,Democratic-Republican,2199
+meae.congressional.congress09.tn.county,congressional,9,TN,county,state,tn.uscongressdistrict3.1805,Dickson,tns_dickson,47043,"Dickson, William",DW0184,Democratic-Republican,756
+meae.congressional.congress09.tn.county,congressional,9,TN,county,state,tn.uscongressdistrict3.1805,Jackson,tns_jackson,47087,"Dickson, William",DW0184,Democratic-Republican,2482
+meae.congressional.congress09.tn.county,congressional,9,TN,county,state,tn.uscongressdistrict3.1805,Montgomery,tns_montgomery,47125,"Dickson, William",DW0184,Democratic-Republican,569
+meae.congressional.congress09.tn.county,congressional,9,TN,county,state,tn.uscongressdistrict3.1805,Robertson,tns_robertson,47147,"Dickson, William",DW0184,Democratic-Republican,0
+meae.congressional.congress09.tn.county,congressional,9,TN,county,state,tn.uscongressdistrict3.1805,Rutherford,tns_rutherford,47149,"Dickson, William",DW0184,Democratic-Republican,0
+meae.congressional.congress09.tn.county,congressional,9,TN,county,state,tn.uscongressdistrict3.1805,Smith,tns_smith,47159,"Dickson, William",DW0184,Democratic-Republican,0
+meae.congressional.congress09.tn.county,congressional,9,TN,county,state,tn.uscongressdistrict3.1805,Stewart,tns_stewart,47161,"Dickson, William",DW0184,Democratic-Republican,0
+meae.congressional.congress09.tn.county,congressional,9,TN,county,state,tn.uscongressdistrict3.1805,Sumner,tns_sumner,47165,"Dickson, William",DW0184,Democratic-Republican,0
+meae.congressional.congress09.tn.county,congressional,9,TN,county,state,tn.uscongressdistrict3.1805,Williamson,tns_williamson,47187,"Dickson, William",DW0184,Democratic-Republican,0
+meae.congressional.congress09.tn.county,congressional,9,TN,county,state,tn.uscongressdistrict3.1805,Wilson,tns_wilson,47189,"Dickson, William",DW0184,Democratic-Republican,0

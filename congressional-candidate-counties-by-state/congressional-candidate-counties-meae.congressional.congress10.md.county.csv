@@ -1,0 +1,120 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress1.1806,Calvert,mds_calvert,24009,"Campbell, John",CJ0207,Federalist,368
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress1.1806,Charles,mds_charles,24017,"Campbell, John",CJ0207,Federalist,816
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress1.1806,Saint Mary's,mds_stmarys,24037,"Campbell, John",CJ0207,Federalist,529
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress1.1806,Calvert,mds_calvert,24009,"Chapman, Henry H.",CH0050,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress1.1806,Charles,mds_charles,24017,"Chapman, Henry H.",CH0050,NA,1
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress1.1806,Saint Mary's,mds_stmarys,24037,"Chapman, Henry H.",CH0050,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress1.1806,Calvert,mds_calvert,24009,"Digges, Francis",DF0005,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress1.1806,Charles,mds_charles,24017,"Digges, Francis",DF0005,NA,1
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress1.1806,Saint Mary's,mds_stmarys,24037,"Digges, Francis",DF0005,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress2.1806,Anne Arundel,mds_annearundel,24003,"Van Horn, Archibald",VA0054,Democratic-Republican,734
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress2.1806,Prince George's,mds_princegeorges,24033,"Van Horn, Archibald",VA0054,Democratic-Republican,615
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress2.1806,Anne Arundel,mds_annearundel,24003,"Covington, Leonard",CL0008,Federalist,1082
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress2.1806,Prince George's,mds_princegeorges,24033,"Covington, Leonard",CL0008,Federalist,817
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress2.1806,Anne Arundel,mds_annearundel,24003,"Mercer, John Francis",MJ0200,NA,2
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress2.1806,Prince George's,mds_princegeorges,24033,"Mercer, John Francis",MJ0200,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress2.1806,Anne Arundel,mds_annearundel,24003,NA,NA,NA,45
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress2.1806,Anne Arundel,mds_annearundel,24003,"Owens, Benjamin",OB0000,NA,2
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress2.1806,Prince George's,mds_princegeorges,24033,"Owens, Benjamin",OB0000,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress3.1806,Frederick,mds_frederick,24021,"Magruder, Patrick",MP0018,Democratic-Republican,964
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress3.1806,Montgomery,mds_montgomery,24031,"Magruder, Patrick",MP0018,Democratic-Republican,732
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress3.1806,Frederick,mds_frederick,24021,"Key, Philip Barton",KP0001,Federalist,955
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress3.1806,Montgomery,mds_montgomery,24031,"Key, Philip Barton",KP0001,Federalist,980
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Allegany,mds_allegany,24001,"Nelson, Roger",NR0020,Democratic-Republican,492
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Frederick,mds_frederick,24021,"Nelson, Roger",NR0020,Democratic-Republican,1478
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Washington,mds_washington,24043,"Nelson, Roger",NR0020,Democratic-Republican,1992
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Allegany,mds_allegany,24001,"Boarman, Daniel",BD0122,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Frederick,mds_frederick,24021,"Boarman, Daniel",BD0122,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Washington,mds_washington,24043,"Boarman, Daniel",BD0122,NA,1
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Allegany,mds_allegany,24001,"Boyd, Edmund",BE0149,NA,3
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Frederick,mds_frederick,24021,"Boyd, Edmund",BE0149,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Washington,mds_washington,24043,"Boyd, Edmund",BE0149,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Allegany,mds_allegany,24001,"Compton, William S.",CW0014,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Frederick,mds_frederick,24021,"Compton, William S.",CW0014,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Washington,mds_washington,24043,"Compton, William S.",CW0014,NA,1
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Allegany,mds_allegany,24001,"Douglass, Robert",DR0005,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Frederick,mds_frederick,24021,"Douglass, Robert",DR0005,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Washington,mds_washington,24043,"Douglass, Robert",DR0005,NA,1
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Allegany,mds_allegany,24001,"Fedrich, George",FG0001,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Frederick,mds_frederick,24021,"Fedrich, George",FG0001,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Washington,mds_washington,24043,"Fedrich, George",FG0001,NA,3
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Allegany,mds_allegany,24001,"Feightlich, Christian",FC0025,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Frederick,mds_frederick,24021,"Feightlich, Christian",FC0025,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Washington,mds_washington,24043,"Feightlich, Christian",FC0025,NA,1
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Allegany,mds_allegany,24001,"Hughes, Samuel, Jr.",HS0068,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Frederick,mds_frederick,24021,"Hughes, Samuel, Jr.",HS0068,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Washington,mds_washington,24043,"Hughes, Samuel, Jr.",HS0068,NA,1
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Allegany,mds_allegany,24001,"Kennedy, Thomas",KT0028,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Frederick,mds_frederick,24021,"Kennedy, Thomas",KT0028,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Washington,mds_washington,24043,"Kennedy, Thomas",KT0028,NA,1
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Allegany,mds_allegany,24001,"Langley, John",LJ0237,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Frederick,mds_frederick,24021,"Langley, John",LJ0237,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Washington,mds_washington,24043,"Langley, John",LJ0237,NA,1
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Allegany,mds_allegany,24001,"Lynn, John Dark",LJ0517,NA,1
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Frederick,mds_frederick,24021,"Lynn, John Dark",LJ0517,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Washington,mds_washington,24043,"Lynn, John Dark",LJ0517,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Allegany,mds_allegany,24001,"Miller, Matthias",MM0106,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Frederick,mds_frederick,24021,"Miller, Matthias",MM0106,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Washington,mds_washington,24043,"Miller, Matthias",MM0106,NA,1
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Allegany,mds_allegany,24001,"Ragon, John, Jr.",RJ0089,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Frederick,mds_frederick,24021,"Ragon, John, Jr.",RJ0089,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Washington,mds_washington,24043,"Ragon, John, Jr.",RJ0089,NA,2
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Allegany,mds_allegany,24001,"Shaffer, Henry",SH0051,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Frederick,mds_frederick,24021,"Shaffer, Henry",SH0051,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Washington,mds_washington,24043,"Shaffer, Henry",SH0051,NA,1
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Allegany,mds_allegany,24001,"Sprigg, Thomas",ST0060,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Frederick,mds_frederick,24021,"Sprigg, Thomas",ST0060,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Washington,mds_washington,24043,"Sprigg, Thomas",ST0060,NA,2
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Allegany,mds_allegany,24001,"Weizel, Daniel",WD0007,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Frederick,mds_frederick,24021,"Weizel, Daniel",WD0007,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Washington,mds_washington,24043,"Weizel, Daniel",WD0007,NA,4
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Allegany,mds_allegany,24001,"Williams, Eli",WE0027,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Frederick,mds_frederick,24021,"Williams, Eli",WE0027,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Washington,mds_washington,24043,"Williams, Eli",WE0027,NA,1
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Allegany,mds_allegany,24001,"Rochester, Nathaniel",RN0010,Dissenting Republican,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Frederick,mds_frederick,24021,"Rochester, Nathaniel",RN0010,Dissenting Republican,122
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress4.1806,Washington,mds_washington,24043,"Rochester, Nathaniel",RN0010,Dissenting Republican,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress5.1806,Baltimore,mds_baltimore,24005,"MacCreery, William",MW0092,Democratic-Republican,3559
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress5.1806,Baltimore,mds_baltimore,24005,"Moore, Nicholas",MN0021,Democratic-Republican,6164
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress5.1806,Baltimore,mds_baltimore,24005,"Scott, John",SJ0201,Federalist,353
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress5.1806,Baltimore,mds_baltimore,24005,"Barney, Joshua",BJ0327,Dissenting Republican,2063
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress6.1806,Cecil,mds_cecil,24015,"Montgomery, John",MJ0205,Democratic-Republican,901
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress6.1806,Harford,mds_harford,24025,"Montgomery, John",MJ0205,Democratic-Republican,833
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress6.1806,Kent,mds_kent,24029,"Montgomery, John",MJ0205,Democratic-Republican,151
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress6.1806,Cecil,mds_cecil,24015,"Sutton, Samuel",SS0071,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress6.1806,Harford,mds_harford,24025,"Sutton, Samuel",SS0071,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress6.1806,Kent,mds_kent,24029,"Sutton, Samuel",SS0071,NA,38
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress6.1806,Cecil,mds_cecil,24015,"Archer, John",AJ0075,Dissenting Republican,254
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress6.1806,Harford,mds_harford,24025,"Archer, John",AJ0075,Dissenting Republican,1035
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress6.1806,Kent,mds_kent,24029,"Archer, John",AJ0075,Dissenting Republican,540
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress7.1806,Caroline,mds_caroline,24011,"Lloyd, Edward, Jr.",LE0016,Democratic-Republican,881
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress7.1806,Queen Anne's,mds_queenannes,24035,"Lloyd, Edward, Jr.",LE0016,Democratic-Republican,597
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress7.1806,Talbot,mds_talbot,24041,"Lloyd, Edward, Jr.",LE0016,Democratic-Republican,1136
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress7.1806,Caroline,mds_caroline,24011,"Sherwood, Hugh",SH0028,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress7.1806,Queen Anne's,mds_queenannes,24035,"Sherwood, Hugh",SH0028,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress7.1806,Talbot,mds_talbot,24041,"Sherwood, Hugh",SH0028,NA,1
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress7.1806,Caroline,mds_caroline,24011,"Tilghman, Samuel",TS0083,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress7.1806,Queen Anne's,mds_queenannes,24035,"Tilghman, Samuel",TS0083,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress7.1806,Talbot,mds_talbot,24041,"Tilghman, Samuel",TS0083,NA,1
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress7.1806,Caroline,mds_caroline,24011,"Brown, James",BJ0266,Dissenting Republican,133
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress7.1806,Queen Anne's,mds_queenannes,24035,"Brown, James",BJ0266,Dissenting Republican,412
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress7.1806,Talbot,mds_talbot,24041,"Brown, James",BJ0266,Dissenting Republican,62
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress8.1806,Dorchester,mds_dorchester,24019,"Goldsborough, Charles",GC0057,Federalist,1680
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress8.1806,Somerset,mds_somerset,24039,"Goldsborough, Charles",GC0057,Federalist,914
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress8.1806,Worcester,mds_worcester,24047,"Goldsborough, Charles",GC0057,Federalist,649
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress8.1806,Dorchester,mds_dorchester,24019,"Craig, Henry",CH0098,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress8.1806,Somerset,mds_somerset,24039,"Craig, Henry",CH0098,NA,1
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress8.1806,Worcester,mds_worcester,24047,"Craig, Henry",CH0098,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress8.1806,Dorchester,mds_dorchester,24019,"Fontaine, Henry",FH0020,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress8.1806,Somerset,mds_somerset,24039,"Fontaine, Henry",FH0020,NA,2
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress8.1806,Worcester,mds_worcester,24047,"Fontaine, Henry",FH0020,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress8.1806,Dorchester,mds_dorchester,24019,"Insley, Thomas",IT0002,NA,1
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress8.1806,Somerset,mds_somerset,24039,"Insley, Thomas",IT0002,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress8.1806,Worcester,mds_worcester,24047,"Insley, Thomas",IT0002,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress8.1806,Dorchester,mds_dorchester,24019,"Tofrett, Peter",TP0043,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress8.1806,Somerset,mds_somerset,24039,"Tofrett, Peter",TP0043,NA,2
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress8.1806,Worcester,mds_worcester,24047,"Tofrett, Peter",TP0043,NA,0
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress8.1806,Dorchester,mds_dorchester,24019,"Quinton, Philip",QP0000,Dissenting Republican,60
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress8.1806,Somerset,mds_somerset,24039,"Quinton, Philip",QP0000,Dissenting Republican,284
+meae.congressional.congress10.md.county,congressional,10,MD,county,state,md.uscongress8.1806,Worcester,mds_worcester,24047,"Quinton, Philip",QP0000,Dissenting Republican,1122

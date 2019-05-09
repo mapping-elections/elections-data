@@ -1,0 +1,33 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress1.1789,Kings,nys_kings,36047,"Floyd, William",FW0034,Anti-Federalist,0
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress1.1789,Queens,nys_queens,36081,"Floyd, William",FW0034,Anti-Federalist,0
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress1.1789,Richmond,nys_richmond,36085,"Floyd, William",FW0034,Anti-Federalist,0
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress1.1789,Suffolk,nys_suffolk,36103,"Floyd, William",FW0034,Anti-Federalist,0
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress2.1789,New York,nys_newyork,36061,"Broome, John",BJ0669,Anti-Federalist,280
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress2.1789,Westchester,nys_westchester,36119,"Broome, John",BJ0669,Anti-Federalist,92
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress2.1789,New York,nys_newyork,36061,"Pell, Philip",PP0007,Anti-Federalist,2
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress2.1789,Westchester,nys_westchester,36119,"Pell, Philip",PP0007,Anti-Federalist,31
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress2.1789,New York,nys_newyork,36061,"Laurence, John",LJ0218,Federalist,2251
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress2.1789,Westchester,nys_westchester,36119,"Laurence, John",LJ0218,Federalist,291
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress3.1789,Dutchess,nys_dutchess,36027,"Bailey, Theodorus",BT0171,Anti-Federalist,0
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress3.1789,Westchester,nys_westchester,36119,"Bailey, Theodorus",BT0171,Anti-Federalist,0
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress3.1789,Dutchess,nys_dutchess,36027,"Benson, Egbert",BE0171,Federalist,0
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress3.1789,Westchester,nys_westchester,36119,"Benson, Egbert",BE0171,Federalist,0
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress4.1789,Orange,nys_orange,36071,"Hathorn, John",HJ0485,Anti-Federalist,0
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress4.1789,Ulster,nys_ulster,36111,"Hathorn, John",HJ0485,Anti-Federalist,0
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress5.1789,Albany,nys_albany,36001,"Adgate, Matthew",AM0007,Anti-Federalist,530
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress5.1789,Clinton,nys_clinton,36019,"Adgate, Matthew",AM0007,Anti-Federalist,0
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress5.1789,Columbia,nys_columbia,36021,"Adgate, Matthew",AM0007,Anti-Federalist,723
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress5.1789,Washington,nys_washington,36115,"Adgate, Matthew",AM0007,Anti-Federalist,248
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress5.1789,Albany,nys_albany,36001,"Williams, John",WJ0409,Anti-Federalist,0
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress5.1789,Clinton,nys_clinton,36019,"Williams, John",WJ0409,Anti-Federalist,36
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress5.1789,Columbia,nys_columbia,36021,"Williams, John",WJ0409,Anti-Federalist,0
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress5.1789,Washington,nys_washington,36115,"Williams, John",WJ0409,Anti-Federalist,14
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress5.1789,Albany,nys_albany,36001,"Sylvester, Peter",SP0060,Federalist,504
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress5.1789,Clinton,nys_clinton,36019,"Sylvester, Peter",SP0060,Federalist,23
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress5.1789,Columbia,nys_columbia,36021,"Sylvester, Peter",SP0060,Federalist,954
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress5.1789,Washington,nys_washington,36115,"Sylvester, Peter",SP0060,Federalist,147
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress6.1789,Albany,nys_albany,36001,"Van Rensselaer, Jeremiah",VJ0189,Anti-Federalist,0
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress6.1789,Montgomery,nys_montgomery,36057,"Van Rensselaer, Jeremiah",VJ0189,Anti-Federalist,0
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress6.1789,Albany,nys_albany,36001,"Ten Broeck, Abraham",TA0014,Federalist,0
+meae.congressional.congress01.ny.county,congressional,1,NY,county,state,ny.uscongress6.1789,Montgomery,nys_montgomery,36057,"Ten Broeck, Abraham",TA0014,Federalist,0

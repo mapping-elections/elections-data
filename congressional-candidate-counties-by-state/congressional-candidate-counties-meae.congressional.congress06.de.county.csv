@@ -1,0 +1,7 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress06.de.county,congressional,6,DE,county,state,de.uscongress.1798,Kent,des_kent,10001,"Alexander, Archibald",AA0027,Democratic-Republican,735
+meae.congressional.congress06.de.county,congressional,6,DE,county,state,de.uscongress.1798,New Castle,des_newcastle,10003,"Alexander, Archibald",AA0027,Democratic-Republican,488
+meae.congressional.congress06.de.county,congressional,6,DE,county,state,de.uscongress.1798,Sussex,des_sussex,10005,"Alexander, Archibald",AA0027,Democratic-Republican,549
+meae.congressional.congress06.de.county,congressional,6,DE,county,state,de.uscongress.1798,Kent,des_kent,10001,"Bayard, James A.",BJ0078,Federalist,891
+meae.congressional.congress06.de.county,congressional,6,DE,county,state,de.uscongress.1798,New Castle,des_newcastle,10003,"Bayard, James A.",BJ0078,Federalist,485
+meae.congressional.congress06.de.county,congressional,6,DE,county,state,de.uscongress.1798,Sussex,des_sussex,10005,"Bayard, James A.",BJ0078,Federalist,1416

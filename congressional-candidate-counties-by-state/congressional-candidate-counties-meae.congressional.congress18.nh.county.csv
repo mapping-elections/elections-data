@@ -1,0 +1,727 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Cilley, Bradbury",CB0048,Federalist,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Cilley, Bradbury",CB0048,Federalist,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Cilley, Bradbury",CB0048,Federalist,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Cilley, Bradbury",CB0048,Federalist,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Cilley, Bradbury",CB0048,Federalist,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Cilley, Bradbury",CB0048,Federalist,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Gilman, John T.",GJ0184,Federalist,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Gilman, John T.",GJ0184,Federalist,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Gilman, John T.",GJ0184,Federalist,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Gilman, John T.",GJ0184,Federalist,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Gilman, John T.",GJ0184,Federalist,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Gilman, John T.",GJ0184,Federalist,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Mason, Jeremiah",MJ0387,Federalist,34
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Mason, Jeremiah",MJ0387,Federalist,12
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Mason, Jeremiah",MJ0387,Federalist,157
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Mason, Jeremiah",MJ0387,Federalist,7
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Mason, Jeremiah",MJ0387,Federalist,61
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Mason, Jeremiah",MJ0387,Federalist,32
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Peabody, Oliver",PO0014,Federalist,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Peabody, Oliver",PO0014,Federalist,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Peabody, Oliver",PO0014,Federalist,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Peabody, Oliver",PO0014,Federalist,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Peabody, Oliver",PO0014,Federalist,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Peabody, Oliver",PO0014,Federalist,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Smith, Jeremiah",SJ0471,Federalist,32
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Smith, Jeremiah",SJ0471,Federalist,12
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Smith, Jeremiah",SJ0471,Federalist,103
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Smith, Jeremiah",SJ0471,Federalist,30
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Smith, Jeremiah",SJ0471,Federalist,98
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Smith, Jeremiah",SJ0471,Federalist,40
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Sullivan, George",SG0056,Federalist,2
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Sullivan, George",SG0056,Federalist,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Sullivan, George",SG0056,Federalist,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Sullivan, George",SG0056,Federalist,33
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Sullivan, George",SG0056,Federalist,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Sullivan, George",SG0056,Federalist,5
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Ayers, Joseph",AJ0273,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Ayers, Joseph",AJ0273,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Ayers, Joseph",AJ0273,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Ayers, Joseph",AJ0273,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Ayers, Joseph",AJ0273,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Ayers, Joseph",AJ0273,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Badger, William",BW0164,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Badger, William",BW0164,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Badger, William",BW0164,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Badger, William",BW0164,NA,10
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Badger, William",BW0164,NA,3
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Badger, William",BW0164,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Barrett, Charles",BC0178,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Barrett, Charles",BC0178,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Barrett, Charles",BC0178,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Barrett, Charles",BC0178,NA,3
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Barrett, Charles",BC0178,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Barrett, Charles",BC0178,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Bartlett, Bradbury",BB0160,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Bartlett, Bradbury",BB0160,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Bartlett, Bradbury",BB0160,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Bartlett, Bradbury",BB0160,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Bartlett, Bradbury",BB0160,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Bartlett, Bradbury",BB0160,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Bartlett, Ezra",BE0178,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Bartlett, Ezra",BE0178,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Bartlett, Ezra",BE0178,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Bartlett, Ezra",BE0178,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Bartlett, Ezra",BE0178,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Bartlett, Ezra",BE0178,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Bartlett, Ichabod",BI0021,Adams/Clay,2376
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Bartlett, Ichabod",BI0021,Adams/Clay,278
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Bartlett, Ichabod",BI0021,Adams/Clay,1152
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Bartlett, Ichabod",BI0021,Adams/Clay,2442
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Bartlett, Ichabod",BI0021,Adams/Clay,2483
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Bartlett, Ichabod",BI0021,Adams/Clay,2232
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Bartlett, Josiah",BJ0545,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Bartlett, Josiah",BJ0545,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Bartlett, Josiah",BJ0545,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Bartlett, Josiah",BJ0545,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Bartlett, Josiah",BJ0545,NA,7
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Bartlett, Josiah",BJ0545,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Bartlett, Levi",BL0038,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Bartlett, Levi",BL0038,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Bartlett, Levi",BL0038,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Bartlett, Levi",BL0038,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Bartlett, Levi",BL0038,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Bartlett, Levi",BL0038,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Bartlett, Richard",BR0169,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Bartlett, Richard",BR0169,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Bartlett, Richard",BR0169,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Bartlett, Richard",BR0169,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Bartlett, Richard",BR0169,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Bartlett, Richard",BR0169,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Barton, William",BW0352,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Barton, William",BW0352,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Barton, William",BW0352,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Barton, William",BW0352,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Barton, William",BW0352,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Barton, William",BW0352,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Bell, John",BJ0546,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Bell, John",BJ0546,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Bell, John",BJ0546,NA,2
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Bell, John",BJ0546,NA,12
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Bell, John",BJ0546,NA,92
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Bell, John",BJ0546,NA,4
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Bell, Joseph",BJ1277,NA,4
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Bell, Joseph",BJ1277,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Bell, Joseph",BJ1277,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Bell, Joseph",BJ1277,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Bell, Joseph",BJ1277,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Bell, Joseph",BJ1277,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Bingham, James H.",BJ1305,NA,36
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Bingham, James H.",BJ1305,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Bingham, James H.",BJ1305,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Bingham, James H.",BJ1305,NA,4
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Bingham, James H.",BJ1305,NA,2
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Bingham, James H.",BJ1305,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Blanchard, Joseph",BJ0558,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Blanchard, Joseph",BJ0558,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Blanchard, Joseph",BJ0558,NA,6
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Blanchard, Joseph",BJ0558,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Blanchard, Joseph",BJ0558,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Blanchard, Joseph",BJ0558,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Boardman, Langley",BL0083,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Boardman, Langley",BL0083,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Boardman, Langley",BL0083,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Boardman, Langley",BL0083,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Boardman, Langley",BL0083,NA,6
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Boardman, Langley",BL0083,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Boody, Joseph",BJ1272,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Boody, Joseph",BJ1272,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Boody, Joseph",BJ1272,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Boody, Joseph",BJ1272,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Boody, Joseph",BJ1272,NA,6
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Boody, Joseph",BJ1272,NA,2
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Brown, L.",BL0081,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Brown, L.",BL0081,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Brown, L.",BL0081,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Brown, L.",BL0081,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Brown, L.",BL0081,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Brown, L.",BL0081,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Butler, Josiah",BJ0582,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Butler, Josiah",BJ0582,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Butler, Josiah",BJ0582,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Butler, Josiah",BJ0582,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Butler, Josiah",BJ0582,NA,2
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Butler, Josiah",BJ0582,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Cady, Alba",CA0232,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Cady, Alba",CA0232,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Cady, Alba",CA0232,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Cady, Alba",CA0232,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Cady, Alba",CA0232,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Cady, Alba",CA0232,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Cargoria, Philip",CP0113,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Cargoria, Philip",CP0113,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Cargoria, Philip",CP0113,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Cargoria, Philip",CP0113,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Cargoria, Philip",CP0113,NA,11
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Cargoria, Philip",CP0113,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Chadwick, John",CJ0836,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Chadwick, John",CJ0836,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Chadwick, John",CJ0836,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Chadwick, John",CJ0836,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Chadwick, John",CJ0836,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Chadwick, John",CJ0836,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Chamberlain, John C.",CJ0119,NA,31
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Chamberlain, John C.",CJ0381,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Chamberlain, John C.",CJ0119,NA,12
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Chamberlain, John C.",CJ0381,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Chamberlain, John C.",CJ0119,NA,93
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Chamberlain, John C.",CJ0381,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Chamberlain, John C.",CJ0119,NA,7
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Chamberlain, John C.",CJ0381,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Chamberlain, John C.",CJ0119,NA,61
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Chamberlain, John C.",CJ0381,NA,3
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Chamberlain, John C.",CJ0119,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Chamberlain, John C.",CJ0381,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Chamberlain, Levi",CL0045,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Chamberlain, Levi",CL0045,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Chamberlain, Levi",CL0045,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Chamberlain, Levi",CL0045,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Chamberlain, Levi",CL0045,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Chamberlain, Levi",CL0045,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Chase, Henry R.",CH0131,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Chase, Henry R.",CH0131,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Chase, Henry R.",CH0131,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Chase, Henry R.",CH0131,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Chase, Henry R.",CH0131,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Chase, Henry R.",CH0131,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Chase, Jonathan",CJ0869,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Chase, Jonathan",CJ0869,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Chase, Jonathan",CJ0869,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Chase, Jonathan",CJ0869,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Chase, Jonathan",CJ0869,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Chase, Jonathan",CJ0869,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Cilley, Joseph",CJ0366,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Cilley, Joseph",CJ0366,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Cilley, Joseph",CJ0366,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Cilley, Joseph",CJ0366,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Cilley, Joseph",CJ0366,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Cilley, Joseph",CJ0366,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Colby, Enoch",CE0162,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Colby, Enoch",CE0162,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Colby, Enoch",CE0162,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Colby, Enoch",CE0162,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Colby, Enoch",CE0162,NA,3
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Colby, Enoch",CE0162,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Cutter, C. W.",CC0146,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Cutter, C. W.",CC0146,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Cutter, C. W.",CC0146,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Cutter, C. W.",CC0146,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Cutter, C. W.",CC0146,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Cutter, C. W.",CC0146,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Cutts, Edwards",CE0090,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Cutts, Edwards",CE0090,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Cutts, Edwards",CE0090,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Cutts, Edwards",CE0090,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Cutts, Edwards",CE0090,NA,4
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Cutts, Edwards",CE0090,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Davenport, John",DJ0009,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Davenport, John",DJ0009,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Davenport, John",DJ0009,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Davenport, John",DJ0009,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Davenport, John",DJ0009,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Davenport, John",DJ0009,NA,8
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Dawes, Thomas",DT0029,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Dawes, Thomas",DT0029,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Dawes, Thomas",DT0029,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Dawes, Thomas",DT0029,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Dawes, Thomas",DT0029,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Dawes, Thomas",DT0029,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Dinsmore, Samuel",DS0099,NA,2
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Dinsmore, Samuel",DS0099,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Dinsmore, Samuel",DS0099,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Dinsmore, Samuel",DS0099,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Dinsmore, Samuel",DS0099,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Dinsmore, Samuel",DS0099,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Doe, Joseph",DJ0551,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Doe, Joseph",DJ0551,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Doe, Joseph",DJ0551,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Doe, Joseph",DJ0551,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Doe, Joseph",DJ0551,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Doe, Joseph",DJ0551,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Dolloff, John",DJ0534,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Dolloff, John",DJ0534,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Dolloff, John",DJ0534,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Dolloff, John",DJ0534,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Dolloff, John",DJ0534,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Dolloff, John",DJ0534,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Drew, Thomas",DT0126,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Drew, Thomas",DT0126,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Drew, Thomas",DT0126,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Drew, Thomas",DT0126,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Drew, Thomas",DT0126,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Drew, Thomas",DT0126,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Edmonds, B.",EB0028,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Edmonds, B.",EB0028,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Edmonds, B.",EB0028,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Edmonds, B.",EB0028,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Edmonds, B.",EB0028,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Edmonds, B.",EB0028,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Eastman, Nehemiah",EN0021,Democratic-Republican,154
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Eastman, Nehemiah",EN0021,Democratic-Republican,4
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Eastman, Nehemiah",EN0021,Democratic-Republican,54
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Eastman, Nehemiah",EN0021,Democratic-Republican,358
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Eastman, Nehemiah",EN0021,Democratic-Republican,302
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Eastman, Nehemiah",EN0021,Democratic-Republican,487
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Evans, Estwicke",EE0047,Democratic-Republican,94
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Evans, Estwicke",EE0047,Democratic-Republican,6
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Evans, Estwicke",EE0047,Democratic-Republican,149
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Evans, Estwicke",EE0047,Democratic-Republican,412
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Evans, Estwicke",EE0047,Democratic-Republican,1087
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Evans, Estwicke",EE0047,Democratic-Republican,378
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Folsom, John",FJ0432,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Folsom, John",FJ0432,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Folsom, John",FJ0432,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Folsom, John",FJ0432,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Folsom, John",FJ0432,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Folsom, John",FJ0432,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Foster, David C.",FD0074,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Foster, David C.",FD0074,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Foster, David C.",FD0074,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Foster, David C.",FD0074,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Foster, David C.",FD0074,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Foster, David C.",FD0074,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Frost, George",FG0049,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Frost, George",FG0049,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Frost, George",FG0049,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Frost, George",FG0049,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Frost, George",FG0049,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Frost, George",FG0049,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Gilman, Nathaniel",GN0013,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Gilman, Nathaniel",GN0013,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Gilman, Nathaniel",GN0013,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Gilman, Nathaniel",GN0013,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Gilman, Nathaniel",GN0013,NA,4
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Gilman, Nathaniel",GN0013,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Gookin, Daniel",GD0009,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Gookin, Daniel",GD0009,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Gookin, Daniel",GD0009,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Gookin, Daniel",GD0009,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Gookin, Daniel",GD0009,NA,5
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Gookin, Daniel",GD0009,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Grant, Samuel",GS0056,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Grant, Samuel",GS0056,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Grant, Samuel",GS0056,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Grant, Samuel",GS0056,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Grant, Samuel",GS0056,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Grant, Samuel",GS0056,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Hale, William",HW0187,NA,34
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Hale, William",HW0187,NA,17
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Hale, William",HW0187,NA,99
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Hale, William",HW0187,NA,17
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Hale, William",HW0187,NA,614
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Hale, William",HW0187,NA,282
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Ham, William",HW0265,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Ham, William",HW0265,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Ham, William",HW0265,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Ham, William",HW0265,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Ham, William",HW0265,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Ham, William",HW0265,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Handerson, Phinehas",HP0105,NA,2
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Handerson, Phinehas",HP0105,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Handerson, Phinehas",HP0105,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Handerson, Phinehas",HP0105,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Handerson, Phinehas",HP0105,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Handerson, Phinehas",HP0105,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Hanson, Stephen",HS0290,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Hanson, Stephen",HS0290,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Hanson, Stephen",HS0290,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Hanson, Stephen",HS0290,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Hanson, Stephen",HS0290,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Hanson, Stephen",HS0290,NA,2
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Harvey, Jonathan",HJ0382,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Harvey, Jonathan",HJ0382,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Harvey, Jonathan",HJ0382,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Harvey, Jonathan",HJ0382,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Harvey, Jonathan",HJ0382,NA,28
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Harvey, Jonathan",HJ0382,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Harvey, Matthew",HM0125,Adams/Clay,2595
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Harvey, Matthew",HM0125,Adams/Clay,331
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Harvey, Matthew",HM0125,Adams/Clay,1689
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Harvey, Matthew",HM0125,Adams/Clay,2549
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Harvey, Matthew",HM0125,Adams/Clay,2873
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Harvey, Matthew",HM0125,Adams/Clay,2185
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Haven, John",HJ1102,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Haven, John",HJ1102,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Haven, John",HJ1102,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Haven, John",HJ1102,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Haven, John",HJ1102,NA,4
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Haven, John",HJ1102,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Haven, Nathaniel A.",HN0031,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Haven, Nathaniel A.",HN0031,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Haven, Nathaniel A.",HN0031,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Haven, Nathaniel A.",HN0031,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Haven, Nathaniel A.",HN0031,NA,12
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Haven, Nathaniel A.",HN0031,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Healey, Joseph",HJ1093,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Healey, Joseph",HJ1093,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Healey, Joseph",HJ1093,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Healey, Joseph",HJ1093,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Healey, Joseph",HJ1093,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Healey, Joseph",HJ1093,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Hill, Isaac",HI0005,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Hill, Isaac",HI0005,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Hill, Isaac",HI0005,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Hill, Isaac",HI0005,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Hill, Isaac",HI0005,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Hill, Isaac",HI0005,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Hoit, Daniel",HD0184,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Hoit, Daniel",HD0184,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Hoit, Daniel",HD0184,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Hoit, Daniel",HD0184,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Hoit, Daniel",HD0184,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Hoit, Daniel",HD0184,NA,8
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Jackson, Levi",JL0008,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Jackson, Levi",JL0008,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Jackson, Levi",JL0008,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Jackson, Levi",JL0008,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Jackson, Levi",JL0008,NA,2
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Jackson, Levi",JL0008,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Jewitt, Nathan",JN0015,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Jewitt, Nathan",JN0015,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Jewitt, Nathan",JN0015,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Jewitt, Nathan",JN0015,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Jewitt, Nathan",JN0015,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Jewitt, Nathan",JN0015,NA,14
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Keith, Caleb",KC0049,NA,10
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Keith, Caleb",KC0049,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Keith, Caleb",KC0049,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Keith, Caleb",KC0049,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Keith, Caleb",KC0049,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Keith, Caleb",KC0049,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Lamprey, Aaron",LA0111,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Lamprey, Aaron",LA0111,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Lamprey, Aaron",LA0111,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Lamprey, Aaron",LA0111,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Lamprey, Aaron",LA0111,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Lamprey, Aaron",LA0111,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Little, William B.",LW0138,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Little, William B.",LW0138,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Little, William B.",LW0138,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Little, William B.",LW0138,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Little, William B.",LW0138,NA,3
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Little, William B.",LW0138,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Livermore, Arthur",LA0074,Adams/Clay,270
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Livermore, Arthur",LA0074,Adams/Clay,49
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Livermore, Arthur",LA0074,Adams/Clay,790
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Livermore, Arthur",LA0074,Adams/Clay,154
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Livermore, Arthur",LA0074,Adams/Clay,1015
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Livermore, Arthur",LA0074,Adams/Clay,569
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Lock, John",LJ0545,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Lock, John",LJ0545,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Lock, John",LJ0545,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Lock, John",LJ0545,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Lock, John",LJ0545,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Lock, John",LJ0545,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Lovejoy, William",LW0094,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Lovejoy, William",LW0094,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Lovejoy, William",LW0094,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Lovejoy, William",LW0094,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Lovejoy, William",LW0094,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Lovejoy, William",LW0094,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"March, John",MJ1014,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"March, John",MJ1014,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"March, John",MJ1014,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"March, John",MJ1014,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"March, John",MJ1014,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"March, John",MJ1014,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Matson, Aaron",MA0095,Adams/Clay,2482
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Matson, Aaron",MA0095,Adams/Clay,327
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Matson, Aaron",MA0095,Adams/Clay,1573
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Matson, Aaron",MA0095,Adams/Clay,2489
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Matson, Aaron",MA0095,Adams/Clay,2433
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Matson, Aaron",MA0095,Adams/Clay,1905
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Moody, Stephen",MS0196,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Moody, Stephen",MS0196,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Moody, Stephen",MS0196,NA,57
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Moody, Stephen",MS0196,NA,13
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Moody, Stephen",MS0196,NA,4
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Moody, Stephen",MS0196,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Morrill, David L.",MD0059,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Morrill, David L.",MD0059,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Morrill, David L.",MD0059,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Morrill, David L.",MD0059,NA,43
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Morrill, David L.",MD0059,NA,17
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Morrill, David L.",MD0059,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Nealley, Edward B.",NE0024,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Nealley, Edward B.",NE0024,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Nealley, Edward B.",NE0024,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Nealley, Edward B.",NE0024,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Nealley, Edward B.",NE0024,NA,58
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Nealley, Edward B.",NE0024,NA,48
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Noyes, Parker",NP0004,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Noyes, Parker",NP0004,NA,12
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Noyes, Parker",NP0004,NA,99
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Noyes, Parker",NP0004,NA,2
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Noyes, Parker",NP0004,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Noyes, Parker",NP0004,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Odeall, John",OJ0136,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Odeall, John",OJ0136,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Odeall, John",OJ0136,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Odeall, John",OJ0136,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Odeall, John",OJ0136,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Odeall, John",OJ0136,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Odell, Edmund",OE0009,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Odell, Edmund",OE0009,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Odell, Edmund",OE0009,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Odell, Edmund",OE0009,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Odell, Edmund",OE0009,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Odell, Edmund",OE0009,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Odell, James",OJ0135,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Odell, James",OJ0135,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Odell, James",OJ0135,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Odell, James",OJ0135,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Odell, James",OJ0135,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Odell, James",OJ0135,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Odell, Richard",OR0009,Democratic-Republican,333
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Odell, Richard",OR0009,Democratic-Republican,239
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Odell, Richard",OR0009,Democratic-Republican,652
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Odell, Richard",OR0009,Democratic-Republican,84
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Odell, Richard",OR0009,Democratic-Republican,299
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Odell, Richard",OR0009,Democratic-Republican,555
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Olcott, Mills",OM0011,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Olcott, Mills",OM0011,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Olcott, Mills",OM0011,NA,54
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Olcott, Mills",OM0011,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Olcott, Mills",OM0011,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Olcott, Mills",OM0011,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Page, John M.",PJ0589,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Page, John M.",PJ0589,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Page, John M.",PJ0589,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Page, John M.",PJ0589,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Page, John M.",PJ0589,NA,8
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Page, John M.",PJ0589,NA,3
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Palmer, Bracket",PB0081,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Palmer, Bracket",PB0081,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Palmer, Bracket",PB0081,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Palmer, Bracket",PB0081,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Palmer, Bracket",PB0081,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Palmer, Bracket",PB0081,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Parker, Edmund",PE0135,NA,1638
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Parker, Edmund",PE0135,NA,30
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Parker, Edmund",PE0135,NA,464
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Parker, Edmund",PE0135,NA,1191
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Parker, Edmund",PE0135,NA,1267
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Parker, Edmund",PE0135,NA,446
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Parker, James",PJ0595,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Parker, James",PJ0595,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Parker, James",PJ0595,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Parker, James",PJ0595,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Parker, James",PJ0595,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Parker, James",PJ0595,NA,2
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Payson, Moses P.",PM0041,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Payson, Moses P.",PM0041,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Payson, Moses P.",PM0041,NA,8
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Payson, Moses P.",PM0041,NA,13
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Payson, Moses P.",PM0041,NA,2
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Payson, Moses P.",PM0041,NA,15
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Peaslee, Israel",PI0047,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Peaslee, Israel",PI0047,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Peaslee, Israel",PI0047,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Peaslee, Israel",PI0047,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Peaslee, Israel",PI0047,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Peaslee, Israel",PI0047,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Pendexter, John",PJ0578,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Pendexter, John",PJ0578,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Pendexter, John",PJ0578,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Pendexter, John",PJ0578,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Pendexter, John",PJ0578,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Pendexter, John",PJ0578,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Penhallow, Henking",PH0080,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Penhallow, Henking",PH0080,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Penhallow, Henking",PH0080,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Penhallow, Henking",PH0080,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Penhallow, Henking",PH0080,NA,8
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Penhallow, Henking",PH0080,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Pickering, William",PW0131,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Pickering, William",PW0131,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Pickering, William",PW0131,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Pickering, William",PW0131,NA,4
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Pickering, William",PW0131,NA,9
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Pickering, William",PW0131,NA,8
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Pierce, Benjamin",PB0047,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Pierce, Benjamin",PB0047,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Pierce, Benjamin",PB0047,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Pierce, Benjamin",PB0047,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Pierce, Benjamin",PB0047,NA,4
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Pierce, Benjamin",PB0047,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Plumer, William",PW0147,Adams/Clay,2472
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Plumer, William",PW0147,Adams/Clay,321
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Plumer, William",PW0147,Adams/Clay,1324
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Plumer, William",PW0147,Adams/Clay,2045
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Plumer, William",PW0147,Adams/Clay,1188
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Plumer, William",PW0147,Adams/Clay,1282
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Prescott, Jeremiah",PJ0591,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Prescott, Jeremiah",PJ0591,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Prescott, Jeremiah",PJ0591,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Prescott, Jeremiah",PJ0591,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Prescott, Jeremiah",PJ0591,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Prescott, Jeremiah",PJ0591,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Quarles, Samuel",QS0001,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Quarles, Samuel",QS0001,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Quarles, Samuel",QS0001,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Quarles, Samuel",QS0001,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Quarles, Samuel",QS0001,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Quarles, Samuel",QS0001,NA,3
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Rogers, John",RJ0547,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Rogers, John",RJ0547,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Rogers, John",RJ0547,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Rogers, John",RJ0547,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Rogers, John",RJ0547,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Rogers, John",RJ0547,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Sawyer, William",SW0431,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Sawyer, William",SW0431,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Sawyer, William",SW0431,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Sawyer, William",SW0431,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Sawyer, William",SW0431,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Sawyer, William",SW0431,NA,2
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Shepard, Samuel",SS0284,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Shepard, Samuel",SS0284,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Shepard, Samuel",SS0284,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Shepard, Samuel",SS0284,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Shepard, Samuel",SS0284,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Shepard, Samuel",SS0284,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Sherburne, John N.",SJ1348,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Sherburne, John N.",SJ1348,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Sherburne, John N.",SJ1348,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Sherburne, John N.",SJ1348,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Sherburne, John N.",SJ1348,NA,4
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Sherburne, John N.",SJ1348,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Smith, Samuel",SS0149,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Smith, Samuel",SS0149,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Smith, Samuel",SS0149,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Smith, Samuel",SS0149,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Smith, Samuel",SS0149,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Smith, Samuel",SS0149,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Sparhawk, Samuel",SS0282,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Sparhawk, Samuel",SS0282,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Sparhawk, Samuel",SS0282,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Sparhawk, Samuel",SS0282,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Sparhawk, Samuel",SS0282,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Sparhawk, Samuel",SS0282,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Steele, Jonathan",SJ0926,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Steele, Jonathan",SJ0926,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Steele, Jonathan",SJ0926,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Steele, Jonathan",SJ0926,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Steele, Jonathan",SJ0926,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Steele, Jonathan",SJ0926,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Summer, Fred A.",SF0064,NA,4
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Summer, Fred A.",SF0064,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Summer, Fred A.",SF0064,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Summer, Fred A.",SF0064,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Summer, Fred A.",SF0064,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Summer, Fred A.",SF0064,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Tilton, Joseph",TJ0464,NA,10
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Tilton, Joseph",TJ0464,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Tilton, Joseph",TJ0464,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Tilton, Joseph",TJ0464,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Tilton, Joseph",TJ0464,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Tilton, Joseph",TJ0464,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Towle, Gardner",TG0047,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Towle, Gardner",TG0047,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Towle, Gardner",TG0047,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Towle, Gardner",TG0047,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Towle, Gardner",TG0047,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Towle, Gardner",TG0047,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Turell, Charles",TC0052,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Turell, Charles",TC0052,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Turell, Charles",TC0052,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Turell, Charles",TC0052,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Turell, Charles",TC0052,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Turell, Charles",TC0052,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Upham, George B.",UG0000,NA,41
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Upham, George B.",UG0000,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Upham, George B.",UG0000,NA,6
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Upham, George B.",UG0000,NA,43
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Upham, George B.",UG0000,NA,39
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Upham, George B.",UG0000,NA,46
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Upham, Nathaniel",UN0000,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Upham, Nathaniel",UN0000,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Upham, Nathaniel",UN0000,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Upham, Nathaniel",UN0000,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Upham, Nathaniel",UN0000,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Upham, Nathaniel",UN0000,NA,10
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Upham, Timothy",UT0001,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Upham, Timothy",UT0001,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Upham, Timothy",UT0001,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Upham, Timothy",UT0001,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Upham, Timothy",UT0001,NA,4
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Upham, Timothy",UT0001,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Van Alen, Jacob R.",VJ0167,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Van Alen, Jacob R.",VJ0167,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Van Alen, Jacob R.",VJ0167,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Van Alen, Jacob R.",VJ0167,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Van Alen, Jacob R.",VJ0167,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Van Alen, Jacob R.",VJ0167,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Walker, Lyman B.",WL0074,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Walker, Lyman B.",WL0074,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Walker, Lyman B.",WL0074,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Walker, Lyman B.",WL0074,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Walker, Lyman B.",WL0074,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Walker, Lyman B.",WL0074,NA,3
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Webster, Ezekial",WE0017,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Webster, Ezekial",WE0017,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Webster, Ezekial",WE0017,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Webster, Ezekial",WE0017,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Webster, Ezekial",WE0017,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Webster, Ezekial",WE0017,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Wendell, Isaac",WI0054,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Wendell, Isaac",WI0054,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Wendell, Isaac",WI0054,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Wendell, Isaac",WI0054,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Wendell, Isaac",WI0054,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Wendell, Isaac",WI0054,NA,2
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"West, Nehemiah",WN0085,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"West, Nehemiah",WN0085,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"West, Nehemiah",WN0085,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"West, Nehemiah",WN0085,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"West, Nehemiah",WN0085,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"West, Nehemiah",WN0085,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Whipple, Thomas, Jr.",WT0107,NA,2587
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Whipple, Thomas, Jr.",WT0107,NA,325
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Whipple, Thomas, Jr.",WT0107,NA,1621
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Whipple, Thomas, Jr.",WT0107,NA,2516
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Whipple, Thomas, Jr.",WT0107,NA,2788
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Whipple, Thomas, Jr.",WT0107,NA,2046
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Wilcox, Jeduthun",WJ0330,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Wilcox, Jeduthun",WJ0330,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Wilcox, Jeduthun",WJ0330,NA,2
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Wilcox, Jeduthun",WJ0330,NA,2
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Wilcox, Jeduthun",WJ0330,NA,64
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Wilcox, Jeduthun",WJ0330,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Wilder, James",WJ1011,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Wilder, James",WJ1011,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Wilder, James",WJ1011,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Wilder, James",WJ1011,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Wilder, James",WJ1011,NA,2
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Wilder, James",WJ1011,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Williams, John",WJ0910,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Williams, John",WJ0910,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Williams, John",WJ0910,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Williams, John",WJ0910,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Williams, John",WJ0910,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Williams, John",WJ0910,NA,6
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Wingate, John",WJ0995,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Wingate, John",WJ0995,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Wingate, John",WJ0995,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Wingate, John",WJ0995,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Wingate, John",WJ0995,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Wingate, John",WJ0995,NA,2
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Woodbury, Levi",WL0039,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Woodbury, Levi",WL0039,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Woodbury, Levi",WL0039,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Woodbury, Levi",WL0039,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Woodbury, Levi",WL0039,NA,21
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Woodbury, Levi",WL0039,NA,2
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Woodman, Charles",WC0094,Democratic-Republican,576
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Woodman, Charles",WC0094,Democratic-Republican,54
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Woodman, Charles",WC0094,Democratic-Republican,545
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Woodman, Charles",WC0094,Democratic-Republican,972
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Woodman, Charles",WC0094,Democratic-Republican,1181
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Woodman, Charles",WC0094,Democratic-Republican,827
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Cheshire,nhs_cheshire,33005,"Woodman, Jeremiah H.",WJ1009,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Coos,nhs_coos,33007,"Woodman, Jeremiah H.",WJ1009,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Grafton,nhs_grafton,33009,"Woodman, Jeremiah H.",WJ1009,NA,1
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Hillsborough,nhs_hillsborough,33011,"Woodman, Jeremiah H.",WJ1009,NA,0
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Rockingham,nhs_rockingham,33015,"Woodman, Jeremiah H.",WJ1009,NA,2
+meae.congressional.congress18.nh.county,congressional,18,NH,county,state,nh.uscongress.1822,Strafford,nhs_strafford,33017,"Woodman, Jeremiah H.",WJ1009,NA,27

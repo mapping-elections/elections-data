@@ -1,0 +1,61 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress1.1792,Calvert,mds_calvert,24009,"Dent, George",DG0004,Federalist,346
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress1.1792,Charles,mds_charles,24017,"Dent, George",DG0004,Federalist,619
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress1.1792,Saint Mary's,mds_stmarys,24037,"Dent, George",DG0004,Federalist,6
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress1.1792,Calvert,mds_calvert,24009,"Key, Philip Barton",KP0001,Federalist,105
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress1.1792,Charles,mds_charles,24017,"Key, Philip Barton",KP0001,Federalist,41
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress1.1792,Saint Mary's,mds_stmarys,24037,"Key, Philip Barton",KP0001,Federalist,409
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress1.1792,Calvert,mds_calvert,24009,"Parnham, John",PJ0127,Federalist,42
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress1.1792,Charles,mds_charles,24017,"Parnham, John",PJ0127,Federalist,506
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress1.1792,Saint Mary's,mds_stmarys,24037,"Parnham, John",PJ0127,Federalist,99
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress2.1792,Anne Arundel,mds_annearundel,24003,"Mercer, John Francis",MJ0200,Anti-Federalist,608
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress2.1792,Prince George's,mds_princegeorges,24033,"Mercer, John Francis",MJ0200,Anti-Federalist,797
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress2.1792,Anne Arundel,mds_annearundel,24003,"Thomas, John",TJ0160,Federalist,667
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress2.1792,Prince George's,mds_princegeorges,24033,"Thomas, John",TJ0160,Federalist,372
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress2.1792,Anne Arundel,mds_annearundel,24003,"Contee, Richard A.",CR0017,NA,0
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress2.1792,Prince George's,mds_princegeorges,24033,"Contee, Richard A.",CR0017,NA,23
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress3.1792,Frederick,mds_frederick,24021,"Dorsey, William",DW0030,Anti-Federalist,160
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress3.1792,Montgomery,mds_montgomery,24031,"Dorsey, William",DW0030,Anti-Federalist,270
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress3.1792,Frederick,mds_frederick,24021,"Forrest, Uriah",FU0000,Federalist,250
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress3.1792,Montgomery,mds_montgomery,24031,"Forrest, Uriah",FU0000,Federalist,849
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress4.1792,Allegany,mds_allegany,24001,"Sprigg, Thomas",ST0060,Federalist,148
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress4.1792,Frederick,mds_frederick,24021,"Sprigg, Thomas",ST0060,Federalist,28
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress4.1792,Washington,mds_washington,24043,"Sprigg, Thomas",ST0060,Federalist,321
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress5.1792,Baltimore,mds_baltimore,24005,"Ridgeley, Charles, of William",RC0025,Anti-Federalist,893
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress5.1792,Baltimore,mds_baltimore,24005,"Smith, Samuel",SS0062,Federalist,540
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress6.1792,Cecil,mds_cecil,24015,"Christie, Gabriel",CG0044,Anti-Federalist,671
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress6.1792,Harford,mds_harford,24025,"Christie, Gabriel",CG0044,Anti-Federalist,1117
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress6.1792,Kent,mds_kent,24029,"Christie, Gabriel",CG0044,Anti-Federalist,205
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress6.1792,Cecil,mds_cecil,24015,"Matthews, William",MW0075,Federalist,533
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress6.1792,Harford,mds_harford,24025,"Matthews, William",MW0075,Federalist,49
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress6.1792,Kent,mds_kent,24029,"Matthews, William",MW0075,Federalist,559
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress6.1792,Cecil,mds_cecil,24015,"Webster, John Lee",WJ0139,NA,0
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress6.1792,Harford,mds_harford,24025,"Webster, John Lee",WJ0139,NA,0
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress6.1792,Kent,mds_kent,24029,"Webster, John Lee",WJ0139,NA,1
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress7.1792,Caroline,mds_caroline,24011,"Tilghman, James",TJ0158,Anti-Federalist,247
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress7.1792,Queen Anne's,mds_queenannes,24035,"Tilghman, James",TJ0158,Anti-Federalist,404
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress7.1792,Talbot,mds_talbot,24041,"Tilghman, James",TJ0158,Anti-Federalist,649
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress7.1792,Caroline,mds_caroline,24011,"Hindman, William",HW0097,Federalist,250
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress7.1792,Queen Anne's,mds_queenannes,24035,"Hindman, William",HW0097,Federalist,722
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress7.1792,Talbot,mds_talbot,24041,"Hindman, William",HW0097,Federalist,417
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress8.1792,Dorchester,mds_dorchester,24019,"Dennis, Littleton, Sr.",DL0009,Federalist,0
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress8.1792,Somerset,mds_somerset,24039,"Dennis, Littleton, Sr.",DL0009,Federalist,0
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress8.1792,Worcester,mds_worcester,24047,"Dennis, Littleton, Sr.",DL0009,Federalist,87
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress8.1792,Dorchester,mds_dorchester,24019,"Murray, William Vans",MW0069,Federalist,582
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress8.1792,Somerset,mds_somerset,24039,"Murray, William Vans",MW0069,Federalist,255
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress8.1792,Worcester,mds_worcester,24047,"Murray, William Vans",MW0069,Federalist,678
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress8.1792,Dorchester,mds_dorchester,24019,"Gimby, John",GJ0604,NA,0
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress8.1792,Somerset,mds_somerset,24039,"Gimby, John",GJ0604,NA,0
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress8.1792,Worcester,mds_worcester,24047,"Gimby, John",GJ0604,NA,4
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress8.1792,Dorchester,mds_dorchester,24019,"Parker, Henry",PH0011,NA,0
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress8.1792,Somerset,mds_somerset,24039,"Parker, Henry",PH0011,NA,1
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress8.1792,Worcester,mds_worcester,24047,"Parker, Henry",PH0011,NA,1
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress8.1792,Dorchester,mds_dorchester,24019,"Purnell, John L.",PJ0000,NA,0
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress8.1792,Somerset,mds_somerset,24039,"Purnell, John L.",PJ0000,NA,0
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress8.1792,Worcester,mds_worcester,24047,"Purnell, John L.",PJ0000,NA,1
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress8.1792,Dorchester,mds_dorchester,24019,"Scott, Gustavus",SG0029,NA,0
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress8.1792,Somerset,mds_somerset,24039,"Scott, Gustavus",SG0029,NA,0
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress8.1792,Worcester,mds_worcester,24047,"Scott, Gustavus",SG0029,NA,1
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress8.1792,Dorchester,mds_dorchester,24019,"Winder, William H.",WW0073,NA,0
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress8.1792,Somerset,mds_somerset,24039,"Winder, William H.",WW0073,NA,0
+meae.congressional.congress03.md.county,congressional,3,MD,county,state,md.uscongress8.1792,Worcester,mds_worcester,24047,"Winder, William H.",WW0073,NA,6

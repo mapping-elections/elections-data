@@ -1,0 +1,132 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.barnstable.1824,Barnstable,mas_barnstable,25001,"Burnell, Barker",BB0021,Democratic-Republican,69
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.barnstable.1824,Dukes,mas_dukes,25007,"Burnell, Barker",BB0021,Democratic-Republican,46
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.barnstable.1824,Nantucket,mas_nantucket,25019,"Burnell, Barker",BB0021,Democratic-Republican,318
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.barnstable.1824,Plymouth,mas_plymouth,25023,"Burnell, Barker",BB0021,Democratic-Republican,27
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.barnstable.1824,Barnstable,mas_barnstable,25001,"Folger, Walter, Jr.",FW0026,Democratic-Republican,120
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.barnstable.1824,Dukes,mas_dukes,25007,"Folger, Walter, Jr.",FW0026,Democratic-Republican,0
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.barnstable.1824,Nantucket,mas_nantucket,25019,"Folger, Walter, Jr.",FW0026,Democratic-Republican,140
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.barnstable.1824,Plymouth,mas_plymouth,25023,"Folger, Walter, Jr.",FW0026,Democratic-Republican,37
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.barnstable.1824,Barnstable,mas_barnstable,25001,"Reed, John",RJ0539,Adams/Clay,759
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.barnstable.1824,Dukes,mas_dukes,25007,"Reed, John",RJ0539,Adams/Clay,37
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.barnstable.1824,Nantucket,mas_nantucket,25019,"Reed, John",RJ0539,Adams/Clay,73
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.barnstable.1824,Plymouth,mas_plymouth,25023,"Reed, John",RJ0539,Adams/Clay,180
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.berkshire.1824,Berkshire,mas_berkshire,25003,"Willis, Nathan",WN0022,Democratic-Republican,1336
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.berkshire.1824,Hampshire,mas_hampshire,25015,"Willis, Nathan",WN0022,Democratic-Republican,49
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.berkshire.1824,Berkshire,mas_berkshire,25003,"Dwight, Henry W.",DH0008,Adams/Clay,1612
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.berkshire.1824,Hampshire,mas_hampshire,25015,"Dwight, Henry W.",DH0008,Adams/Clay,309
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.berkshire.1824,Berkshire,mas_berkshire,25003,NA,Other candidates,NA,61
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.bristol.ballot2.1825,Bristol,mas_bristol,25005,"Hodges, James L.",HJ0392,Democratic-Republican,1363
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.bristol.ballot2.1825,Bristol,mas_bristol,25005,"Bayliss, Francis",BF0013,Jacksonian,1778
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.bristol.ballot2.1825,Bristol,mas_bristol,25005,NA,Other candidates,NA,104
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexnorth.ballot2.1825,Essex,mas_essex,25009,"Merrill, John",MJ0296,Democratic-Republican,1373
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexnorth.ballot2.1825,Middlesex,mas_middlesex,25017,"Merrill, John",MJ0296,Democratic-Republican,286
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexnorth.ballot2.1825,Essex,mas_essex,25009,"Noyes, Nathan",NN0007,Democratic-Republican,12
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexnorth.ballot2.1825,Middlesex,mas_middlesex,25017,"Noyes, Nathan",NN0007,Democratic-Republican,0
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexnorth.ballot2.1825,Essex,mas_essex,25009,"Wingate, Moses",WM0044,Democratic-Republican,35
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexnorth.ballot2.1825,Middlesex,mas_middlesex,25017,"Wingate, Moses",WM0044,Democratic-Republican,0
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexnorth.ballot2.1825,Essex,mas_essex,25009,"Varnum, John",VJ0043,Federalist,1580
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexnorth.ballot2.1825,Middlesex,mas_middlesex,25017,"Varnum, John",VJ0043,Federalist,156
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexnorth.ballot2.1825,Essex,mas_essex,25009,"Clark, Thomas M.",CT0033,NA,1
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexnorth.ballot2.1825,Middlesex,mas_middlesex,25017,"Clark, Thomas M.",CT0033,NA,0
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexnorth.ballot2.1825,Essex,mas_essex,25009,"Gerrish, Jacob",GJ0216,NA,2
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexnorth.ballot2.1825,Middlesex,mas_middlesex,25017,"Gerrish, Jacob",GJ0216,NA,0
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexnorth.ballot2.1825,Essex,mas_essex,25009,"Kitteridge, Joseph",KJ0106,NA,1
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexnorth.ballot2.1825,Middlesex,mas_middlesex,25017,"Kitteridge, Joseph",KJ0106,NA,0
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexnorth.ballot2.1825,Essex,mas_essex,25009,"Locke, Joseph",LJ0196,NA,1
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexnorth.ballot2.1825,Middlesex,mas_middlesex,25017,"Locke, Joseph",LJ0196,NA,0
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexnorth.ballot2.1825,Essex,mas_essex,25009,"Marsh, Samuel",MS0015,NA,1
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexnorth.ballot2.1825,Middlesex,mas_middlesex,25017,"Marsh, Samuel",MS0015,NA,0
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexnorth.ballot2.1825,Essex,mas_essex,25009,"Mosely, Ebenezer",ME0020,NA,3
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexnorth.ballot2.1825,Middlesex,mas_middlesex,25017,"Mosely, Ebenezer",ME0020,NA,0
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexnorth.ballot2.1825,Essex,mas_essex,25009,NA,Other candidates,NA,2
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexnorth.ballot2.1825,Essex,mas_essex,25009,"Spalding, Amos",SA0077,NA,3
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexnorth.ballot2.1825,Middlesex,mas_middlesex,25017,"Spalding, Amos",SA0077,NA,0
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexnorth.ballot2.1825,Essex,mas_essex,25009,"Wood, Abner",WA0081,NA,1
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexnorth.ballot2.1825,Middlesex,mas_middlesex,25017,"Wood, Abner",WA0081,NA,0
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexsouth.1824,Essex,mas_essex,25009,"Crowninshield, Benjamin W.",CB0039,Adams/Clay,1334
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexsouth.1824,Suffolk,mas_suffolk,25025,"Crowninshield, Benjamin W.",CB0039,Adams/Clay,45
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexsouth.1824,Essex,mas_essex,25009,"Hawes, Frederick",HF0012,Federalist,760
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexsouth.1824,Suffolk,mas_suffolk,25025,"Hawes, Frederick",HF0012,Federalist,0
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexsouth.1824,Essex,mas_essex,25009,NA,Other candidates,NA,109
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexsouth.1824,Essex,mas_essex,25009,"Newall, A. T.",NA0024,NA,33
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexsouth.1824,Suffolk,mas_suffolk,25025,"Newall, A. T.",NA0024,NA,0
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexsouth.1824,Essex,mas_essex,25009,"Peale, Willard",PW0074,NA,51
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexsouth.1824,Suffolk,mas_suffolk,25025,"Peale, Willard",PW0074,NA,0
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexsouth.1824,Essex,mas_essex,25009,"White, Stephen",WS0087,NA,43
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.essexsouth.1824,Suffolk,mas_suffolk,25025,"White, Stephen",WS0087,NA,0
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.franklin.ballot2.1825,Franklin,mas_franklin,25011,"Allen, Samuel C.",AS0024,Adams/Clay,1253
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.franklin.ballot2.1825,Hampshire,mas_hampshire,25015,"Allen, Samuel C.",AS0024,Adams/Clay,474
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.franklin.ballot2.1825,Franklin,mas_franklin,25011,"Grennall, George, Jr.",GG0026,Democratic-Republican,1172
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.franklin.ballot2.1825,Hampshire,mas_hampshire,25015,"Grennall, George, Jr.",GG0026,Democratic-Republican,176
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.franklin.ballot2.1825,Franklin,mas_franklin,25011,"Lyman, Elihu",LE0021,NA,17
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.franklin.ballot2.1825,Hampshire,mas_hampshire,25015,"Lyman, Elihu",LE0021,NA,0
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.franklin.ballot2.1825,Franklin,mas_franklin,25011,NA,Other candidates,NA,10
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.hampden.ballot3.1825,Hampden,mas_hampden,25013,"Fowler, James",FJ0127,Democratic-Republican,1032
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.hampden.ballot3.1825,Hampshire,mas_hampshire,25015,"Fowler, James",FJ0127,Democratic-Republican,184
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.hampden.ballot3.1825,Hampden,mas_hampden,25013,"Shepherd, Thomas",ST0058,Democratic-Republican,73
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.hampden.ballot3.1825,Hampshire,mas_hampshire,25015,"Shepherd, Thomas",ST0058,Democratic-Republican,0
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.hampden.ballot3.1825,Hampden,mas_hampden,25013,"Lathrop, Samuel",LS0046,Adams/Clay,1101
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.hampden.ballot3.1825,Hampshire,mas_hampshire,25015,"Lathrop, Samuel",LS0046,Adams/Clay,819
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.hampden.ballot3.1825,Hampden,mas_hampden,25013,"Ford, Samuel S.",FS0045,NA,0
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.hampden.ballot3.1825,Hampshire,mas_hampshire,25015,"Ford, Samuel S.",FS0045,NA,5
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.hampden.ballot3.1825,Hampden,mas_hampden,25013,"Lincoln, Levi",LL0044,NA,1
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.hampden.ballot3.1825,Hampshire,mas_hampshire,25015,"Lincoln, Levi",LL0044,NA,0
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.hampden.ballot3.1825,Hampden,mas_hampden,25013,"Morton, Marcus",MM0019,NA,1
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.hampden.ballot3.1825,Hampshire,mas_hampshire,25015,"Morton, Marcus",MM0019,NA,0
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.hampden.ballot3.1825,Hampden,mas_hampden,25013,NA,Other candidates,NA,63
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.hampden.ballot3.1825,Hampshire,mas_hampshire,25015,NA,Other candidates,NA,4
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.hampden.ballot3.1825,Hampden,mas_hampden,25013,"Pyncheon, Edward",PE0040,NA,2
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.hampden.ballot3.1825,Hampshire,mas_hampshire,25015,"Pyncheon, Edward",PE0040,NA,0
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.middlesex.1824,Middlesex,mas_middlesex,25017,"Everett, Edward",EE0018,Democratic-Republican,1905
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.middlesex.1824,Middlesex,mas_middlesex,25017,"Keyes, John",KJ0100,Democratic-Republican,1357
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.middlesex.1824,Middlesex,mas_middlesex,25017,NA,Other candidates,NA,50
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.middlesex.1824,Middlesex,mas_middlesex,25017,"Thaxter, Levi",TL0017,NA,46
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.norfolk.ballot3.1825,Middlesex,mas_middlesex,25017,"Bailey, John",BJ0321,Adams/Clay,313
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.norfolk.ballot3.1825,Norfolk,mas_norfolk,25021,"Bailey, John",BJ0321,Adams/Clay,1356
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.norfolk.ballot3.1825,Middlesex,mas_middlesex,25017,"Ellis, William",EW0022,NA,0
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.norfolk.ballot3.1825,Norfolk,mas_norfolk,25021,"Ellis, William",EW0022,NA,47
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.norfolk.ballot3.1825,Middlesex,mas_middlesex,25017,"Leland, Sherman",LS0020,Democratic-Republican,220
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.norfolk.ballot3.1825,Norfolk,mas_norfolk,25021,"Leland, Sherman",LS0020,Democratic-Republican,771
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.norfolk.ballot3.1825,Middlesex,mas_middlesex,25017,"Leonard, Jonathan",LJ0180,NA,0
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.norfolk.ballot3.1825,Norfolk,mas_norfolk,25021,"Leonard, Jonathan",LJ0180,NA,17
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.norfolk.ballot3.1825,Middlesex,mas_middlesex,25017,NA,Other candidates,NA,1
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.norfolk.ballot3.1825,Norfolk,mas_norfolk,25021,NA,Other candidates,NA,148
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.norfolk.ballot3.1825,Middlesex,mas_middlesex,25017,"Seaver, Ebenezer",SE0023,NA,0
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.norfolk.ballot3.1825,Norfolk,mas_norfolk,25021,"Seaver, Ebenezer",SE0023,NA,25
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.norfolk.ballot3.1825,Middlesex,mas_middlesex,25017,"Valentine, Joseph",VJ0041,NA,0
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.norfolk.ballot3.1825,Norfolk,mas_norfolk,25021,"Valentine, Joseph",VJ0041,NA,16
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.plymouth.1824,Bristol,mas_bristol,25005,"Hobart, Aaron",HA0079,Adams/Clay,46
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.plymouth.1824,Norfolk,mas_norfolk,25021,"Hobart, Aaron",HA0079,Adams/Clay,220
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.plymouth.1824,Plymouth,mas_plymouth,25023,"Hobart, Aaron",HA0079,Adams/Clay,1340
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.plymouth.1824,Bristol,mas_bristol,25005,"Baylies, William",BW0156,Federalist,0
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.plymouth.1824,Norfolk,mas_norfolk,25021,"Baylies, William",BW0156,Federalist,2
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.plymouth.1824,Plymouth,mas_plymouth,25023,"Baylies, William",BW0156,Federalist,258
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.plymouth.1824,Bristol,mas_bristol,25005,"Gay, Ebenezer",GE0012,Federalist,0
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.plymouth.1824,Norfolk,mas_norfolk,25021,"Gay, Ebenezer",GE0012,Federalist,29
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.plymouth.1824,Plymouth,mas_plymouth,25023,"Gay, Ebenezer",GE0012,Federalist,264
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.plymouth.1824,Plymouth,mas_plymouth,25023,NA,Other candidates,NA,31
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.suffolk.1824,Suffolk,mas_suffolk,25025,"Webster, Daniel",WD0028,Federalist,3669
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.suffolk.1824,Suffolk,mas_suffolk,25025,NA,Other candidates,NA,3
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.worcesternorth.1824,Middlesex,mas_middlesex,25017,"Dana, Samuel",DS0058,Democratic-Republican,0
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.worcesternorth.1824,Worcester,mas_worcester,25027,"Dana, Samuel",DS0058,Democratic-Republican,186
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.worcesternorth.1824,Middlesex,mas_middlesex,25017,"Locke, John",LJ0184,Adams/Clay,253
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.worcesternorth.1824,Worcester,mas_worcester,25027,"Locke, John",LJ0184,Adams/Clay,1271
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.worcesternorth.1824,Middlesex,mas_middlesex,25017,"James, Eleazer",JE0010,Federalist,136
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.worcesternorth.1824,Worcester,mas_worcester,25027,"James, Eleazer",JE0010,Federalist,229
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.worcesternorth.1824,Middlesex,mas_middlesex,25017,"Jewett, Ivers",JI0015,NA,0
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.worcesternorth.1824,Worcester,mas_worcester,25027,"Jewett, Ivers",JI0015,NA,2
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.worcesternorth.1824,Middlesex,mas_middlesex,25017,"Kendall, Jonas",KJ0066,NA,0
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.worcesternorth.1824,Worcester,mas_worcester,25027,"Kendall, Jonas",KJ0066,NA,1
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.worcesternorth.1824,Middlesex,mas_middlesex,25017,"Kendall, Joseph G.",KJ0074,Federalist,35
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.worcesternorth.1824,Worcester,mas_worcester,25027,"Kendall, Joseph G.",KJ0074,Federalist,388
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.worcesternorth.1824,Middlesex,mas_middlesex,25017,"Locke, Joseph",LJ0196,NA,0
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.worcesternorth.1824,Worcester,mas_worcester,25027,"Locke, Joseph",LJ0196,NA,4
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.worcesternorth.1824,Worcester,mas_worcester,25027,NA,Other candidates,NA,10
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.worcestersouth.ballot4.1825,Worcester,mas_worcester,25027,"Sibley, Jonas",SJ0437,Democratic-Republican,1207
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.worcestersouth.ballot4.1825,Worcester,mas_worcester,25027,"Davis, Jonathan",DJ0190,Federalist,1282
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.worcestersouth.ballot4.1825,Worcester,mas_worcester,25027,"Burnside, Samuel M.",BS0122,NA,1
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.worcestersouth.ballot4.1825,Worcester,mas_worcester,25027,"Denny, Austin",DA0037,NA,1
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.worcestersouth.ballot4.1825,Worcester,mas_worcester,25027,"Howe, Thomas",HT0161,NA,1
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.worcestersouth.ballot4.1825,Worcester,mas_worcester,25027,"Merseles, Peter",MP0084,NA,3
+meae.congressional.congress19.ma.county,congressional,19,MA,county,state,ma.uscongress.worcestersouth.ballot4.1825,Worcester,mas_worcester,25027,NA,Other candidates,NA,3

@@ -1,0 +1,8 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress02.de.county,congressional,2,DE,county,state,de.uscongress.1790,Kent,des_kent,10001,"Clayton, Joshua",CJ0087,Federalist,145
+meae.congressional.congress02.de.county,congressional,2,DE,county,state,de.uscongress.1790,Kent,des_kent,10001,"Vining, John",VJ0002,Federalist,252
+meae.congressional.congress02.de.county,congressional,2,DE,county,state,de.uscongress.1790,Kent,des_kent,10001,"Banning, John",BJ0072,NA,2
+meae.congressional.congress02.de.county,congressional,2,DE,county,state,de.uscongress.1790,Kent,des_kent,10001,"Duff, Thomas",DT0018,NA,104
+meae.congressional.congress02.de.county,congressional,2,DE,county,state,de.uscongress.1790,Kent,des_kent,10001,"Gordon, John",GJ0019,NA,1
+meae.congressional.congress02.de.county,congressional,2,DE,county,state,de.uscongress.1790,Kent,des_kent,10001,"Mitchell, Nathaniel",MN0002,NA,2
+meae.congressional.congress02.de.county,congressional,2,DE,county,state,de.uscongress.1790,Kent,des_kent,10001,"Perry, William",PW0014,NA,1

@@ -1,0 +1,128 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress1.1817,Camden,ncs_camden,37029,"Ferebee, Joseph",FJ0269,Democratic-Republican,109
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress1.1817,Chowan,ncs_chowan,37041,"Ferebee, Joseph",FJ0269,Democratic-Republican,141
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress1.1817,Currituck,ncs_currituck,37053,"Ferebee, Joseph",FJ0269,Democratic-Republican,489
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress1.1817,Gates,ncs_gates,37073,"Ferebee, Joseph",FJ0269,Democratic-Republican,83
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress1.1817,Hertford,ncs_hertford,37091,"Ferebee, Joseph",FJ0269,Democratic-Republican,223
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress1.1817,Pasquotank,ncs_pasquotank,37139,"Ferebee, Joseph",FJ0269,Democratic-Republican,109
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress1.1817,Perquimans,ncs_perquimans,37143,"Ferebee, Joseph",FJ0269,Democratic-Republican,39
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress1.1817,Camden,ncs_camden,37029,"Sawyer, Lemuel",SL0032,Democratic-Republican,367
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress1.1817,Chowan,ncs_chowan,37041,"Sawyer, Lemuel",SL0032,Democratic-Republican,32
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress1.1817,Currituck,ncs_currituck,37053,"Sawyer, Lemuel",SL0032,Democratic-Republican,123
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress1.1817,Gates,ncs_gates,37073,"Sawyer, Lemuel",SL0032,Democratic-Republican,73
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress1.1817,Hertford,ncs_hertford,37091,"Sawyer, Lemuel",SL0032,Democratic-Republican,25
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress1.1817,Pasquotank,ncs_pasquotank,37139,"Sawyer, Lemuel",SL0032,Democratic-Republican,523
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress1.1817,Perquimans,ncs_perquimans,37143,"Sawyer, Lemuel",SL0032,Democratic-Republican,228
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress1.1817,Camden,ncs_camden,37029,"Skinner, Henry",SH0112,Federalist,1
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress1.1817,Chowan,ncs_chowan,37041,"Skinner, Henry",SH0112,Federalist,217
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress1.1817,Currituck,ncs_currituck,37053,"Skinner, Henry",SH0112,Federalist,7
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress1.1817,Gates,ncs_gates,37073,"Skinner, Henry",SH0112,Federalist,249
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress1.1817,Hertford,ncs_hertford,37091,"Skinner, Henry",SH0112,Federalist,357
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress1.1817,Pasquotank,ncs_pasquotank,37139,"Skinner, Henry",SH0112,Federalist,64
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress1.1817,Perquimans,ncs_perquimans,37143,"Skinner, Henry",SH0112,Federalist,149
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress10.1817,Chatham,ncs_chatham,37037,"Mumford, George",MG0056,Democratic-Republican,652
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress10.1817,Randolph,ncs_randolph,37151,"Mumford, George",MG0056,Democratic-Republican,838
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress10.1817,Rowan,ncs_rowan,37159,"Mumford, George",MG0056,Democratic-Republican,569
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress10.1817,Chatham,ncs_chatham,37037,"Henderson, John L.",HJ0672,Federalist,361
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress10.1817,Randolph,ncs_randolph,37151,"Henderson, John L.",HJ0672,Federalist,231
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress10.1817,Rowan,ncs_rowan,37159,"Henderson, John L.",HJ0672,Federalist,1167
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress11.1817,Cabarrus,ncs_cabarrus,37025,"Forney, Daniel M.",FD0022,Democratic-Republican,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress11.1817,Lincoln,ncs_lincoln,37109,"Forney, Daniel M.",FD0022,Democratic-Republican,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress11.1817,Mecklenburg,ncs_mecklenburg,37119,"Forney, Daniel M.",FD0022,Democratic-Republican,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress12.1817,Buncombe,ncs_buncombe,37021,"Paxton, John",PJ0356,Democratic-Republican,205
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress12.1817,Burke,ncs_burke,37023,"Paxton, John",PJ0356,Democratic-Republican,374
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress12.1817,Haywood,ncs_haywood,37087,"Paxton, John",PJ0356,Democratic-Republican,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress12.1817,Rutherford,ncs_rutherford,37161,"Paxton, John",PJ0356,Democratic-Republican,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress12.1817,Buncombe,ncs_buncombe,37021,"Porter, William",PW0175,Democratic-Republican,117
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress12.1817,Burke,ncs_burke,37023,"Porter, William",PW0175,Democratic-Republican,195
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress12.1817,Haywood,ncs_haywood,37087,"Porter, William",PW0175,Democratic-Republican,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress12.1817,Rutherford,ncs_rutherford,37161,"Porter, William",PW0175,Democratic-Republican,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress12.1817,Buncombe,ncs_buncombe,37021,"Walker, Felix",WF0041,Democratic-Republican,636
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress12.1817,Burke,ncs_burke,37023,"Walker, Felix",WF0041,Democratic-Republican,78
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress12.1817,Haywood,ncs_haywood,37087,"Walker, Felix",WF0041,Democratic-Republican,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress12.1817,Rutherford,ncs_rutherford,37161,"Walker, Felix",WF0041,Democratic-Republican,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress13.1817,Ashe,ncs_ashe,37009,"Williams, Lewis",WL0047,Federalist,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress13.1817,Iredell,ncs_iredell,37097,"Williams, Lewis",WL0047,Federalist,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress13.1817,Surry,ncs_surry,37171,"Williams, Lewis",WL0047,Federalist,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress13.1817,Wilkes,ncs_wilkes,37193,"Williams, Lewis",WL0047,Federalist,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress2.1817,Bertie,ncs_bertie,37015,"Bryan, Joseph H.",BJ0827,Democratic-Republican,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress2.1817,Halifax,ncs_halifax,37083,"Bryan, Joseph H.",BJ0827,Democratic-Republican,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress2.1817,Martin,ncs_martin,37117,"Bryan, Joseph H.",BJ0827,Democratic-Republican,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress2.1817,Northampton,ncs_northampton,37131,"Bryan, Joseph H.",BJ0827,Democratic-Republican,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress3.1817,Beaufort,ncs_beaufort,37013,"Hall, Thomas H.",HT0135,Democratic-Republican,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress3.1817,Edgecombe,ncs_edgecombe,37065,"Hall, Thomas H.",HT0135,Democratic-Republican,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress3.1817,Hyde,ncs_hyde,37095,"Hall, Thomas H.",HT0135,Democratic-Republican,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress3.1817,Pitt,ncs_pitt,37147,"Hall, Thomas H.",HT0135,Democratic-Republican,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress3.1817,Tyrrell,ncs_tyrrell,37177,"Hall, Thomas H.",HT0135,Democratic-Republican,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress3.1817,Washington,ncs_washington,37187,"Hall, Thomas H.",HT0135,Democratic-Republican,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress3.1817,Washington,tns_washington,47179,"Hall, Thomas H.",HT0135,Democratic-Republican,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress4.1817,Carteret,ncs_carteret,37031,"Ruffin, Henry J. G.",RH0040,Democratic-Republican,306
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress4.1817,Craven,ncs_craven,37049,"Ruffin, Henry J. G.",RH0040,Democratic-Republican,320
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress4.1817,Greene,ncs_greene,37079,"Ruffin, Henry J. G.",RH0040,Democratic-Republican,246
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress4.1817,Greene,tns_greene,47059,"Ruffin, Henry J. G.",RH0040,Democratic-Republican,246
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress4.1817,Johnston,ncs_johnston,37101,"Ruffin, Henry J. G.",RH0040,Democratic-Republican,266
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress4.1817,Jones,ncs_jones,37103,"Ruffin, Henry J. G.",RH0040,Democratic-Republican,126
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress4.1817,Lenoir,ncs_lenoir,37107,"Ruffin, Henry J. G.",RH0040,Democratic-Republican,234
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress4.1817,Wayne,ncs_wayne,37191,"Ruffin, Henry J. G.",RH0040,Democratic-Republican,278
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress4.1817,Carteret,ncs_carteret,37031,"Slocumb, Jesse",SJ0848,Federalist,250
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress4.1817,Craven,ncs_craven,37049,"Slocumb, Jesse",SJ0848,Federalist,226
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress4.1817,Greene,ncs_greene,37079,"Slocumb, Jesse",SJ0848,Federalist,170
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress4.1817,Greene,tns_greene,47059,"Slocumb, Jesse",SJ0848,Federalist,170
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress4.1817,Johnston,ncs_johnston,37101,"Slocumb, Jesse",SJ0848,Federalist,656
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress4.1817,Jones,ncs_jones,37103,"Slocumb, Jesse",SJ0848,Federalist,198
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress4.1817,Lenoir,ncs_lenoir,37107,"Slocumb, Jesse",SJ0848,Federalist,92
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress4.1817,Wayne,ncs_wayne,37191,"Slocumb, Jesse",SJ0848,Federalist,497
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress5.1817,Bladen,ncs_bladen,37017,"Hooks, Charles",HC0086,Democratic-Republican,14
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress5.1817,Brunswick,ncs_brunswick,37019,"Hooks, Charles",HC0086,Democratic-Republican,8
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress5.1817,Columbus,ncs_columbus,37047,"Hooks, Charles",HC0086,Democratic-Republican,19
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress5.1817,Duplin,ncs_duplin,37061,"Hooks, Charles",HC0086,Democratic-Republican,807
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress5.1817,New Hanover,ncs_newhanover,37129,"Hooks, Charles",HC0086,Democratic-Republican,356
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress5.1817,Onslow,ncs_onslow,37133,"Hooks, Charles",HC0086,Democratic-Republican,500
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress5.1817,Sampson,ncs_sampson,37163,"Hooks, Charles",HC0086,Democratic-Republican,534
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress5.1817,Bladen,ncs_bladen,37017,"Owens, James",OJ0091,Democratic-Republican,528
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress5.1817,Brunswick,ncs_brunswick,37019,"Owens, James",OJ0091,Democratic-Republican,403
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress5.1817,Columbus,ncs_columbus,37047,"Owens, James",OJ0091,Democratic-Republican,394
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress5.1817,Duplin,ncs_duplin,37061,"Owens, James",OJ0091,Democratic-Republican,185
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress5.1817,New Hanover,ncs_newhanover,37129,"Owens, James",OJ0091,Democratic-Republican,583
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress5.1817,Onslow,ncs_onslow,37133,"Owens, James",OJ0091,Democratic-Republican,231
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress5.1817,Sampson,ncs_sampson,37163,"Owens, James",OJ0091,Democratic-Republican,458
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress6.1817,Franklin,ncs_franklin,37069,"Edwards, Welden N.",EW0066,Democratic-Republican,682
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress6.1817,Granville,ncs_granville,37077,"Edwards, Welden N.",EW0066,Democratic-Republican,730
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress6.1817,Nash,ncs_nash,37127,"Edwards, Welden N.",EW0066,Democratic-Republican,549
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress6.1817,Warren,ncs_warren,37185,"Edwards, Welden N.",EW0066,Democratic-Republican,540
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress6.1817,Franklin,ncs_franklin,37069,"Green, Solomon",GS0059,Federalist,70
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress6.1817,Granville,ncs_granville,37077,"Green, Solomon",GS0059,Federalist,270
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress6.1817,Nash,ncs_nash,37127,"Green, Solomon",GS0059,Federalist,110
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress6.1817,Warren,ncs_warren,37185,"Green, Solomon",GS0059,Federalist,156
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress7.1817,Anson,ncs_anson,37007,"Culpepper, John, Junior",CJ0545,Federalist,936
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress7.1817,Cumberland,ncs_cumberland,37051,"Culpepper, John, Junior",CJ0545,Federalist,77
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress7.1817,Montgomery,ncs_montgomery,37123,"Culpepper, John, Junior",CJ0545,Federalist,500
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress7.1817,Moore,ncs_moore,37125,"Culpepper, John, Junior",CJ0545,Federalist,191
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress7.1817,Richmond,ncs_richmond,37153,"Culpepper, John, Junior",CJ0545,Federalist,251
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress7.1817,Robeson,ncs_robeson,37155,"Culpepper, John, Junior",CJ0545,Federalist,180
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress7.1817,Anson,ncs_anson,37007,"MacMillan, Alexander",MA0167,Federalist,185
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress7.1817,Cumberland,ncs_cumberland,37051,"MacMillan, Alexander",MA0167,Federalist,950
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress7.1817,Montgomery,ncs_montgomery,37123,"MacMillan, Alexander",MA0167,Federalist,228
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress7.1817,Moore,ncs_moore,37125,"MacMillan, Alexander",MA0167,Federalist,632
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress7.1817,Richmond,ncs_richmond,37153,"MacMillan, Alexander",MA0167,Federalist,523
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress7.1817,Robeson,ncs_robeson,37155,"MacMillan, Alexander",MA0167,Federalist,519
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress8.1817,Orange,ncs_orange,37135,"Smith, James S.",SJ0849,Democratic-Republican,1268
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress8.1817,Person,ncs_person,37145,"Smith, James S.",SJ0849,Democratic-Republican,354
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress8.1817,Wake,ncs_wake,37183,"Smith, James S.",SJ0849,Democratic-Republican,803
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress8.1817,Orange,ncs_orange,37135,"Dickens, Samuel",DS0131,Federalist,990
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress8.1817,Person,ncs_person,37145,"Dickens, Samuel",DS0131,Federalist,401
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress8.1817,Wake,ncs_wake,37183,"Dickens, Samuel",DS0131,Federalist,785
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress8.1817,Orange,ncs_orange,37135,"Bird, Jesse",BJ0842,NA,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress8.1817,Person,ncs_person,37145,"Bird, Jesse",BJ0842,NA,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress8.1817,Wake,ncs_wake,37183,"Bird, Jesse",BJ0842,NA,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress8.1817,Orange,ncs_orange,37135,"Wharton, Robert",WR0165,NA,40
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress8.1817,Person,ncs_person,37145,"Wharton, Robert",WR0165,NA,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress8.1817,Wake,ncs_wake,37183,"Wharton, Robert",WR0165,NA,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress9.1817,Caswell,ncs_caswell,37033,"Saunders, Romulus M.",SR0176,Democratic-Republican,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress9.1817,Guilford,ncs_guilford,37081,"Saunders, Romulus M.",SR0176,Democratic-Republican,140
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress9.1817,Rockingham,ncs_rockingham,37157,"Saunders, Romulus M.",SR0176,Democratic-Republican,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress9.1817,Stokes,ncs_stokes,37169,"Saunders, Romulus M.",SR0176,Democratic-Republican,2
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress9.1817,Caswell,ncs_caswell,37033,"Settle, Thomas",ST0194,Democratic-Republican,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress9.1817,Guilford,ncs_guilford,37081,"Settle, Thomas",ST0194,Democratic-Republican,1500
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress9.1817,Rockingham,ncs_rockingham,37157,"Settle, Thomas",ST0194,Democratic-Republican,0
+meae.congressional.congress15.nc.county,congressional,15,NC,county,state,nc.uscongress9.1817,Stokes,ncs_stokes,37169,"Settle, Thomas",ST0194,Democratic-Republican,57

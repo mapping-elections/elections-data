@@ -1,0 +1,90 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.1.1815,Carter,tns_carter,47019,"Powell, Samuel",PS0136,Democratic-Republican,445
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.1.1815,Greene,tns_greene,47059,"Powell, Samuel",PS0136,Democratic-Republican,553
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.1.1815,Hawkins,tns_hawkins,47073,"Powell, Samuel",PS0136,Democratic-Republican,717
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.1.1815,Sullivan,tns_sullivan,47163,"Powell, Samuel",PS0136,Democratic-Republican,546
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.1.1815,Washington,tns_washington,47179,"Powell, Samuel",PS0136,Democratic-Republican,441
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.1.1815,Carter,tns_carter,47019,"Rhea, John",RJ0595,Democratic-Republican,89
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.1.1815,Greene,tns_greene,47059,"Rhea, John",RJ0595,Democratic-Republican,644
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.1.1815,Hawkins,tns_hawkins,47073,"Rhea, John",RJ0595,Democratic-Republican,192
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.1.1815,Sullivan,tns_sullivan,47163,"Rhea, John",RJ0595,Democratic-Republican,240
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.1.1815,Washington,tns_washington,47179,"Rhea, John",RJ0595,Democratic-Republican,717
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.2.1815,Blount,tns_blount,47009,"Sevier, John",SJ0166,Democratic-Republican,877
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.2.1815,Claiborne,tns_claiborne,47025,"Sevier, John",SJ0166,Democratic-Republican,617
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.2.1815,Cocke,tns_cocke,47029,"Sevier, John",SJ0166,Democratic-Republican,0
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.2.1815,Grainger,tns_grainger,47057,"Sevier, John",SJ0166,Democratic-Republican,573
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.2.1815,Jefferson,tns_jefferson,47089,"Sevier, John",SJ0166,Democratic-Republican,0
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.2.1815,Knox,tns_knox,47093,"Sevier, John",SJ0166,Democratic-Republican,1103
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.2.1815,Sevier,tns_sevier,47155,"Sevier, John",SJ0166,Democratic-Republican,524
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.3.1815,Anderson,tns_anderson,47001,"Harris, Thomas K.",HT0213,Democratic-Republican,251
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.3.1815,Bledsoe,tns_bledsoe,47007,"Harris, Thomas K.",HT0213,Democratic-Republican,161
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.3.1815,Campbell,tns_campbell,47013,"Harris, Thomas K.",HT0213,Democratic-Republican,118
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.3.1815,Franklin,tns_franklin,47051,"Harris, Thomas K.",HT0213,Democratic-Republican,635
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.3.1815,Overton,tns_overton,47133,"Harris, Thomas K.",HT0213,Democratic-Republican,586
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.3.1815,Rhea,tns_rhea,47143,"Harris, Thomas K.",HT0213,Democratic-Republican,75
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.3.1815,Roane,tns_roane,47145,"Harris, Thomas K.",HT0213,Democratic-Republican,367
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.3.1815,Warren,tns_warren,47177,"Harris, Thomas K.",HT0213,Democratic-Republican,730
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.3.1815,White,tns_white,47185,"Harris, Thomas K.",HT0213,Democratic-Republican,386
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.3.1815,Anderson,tns_anderson,47001,"Thomas, Isaac",TI0031,Democratic-Republican,235
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.3.1815,Bledsoe,tns_bledsoe,47007,"Thomas, Isaac",TI0031,Democratic-Republican,297
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.3.1815,Campbell,tns_campbell,47013,"Thomas, Isaac",TI0031,Democratic-Republican,329
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.3.1815,Franklin,tns_franklin,47051,"Thomas, Isaac",TI0031,Democratic-Republican,601
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.3.1815,Overton,tns_overton,47133,"Thomas, Isaac",TI0031,Democratic-Republican,471
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.3.1815,Rhea,tns_rhea,47143,"Thomas, Isaac",TI0031,Democratic-Republican,295
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.3.1815,Roane,tns_roane,47145,"Thomas, Isaac",TI0031,Democratic-Republican,442
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.3.1815,Warren,tns_warren,47177,"Thomas, Isaac",TI0031,Democratic-Republican,622
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.3.1815,White,tns_white,47185,"Thomas, Isaac",TI0031,Democratic-Republican,649
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.4.1815,Jackson,tns_jackson,47087,"Henderson, Bennett H.",HB0169,Democratic-Republican,0
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.4.1815,Smith,tns_smith,47159,"Henderson, Bennett H.",HB0169,Democratic-Republican,363
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.4.1815,Sumner,tns_sumner,47165,"Henderson, Bennett H.",HB0169,Democratic-Republican,1682
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.4.1815,Wilson,tns_wilson,47189,"Henderson, Bennett H.",HB0169,Democratic-Republican,1426
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.4.1815,Jackson,tns_jackson,47087,"Jones, Willis",JW0099,NA,0
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.4.1815,Smith,tns_smith,47159,"Jones, Willis",JW0099,NA,458
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.4.1815,Sumner,tns_sumner,47165,"Jones, Willis",JW0099,NA,9
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.4.1815,Wilson,tns_wilson,47189,"Jones, Willis",JW0099,NA,86
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.4.1815,Jackson,tns_jackson,47087,"Lombert, Aaron",LA0133,NA,0
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.4.1815,Smith,tns_smith,47159,"Lombert, Aaron",LA0133,NA,0
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.4.1815,Sumner,tns_sumner,47165,"Lombert, Aaron",LA0133,NA,0
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.4.1815,Wilson,tns_wilson,47189,"Lombert, Aaron",LA0133,NA,1
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.4.1815,Jackson,tns_jackson,47087,"Overton, Archibald W.",OA0020,NA,0
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.4.1815,Smith,tns_smith,47159,"Overton, Archibald W.",OA0020,NA,868
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.4.1815,Sumner,tns_sumner,47165,"Overton, Archibald W.",OA0020,NA,70
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.4.1815,Wilson,tns_wilson,47189,"Overton, Archibald W.",OA0020,NA,293
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.5.1815,Bedford,tns_bedford,47003,"Cannon, Newton",CN0037,Democratic-Republican,1128
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.5.1815,Court House,NA,NA,"Cannon, Newton",CN0037,Democratic-Republican,582
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.5.1815,Davidson,tns_davidson,47037,"Cannon, Newton",CN0037,Democratic-Republican,1034
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.5.1815,Lincoln,tns_lincoln,47103,"Cannon, Newton",CN0037,Democratic-Republican,630
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.5.1815,Rutherford,tns_rutherford,47149,"Cannon, Newton",CN0037,Democratic-Republican,1068
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.5.1815,Williamson,tns_williamson,47187,"Cannon, Newton",CN0037,Democratic-Republican,1024
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Dickson,tns_dickson,47043,"Booker, Peter R.",BP0099,NA,11
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Giles,tns_giles,47055,"Booker, Peter R.",BP0099,NA,677
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Hickman,tns_hickman,47081,"Booker, Peter R.",BP0099,NA,361
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Humphreys,tns_humphreys,47085,"Booker, Peter R.",BP0099,NA,20
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Maury,tns_maury,47119,"Booker, Peter R.",BP0099,NA,1152
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Montgomery,tns_montgomery,47125,"Booker, Peter R.",BP0099,NA,6
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Robertson,tns_robertson,47147,"Booker, Peter R.",BP0099,NA,18
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Stewart,tns_stewart,47161,"Booker, Peter R.",BP0099,NA,5
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Dickson,tns_dickson,47043,"Holland, James",HJ1278,NA,124
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Giles,tns_giles,47055,"Holland, James",HJ1278,NA,27
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Hickman,tns_hickman,47081,"Holland, James",HJ1278,NA,48
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Humphreys,tns_humphreys,47085,"Holland, James",HJ1278,NA,1
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Maury,tns_maury,47119,"Holland, James",HJ1278,NA,89
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Montgomery,tns_montgomery,47125,"Holland, James",HJ1278,NA,9
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Robertson,tns_robertson,47147,"Holland, James",HJ1278,NA,44
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Stewart,tns_stewart,47161,"Holland, James",HJ1278,NA,75
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Dickson,tns_dickson,47043,"Marr, George W. L.",MG0138,NA,337
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Giles,tns_giles,47055,"Marr, George W. L.",MG0138,NA,50
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Hickman,tns_hickman,47081,"Marr, George W. L.",MG0138,NA,36
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Humphreys,tns_humphreys,47085,"Marr, George W. L.",MG0138,NA,29
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Maury,tns_maury,47119,"Marr, George W. L.",MG0138,NA,336
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Montgomery,tns_montgomery,47125,"Marr, George W. L.",MG0138,NA,670
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Robertson,tns_robertson,47147,"Marr, George W. L.",MG0138,NA,385
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Stewart,tns_stewart,47161,"Marr, George W. L.",MG0138,NA,215
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Dickson,tns_dickson,47043,"Reynolds, James B.",RJ0680,Democratic-Republican,256
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Giles,tns_giles,47055,"Reynolds, James B.",RJ0680,Democratic-Republican,341
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Hickman,tns_hickman,47081,"Reynolds, James B.",RJ0680,Democratic-Republican,130
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Humphreys,tns_humphreys,47085,"Reynolds, James B.",RJ0680,Democratic-Republican,316
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Maury,tns_maury,47119,"Reynolds, James B.",RJ0680,Democratic-Republican,138
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Montgomery,tns_montgomery,47125,"Reynolds, James B.",RJ0680,Democratic-Republican,341
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Robertson,tns_robertson,47147,"Reynolds, James B.",RJ0680,Democratic-Republican,516
+meae.congressional.congress14.tn.county,congressional,14,TN,county,state,tn.congress.6.1815,Stewart,tns_stewart,47161,"Reynolds, James B.",RJ0680,Democratic-Republican,364

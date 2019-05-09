@@ -1,0 +1,62 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress1.1824,Calvert,mds_calvert,24009,"Dorsey, Clement",DC0019,Adams/Clay,376
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress1.1824,Charles,mds_charles,24017,"Dorsey, Clement",DC0019,Adams/Clay,985
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress1.1824,Saint Mary's,mds_stmarys,24037,"Dorsey, Clement",DC0019,Adams/Clay,463
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress1.1824,Calvert,mds_calvert,24009,"Neale, Raphael",NR0018,Federalist,302
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress1.1824,Charles,mds_charles,24017,"Neale, Raphael",NR0018,Federalist,416
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress1.1824,Saint Mary's,mds_stmarys,24037,"Neale, Raphael",NR0018,Federalist,758
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress1.1824,Calvert,mds_calvert,24009,"Williams, Nicholas",WN0002,NA,1
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress1.1824,Charles,mds_charles,24017,"Williams, Nicholas",WN0002,NA,0
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress1.1824,Saint Mary's,mds_stmarys,24037,"Williams, Nicholas",WN0002,NA,0
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress2.1824,Anne Arundel,mds_annearundel,24003,"Kent, Joseph",KJ0034,Democratic-Republican,1167
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress2.1824,Prince George's,mds_princegeorges,24033,"Kent, Joseph",KJ0034,Democratic-Republican,741
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress2.1824,Anne Arundel,mds_annearundel,24003,"Weems, John C.",WJ0206,Federalist,1004
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress2.1824,Prince George's,mds_princegeorges,24033,"Weems, John C.",WJ0206,Federalist,737
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress3.1824,Frederick,mds_frederick,24021,"Peter, George",PG0031,Jacksonian,830
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress3.1824,Montgomery,mds_montgomery,24031,"Peter, George",PG0031,Jacksonian,772
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress3.1824,Frederick,mds_frederick,24021,"Warfield, Henry Ridgely",WH0013,Federalist,964
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress3.1824,Montgomery,mds_montgomery,24031,"Warfield, Henry Ridgely",WH0013,Federalist,262
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress3.1824,Frederick,mds_frederick,24021,"Washington, George C.",WG0023,Federalist,775
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress3.1824,Montgomery,mds_montgomery,24031,"Washington, George C.",WG0023,Federalist,673
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress4.1824,Allegany,mds_allegany,24001,"Worthington, Thomas C.",WT0053,Democratic-Republican,669
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress4.1824,Frederick,mds_frederick,24021,"Worthington, Thomas C.",WT0053,Democratic-Republican,1558
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress4.1824,Washington,mds_washington,24043,"Worthington, Thomas C.",WT0053,Democratic-Republican,2115
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress4.1824,Allegany,mds_allegany,24001,"Lee, John",LJ0093,Federalist,510
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress4.1824,Frederick,mds_frederick,24021,"Lee, John",LJ0093,Federalist,1533
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress4.1824,Washington,mds_washington,24043,"Lee, John",LJ0093,Federalist,1448
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress4.1824,Allegany,mds_allegany,24001,"Bruce, Upton",BU0002,NA,0
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress4.1824,Frederick,mds_frederick,24021,"Bruce, Upton",BU0002,NA,7
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress4.1824,Washington,mds_washington,24043,"Bruce, Upton",BU0002,NA,6
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress4.1824,Allegany,mds_allegany,24001,"Neill, Alexander",NA0013,NA,0
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress4.1824,Frederick,mds_frederick,24021,"Neill, Alexander",NA0013,NA,0
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress4.1824,Washington,mds_washington,24043,"Neill, Alexander",NA0013,NA,1
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress5.1824,Baltimore,mds_baltimore,24005,"Barney, John H.",BJ0397,Adams/Clay,2013
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress5.1824,Baltimore,mds_baltimore,24005,"Little, Peter",LP0015,Adams/Clay,3416
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress5.1824,Baltimore,mds_baltimore,24005,"MacKim, Isaac",MI0017,Democratic-Republican,1903
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress6.1824,Cecil,mds_cecil,24015,"Mitchell, George E.",MG0025,Jacksonian,1206
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress6.1824,Harford,mds_harford,24025,"Mitchell, George E.",MG0025,Jacksonian,1263
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress6.1824,Kent,mds_kent,24029,"Mitchell, George E.",MG0025,Jacksonian,385
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress6.1824,Cecil,mds_cecil,24015,"Reed, Philip",RP0009,Federalist,703
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress6.1824,Harford,mds_harford,24025,"Reed, Philip",RP0009,Federalist,1011
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress6.1824,Kent,mds_kent,24029,"Reed, Philip",RP0009,Federalist,719
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress6.1824,Cecil,mds_cecil,24015,"Mitchell, Joseph",MJ0297,NA,0
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress6.1824,Harford,mds_harford,24025,"Mitchell, Joseph",MJ0297,NA,0
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress6.1824,Kent,mds_kent,24029,"Mitchell, Joseph",MJ0297,NA,1
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress6.1824,Cecil,mds_cecil,24015,"Robertson, John A.",RJ0050,NA,0
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress6.1824,Harford,mds_harford,24025,"Robertson, John A.",RJ0050,NA,4
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress6.1824,Kent,mds_kent,24029,"Robertson, John A.",RJ0050,NA,4
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress6.1824,Cecil,mds_cecil,24015,"Robertson, William A.",RW0020,NA,0
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress6.1824,Harford,mds_harford,24025,"Robertson, William A.",RW0020,NA,0
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress6.1824,Kent,mds_kent,24029,"Robertson, William A.",RW0020,NA,1
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress7.1824,Caroline,mds_caroline,24011,"Emory, Thomas",ET0007,Democratic-Republican,579
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress7.1824,Queen Anne's,mds_queenannes,24035,"Emory, Thomas",ET0007,Democratic-Republican,940
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress7.1824,Talbot,mds_talbot,24041,"Emory, Thomas",ET0007,Democratic-Republican,405
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress7.1824,Caroline,mds_caroline,24011,"Kerr, John Leeds",KJ0030,Federalist,690
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress7.1824,Queen Anne's,mds_queenannes,24035,"Kerr, John Leeds",KJ0030,Federalist,361
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress7.1824,Talbot,mds_talbot,24041,"Kerr, John Leeds",KJ0030,Federalist,899
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress8.1824,Dorchester,mds_dorchester,24019,"Spence, John S.",SJ0312,Democratic-Republican,992
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress8.1824,Somerset,mds_somerset,24039,"Spence, John S.",SJ0312,Democratic-Republican,692
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress8.1824,Worcester,mds_worcester,24047,"Spence, John S.",SJ0312,Democratic-Republican,1174
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress8.1824,Dorchester,mds_dorchester,24019,"Martin, Robert N.",MR0053,Adams/Clay,1008
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress8.1824,Somerset,mds_somerset,24039,"Martin, Robert N.",MR0053,Adams/Clay,1107
+meae.congressional.congress19.md.county,congressional,19,MD,county,state,md.uscongress8.1824,Worcester,mds_worcester,24047,"Martin, Robert N.",MR0053,Adams/Clay,973

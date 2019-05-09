@@ -1,0 +1,24 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress10.tn.county,congressional,10,TN,county,state,tn.congress.hamilton.1807,Anderson,tns_anderson,47001,"Campbell, George Washington",CG0108,Democratic-Republican,203
+meae.congressional.congress10.tn.county,congressional,10,TN,county,state,tn.congress.hamilton.1807,Blount,tns_blount,47009,"Campbell, George Washington",CG0108,Democratic-Republican,869
+meae.congressional.congress10.tn.county,congressional,10,TN,county,state,tn.congress.hamilton.1807,Claiborne,tns_claiborne,47025,"Campbell, George Washington",CG0108,Democratic-Republican,415
+meae.congressional.congress10.tn.county,congressional,10,TN,county,state,tn.congress.hamilton.1807,Cocke,tns_cocke,47029,"Campbell, George Washington",CG0108,Democratic-Republican,464
+meae.congressional.congress10.tn.county,congressional,10,TN,county,state,tn.congress.hamilton.1807,Grainger,tns_grainger,47057,"Campbell, George Washington",CG0108,Democratic-Republican,453
+meae.congressional.congress10.tn.county,congressional,10,TN,county,state,tn.congress.hamilton.1807,Jefferson,tns_jefferson,47089,"Campbell, George Washington",CG0108,Democratic-Republican,810
+meae.congressional.congress10.tn.county,congressional,10,TN,county,state,tn.congress.hamilton.1807,Knox,tns_knox,47093,"Campbell, George Washington",CG0108,Democratic-Republican,851
+meae.congressional.congress10.tn.county,congressional,10,TN,county,state,tn.congress.hamilton.1807,Roane,tns_roane,47145,"Campbell, George Washington",CG0108,Democratic-Republican,482
+meae.congressional.congress10.tn.county,congressional,10,TN,county,state,tn.congress.hamilton.1807,Sevier,tns_sevier,47155,"Campbell, George Washington",CG0108,Democratic-Republican,596
+meae.congressional.congress10.tn.county,congressional,10,TN,county,state,tn.congress.hamilton.1807,Anderson,tns_anderson,47001,"Miller, Pleasant M.",MP0110,Democratic-Republican,273
+meae.congressional.congress10.tn.county,congressional,10,TN,county,state,tn.congress.hamilton.1807,Blount,tns_blount,47009,"Miller, Pleasant M.",MP0110,Democratic-Republican,62
+meae.congressional.congress10.tn.county,congressional,10,TN,county,state,tn.congress.hamilton.1807,Claiborne,tns_claiborne,47025,"Miller, Pleasant M.",MP0110,Democratic-Republican,229
+meae.congressional.congress10.tn.county,congressional,10,TN,county,state,tn.congress.hamilton.1807,Cocke,tns_cocke,47029,"Miller, Pleasant M.",MP0110,Democratic-Republican,233
+meae.congressional.congress10.tn.county,congressional,10,TN,county,state,tn.congress.hamilton.1807,Grainger,tns_grainger,47057,"Miller, Pleasant M.",MP0110,Democratic-Republican,472
+meae.congressional.congress10.tn.county,congressional,10,TN,county,state,tn.congress.hamilton.1807,Jefferson,tns_jefferson,47089,"Miller, Pleasant M.",MP0110,Democratic-Republican,220
+meae.congressional.congress10.tn.county,congressional,10,TN,county,state,tn.congress.hamilton.1807,Knox,tns_knox,47093,"Miller, Pleasant M.",MP0110,Democratic-Republican,541
+meae.congressional.congress10.tn.county,congressional,10,TN,county,state,tn.congress.hamilton.1807,Roane,tns_roane,47145,"Miller, Pleasant M.",MP0110,Democratic-Republican,169
+meae.congressional.congress10.tn.county,congressional,10,TN,county,state,tn.congress.hamilton.1807,Sevier,tns_sevier,47155,"Miller, Pleasant M.",MP0110,Democratic-Republican,82
+meae.congressional.congress10.tn.county,congressional,10,TN,county,state,tn.congress.washington.1807,Carter,tns_carter,47019,"Rhea, John",RJ0595,Democratic-Republican,0
+meae.congressional.congress10.tn.county,congressional,10,TN,county,state,tn.congress.washington.1807,Greene,tns_greene,47059,"Rhea, John",RJ0595,Democratic-Republican,0
+meae.congressional.congress10.tn.county,congressional,10,TN,county,state,tn.congress.washington.1807,Hawkins,tns_hawkins,47073,"Rhea, John",RJ0595,Democratic-Republican,0
+meae.congressional.congress10.tn.county,congressional,10,TN,county,state,tn.congress.washington.1807,Sullivan,tns_sullivan,47163,"Rhea, John",RJ0595,Democratic-Republican,0
+meae.congressional.congress10.tn.county,congressional,10,TN,county,state,tn.congress.washington.1807,Washington,tns_washington,47179,"Rhea, John",RJ0595,Democratic-Republican,0

@@ -1,0 +1,215 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Adams,ohs_adams,39001,"Beecher, Philemon",BP0045,Federalist,13
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Athens,ohs_athens,39009,"Beecher, Philemon",BP0045,Federalist,91
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Belmont,ohs_belmont,39013,"Beecher, Philemon",BP0045,Federalist,493
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Butler,ohs_butler,39017,"Beecher, Philemon",BP0045,Federalist,353
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Champaign,ohs_champaign,39021,"Beecher, Philemon",BP0045,Federalist,39
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Clermont,ohs_clermont,39025,"Beecher, Philemon",BP0045,Federalist,30
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Columbiana,ohs_columbiana,39029,"Beecher, Philemon",BP0045,Federalist,108
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Delaware,ohs_delaware,39041,"Beecher, Philemon",BP0045,Federalist,43
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Fairfield,ohs_fairfield,39045,"Beecher, Philemon",BP0045,Federalist,755
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Franklin,ohs_franklin,39049,"Beecher, Philemon",BP0045,Federalist,146
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Gallia,ohs_gallia,39053,"Beecher, Philemon",BP0045,Federalist,85
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Geauga,ohs_geauga,39055,"Beecher, Philemon",BP0045,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Greene,ohs_greene,39057,"Beecher, Philemon",BP0045,Federalist,9
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Hamilton,ohs_hamilton,39061,"Beecher, Philemon",BP0045,Federalist,376
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Highland,ohs_highland,39071,"Beecher, Philemon",BP0045,Federalist,7
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Jefferson,ohs_jefferson,39081,"Beecher, Philemon",BP0045,Federalist,295
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Knox,ohs_knox,39083,"Beecher, Philemon",BP0045,Federalist,23
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Miami,ohs_miami,39109,"Beecher, Philemon",BP0045,Federalist,45
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Montgomery,ohs_montgomery,39113,"Beecher, Philemon",BP0045,Federalist,345
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Muskingum,ohs_muskingum,39119,"Beecher, Philemon",BP0045,Federalist,346
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Portage,ohs_portage,39133,"Beecher, Philemon",BP0045,Federalist,31
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Preble,ohs_preble,39135,"Beecher, Philemon",BP0045,Federalist,64
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Ross,ohs_ross,39141,"Beecher, Philemon",BP0045,Federalist,425
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Scioto,ohs_scioto,39145,"Beecher, Philemon",BP0045,Federalist,2
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Trumbull,ohs_trumbull,39155,"Beecher, Philemon",BP0045,Federalist,131
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Warren,ohs_warren,39165,"Beecher, Philemon",BP0045,Federalist,107
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Washington,ohs_washington,39167,"Beecher, Philemon",BP0045,Federalist,362
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Adams,ohs_adams,39001,"Fee, William",FW0051,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Athens,ohs_athens,39009,"Fee, William",FW0051,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Belmont,ohs_belmont,39013,"Fee, William",FW0051,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Butler,ohs_butler,39017,"Fee, William",FW0051,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Champaign,ohs_champaign,39021,"Fee, William",FW0051,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Clermont,ohs_clermont,39025,"Fee, William",FW0051,Federalist,2
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Columbiana,ohs_columbiana,39029,"Fee, William",FW0051,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Delaware,ohs_delaware,39041,"Fee, William",FW0051,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Fairfield,ohs_fairfield,39045,"Fee, William",FW0051,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Franklin,ohs_franklin,39049,"Fee, William",FW0051,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Gallia,ohs_gallia,39053,"Fee, William",FW0051,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Geauga,ohs_geauga,39055,"Fee, William",FW0051,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Greene,ohs_greene,39057,"Fee, William",FW0051,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Hamilton,ohs_hamilton,39061,"Fee, William",FW0051,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Highland,ohs_highland,39071,"Fee, William",FW0051,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Jefferson,ohs_jefferson,39081,"Fee, William",FW0051,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Knox,ohs_knox,39083,"Fee, William",FW0051,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Miami,ohs_miami,39109,"Fee, William",FW0051,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Montgomery,ohs_montgomery,39113,"Fee, William",FW0051,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Muskingum,ohs_muskingum,39119,"Fee, William",FW0051,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Portage,ohs_portage,39133,"Fee, William",FW0051,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Preble,ohs_preble,39135,"Fee, William",FW0051,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Ross,ohs_ross,39141,"Fee, William",FW0051,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Scioto,ohs_scioto,39145,"Fee, William",FW0051,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Trumbull,ohs_trumbull,39155,"Fee, William",FW0051,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Warren,ohs_warren,39165,"Fee, William",FW0051,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Washington,ohs_washington,39167,"Fee, William",FW0051,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Adams,ohs_adams,39001,"Kerker, J.",KJ0096,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Athens,ohs_athens,39009,"Kerker, J.",KJ0096,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Belmont,ohs_belmont,39013,"Kerker, J.",KJ0096,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Butler,ohs_butler,39017,"Kerker, J.",KJ0096,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Champaign,ohs_champaign,39021,"Kerker, J.",KJ0096,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Clermont,ohs_clermont,39025,"Kerker, J.",KJ0096,Federalist,1
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Columbiana,ohs_columbiana,39029,"Kerker, J.",KJ0096,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Delaware,ohs_delaware,39041,"Kerker, J.",KJ0096,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Fairfield,ohs_fairfield,39045,"Kerker, J.",KJ0096,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Franklin,ohs_franklin,39049,"Kerker, J.",KJ0096,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Gallia,ohs_gallia,39053,"Kerker, J.",KJ0096,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Geauga,ohs_geauga,39055,"Kerker, J.",KJ0096,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Greene,ohs_greene,39057,"Kerker, J.",KJ0096,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Hamilton,ohs_hamilton,39061,"Kerker, J.",KJ0096,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Jefferson,ohs_jefferson,39081,"Kerker, J.",KJ0096,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Knox,ohs_knox,39083,"Kerker, J.",KJ0096,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Miami,ohs_miami,39109,"Kerker, J.",KJ0096,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Montgomery,ohs_montgomery,39113,"Kerker, J.",KJ0096,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Muskingum,ohs_muskingum,39119,"Kerker, J.",KJ0096,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Portage,ohs_portage,39133,"Kerker, J.",KJ0096,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Preble,ohs_preble,39135,"Kerker, J.",KJ0096,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Ross,ohs_ross,39141,"Kerker, J.",KJ0096,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Scioto,ohs_scioto,39145,"Kerker, J.",KJ0096,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Trumbull,ohs_trumbull,39155,"Kerker, J.",KJ0096,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Warren,ohs_warren,39165,"Kerker, J.",KJ0096,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Washington,ohs_washington,39167,"Kerker, J.",KJ0096,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Adams,ohs_adams,39001,"Morrow, Thomas",MT0014,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Athens,ohs_athens,39009,"Morrow, Thomas",MT0014,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Belmont,ohs_belmont,39013,"Morrow, Thomas",MT0014,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Butler,ohs_butler,39017,"Morrow, Thomas",MT0014,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Champaign,ohs_champaign,39021,"Morrow, Thomas",MT0014,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Clermont,ohs_clermont,39025,"Morrow, Thomas",MT0014,Federalist,1
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Columbiana,ohs_columbiana,39029,"Morrow, Thomas",MT0014,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Delaware,ohs_delaware,39041,"Morrow, Thomas",MT0014,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Fairfield,ohs_fairfield,39045,"Morrow, Thomas",MT0014,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Franklin,ohs_franklin,39049,"Morrow, Thomas",MT0014,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Gallia,ohs_gallia,39053,"Morrow, Thomas",MT0014,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Geauga,ohs_geauga,39055,"Morrow, Thomas",MT0014,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Greene,ohs_greene,39057,"Morrow, Thomas",MT0014,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Hamilton,ohs_hamilton,39061,"Morrow, Thomas",MT0014,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Jefferson,ohs_jefferson,39081,"Morrow, Thomas",MT0014,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Knox,ohs_knox,39083,"Morrow, Thomas",MT0014,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Miami,ohs_miami,39109,"Morrow, Thomas",MT0014,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Montgomery,ohs_montgomery,39113,"Morrow, Thomas",MT0014,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Muskingum,ohs_muskingum,39119,"Morrow, Thomas",MT0014,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Portage,ohs_portage,39133,"Morrow, Thomas",MT0014,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Preble,ohs_preble,39135,"Morrow, Thomas",MT0014,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Ross,ohs_ross,39141,"Morrow, Thomas",MT0014,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Scioto,ohs_scioto,39145,"Morrow, Thomas",MT0014,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Trumbull,ohs_trumbull,39155,"Morrow, Thomas",MT0014,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Warren,ohs_warren,39165,"Morrow, Thomas",MT0014,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Washington,ohs_washington,39167,"Morrow, Thomas",MT0014,Federalist,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Adams,ohs_adams,39001,"Foos, Joseph",FJ0281,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Athens,ohs_athens,39009,"Foos, Joseph",FJ0281,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Belmont,ohs_belmont,39013,"Foos, Joseph",FJ0281,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Butler,ohs_butler,39017,"Foos, Joseph",FJ0281,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Champaign,ohs_champaign,39021,"Foos, Joseph",FJ0281,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Clermont,ohs_clermont,39025,"Foos, Joseph",FJ0281,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Columbiana,ohs_columbiana,39029,"Foos, Joseph",FJ0281,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Delaware,ohs_delaware,39041,"Foos, Joseph",FJ0281,NA,2
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Fairfield,ohs_fairfield,39045,"Foos, Joseph",FJ0281,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Franklin,ohs_franklin,39049,"Foos, Joseph",FJ0281,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Gallia,ohs_gallia,39053,"Foos, Joseph",FJ0281,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Geauga,ohs_geauga,39055,"Foos, Joseph",FJ0281,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Greene,ohs_greene,39057,"Foos, Joseph",FJ0281,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Hamilton,ohs_hamilton,39061,"Foos, Joseph",FJ0281,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Highland,ohs_highland,39071,"Foos, Joseph",FJ0281,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Jefferson,ohs_jefferson,39081,"Foos, Joseph",FJ0281,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Knox,ohs_knox,39083,"Foos, Joseph",FJ0281,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Miami,ohs_miami,39109,"Foos, Joseph",FJ0281,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Montgomery,ohs_montgomery,39113,"Foos, Joseph",FJ0281,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Muskingum,ohs_muskingum,39119,"Foos, Joseph",FJ0281,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Portage,ohs_portage,39133,"Foos, Joseph",FJ0281,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Preble,ohs_preble,39135,"Foos, Joseph",FJ0281,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Ross,ohs_ross,39141,"Foos, Joseph",FJ0281,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Scioto,ohs_scioto,39145,"Foos, Joseph",FJ0281,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Trumbull,ohs_trumbull,39155,"Foos, Joseph",FJ0281,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Warren,ohs_warren,39165,"Foos, Joseph",FJ0281,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Washington,ohs_washington,39167,"Foos, Joseph",FJ0281,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Adams,ohs_adams,39001,"Morrow, Jonathan",MJ1347,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Athens,ohs_athens,39009,"Morrow, Jonathan",MJ1347,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Belmont,ohs_belmont,39013,"Morrow, Jonathan",MJ1347,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Butler,ohs_butler,39017,"Morrow, Jonathan",MJ1347,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Champaign,ohs_champaign,39021,"Morrow, Jonathan",MJ1347,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Clermont,ohs_clermont,39025,"Morrow, Jonathan",MJ1347,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Columbiana,ohs_columbiana,39029,"Morrow, Jonathan",MJ1347,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Delaware,ohs_delaware,39041,"Morrow, Jonathan",MJ1347,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Fairfield,ohs_fairfield,39045,"Morrow, Jonathan",MJ1347,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Franklin,ohs_franklin,39049,"Morrow, Jonathan",MJ1347,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Gallia,ohs_gallia,39053,"Morrow, Jonathan",MJ1347,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Geauga,ohs_geauga,39055,"Morrow, Jonathan",MJ1347,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Greene,ohs_greene,39057,"Morrow, Jonathan",MJ1347,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Hamilton,ohs_hamilton,39061,"Morrow, Jonathan",MJ1347,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Highland,ohs_highland,39071,"Morrow, Jonathan",MJ1347,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Jefferson,ohs_jefferson,39081,"Morrow, Jonathan",MJ1347,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Knox,ohs_knox,39083,"Morrow, Jonathan",MJ1347,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Miami,ohs_miami,39109,"Morrow, Jonathan",MJ1347,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Montgomery,ohs_montgomery,39113,"Morrow, Jonathan",MJ1347,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Muskingum,ohs_muskingum,39119,"Morrow, Jonathan",MJ1347,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Portage,ohs_portage,39133,"Morrow, Jonathan",MJ1347,NA,1
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Preble,ohs_preble,39135,"Morrow, Jonathan",MJ1347,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Ross,ohs_ross,39141,"Morrow, Jonathan",MJ1347,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Scioto,ohs_scioto,39145,"Morrow, Jonathan",MJ1347,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Trumbull,ohs_trumbull,39155,"Morrow, Jonathan",MJ1347,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Warren,ohs_warren,39165,"Morrow, Jonathan",MJ1347,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Washington,ohs_washington,39167,"Morrow, Jonathan",MJ1347,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Adams,ohs_adams,39001,"Root, Jeremiah",RJ0204,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Athens,ohs_athens,39009,"Root, Jeremiah",RJ0204,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Belmont,ohs_belmont,39013,"Root, Jeremiah",RJ0204,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Butler,ohs_butler,39017,"Root, Jeremiah",RJ0204,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Champaign,ohs_champaign,39021,"Root, Jeremiah",RJ0204,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Clermont,ohs_clermont,39025,"Root, Jeremiah",RJ0204,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Columbiana,ohs_columbiana,39029,"Root, Jeremiah",RJ0204,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Delaware,ohs_delaware,39041,"Root, Jeremiah",RJ0204,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Fairfield,ohs_fairfield,39045,"Root, Jeremiah",RJ0204,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Franklin,ohs_franklin,39049,"Root, Jeremiah",RJ0204,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Gallia,ohs_gallia,39053,"Root, Jeremiah",RJ0204,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Geauga,ohs_geauga,39055,"Root, Jeremiah",RJ0204,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Greene,ohs_greene,39057,"Root, Jeremiah",RJ0204,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Hamilton,ohs_hamilton,39061,"Root, Jeremiah",RJ0204,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Highland,ohs_highland,39071,"Root, Jeremiah",RJ0204,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Jefferson,ohs_jefferson,39081,"Root, Jeremiah",RJ0204,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Knox,ohs_knox,39083,"Root, Jeremiah",RJ0204,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Miami,ohs_miami,39109,"Root, Jeremiah",RJ0204,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Montgomery,ohs_montgomery,39113,"Root, Jeremiah",RJ0204,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Muskingum,ohs_muskingum,39119,"Root, Jeremiah",RJ0204,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Portage,ohs_portage,39133,"Root, Jeremiah",RJ0204,NA,1
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Preble,ohs_preble,39135,"Root, Jeremiah",RJ0204,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Ross,ohs_ross,39141,"Root, Jeremiah",RJ0204,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Scioto,ohs_scioto,39145,"Root, Jeremiah",RJ0204,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Trumbull,ohs_trumbull,39155,"Root, Jeremiah",RJ0204,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Warren,ohs_warren,39165,"Root, Jeremiah",RJ0204,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Washington,ohs_washington,39167,"Root, Jeremiah",RJ0204,NA,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Adams,ohs_adams,39001,"Morrow, Jeremiah",MJ0625,Dissenting Republican,556
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Athens,ohs_athens,39009,"Morrow, Jeremiah",MJ0625,Dissenting Republican,135
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Belmont,ohs_belmont,39013,"Morrow, Jeremiah",MJ0625,Dissenting Republican,771
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Butler,ohs_butler,39017,"Morrow, Jeremiah",MJ0625,Dissenting Republican,635
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Champaign,ohs_champaign,39021,"Morrow, Jeremiah",MJ0625,Dissenting Republican,539
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Clermont,ohs_clermont,39025,"Morrow, Jeremiah",MJ0625,Dissenting Republican,579
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Columbiana,ohs_columbiana,39029,"Morrow, Jeremiah",MJ0625,Dissenting Republican,639
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Delaware,ohs_delaware,39041,"Morrow, Jeremiah",MJ0625,Dissenting Republican,93
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Fairfield,ohs_fairfield,39045,"Morrow, Jeremiah",MJ0625,Dissenting Republican,411
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Franklin,ohs_franklin,39049,"Morrow, Jeremiah",MJ0625,Dissenting Republican,216
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Gallia,ohs_gallia,39053,"Morrow, Jeremiah",MJ0625,Dissenting Republican,149
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Geauga,ohs_geauga,39055,"Morrow, Jeremiah",MJ0625,Dissenting Republican,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Greene,ohs_greene,39057,"Morrow, Jeremiah",MJ0625,Dissenting Republican,317
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Hamilton,ohs_hamilton,39061,"Morrow, Jeremiah",MJ0625,Dissenting Republican,755
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Highland,ohs_highland,39071,"Morrow, Jeremiah",MJ0625,Dissenting Republican,0
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Jefferson,ohs_jefferson,39081,"Morrow, Jeremiah",MJ0625,Dissenting Republican,1096
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Knox,ohs_knox,39083,"Morrow, Jeremiah",MJ0625,Dissenting Republican,61
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Miami,ohs_miami,39109,"Morrow, Jeremiah",MJ0625,Dissenting Republican,240
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Montgomery,ohs_montgomery,39113,"Morrow, Jeremiah",MJ0625,Dissenting Republican,216
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Muskingum,ohs_muskingum,39119,"Morrow, Jeremiah",MJ0625,Dissenting Republican,535
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Portage,ohs_portage,39133,"Morrow, Jeremiah",MJ0625,Dissenting Republican,230
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Preble,ohs_preble,39135,"Morrow, Jeremiah",MJ0625,Dissenting Republican,101
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Ross,ohs_ross,39141,"Morrow, Jeremiah",MJ0625,Dissenting Republican,1249
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Scioto,ohs_scioto,39145,"Morrow, Jeremiah",MJ0625,Dissenting Republican,397
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Trumbull,ohs_trumbull,39155,"Morrow, Jeremiah",MJ0625,Dissenting Republican,587
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Warren,ohs_warren,39165,"Morrow, Jeremiah",MJ0625,Dissenting Republican,676
+meae.congressional.congress11.oh.county,congressional,11,OH,county,state,oh.ushouseofrepresentatives.1808,Washington,ohs_washington,39167,"Morrow, Jeremiah",MJ0625,Dissenting Republican,276

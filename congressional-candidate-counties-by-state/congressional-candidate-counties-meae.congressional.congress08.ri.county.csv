@@ -1,0 +1,25 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress08.ri.county,congressional,8,RI,county,state,ri.uscongress.1802,Bristol,ris_bristol,44001,"Knight, Nehemiah",KN0024,Democratic-Republican,166
+meae.congressional.congress08.ri.county,congressional,8,RI,county,state,ri.uscongress.1802,Kent,ris_kent,44003,"Knight, Nehemiah",KN0024,Democratic-Republican,380
+meae.congressional.congress08.ri.county,congressional,8,RI,county,state,ri.uscongress.1802,Newport,ris_newport,44005,"Knight, Nehemiah",KN0024,Democratic-Republican,624
+meae.congressional.congress08.ri.county,congressional,8,RI,county,state,ri.uscongress.1802,Providence,ris_providence,44007,"Knight, Nehemiah",KN0024,Democratic-Republican,917
+meae.congressional.congress08.ri.county,congressional,8,RI,county,state,ri.uscongress.1802,Washington,ris_washington,44009,"Knight, Nehemiah",KN0024,Democratic-Republican,560
+meae.congressional.congress08.ri.county,congressional,8,RI,county,state,ri.uscongress.1802,Bristol,ris_bristol,44001,"Stanton, Joseph",SJ1416,Democratic-Republican,165
+meae.congressional.congress08.ri.county,congressional,8,RI,county,state,ri.uscongress.1802,Kent,ris_kent,44003,"Stanton, Joseph",SJ1416,Democratic-Republican,380
+meae.congressional.congress08.ri.county,congressional,8,RI,county,state,ri.uscongress.1802,Newport,ris_newport,44005,"Stanton, Joseph",SJ1416,Democratic-Republican,624
+meae.congressional.congress08.ri.county,congressional,8,RI,county,state,ri.uscongress.1802,Providence,ris_providence,44007,"Stanton, Joseph",SJ1416,Democratic-Republican,915
+meae.congressional.congress08.ri.county,congressional,8,RI,county,state,ri.uscongress.1802,Washington,ris_washington,44009,"Stanton, Joseph",SJ1416,Democratic-Republican,573
+meae.congressional.congress08.ri.county,congressional,8,RI,county,state,ri.uscongress.1802,Bristol,ris_bristol,44001,"Potter, Elisha R.",PE0102,Federalist,114
+meae.congressional.congress08.ri.county,congressional,8,RI,county,state,ri.uscongress.1802,Kent,ris_kent,44003,"Potter, Elisha R.",PE0102,Federalist,307
+meae.congressional.congress08.ri.county,congressional,8,RI,county,state,ri.uscongress.1802,Newport,ris_newport,44005,"Potter, Elisha R.",PE0102,Federalist,359
+meae.congressional.congress08.ri.county,congressional,8,RI,county,state,ri.uscongress.1802,Providence,ris_providence,44007,"Potter, Elisha R.",PE0102,Federalist,579
+meae.congressional.congress08.ri.county,congressional,8,RI,county,state,ri.uscongress.1802,Washington,ris_washington,44009,"Potter, Elisha R.",PE0102,Federalist,324
+meae.congressional.congress08.ri.county,congressional,8,RI,county,state,ri.uscongress.1802,Bristol,ris_bristol,44001,"Tillinghast, Thomas",TT0119,Federalist,112
+meae.congressional.congress08.ri.county,congressional,8,RI,county,state,ri.uscongress.1802,Kent,ris_kent,44003,"Tillinghast, Thomas",TT0119,Federalist,314
+meae.congressional.congress08.ri.county,congressional,8,RI,county,state,ri.uscongress.1802,Newport,ris_newport,44005,"Tillinghast, Thomas",TT0119,Federalist,366
+meae.congressional.congress08.ri.county,congressional,8,RI,county,state,ri.uscongress.1802,Providence,ris_providence,44007,"Tillinghast, Thomas",TT0119,Federalist,579
+meae.congressional.congress08.ri.county,congressional,8,RI,county,state,ri.uscongress.1802,Washington,ris_washington,44009,"Tillinghast, Thomas",TT0119,Federalist,323
+meae.congressional.congress08.ri.county,congressional,8,RI,county,state,ri.uscongress.1802,Kent,ris_kent,44003,NA,Other candidates,NA,1
+meae.congressional.congress08.ri.county,congressional,8,RI,county,state,ri.uscongress.1802,Newport,ris_newport,44005,NA,Other candidates,NA,1
+meae.congressional.congress08.ri.county,congressional,8,RI,county,state,ri.uscongress.1802,Providence,ris_providence,44007,NA,Other candidates,NA,9
+meae.congressional.congress08.ri.county,congressional,8,RI,county,state,ri.uscongress.1802,Washington,ris_washington,44009,NA,Other candidates,NA,3

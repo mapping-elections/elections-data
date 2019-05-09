@@ -1,0 +1,72 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress1.1793,Kings,nys_kings,36047,"Tredwell, Thomas",TT0055,Democratic-Republican,12
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress1.1793,Queens,nys_queens,36081,"Tredwell, Thomas",TT0055,Democratic-Republican,365
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress1.1793,Suffolk,nys_suffolk,36103,"Tredwell, Thomas",TT0055,Democratic-Republican,1069
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress1.1793,Kings,nys_kings,36047,"Peters, Henry",PH0027,Federalist,35
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress1.1793,Queens,nys_queens,36081,"Peters, Henry",PH0027,Federalist,608
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress1.1793,Suffolk,nys_suffolk,36103,"Peters, Henry",PH0027,Federalist,30
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress1.1793,Kings,nys_kings,36047,"Sands, Joshua",SJ0646,Federalist,425
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress1.1793,Queens,nys_queens,36081,"Sands, Joshua",SJ0646,Federalist,300
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress1.1793,Suffolk,nys_suffolk,36103,"Sands, Joshua",SJ0646,Federalist,44
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress10.1793,Herkimer,nys_herkimer,36043,"Crane, Josiah",CJ0466,Democratic-Republican,0
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress10.1793,Montgomery,nys_montgomery,36057,"Crane, Josiah",CJ0466,Democratic-Republican,0
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress10.1793,Ontario,nys_ontario,36069,"Crane, Josiah",CJ0466,Democratic-Republican,0
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress10.1793,Otsego,nys_otsego,36077,"Crane, Josiah",CJ0466,Democratic-Republican,0
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress10.1793,Tioga,nys_tioga,36107,"Crane, Josiah",CJ0466,Democratic-Republican,0
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress10.1793,Herkimer,nys_herkimer,36043,"Fink, Andrew",FA0037,Democratic-Republican,0
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress10.1793,Montgomery,nys_montgomery,36057,"Fink, Andrew",FA0037,Democratic-Republican,0
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress10.1793,Ontario,nys_ontario,36069,"Fink, Andrew",FA0037,Democratic-Republican,0
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress10.1793,Otsego,nys_otsego,36077,"Fink, Andrew",FA0037,Democratic-Republican,0
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress10.1793,Tioga,nys_tioga,36107,"Fink, Andrew",FA0037,Democratic-Republican,0
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress10.1793,Herkimer,nys_herkimer,36043,"Winn, John",WJ0414,Democratic-Republican,18
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress10.1793,Montgomery,nys_montgomery,36057,"Winn, John",WJ0414,Democratic-Republican,482
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress10.1793,Ontario,nys_ontario,36069,"Winn, John",WJ0414,Democratic-Republican,0
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress10.1793,Otsego,nys_otsego,36077,"Winn, John",WJ0414,Democratic-Republican,212
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress10.1793,Tioga,nys_tioga,36107,"Winn, John",WJ0414,Democratic-Republican,26
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress10.1793,Herkimer,nys_herkimer,36043,"Cooper, William",CW0154,Federalist,55
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress10.1793,Montgomery,nys_montgomery,36057,"Cooper, William",CW0154,Federalist,15
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress10.1793,Ontario,nys_ontario,36069,"Cooper, William",CW0154,Federalist,83
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress10.1793,Otsego,nys_otsego,36077,"Cooper, William",CW0154,Federalist,790
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress10.1793,Tioga,nys_tioga,36107,"Cooper, William",CW0154,Federalist,18
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress10.1793,Herkimer,nys_herkimer,36043,"Talbot, Silas",TS0063,Federalist,319
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress10.1793,Montgomery,nys_montgomery,36057,"Talbot, Silas",TS0063,Federalist,674
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress10.1793,Ontario,nys_ontario,36069,"Talbot, Silas",TS0063,Federalist,7
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress10.1793,Otsego,nys_otsego,36077,"Talbot, Silas",TS0063,Federalist,14
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress10.1793,Tioga,nys_tioga,36107,"Talbot, Silas",TS0063,Federalist,217
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress2.1793,New York,nys_newyork,36061,"Livingston, William S.",LW0102,Democratic-Republican,707
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress2.1793,New York,nys_newyork,36061,"Watts, John",WJ0410,Federalist,1872
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress3.1793,Richmond,nys_richmond,36085,"Van Cortlandt, Philip",VP0041,Democratic-Republican,123
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress3.1793,Westchester,nys_westchester,36119,"Van Cortlandt, Philip",VP0041,Democratic-Republican,850
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress3.1793,Richmond,nys_richmond,36085,"Hatfield, Richard",HR0118,Federalist,100
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress3.1793,Westchester,nys_westchester,36119,"Hatfield, Richard",HR0118,Federalist,708
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress4.1793,Orange,nys_orange,36071,"Carpenter, John",CJ0462,Democratic-Republican,72
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress4.1793,Ulster,nys_ulster,36111,"Carpenter, John",CJ0462,Democratic-Republican,0
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress4.1793,Orange,nys_orange,36071,"Hathorn, John",HJ0485,Democratic-Republican,762
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress4.1793,Ulster,nys_ulster,36111,"Hathorn, John",HJ0485,Democratic-Republican,686
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress4.1793,Orange,nys_orange,36071,"Schoonmaker, Cornelius C.",SC0076,Democratic-Republican,32
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress4.1793,Ulster,nys_ulster,36111,"Schoonmaker, Cornelius C.",SC0076,Democratic-Republican,21
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress4.1793,Orange,nys_orange,36071,"Thompson, William",TW0052,Democratic-Republican,39
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress4.1793,Ulster,nys_ulster,36111,"Thompson, William",TW0052,Democratic-Republican,1
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress4.1793,Orange,nys_orange,36071,"Woodhull, Jesse",WJ0407,Democratic-Republican,19
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress4.1793,Ulster,nys_ulster,36111,"Woodhull, Jesse",WJ0407,Democratic-Republican,0
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress4.1793,Orange,nys_orange,36071,"Van Gaasbeck, Peter",VP0015,Federalist,104
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress4.1793,Ulster,nys_ulster,36111,"Van Gaasbeck, Peter",VP0015,Federalist,1360
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress5.1793,Dutchess,nys_dutchess,36027,"Bailey, Theodorus",BT0171,Democratic-Republican,984
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress5.1793,Dutchess,nys_dutchess,36027,"Kent, James",KJ0097,Federalist,852
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress6.1793,Columbia,nys_columbia,36021,"Van Ness, Peter",VP0037,Democratic-Republican,856
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress6.1793,Columbia,nys_columbia,36021,"Gilbert, Ezekiel",GE0066,Federalist,977
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress6.1793,Columbia,nys_columbia,36021,"Livingston, Peter R.",LP0036,Federalist,948
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress7.1793,Albany,nys_albany,36001,"Van Rensselaer, Jeremiah",VJ0189,Democratic-Republican,526
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress7.1793,Albany,nys_albany,36001,"Glenn, Henry",GH0039,Federalist,927
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress8.1793,Clinton,nys_clinton,36019,"Sickles, Thomas",ST0160,Democratic-Republican,0
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress8.1793,Rensselaer,nys_rensselaer,36083,"Sickles, Thomas",ST0160,Democratic-Republican,12
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress8.1793,Clinton,nys_clinton,36019,"Van Rensselaer, Henry K.",VH0031,Democratic-Republican,214
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress8.1793,Rensselaer,nys_rensselaer,36083,"Van Rensselaer, Henry K.",VH0031,Democratic-Republican,656
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress8.1793,Clinton,nys_clinton,36019,"Van Alen, John E.",VJ0202,Federalist,32
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress8.1793,Rensselaer,nys_rensselaer,36083,"Van Alen, John E.",VJ0202,Federalist,1133
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress9.1793,Saratoga,nys_saratoga,36091,"Thompson, John",TJ0297,Democratic-Republican,355
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress9.1793,Washington,nys_washington,36115,"Thompson, John",TJ0297,Democratic-Republican,0
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress9.1793,Saratoga,nys_saratoga,36091,"Williams, John",WJ0409,Democratic-Republican,41
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress9.1793,Washington,nys_washington,36115,"Williams, John",WJ0409,Democratic-Republican,1106
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress9.1793,Saratoga,nys_saratoga,36091,"Gordon, James",GJ0267,Federalist,639
+meae.congressional.congress03.ny.county,congressional,3,NY,county,state,ny.uscongress9.1793,Washington,nys_washington,36115,"Gordon, James",GJ0267,Federalist,639

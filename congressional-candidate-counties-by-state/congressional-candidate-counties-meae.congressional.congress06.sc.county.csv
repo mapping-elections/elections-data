@@ -1,0 +1,82 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.beaufort.1798,Orange,NA,NA,"Butler, Pierce",BP0091,Democratic-Republican,0
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.beaufort.1798,Orange,NA,NA,"Rutledge, John, Jr.",RJ0621,Federalist,128
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.camden.1798,Claremont,scs_claremont,NA,"Sumter, Thomas",ST0266,Democratic-Republican,265
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.camden.1798,Clarendon,scs_clarendon,45027,"Sumter, Thomas",ST0266,Democratic-Republican,146
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.camden.1798,Fairfield,scs_fairfield,45039,"Sumter, Thomas",ST0266,Democratic-Republican,163
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.camden.1798,Kershaw,scs_kershaw,45055,"Sumter, Thomas",ST0266,Democratic-Republican,175
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.camden.1798,Lancaster,scs_lancaster,45057,"Sumter, Thomas",ST0266,Democratic-Republican,242
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.camden.1798,Richland,scs_richland,45079,"Sumter, Thomas",ST0266,Democratic-Republican,237
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.camden.1798,Claremont,scs_claremont,NA,"Winn, Richard",WR0158,Federalist,23
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.camden.1798,Clarendon,scs_clarendon,45027,"Winn, Richard",WR0158,Federalist,0
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.camden.1798,Fairfield,scs_fairfield,45039,"Winn, Richard",WR0158,Federalist,565
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.camden.1798,Kershaw,scs_kershaw,45055,"Winn, Richard",WR0158,Federalist,25
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.camden.1798,Lancaster,scs_lancaster,45057,"Winn, Richard",WR0158,Federalist,33
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.camden.1798,Richland,scs_richland,45079,"Winn, Richard",WR0158,Federalist,26
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.charleston.1798,"Saint George's, Dorcester",scs_stgeorgedorchesterparish,NA,"Pinckney, Thomas",PT0162,Federalist,0
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,All Saints,scs_allsaintsparish,NA,"Benton, Lemuel",BL0075,Democratic-Republican,0
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Chesterfield,scs_chesterfield,45025,"Benton, Lemuel",BL0075,Democratic-Republican,42
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Darlington,scs_darlington,45031,"Benton, Lemuel",BL0075,Democratic-Republican,242
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Kingston,scs_kingston,NA,"Benton, Lemuel",BL0075,Democratic-Republican,45
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Liberty,scs_liberty,NA,"Benton, Lemuel",BL0075,Democratic-Republican,176
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Marlborough,scs_marlboro,45069,"Benton, Lemuel",BL0075,Democratic-Republican,34
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Williamsburg,scs_williamsburg,45089,"Benton, Lemuel",BL0075,Democratic-Republican,10
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Winyaw,scs_winyaw,NA,"Benton, Lemuel",BL0075,Democratic-Republican,25
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,All Saints,scs_allsaintsparish,NA,"Blyth, Joseph",BJ1341,Democratic-Republican,2
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Chesterfield,scs_chesterfield,45025,"Blyth, Joseph",BJ1341,Democratic-Republican,0
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Darlington,scs_darlington,45031,"Blyth, Joseph",BJ1341,Democratic-Republican,0
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Kingston,scs_kingston,NA,"Blyth, Joseph",BJ1341,Democratic-Republican,0
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Liberty,scs_liberty,NA,"Blyth, Joseph",BJ1341,Democratic-Republican,18
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Marlborough,scs_marlboro,45069,"Blyth, Joseph",BJ1341,Democratic-Republican,0
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Williamsburg,scs_williamsburg,45089,"Blyth, Joseph",BJ1341,Democratic-Republican,0
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Winyaw,scs_winyaw,NA,"Blyth, Joseph",BJ1341,Democratic-Republican,8
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,All Saints,scs_allsaintsparish,NA,"Thomas, William",TW0121,Democratic-Republican,0
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Chesterfield,scs_chesterfield,45025,"Thomas, William",TW0121,Democratic-Republican,7
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Darlington,scs_darlington,45031,"Thomas, William",TW0121,Democratic-Republican,2
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Kingston,scs_kingston,NA,"Thomas, William",TW0121,Democratic-Republican,0
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Liberty,scs_liberty,NA,"Thomas, William",TW0121,Democratic-Republican,2
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Marlborough,scs_marlboro,45069,"Thomas, William",TW0121,Democratic-Republican,24
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Williamsburg,scs_williamsburg,45089,"Thomas, William",TW0121,Democratic-Republican,0
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Winyaw,scs_winyaw,NA,"Thomas, William",TW0121,Democratic-Republican,0
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,All Saints,scs_allsaintsparish,NA,"Huger, Benjamin",HB0145,Federalist,96
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Chesterfield,scs_chesterfield,45025,"Huger, Benjamin",HB0145,Federalist,8
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Darlington,scs_darlington,45031,"Huger, Benjamin",HB0145,Federalist,20
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Kingston,scs_kingston,NA,"Huger, Benjamin",HB0145,Federalist,180
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Liberty,scs_liberty,NA,"Huger, Benjamin",HB0145,Federalist,108
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Marlborough,scs_marlboro,45069,"Huger, Benjamin",HB0145,Federalist,19
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Williamsburg,scs_williamsburg,45089,"Huger, Benjamin",HB0145,Federalist,181
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Winyaw,scs_winyaw,NA,"Huger, Benjamin",HB0145,Federalist,131
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,All Saints,scs_allsaintsparish,NA,"Thomas, Tristram",TT0124,Federalist,0
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Chesterfield,scs_chesterfield,45025,"Thomas, Tristram",TT0124,Federalist,179
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Darlington,scs_darlington,45031,"Thomas, Tristram",TT0124,Federalist,4
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Kingston,scs_kingston,NA,"Thomas, Tristram",TT0124,Federalist,0
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Liberty,scs_liberty,NA,"Thomas, Tristram",TT0124,Federalist,60
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Marlborough,scs_marlboro,45069,"Thomas, Tristram",TT0124,Federalist,138
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Williamsburg,scs_williamsburg,45089,"Thomas, Tristram",TT0124,Federalist,9
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.georgetown.1798,Winyaw,scs_winyaw,NA,"Thomas, Tristram",TT0124,Federalist,4
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.ninety-six.1798,Abbeville,scs_abbeville,45001,"Butler, William",BW0365,Democratic-Republican,210
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.ninety-six.1798,Edgefield,scs_edgefield,45037,"Butler, William",BW0365,Democratic-Republican,418
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.ninety-six.1798,Laurens,scs_laurens,45059,"Butler, William",BW0365,Democratic-Republican,250
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.ninety-six.1798,Newberry,scs_newberry,45071,"Butler, William",BW0365,Democratic-Republican,163
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.ninety-six.1798,Abbeville,scs_abbeville,45001,"Harper, Robert Goodloe",HR0079,Federalist,646
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.ninety-six.1798,Edgefield,scs_edgefield,45037,"Harper, Robert Goodloe",HR0079,Federalist,291
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.ninety-six.1798,Laurens,scs_laurens,45059,"Harper, Robert Goodloe",HR0079,Federalist,636
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.ninety-six.1798,Newberry,scs_newberry,45071,"Harper, Robert Goodloe",HR0079,Federalist,390
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.washington.1798,Chester,scs_chester,45023,"Smith, William",SW0300,Democratic-Republican,93
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.washington.1798,Greenville,scs_greenville,45045,"Smith, William",SW0300,Democratic-Republican,479
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.washington.1798,Pendleton,scs_pendleton,NA,"Smith, William",SW0300,Democratic-Republican,297
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.washington.1798,Spartanburg,scs_spartanburg,45083,"Smith, William",SW0300,Democratic-Republican,321
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.washington.1798,Union,scs_union,45087,"Smith, William",SW0300,Democratic-Republican,160
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.washington.1798,York,scs_york,45091,"Smith, William",SW0300,Democratic-Republican,43
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.washington.1798,Chester,scs_chester,45023,"Hill, William",HW0378,Federalist,36
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.washington.1798,Greenville,scs_greenville,45045,"Hill, William",HW0378,Federalist,0
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.washington.1798,Pendleton,scs_pendleton,NA,"Hill, William",HW0378,Federalist,38
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.washington.1798,Spartanburg,scs_spartanburg,45083,"Hill, William",HW0378,Federalist,27
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.washington.1798,Union,scs_union,45087,"Hill, William",HW0378,Federalist,4
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.washington.1798,York,scs_york,45091,"Hill, William",HW0378,Federalist,314
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.washington.1798,Chester,scs_chester,45023,"Nott, Abraham",NA0041,Federalist,95
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.washington.1798,Greenville,scs_greenville,45045,"Nott, Abraham",NA0041,Federalist,107
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.washington.1798,Pendleton,scs_pendleton,NA,"Nott, Abraham",NA0041,Federalist,315
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.washington.1798,Spartanburg,scs_spartanburg,45083,"Nott, Abraham",NA0041,Federalist,211
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.washington.1798,Union,scs_union,45087,"Nott, Abraham",NA0041,Federalist,510
+meae.congressional.congress06.sc.county,congressional,6,SC,county,state,sc.uscongress.washington.1798,York,scs_york,45091,"Nott, Abraham",NA0041,Federalist,177

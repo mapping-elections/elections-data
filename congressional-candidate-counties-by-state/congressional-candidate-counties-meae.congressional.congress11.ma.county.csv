@@ -1,0 +1,171 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.barnstable.1808,Barnstable,mas_barnstable,25001,"Gardner, Gideon",GG0013,Democratic-Republican,853
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.barnstable.1808,Bristol,mas_bristol,25005,"Gardner, Gideon",GG0013,Democratic-Republican,252
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.barnstable.1808,Dukes,mas_dukes,25007,"Gardner, Gideon",GG0013,Democratic-Republican,134
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.barnstable.1808,Nantucket,mas_nantucket,25019,"Gardner, Gideon",GG0013,Democratic-Republican,464
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.barnstable.1808,Barnstable,mas_barnstable,25001,"Allen, Benjamin",AB0007,Federalist,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.barnstable.1808,Bristol,mas_bristol,25005,"Allen, Benjamin",AB0007,Federalist,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.barnstable.1808,Dukes,mas_dukes,25007,"Allen, Benjamin",AB0007,Federalist,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.barnstable.1808,Nantucket,mas_nantucket,25019,"Allen, Benjamin",AB0007,Federalist,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.barnstable.1808,Barnstable,mas_barnstable,25001,"Davis, Wendall",DW0062,Federalist,645
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.barnstable.1808,Bristol,mas_bristol,25005,"Davis, Wendall",DW0062,Federalist,415
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.barnstable.1808,Dukes,mas_dukes,25007,"Davis, Wendall",DW0062,Federalist,107
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.barnstable.1808,Nantucket,mas_nantucket,25019,"Davis, Wendall",DW0062,Federalist,61
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.berkshire.1808,Berkshire,mas_berkshire,25003,"Bacon, Ezekiel",BE0033,Democratic-Republican,2524
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.berkshire.1808,Berkshire,mas_berkshire,25003,"Wheeler, Samuel H.",WS0085,Democratic-Republican,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.berkshire.1808,Berkshire,mas_berkshire,25003,"Dewey, Daniel",DD0043,Federalist,2
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.berkshire.1808,Berkshire,mas_berkshire,25003,"Hulbert, John W.",HJ0303,Federalist,2131
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.bristol.1808,Bristol,mas_bristol,25005,"Deane, Josiah",DJ0177,Democratic-Republican,1481
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.bristol.1808,Bristol,mas_bristol,25005,"Morton, Nathaniel, Jr.",MN0044,Democratic-Republican,9
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.bristol.1808,Bristol,mas_bristol,25005,"Tillinghast, Nicholas",TN0022,Federalist,2
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.bristol.1808,Bristol,mas_bristol,25005,"Wheaton, Laban",WL0029,Federalist,1969
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.bristol.1808,Bristol,mas_bristol,25005,"Morton, Nathaniel",MN0018,NA,4
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.cumberland.1808,Cumberland,mes_cumberland,23005,"Hubbard, Levi",HL0012,Democratic-Republican,2
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.cumberland.1808,Oxford,mes_oxford,23017,"Hubbard, Levi",HL0012,Democratic-Republican,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.cumberland.1808,Cumberland,mes_cumberland,23005,"Ilsley, Daniel",ID0002,Democratic-Republican,1788
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.cumberland.1808,Oxford,mes_oxford,23017,"Ilsley, Daniel",ID0002,Democratic-Republican,752
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.cumberland.1808,Cumberland,mes_cumberland,23005,"Widgery, William",WW0129,Democratic-Republican,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.cumberland.1808,Oxford,mes_oxford,23017,"Widgery, William",WW0129,Democratic-Republican,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.cumberland.1808,Cumberland,mes_cumberland,23005,"Bradbury, George",BG0016,Federalist,3
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.cumberland.1808,Oxford,mes_oxford,23017,"Bradbury, George",BG0016,Federalist,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.cumberland.1808,Cumberland,mes_cumberland,23005,"Lewis, Lothrop",LL0049,Federalist,2
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.cumberland.1808,Oxford,mes_oxford,23017,"Lewis, Lothrop",LL0049,Federalist,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.cumberland.1808,Cumberland,mes_cumberland,23005,"Whitman, Ezekiel",WE0022,Federalist,2313
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.cumberland.1808,Oxford,mes_oxford,23017,"Whitman, Ezekiel",WE0022,Federalist,375
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.cumberland.1808,Cumberland,mes_cumberland,23005,"Adams, Isaac",AI0013,NA,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.cumberland.1808,Oxford,mes_oxford,23017,"Adams, Isaac",AI0013,NA,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.cumberland.1808,Cumberland,mes_cumberland,23005,"Ilsley, Isaac",II0002,NA,2
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.cumberland.1808,Oxford,mes_oxford,23017,"Ilsley, Isaac",II0002,NA,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.cumberland.1808,Cumberland,mes_cumberland,23005,"Smith, Robert H.",SR0067,NA,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.cumberland.1808,Oxford,mes_oxford,23017,"Smith, Robert H.",SR0067,NA,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.essexnorth.1808,Essex,mas_essex,25009,"Kittridge, Thomas",KT0032,Democratic-Republican,1264
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.essexnorth.1808,Middlesex,mas_middlesex,25017,"Kittridge, Thomas",KT0032,Democratic-Republican,131
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.essexnorth.1808,Essex,mas_essex,25009,"Livermore, Edward L.",LE0034,Federalist,2280
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.essexnorth.1808,Middlesex,mas_middlesex,25017,"Livermore, Edward L.",LE0034,Federalist,184
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.essexnorth.1808,Essex,mas_essex,25009,"Pickman, Benjamin, Jr.",PB0029,Federalist,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.essexnorth.1808,Middlesex,mas_middlesex,25017,"Pickman, Benjamin, Jr.",PB0029,Federalist,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.essexnorth.1808,Essex,mas_essex,25009,"Titcomb, Enoch",TE0040,Federalist,2
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.essexnorth.1808,Middlesex,mas_middlesex,25017,"Titcomb, Enoch",TE0040,Federalist,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.essexnorth.1808,Essex,mas_essex,25009,"Andrews, Asa",AA0009,NA,2
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.essexnorth.1808,Middlesex,mas_middlesex,25017,"Andrews, Asa",AA0009,NA,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.essexnorth.1808,Essex,mas_essex,25009,"Little, Edward",LE0032,NA,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.essexnorth.1808,Middlesex,mas_middlesex,25017,"Little, Edward",LE0032,NA,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.essexnorth.1808,Essex,mas_essex,25009,"Parish, Elijah",PE0023,NA,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.essexnorth.1808,Middlesex,mas_middlesex,25017,"Parish, Elijah",PE0023,NA,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.essexnorth.1808,Essex,mas_essex,25009,"Pike, Richard",PR0060,NA,10
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.essexnorth.1808,Middlesex,mas_middlesex,25017,"Pike, Richard",PR0060,NA,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.essexsouth.1808,Essex,mas_essex,25009,"Kilham, Daniel",KD0021,Democratic-Republican,2524
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.essexsouth.1808,Essex,mas_essex,25009,"Story, Joseph",SJ0394,Democratic-Republican,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.essexsouth.1808,Essex,mas_essex,25009,"Pickman, Benjamin, Jr.",PB0029,Federalist,2754
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.hampshirenorth.1808,Hampshire,mas_hampshire,25015,"Smith, Benjamin",SB0037,Democratic-Republican,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.hampshirenorth.1808,Hampshire,mas_hampshire,25015,"Snead, Solomon",SS0117,Democratic-Republican,949
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.hampshirenorth.1808,Hampshire,mas_hampshire,25015,"Taggart, Samuel",TS0046,Federalist,2062
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.hampshirenorth.1808,Hampshire,mas_hampshire,25015,"Abercrombie, Isaac",AI0011,NA,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.hampshirenorth.1808,Hampshire,mas_hampshire,25015,"Barnard, Elijah",BE0038,NA,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.hampshirenorth.1808,Hampshire,mas_hampshire,25015,"Webster, Stephen",WS0058,NA,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.hampshiresouth.1808,Hampshire,mas_hampshire,25015,"Ford, Samuel S.",FS0045,Democratic-Republican,1109
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.hampshiresouth.1808,Hampshire,mas_hampshire,25015,"Smith, Jonathan, Jr.",SJ0396,Democratic-Republican,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.hampshiresouth.1808,Hampshire,mas_hampshire,25015,"Ashman, Eli P.",AE0016,Federalist,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.hampshiresouth.1808,Hampshire,mas_hampshire,25015,"Ely, William",EW0034,Federalist,2161
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.kennebec.1808,Hancock,mes_hancock,23009,"Cashman, Josiah",CJ0322,Democratic-Republican,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.kennebec.1808,Kennebec,mes_kennebec,23011,"Cashman, Josiah",CJ0322,Democratic-Republican,32
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.kennebec.1808,Washington,mes_washington,23029,"Cashman, Josiah",CJ0322,Democratic-Republican,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.kennebec.1808,Hancock,mes_hancock,23009,"Chandler, John",CJ0020,Democratic-Republican,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.kennebec.1808,Kennebec,mes_kennebec,23011,"Chandler, John",CJ0020,Democratic-Republican,3
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.kennebec.1808,Washington,mes_washington,23029,"Chandler, John",CJ0020,Democratic-Republican,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.kennebec.1808,Hancock,mes_hancock,23009,"Gannett, Barzillai",GB0014,Democratic-Republican,611
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.kennebec.1808,Kennebec,mes_kennebec,23011,"Gannett, Barzillai",GB0014,Democratic-Republican,1800
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.kennebec.1808,Washington,mes_washington,23029,"Gannett, Barzillai",GB0014,Democratic-Republican,68
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.kennebec.1808,Hancock,mes_hancock,23009,"King, William",KW0033,Democratic-Republican,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.kennebec.1808,Kennebec,mes_kennebec,23011,"King, William",KW0033,Democratic-Republican,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.kennebec.1808,Washington,mes_washington,23029,"King, William",KW0033,Democratic-Republican,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.kennebec.1808,Hancock,mes_hancock,23009,"Rice, Thomas",RT0039,Federalist,566
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.kennebec.1808,Kennebec,mes_kennebec,23011,"Rice, Thomas",RT0039,Federalist,1579
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.kennebec.1808,Washington,mes_washington,23029,"Rice, Thomas",RT0039,Federalist,246
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.lincoln.1808,Hancock,mes_hancock,23009,"Cook, Orchard",CO0004,Democratic-Republican,196
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.lincoln.1808,Lincoln,mes_lincoln,23015,"Cook, Orchard",CO0004,Democratic-Republican,1861
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.lincoln.1808,Hancock,mes_hancock,23009,"Gannett, Barzillai",GB0014,Democratic-Republican,39
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.lincoln.1808,Lincoln,mes_lincoln,23015,"Gannett, Barzillai",GB0014,Democratic-Republican,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.lincoln.1808,Hancock,mes_hancock,23009,"King, William",KW0033,Democratic-Republican,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.lincoln.1808,Lincoln,mes_lincoln,23015,"King, William",KW0033,Democratic-Republican,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.lincoln.1808,Hancock,mes_hancock,23009,"Bradford, Alden",BA0108,Federalist,85
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.lincoln.1808,Lincoln,mes_lincoln,23015,"Bradford, Alden",BA0108,Federalist,1857
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.lincoln.1808,Hancock,mes_hancock,23009,"Andrews, Seth",AS0041,NA,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.lincoln.1808,Lincoln,mes_lincoln,23015,"Andrews, Seth",AS0041,NA,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.lincoln.1808,Hancock,mes_hancock,23009,"Bailey, Jeremiah",BJ0503,NA,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.lincoln.1808,Lincoln,mes_lincoln,23015,"Bailey, Jeremiah",BJ0503,NA,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.lincoln.1808,Hancock,mes_hancock,23009,"Farley, John",FJ0124,NA,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.lincoln.1808,Lincoln,mes_lincoln,23015,"Farley, John",FJ0124,NA,4
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.lincoln.1808,Hancock,mes_hancock,23009,"Robbins, Otis, Jr.",RO0006,NA,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.lincoln.1808,Lincoln,mes_lincoln,23015,"Robbins, Otis, Jr.",RO0006,NA,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.lincoln.1808,Hancock,mes_hancock,23009,"Rose, Daniel",RD0021,NA,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.lincoln.1808,Lincoln,mes_lincoln,23015,"Rose, Daniel",RD0021,NA,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.lincoln.1808,Hancock,mes_hancock,23009,"Whiting, Thurston",WT0006,NA,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.lincoln.1808,Lincoln,mes_lincoln,23015,"Whiting, Thurston",WT0006,NA,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.middlesex.1808,Middlesex,mas_middlesex,25017,"Varnum, Joseph B.",VJ0024,Democratic-Republican,2716
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.middlesex.1808,Middlesex,mas_middlesex,25017,"Bigelow, Abraham",BA0105,Federalist,1564
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.middlesex.1808,Middlesex,mas_middlesex,25017,"Bigelow, Timothy",BT0122,Federalist,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.middlesex.1808,Middlesex,mas_middlesex,25017,"Adams, Abel",AA0011,NA,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.norfolk.1808,Middlesex,mas_middlesex,25017,"Bowdoin, James, Jr.",BJ0467,Democratic-Republican,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.norfolk.1808,Norfolk,mas_norfolk,25021,"Bowdoin, James, Jr.",BJ0467,Democratic-Republican,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.norfolk.1808,Middlesex,mas_middlesex,25017,"Seaver, Ebenezer",SE0023,Democratic-Republican,325
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.norfolk.1808,Norfolk,mas_norfolk,25021,"Seaver, Ebenezer",SE0023,Democratic-Republican,1975
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.norfolk.1808,Middlesex,mas_middlesex,25017,"Richardson, James",RJ0147,Federalist,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.norfolk.1808,Norfolk,mas_norfolk,25021,"Richardson, James",RJ0147,Federalist,3
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.norfolk.1808,Middlesex,mas_middlesex,25017,"Robbins, Edward H.",RE0018,Federalist,271
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.norfolk.1808,Norfolk,mas_norfolk,25021,"Robbins, Edward H.",RE0018,Federalist,1405
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.norfolk.1808,Middlesex,mas_middlesex,25017,"Ruggles, Nathaniel",RN0012,Federalist,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.norfolk.1808,Norfolk,mas_norfolk,25021,"Ruggles, Nathaniel",RN0012,Federalist,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.norfolk.1808,Middlesex,mas_middlesex,25017,"Adams, John Quincy",AJ0043,NA,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.norfolk.1808,Norfolk,mas_norfolk,25021,"Adams, John Quincy",AJ0043,NA,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.norfolk.1808,Middlesex,mas_middlesex,25017,"Brewer, William",BW0141,NA,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.norfolk.1808,Norfolk,mas_norfolk,25021,"Brewer, William",BW0141,NA,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.plymouth.1808,Plymouth,mas_plymouth,25023,"Barker, Joseph",BJ0499,Democratic-Republican,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.plymouth.1808,Plymouth,mas_plymouth,25023,"Sprague, Seth",SS0069,Democratic-Republican,4
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.plymouth.1808,Plymouth,mas_plymouth,25023,"Turner, Charles, Jr.",TC0016,Democratic-Republican,1873
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.plymouth.1808,Plymouth,mas_plymouth,25023,"Baylies, William",BW0156,Federalist,1828
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.plymouth.1808,Plymouth,mas_plymouth,25023,"Davis, William",DW0073,Federalist,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.plymouth.1808,Plymouth,mas_plymouth,25023,"Mitchell, Nahum",MN0055,Federalist,8
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.plymouth.1808,Plymouth,mas_plymouth,25023,"Niles, Samuel",NS0034,NA,3
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.plymouth.1808,Plymouth,mas_plymouth,25023,"Thomas, James",TJ0147,NA,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.suffolk.1808,Middlesex,mas_middlesex,25017,"Eustis, William",EW0031,Democratic-Republican,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.suffolk.1808,Plymouth,mas_plymouth,25023,"Eustis, William",EW0031,Democratic-Republican,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.suffolk.1808,Suffolk,mas_suffolk,25025,"Eustis, William",EW0031,Democratic-Republican,2
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.suffolk.1808,Middlesex,mas_middlesex,25017,"Jarvis, William",JW0027,Democratic-Republican,435
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.suffolk.1808,Plymouth,mas_plymouth,25023,"Jarvis, William",JW0027,Democratic-Republican,209
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.suffolk.1808,Suffolk,mas_suffolk,25025,"Jarvis, William",JW0027,Democratic-Republican,1430
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.suffolk.1808,Middlesex,mas_middlesex,25017,"Bigelow, Abraham",BA0105,Federalist,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.suffolk.1808,Plymouth,mas_plymouth,25023,"Bigelow, Abraham",BA0105,Federalist,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.suffolk.1808,Suffolk,mas_suffolk,25025,"Bigelow, Abraham",BA0105,Federalist,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.suffolk.1808,Middlesex,mas_middlesex,25017,"Quincy, Josiah, 1772-1864",QJ0002,Federalist,359
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.suffolk.1808,Plymouth,mas_plymouth,25023,"Quincy, Josiah, 1772-1864",QJ0002,Federalist,100
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.suffolk.1808,Suffolk,mas_suffolk,25025,"Quincy, Josiah, 1772-1864",QJ0002,Federalist,2545
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.suffolk.1808,Middlesex,mas_middlesex,25017,"Lewis, Thomas, Jr.",LT0043,NA,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.suffolk.1808,Plymouth,mas_plymouth,25023,"Lewis, Thomas, Jr.",LT0043,NA,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.suffolk.1808,Suffolk,mas_suffolk,25025,"Lewis, Thomas, Jr.",LT0043,NA,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.worcesternorth.1808,Worcester,mas_worcester,25027,"White, Moses",WM0026,Democratic-Republican,1145
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.worcesternorth.1808,Worcester,mas_worcester,25027,"Bigelow, Abijah",BA0106,Federalist,62
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.worcesternorth.1808,Worcester,mas_worcester,25027,"Holman, Silas",HS0075,Federalist,20
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.worcesternorth.1808,Worcester,mas_worcester,25027,"Kendall, Jonas",KJ0066,Federalist,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.worcesternorth.1808,Worcester,mas_worcester,25027,"Stedman, William",SW0095,Federalist,2315
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.worcesternorth.1808,Worcester,mas_worcester,25027,"Bacon, Samuel",BS0063,NA,2
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.worcesternorth.1808,Worcester,mas_worcester,25027,"Bigelow, Abraham",BA0105,NA,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.worcestersouth.1808,Worcester,mas_worcester,25027,"Bangs, Edward D.",BE0170,Democratic-Republican,1575
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.worcestersouth.1808,Worcester,mas_worcester,25027,"Howe, Estes",HE0037,Democratic-Republican,2
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.worcestersouth.1808,Worcester,mas_worcester,25027,"Spurr, John",SJ0384,Democratic-Republican,43
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.worcestersouth.1808,Worcester,mas_worcester,25027,"White, Moses",WM0026,Democratic-Republican,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.worcestersouth.1808,Worcester,mas_worcester,25027,"Upham, Jabez",UJ0005,Federalist,1927
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.worcestersouth.1808,Worcester,mas_worcester,25027,"Reed, Cheney",RC0048,NA,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.worcestersouth.1808,Worcester,mas_worcester,25027,"Sumner, Joseph",SJ0407,NA,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.york.1808,Oxford,mes_oxford,23017,"Bartlett, Joseph",BJ0329,Democratic-Republican,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.york.1808,York,mes_york,23031,"Bartlett, Joseph",BJ0329,Democratic-Republican,25
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.york.1808,Oxford,mes_oxford,23017,"Cutts, Richard F.",CR0035,Democratic-Republican,310
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.york.1808,York,mes_york,23031,"Cutts, Richard F.",CR0035,Democratic-Republican,1823
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.york.1808,Oxford,mes_oxford,23017,"Rice, Alexander",RA0016,Democratic-Republican,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.york.1808,York,mes_york,23031,"Rice, Alexander",RA0016,Democratic-Republican,6
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.york.1808,Oxford,mes_oxford,23017,"Woodman, John",WJ0153,Democratic-Republican,9
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.york.1808,York,mes_york,23031,"Woodman, John",WJ0153,Democratic-Republican,1
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.york.1808,Oxford,mes_oxford,23017,"Leland, Joseph",LJ0105,Federalist,239
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.york.1808,York,mes_york,23031,"Leland, Joseph",LJ0105,Federalist,1771
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.york.1808,Oxford,mes_oxford,23017,"Granger, Daniel",GD0030,NA,0
+meae.congressional.congress11.ma.county,congressional,11,MA,county,state,ma.uscongress.york.1808,York,mes_york,23031,"Granger, Daniel",GD0030,NA,2

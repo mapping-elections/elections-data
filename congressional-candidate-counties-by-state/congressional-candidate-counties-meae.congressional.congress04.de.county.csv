@@ -1,0 +1,7 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress04.de.county,congressional,4,DE,county,state,de.uscongress.1794,Kent,des_kent,10001,"Patton, John",PJ0032,Democratic-Republican,857
+meae.congressional.congress04.de.county,congressional,4,DE,county,state,de.uscongress.1794,New Castle,des_newcastle,10003,"Patton, John",PJ0032,Democratic-Republican,656
+meae.congressional.congress04.de.county,congressional,4,DE,county,state,de.uscongress.1794,Sussex,des_sussex,10005,"Patton, John",PJ0032,Democratic-Republican,896
+meae.congressional.congress04.de.county,congressional,4,DE,county,state,de.uscongress.1794,Kent,des_kent,10001,"Lattimer, Henry",LH0001,Federalist,593
+meae.congressional.congress04.de.county,congressional,4,DE,county,state,de.uscongress.1794,New Castle,des_newcastle,10003,"Lattimer, Henry",LH0001,Federalist,709
+meae.congressional.congress04.de.county,congressional,4,DE,county,state,de.uscongress.1794,Sussex,des_sussex,10005,"Lattimer, Henry",LH0001,Federalist,983

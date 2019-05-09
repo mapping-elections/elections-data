@@ -1,0 +1,38 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress1.1794,Calvert,mds_calvert,24009,"Dent, George",DG0004,Federalist,438
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress1.1794,Charles,mds_charles,24017,"Dent, George",DG0004,Federalist,1114
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress1.1794,Saint Mary's,mds_stmarys,24037,"Dent, George",DG0004,Federalist,48
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress1.1794,Calvert,mds_calvert,24009,"Key, Philip Barton",KP0001,Federalist,140
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress1.1794,Charles,mds_charles,24017,"Key, Philip Barton",KP0001,Federalist,151
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress1.1794,Saint Mary's,mds_stmarys,24037,"Key, Philip Barton",KP0001,Federalist,477
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress2.1794,Anne Arundel,mds_annearundel,24003,"Duvall, Gabriel",DG0008,Democratic-Republican,1088
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress2.1794,Prince George's,mds_princegeorges,24033,"Duvall, Gabriel",DG0008,Democratic-Republican,146
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress2.1794,Anne Arundel,mds_annearundel,24003,"Contee, Richard A.",CR0017,Federalist,53
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress2.1794,Prince George's,mds_princegeorges,24033,"Contee, Richard A.",CR0017,Federalist,489
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress3.1794,Frederick,mds_frederick,24021,"Crabb, Jeremiah",CJ0201,Federalist,86
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress3.1794,Montgomery,mds_montgomery,24031,"Crabb, Jeremiah",CJ0201,Federalist,1102
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress4.1794,Allegany,mds_allegany,24001,"Nelson, Roger",NR0020,Federalist,163
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress4.1794,Frederick,mds_frederick,24021,"Nelson, Roger",NR0020,Federalist,873
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress4.1794,Washington,mds_washington,24043,"Nelson, Roger",NR0020,Federalist,30
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress4.1794,Allegany,mds_allegany,24001,"Sprigg, Thomas",ST0060,Federalist,516
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress4.1794,Frederick,mds_frederick,24021,"Sprigg, Thomas",ST0060,Federalist,1
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress4.1794,Washington,mds_washington,24043,"Sprigg, Thomas",ST0060,Federalist,1181
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress5.1794,Baltimore,mds_baltimore,24005,"Smith, Samuel",SS0062,Democratic-Republican,43
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress6.1794,Cecil,mds_cecil,24015,"Christie, Gabriel",CG0044,Democratic-Republican,831
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress6.1794,Harford,mds_harford,24025,"Christie, Gabriel",CG0044,Democratic-Republican,1043
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress6.1794,Kent,mds_kent,24029,"Christie, Gabriel",CG0044,Democratic-Republican,408
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress6.1794,Cecil,mds_cecil,24015,"Wright, Robert",WR0038,Federalist,458
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress6.1794,Harford,mds_harford,24025,"Wright, Robert",WR0038,Federalist,213
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress6.1794,Kent,mds_kent,24029,"Wright, Robert",WR0038,Federalist,287
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress7.1794,Caroline,mds_caroline,24011,"Jackson, George",JG0015,Democratic-Republican,126
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress7.1794,Queen Anne's,mds_queenannes,24035,"Jackson, George",JG0015,Democratic-Republican,440
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress7.1794,Talbot,mds_talbot,24041,"Jackson, George",JG0015,Democratic-Republican,20
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress7.1794,Caroline,mds_caroline,24011,"Whitely, William",WW0072,Democratic-Republican,204
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress7.1794,Queen Anne's,mds_queenannes,24035,"Whitely, William",WW0072,Democratic-Republican,0
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress7.1794,Talbot,mds_talbot,24041,"Whitely, William",WW0072,Democratic-Republican,0
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress7.1794,Caroline,mds_caroline,24011,"Hindman, William",HW0097,Federalist,200
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress7.1794,Queen Anne's,mds_queenannes,24035,"Hindman, William",HW0097,Federalist,564
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress7.1794,Talbot,mds_talbot,24041,"Hindman, William",HW0097,Federalist,631
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress8.1794,Dorchester,mds_dorchester,24019,"Murray, William Vans",MW0069,Federalist,1176
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress8.1794,Somerset,mds_somerset,24039,"Murray, William Vans",MW0069,Federalist,468
+meae.congressional.congress04.md.county,congressional,4,MD,county,state,md.uscongress8.1794,Worcester,mds_worcester,24047,"Murray, William Vans",MW0069,Federalist,699

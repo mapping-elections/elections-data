@@ -1,0 +1,373 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress1.1820,Bennington,vts_bennington,50003,"Mallory, Rollin C.",MR0206,Democratic-Republican,122
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress1.1820,Rutland,vts_rutland,50021,"Mallory, Rollin C.",MR0206,Democratic-Republican,1863
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress1.1820,Bennington,vts_bennington,50003,"Merrill, Orasmus C.",MO0010,Democratic-Republican,1070
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress1.1820,Rutland,vts_rutland,50021,"Merrill, Orasmus C.",MO0010,Democratic-Republican,122
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress1.1820,Bennington,vts_bennington,50003,"Langdon, Chauncey",LC0074,Federalist,242
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress1.1820,Rutland,vts_rutland,50021,"Langdon, Chauncey",LC0074,Federalist,266
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress1.1820,Bennington,vts_bennington,50003,"Robinson, Moses, Junior",RM0013,Federalist,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress1.1820,Rutland,vts_rutland,50021,"Robinson, Moses, Junior",RM0013,Federalist,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress1.1820,Bennington,vts_bennington,50003,"Williams, Charles K.",WC0090,Federalist,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress1.1820,Rutland,vts_rutland,50021,"Williams, Charles K.",WC0090,Federalist,7
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress1.1820,Bennington,vts_bennington,50003,"Fillemore, Elijah",FE0067,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress1.1820,Rutland,vts_rutland,50021,"Fillemore, Elijah",FE0067,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress1.1820,Bennington,vts_bennington,50003,"Henry, William",HW0200,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress1.1820,Rutland,vts_rutland,50021,"Henry, William",HW0200,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress1.1820,Bennington,vts_bennington,50003,NA,Other candidates,NA,24
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress1.1820,Rutland,vts_rutland,50021,NA,Other candidates,NA,29
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress1.1820,Bennington,vts_bennington,50003,"Pierpoint, Robert",PR0116,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress1.1820,Rutland,vts_rutland,50021,"Pierpoint, Robert",PR0116,NA,4
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress1.1820,Bennington,vts_bennington,50003,"Robinson, David",RD0084,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress1.1820,Rutland,vts_rutland,50021,"Robinson, David",RD0084,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress1.1820,Bennington,vts_bennington,50003,"Stanton, Zadowick",SZ0006,NA,11
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress1.1820,Rutland,vts_rutland,50021,"Stanton, Zadowick",SZ0006,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress2.7.1821,Windham,vts_windham,50025,"Leland, Aaron",LA0135,Democratic-Republican,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress2.7.1821,Windsor,vts_windsor,50027,"Leland, Aaron",LA0135,Democratic-Republican,6
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress2.7.1821,Windham,vts_windham,50025,"Richards, Mark",RM0056,Democratic-Republican,627
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress2.7.1821,Windsor,vts_windsor,50027,"Richards, Mark",RM0056,Democratic-Republican,419
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress2.7.1821,Windham,vts_windham,50025,"Elliot, James",EJ0292,Federalist,70
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress2.7.1821,Windsor,vts_windsor,50027,"Elliot, James",EJ0292,Federalist,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress2.7.1821,Windham,vts_windham,50025,"Hall, William",HW0333,Federalist,39
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress2.7.1821,Windsor,vts_windsor,50027,"Hall, William",HW0333,Federalist,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress2.7.1821,Windham,vts_windham,50025,"White, Phineas",WP0105,Federalist,1014
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress2.7.1821,Windsor,vts_windsor,50027,"White, Phineas",WP0105,Federalist,220
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress2.7.1821,Windham,vts_windham,50025,"Elliot, Joseph",EJ0231,NA,2
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress2.7.1821,Windsor,vts_windsor,50027,"Elliot, Joseph",EJ0231,NA,4
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress2.7.1821,Windham,vts_windham,50025,"Elliot, Samuel",ES0058,NA,10
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress2.7.1821,Windsor,vts_windsor,50027,"Elliot, Samuel",ES0058,NA,2
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress2.7.1821,Windham,vts_windham,50025,"Field, Martin",FM0005,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress2.7.1821,Windsor,vts_windsor,50027,"Field, Martin",FM0005,NA,28
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress2.7.1821,Windham,vts_windham,50025,"Hunt, Jonathan",HJ0949,NA,6
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress2.7.1821,Windsor,vts_windsor,50027,"Hunt, Jonathan",HJ0949,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress2.7.1821,Windham,vts_windham,50025,"Kellogg, Daniel",KD0036,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress2.7.1821,Windsor,vts_windsor,50027,"Kellogg, Daniel",KD0036,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress2.7.1821,Windham,vts_windham,50025,"Mann, Charles",MC0100,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress2.7.1821,Windsor,vts_windsor,50027,"Mann, Charles",MC0100,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Addison,vts_addison,50001,"Meech, Ezra",ME0130,Democratic-Republican,112
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Chittenden,vts_chittenden,50007,"Meech, Ezra",ME0130,Democratic-Republican,205
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Rutland,vts_rutland,50021,"Meech, Ezra",ME0130,Democratic-Republican,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Washington,vts_washington,50023,"Meech, Ezra",ME0130,Democratic-Republican,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Addison,vts_addison,50001,"Rankin, Christopher",RC0058,Democratic-Republican,1365
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Chittenden,vts_chittenden,50007,"Rankin, Christopher",RC0058,Democratic-Republican,112
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Rutland,vts_rutland,50021,"Rankin, Christopher",RC0058,Democratic-Republican,653
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Washington,vts_washington,50023,"Rankin, Christopher",RC0058,Democratic-Republican,28
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Addison,vts_addison,50001,"Edmunds, David",ED0031,Federalist,1119
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Chittenden,vts_chittenden,50007,"Edmunds, David",ED0031,Federalist,198
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Rutland,vts_rutland,50021,"Edmunds, David",ED0031,Federalist,287
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Washington,vts_washington,50023,"Edmunds, David",ED0031,Federalist,158
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Addison,vts_addison,50001,"Bishop, Putnam",BP0139,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Chittenden,vts_chittenden,50007,"Bishop, Putnam",BP0139,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Rutland,vts_rutland,50021,"Bishop, Putnam",BP0139,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Washington,vts_washington,50023,"Bishop, Putnam",BP0139,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Addison,vts_addison,50001,"Bush, John",BJ1557,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Chittenden,vts_chittenden,50007,"Bush, John",BJ1557,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Rutland,vts_rutland,50021,"Bush, John",BJ1557,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Washington,vts_washington,50023,"Bush, John",BJ1557,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Addison,vts_addison,50001,"Chandler, Gardner",CG0109,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Chittenden,vts_chittenden,50007,"Chandler, Gardner",CG0109,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Rutland,vts_rutland,50021,"Chandler, Gardner",CG0109,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Washington,vts_washington,50023,"Chandler, Gardner",CG0109,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Addison,vts_addison,50001,"Davis, Stephen",DS0161,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Chittenden,vts_chittenden,50007,"Davis, Stephen",DS0161,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Rutland,vts_rutland,50021,"Davis, Stephen",DS0161,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Washington,vts_washington,50023,"Davis, Stephen",DS0161,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Addison,vts_addison,50001,"Hughes, Stephen",HS0318,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Chittenden,vts_chittenden,50007,"Hughes, Stephen",HS0318,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Rutland,vts_rutland,50021,"Hughes, Stephen",HS0318,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Washington,vts_washington,50023,"Hughes, Stephen",HS0318,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Addison,vts_addison,50001,"Meach, Clark",MC0110,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Chittenden,vts_chittenden,50007,"Meach, Clark",MC0110,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Rutland,vts_rutland,50021,"Meach, Clark",MC0110,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Washington,vts_washington,50023,"Meach, Clark",MC0110,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Addison,vts_addison,50001,NA,Other candidates,NA,12
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Rutland,vts_rutland,50021,NA,Other candidates,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Washington,vts_washington,50023,NA,Other candidates,NA,3
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Addison,vts_addison,50001,"Olin, Henry",OH0015,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Chittenden,vts_chittenden,50007,"Olin, Henry",OH0015,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Rutland,vts_rutland,50021,"Olin, Henry",OH0015,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Washington,vts_washington,50023,"Olin, Henry",OH0015,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Addison,vts_addison,50001,"Slade, William",SW0372,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Chittenden,vts_chittenden,50007,"Slade, William",SW0372,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Rutland,vts_rutland,50021,"Slade, William",SW0372,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Washington,vts_washington,50023,"Slade, William",SW0372,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Addison,vts_addison,50001,"Taft, Josiah",TJ0436,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Chittenden,vts_chittenden,50007,"Taft, Josiah",TJ0436,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Rutland,vts_rutland,50021,"Taft, Josiah",TJ0436,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress3.thirdballot.1821,Washington,vts_washington,50023,"Taft, Josiah",TJ0436,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Orange,vts_orange,50017,"Aiken, Asa",AA0065,Democratic-Republican,2
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Windsor,vts_windsor,50027,"Aiken, Asa",AA0065,Democratic-Republican,33
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Orange,vts_orange,50017,"Hatch, Uriel C.",HU0004,Democratic-Republican,233
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Windsor,vts_windsor,50027,"Hatch, Uriel C.",HU0004,Democratic-Republican,348
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Orange,vts_orange,50017,"Keyes, Elias",KE0050,Democratic-Republican,237
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Windsor,vts_windsor,50027,"Keyes, Elias",KE0050,Democratic-Republican,1628
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Orange,vts_orange,50017,"Leland, Aaron",LA0135,Democratic-Republican,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Windsor,vts_windsor,50027,"Leland, Aaron",LA0135,Democratic-Republican,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Orange,vts_orange,50017,"Strong, William",SW0343,Democratic-Republican,19
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Windsor,vts_windsor,50027,"Strong, William",SW0343,Democratic-Republican,195
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Orange,vts_orange,50017,"Everett, Horace",EH0029,Federalist,210
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Windsor,vts_windsor,50027,"Everett, Horace",EH0029,Federalist,705
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Orange,vts_orange,50017,"Baylis, Timothy",BT0156,NA,4
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Windsor,vts_windsor,50027,"Baylis, Timothy",BT0156,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Orange,vts_orange,50017,"Bridge, John",BJ1087,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Windsor,vts_windsor,50027,"Bridge, John",BJ1087,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Orange,vts_orange,50017,"Briggs, Elpheus D.",BE0129,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Windsor,vts_windsor,50027,"Briggs, Elpheus D.",BE0129,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Orange,vts_orange,50017,"Chaney, Luther",CL0042,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Windsor,vts_windsor,50027,"Chaney, Luther",CL0042,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Orange,vts_orange,50017,"Dewey, Rodolphus",DR0073,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Windsor,vts_windsor,50027,"Dewey, Rodolphus",DR0073,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Orange,vts_orange,50017,"Eaton, Zebina",EZ0000,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Windsor,vts_windsor,50027,"Eaton, Zebina",EZ0000,NA,2
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Orange,vts_orange,50017,"Egerton, Lebbeus",EL0010,NA,3
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Windsor,vts_windsor,50027,"Egerton, Lebbeus",EL0010,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Orange,vts_orange,50017,"Hunt, Asa",HA0230,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Windsor,vts_windsor,50027,"Hunt, Asa",HA0230,NA,2
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Orange,vts_orange,50017,"Hutchinson, Titus",HT0218,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Windsor,vts_windsor,50027,"Hutchinson, Titus",HT0218,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Orange,vts_orange,50017,"Jarvis, William",JW0062,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Windsor,vts_windsor,50027,"Jarvis, William",JW0062,NA,2
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Orange,vts_orange,50017,NA,Other candidates,NA,2
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Windsor,vts_windsor,50027,NA,Other candidates,NA,30
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Orange,vts_orange,50017,"Nutting, William",NW0048,NA,23
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Windsor,vts_windsor,50027,"Nutting, William",NW0048,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Orange,vts_orange,50017,"Weston, Abner",WA0202,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress4.1820,Windsor,vts_windsor,50027,"Weston, Abner",WA0202,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Chittenden,vts_chittenden,50007,"Buck, Daniel Azro A.",BD0173,Democratic-Republican,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Franklin,vts_franklin,50011,"Buck, Daniel Azro A.",BD0173,Democratic-Republican,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Grande Isle,vts_grandisle,50013,"Buck, Daniel Azro A.",BD0173,Democratic-Republican,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Orleans,vts_orleans,50019,"Buck, Daniel Azro A.",BD0173,Democratic-Republican,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Washington,vts_washington,50023,"Buck, Daniel Azro A.",BD0173,Democratic-Republican,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Chittenden,vts_chittenden,50007,"Butler, Ezra",BE0213,Democratic-Republican,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Franklin,vts_franklin,50011,"Butler, Ezra",BE0213,Democratic-Republican,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Grande Isle,vts_grandisle,50013,"Butler, Ezra",BE0213,Democratic-Republican,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Orleans,vts_orleans,50019,"Butler, Ezra",BE0213,Democratic-Republican,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Washington,vts_washington,50023,"Butler, Ezra",BE0213,Democratic-Republican,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Chittenden,vts_chittenden,50007,"Crafts, Samuel C.",CS0219,Democratic-Republican,476
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Franklin,vts_franklin,50011,"Crafts, Samuel C.",CS0219,Democratic-Republican,755
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Grande Isle,vts_grandisle,50013,"Crafts, Samuel C.",CS0219,Democratic-Republican,153
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Orleans,vts_orleans,50019,"Crafts, Samuel C.",CS0219,Democratic-Republican,667
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Washington,vts_washington,50023,"Crafts, Samuel C.",CS0219,Democratic-Republican,110
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Chittenden,vts_chittenden,50007,"Allen, Herman",AH0032,Federalist,422
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Franklin,vts_franklin,50011,"Allen, Herman",AH0032,Federalist,616
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Grande Isle,vts_grandisle,50013,"Allen, Herman",AH0032,Federalist,198
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Orleans,vts_orleans,50019,"Allen, Herman",AH0032,Federalist,123
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Washington,vts_washington,50023,"Allen, Herman",AH0032,Federalist,121
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Chittenden,vts_chittenden,50007,"Farrand, Daniel",FD0052,Federalist,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Franklin,vts_franklin,50011,"Farrand, Daniel",FD0052,Federalist,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Grande Isle,vts_grandisle,50013,"Farrand, Daniel",FD0052,Federalist,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Orleans,vts_orleans,50019,"Farrand, Daniel",FD0052,Federalist,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Washington,vts_washington,50023,"Farrand, Daniel",FD0052,Federalist,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Chittenden,vts_chittenden,50007,"Lyon, Asa",LA0126,Federalist,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Franklin,vts_franklin,50011,"Lyon, Asa",LA0126,Federalist,14
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Grande Isle,vts_grandisle,50013,"Lyon, Asa",LA0126,Federalist,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Orleans,vts_orleans,50019,"Lyon, Asa",LA0126,Federalist,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Washington,vts_washington,50023,"Lyon, Asa",LA0126,Federalist,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Chittenden,vts_chittenden,50007,"Allen, Irad",AI0021,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Franklin,vts_franklin,50011,"Allen, Irad",AI0021,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Grande Isle,vts_grandisle,50013,"Allen, Irad",AI0021,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Orleans,vts_orleans,50019,"Allen, Irad",AI0021,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Washington,vts_washington,50023,"Allen, Irad",AI0021,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Chittenden,vts_chittenden,50007,"Beman, Joseph",BJ1136,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Franklin,vts_franklin,50011,"Beman, Joseph",BJ1136,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Grande Isle,vts_grandisle,50013,"Beman, Joseph",BJ1136,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Orleans,vts_orleans,50019,"Beman, Joseph",BJ1136,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Washington,vts_washington,50023,"Beman, Joseph",BJ1136,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Chittenden,vts_chittenden,50007,"Brown, James",BJ1137,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Franklin,vts_franklin,50011,"Brown, James",BJ1137,NA,3
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Grande Isle,vts_grandisle,50013,"Brown, James",BJ1137,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Orleans,vts_orleans,50019,"Brown, James",BJ1137,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Washington,vts_washington,50023,"Brown, James",BJ1137,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Chittenden,vts_chittenden,50007,"Bugber, Calvin",BC0171,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Franklin,vts_franklin,50011,"Bugber, Calvin",BC0171,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Grande Isle,vts_grandisle,50013,"Bugber, Calvin",BC0171,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Orleans,vts_orleans,50019,"Bugber, Calvin",BC0171,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Washington,vts_washington,50023,"Bugber, Calvin",BC0171,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Chittenden,vts_chittenden,50007,"Dixon, Luther",DL0024,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Franklin,vts_franklin,50011,"Dixon, Luther",DL0024,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Grande Isle,vts_grandisle,50013,"Dixon, Luther",DL0024,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Orleans,vts_orleans,50019,"Dixon, Luther",DL0024,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Washington,vts_washington,50023,"Dixon, Luther",DL0024,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Chittenden,vts_chittenden,50007,"Dodge, Daniel",DD0046,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Franklin,vts_franklin,50011,"Dodge, Daniel",DD0046,NA,2
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Grande Isle,vts_grandisle,50013,"Dodge, Daniel",DD0046,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Orleans,vts_orleans,50019,"Dodge, Daniel",DD0046,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Washington,vts_washington,50023,"Dodge, Daniel",DD0046,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Chittenden,vts_chittenden,50007,"Farnsworth, Joseph D.",FJ0363,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Franklin,vts_franklin,50011,"Farnsworth, Joseph D.",FJ0363,NA,3
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Grande Isle,vts_grandisle,50013,"Farnsworth, Joseph D.",FJ0363,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Orleans,vts_orleans,50019,"Farnsworth, Joseph D.",FJ0363,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Washington,vts_washington,50023,"Farnsworth, Joseph D.",FJ0363,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Chittenden,vts_chittenden,50007,"Flanders, Abner",FA0101,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Franklin,vts_franklin,50011,"Flanders, Abner",FA0101,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Grande Isle,vts_grandisle,50013,"Flanders, Abner",FA0101,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Orleans,vts_orleans,50019,"Flanders, Abner",FA0101,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Washington,vts_washington,50023,"Flanders, Abner",FA0101,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Chittenden,vts_chittenden,50007,"Griswold, William A.",GW0183,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Franklin,vts_franklin,50011,"Griswold, William A.",GW0183,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Grande Isle,vts_grandisle,50013,"Griswold, William A.",GW0183,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Orleans,vts_orleans,50019,"Griswold, William A.",GW0183,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Washington,vts_washington,50023,"Griswold, William A.",GW0183,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Chittenden,vts_chittenden,50007,"Harvey, Samuel H.",HS0272,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Franklin,vts_franklin,50011,"Harvey, Samuel H.",HS0272,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Grande Isle,vts_grandisle,50013,"Harvey, Samuel H.",HS0272,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Orleans,vts_orleans,50019,"Harvey, Samuel H.",HS0272,NA,3
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Washington,vts_washington,50023,"Harvey, Samuel H.",HS0272,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Chittenden,vts_chittenden,50007,"Hathaway, Silas",HS0237,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Franklin,vts_franklin,50011,"Hathaway, Silas",HS0237,NA,2
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Grande Isle,vts_grandisle,50013,"Hathaway, Silas",HS0237,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Orleans,vts_orleans,50019,"Hathaway, Silas",HS0237,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Washington,vts_washington,50023,"Hathaway, Silas",HS0237,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Chittenden,vts_chittenden,50007,"Heiman, Benjamin",HB0112,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Franklin,vts_franklin,50011,"Heiman, Benjamin",HB0112,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Grande Isle,vts_grandisle,50013,"Heiman, Benjamin",HB0112,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Orleans,vts_orleans,50019,"Heiman, Benjamin",HB0112,NA,2
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Washington,vts_washington,50023,"Heiman, Benjamin",HB0112,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Chittenden,vts_chittenden,50007,"Hozen, Uriah",HU0006,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Franklin,vts_franklin,50011,"Hozen, Uriah",HU0006,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Grande Isle,vts_grandisle,50013,"Hozen, Uriah",HU0006,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Orleans,vts_orleans,50019,"Hozen, Uriah",HU0006,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Washington,vts_washington,50023,"Hozen, Uriah",HU0006,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Chittenden,vts_chittenden,50007,"Jackson, Jarib",JJ0213,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Franklin,vts_franklin,50011,"Jackson, Jarib",JJ0213,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Grande Isle,vts_grandisle,50013,"Jackson, Jarib",JJ0213,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Orleans,vts_orleans,50019,"Jackson, Jarib",JJ0213,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Washington,vts_washington,50023,"Jackson, Jarib",JJ0213,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Chittenden,vts_chittenden,50007,"Royce, Stephen, Jr.",RS0121,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Franklin,vts_franklin,50011,"Royce, Stephen, Jr.",RS0121,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Grande Isle,vts_grandisle,50013,"Royce, Stephen, Jr.",RS0121,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Orleans,vts_orleans,50019,"Royce, Stephen, Jr.",RS0121,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Washington,vts_washington,50023,"Royce, Stephen, Jr.",RS0121,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Chittenden,vts_chittenden,50007,"Swift, Benjamin",SB0127,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Franklin,vts_franklin,50011,"Swift, Benjamin",SB0127,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Grande Isle,vts_grandisle,50013,"Swift, Benjamin",SB0127,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Orleans,vts_orleans,50019,"Swift, Benjamin",SB0127,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Washington,vts_washington,50023,"Swift, Benjamin",SB0127,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Chittenden,vts_chittenden,50007,"Wares, John",WJ0813,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Franklin,vts_franklin,50011,"Wares, John",WJ0813,NA,2
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Grande Isle,vts_grandisle,50013,"Wares, John",WJ0813,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Orleans,vts_orleans,50019,"Wares, John",WJ0813,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress5.1820,Washington,vts_washington,50023,"Wares, John",WJ0813,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Caledonia,vts_caledonia,50005,"Buck, Daniel Azro A.",BD0173,Democratic-Republican,583
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Essex,vts_essex,50009,"Buck, Daniel Azro A.",BD0173,Democratic-Republican,141
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Orange,vts_orange,50017,"Buck, Daniel Azro A.",BD0173,Democratic-Republican,666
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Washington,vts_washington,50023,"Buck, Daniel Azro A.",BD0173,Democratic-Republican,354
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Caledonia,vts_caledonia,50005,"Cahoon, William",CW0373,Democratic-Republican,76
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Essex,vts_essex,50009,"Cahoon, William",CW0373,Democratic-Republican,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Orange,vts_orange,50017,"Cahoon, William",CW0373,Democratic-Republican,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Washington,vts_washington,50023,"Cahoon, William",CW0373,Democratic-Republican,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Caledonia,vts_caledonia,50005,"Griswold, William A.",GW0183,Democratic-Republican,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Essex,vts_essex,50009,"Griswold, William A.",GW0183,Democratic-Republican,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Orange,vts_orange,50017,"Griswold, William A.",GW0183,Democratic-Republican,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Washington,vts_washington,50023,"Griswold, William A.",GW0183,Democratic-Republican,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Caledonia,vts_caledonia,50005,"Merrill, Orasmus C.",MO0010,Democratic-Republican,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Essex,vts_essex,50009,"Merrill, Orasmus C.",MO0010,Democratic-Republican,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Orange,vts_orange,50017,"Merrill, Orasmus C.",MO0010,Democratic-Republican,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Washington,vts_washington,50023,"Merrill, Orasmus C.",MO0010,Democratic-Republican,2
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Caledonia,vts_caledonia,50005,"Peaslee, Daniel",PD0105,Democratic-Republican,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Essex,vts_essex,50009,"Peaslee, Daniel",PD0105,Democratic-Republican,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Orange,vts_orange,50017,"Peaslee, Daniel",PD0105,Democratic-Republican,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Washington,vts_washington,50023,"Peaslee, Daniel",PD0105,Democratic-Republican,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Caledonia,vts_caledonia,50005,"Chandler, John W.",CJ0762,Federalist,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Essex,vts_essex,50009,"Chandler, John W.",CJ0762,Federalist,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Orange,vts_orange,50017,"Chandler, John W.",CJ0762,Federalist,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Washington,vts_washington,50023,"Chandler, John W.",CJ0762,Federalist,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Caledonia,vts_caledonia,50005,"Mattocks, John",MJ1397,Federalist,1191
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Essex,vts_essex,50009,"Mattocks, John",MJ1397,Federalist,204
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Orange,vts_orange,50017,"Mattocks, John",MJ1397,Federalist,414
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Washington,vts_washington,50023,"Mattocks, John",MJ1397,Federalist,461
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Caledonia,vts_caledonia,50005,"Prentiss, Samuel",PS0139,Federalist,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Essex,vts_essex,50009,"Prentiss, Samuel",PS0139,Federalist,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Orange,vts_orange,50017,"Prentiss, Samuel",PS0139,Federalist,12
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Washington,vts_washington,50023,"Prentiss, Samuel",PS0139,Federalist,3
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Caledonia,vts_caledonia,50005,"Brown, Stuart",BS0200,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Essex,vts_essex,50009,"Brown, Stuart",BS0200,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Orange,vts_orange,50017,"Brown, Stuart",BS0200,NA,2
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Washington,vts_washington,50023,"Brown, Stuart",BS0200,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Caledonia,vts_caledonia,50005,"Bunnam, Enoch",BE0128,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Essex,vts_essex,50009,"Bunnam, Enoch",BE0128,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Orange,vts_orange,50017,"Bunnam, Enoch",BE0128,NA,2
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Washington,vts_washington,50023,"Bunnam, Enoch",BE0128,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Caledonia,vts_caledonia,50005,"Cook, Daniel",CD0140,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Essex,vts_essex,50009,"Cook, Daniel",CD0140,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Orange,vts_orange,50017,"Cook, Daniel",CD0140,NA,5
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Washington,vts_washington,50023,"Cook, Daniel",CD0140,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Caledonia,vts_caledonia,50005,"Dana, Israel P.",DI0026,NA,3
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Essex,vts_essex,50009,"Dana, Israel P.",DI0026,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Orange,vts_orange,50017,"Dana, Israel P.",DI0026,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Washington,vts_washington,50023,"Dana, Israel P.",DI0026,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Caledonia,vts_caledonia,50005,"Dana, Josiah",DJ0452,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Essex,vts_essex,50009,"Dana, Josiah",DJ0452,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Orange,vts_orange,50017,"Dana, Josiah",DJ0452,NA,7
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Washington,vts_washington,50023,"Dana, Josiah",DJ0452,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Caledonia,vts_caledonia,50005,"Fisk, Jona",FJ0374,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Essex,vts_essex,50009,"Fisk, Jona",FJ0374,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Orange,vts_orange,50017,"Fisk, Jona",FJ0374,NA,3
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Washington,vts_washington,50023,"Fisk, Jona",FJ0374,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Caledonia,vts_caledonia,50005,"Hines, Nathan",HN0079,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Essex,vts_essex,50009,"Hines, Nathan",HN0079,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Orange,vts_orange,50017,"Hines, Nathan",HN0079,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Washington,vts_washington,50023,"Hines, Nathan",HN0079,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Caledonia,vts_caledonia,50005,"Ingalls, Joseph A.",IJ0047,NA,2
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Essex,vts_essex,50009,"Ingalls, Joseph A.",IJ0047,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Orange,vts_orange,50017,"Ingalls, Joseph A.",IJ0047,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Washington,vts_washington,50023,"Ingalls, Joseph A.",IJ0047,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Caledonia,vts_caledonia,50005,"Kellogg, Martin",KM0019,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Essex,vts_essex,50009,"Kellogg, Martin",KM0019,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Orange,vts_orange,50017,"Kellogg, Martin",KM0019,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Washington,vts_washington,50023,"Kellogg, Martin",KM0019,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Caledonia,vts_caledonia,50005,"Kelton, Naum",KN0019,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Essex,vts_essex,50009,"Kelton, Naum",KN0019,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Orange,vts_orange,50017,"Kelton, Naum",KN0019,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Washington,vts_washington,50023,"Kelton, Naum",KN0019,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Caledonia,vts_caledonia,50005,"Merrill, Timothy",MT0129,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Essex,vts_essex,50009,"Merrill, Timothy",MT0129,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Orange,vts_orange,50017,"Merrill, Timothy",MT0129,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Washington,vts_washington,50023,"Merrill, Timothy",MT0129,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Caledonia,vts_caledonia,50005,"Miles, Abner",MA0221,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Essex,vts_essex,50009,"Miles, Abner",MA0221,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Orange,vts_orange,50017,"Miles, Abner",MA0221,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Washington,vts_washington,50023,"Miles, Abner",MA0221,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Caledonia,vts_caledonia,50005,"Monroe, Joseph",MJ0882,NA,2
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Essex,vts_essex,50009,"Monroe, Joseph",MJ0882,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Orange,vts_orange,50017,"Monroe, Joseph",MJ0882,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Washington,vts_washington,50023,"Monroe, Joseph",MJ0882,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Caledonia,vts_caledonia,50005,"Morrill, Joseph, Jr.",MJ0883,NA,3
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Essex,vts_essex,50009,"Morrill, Joseph, Jr.",MJ0883,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Orange,vts_orange,50017,"Morrill, Joseph, Jr.",MJ0883,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Washington,vts_washington,50023,"Morrill, Joseph, Jr.",MJ0883,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Caledonia,vts_caledonia,50005,NA,Other candidates,NA,9
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Essex,vts_essex,50009,NA,Other candidates,NA,7
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Orange,vts_orange,50017,NA,Other candidates,NA,2
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Washington,vts_washington,50023,NA,Other candidates,NA,10
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Caledonia,vts_caledonia,50005,"Rankin, John",RJ0496,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Essex,vts_essex,50009,"Rankin, John",RJ0496,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Orange,vts_orange,50017,"Rankin, John",RJ0496,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Washington,vts_washington,50023,"Rankin, John",RJ0496,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Caledonia,vts_caledonia,50005,"Rodgers, Levi",RL0032,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Essex,vts_essex,50009,"Rodgers, Levi",RL0032,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Orange,vts_orange,50017,"Rodgers, Levi",RL0032,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Washington,vts_washington,50023,"Rodgers, Levi",RL0032,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Caledonia,vts_caledonia,50005,"Sias, Jeremiah",SJ1161,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Essex,vts_essex,50009,"Sias, Jeremiah",SJ1161,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Orange,vts_orange,50017,"Sias, Jeremiah",SJ1161,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Washington,vts_washington,50023,"Sias, Jeremiah",SJ1161,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Caledonia,vts_caledonia,50005,"Spalding, Silas",SS0261,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Essex,vts_essex,50009,"Spalding, Silas",SS0261,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Orange,vts_orange,50017,"Spalding, Silas",SS0261,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Washington,vts_washington,50023,"Spalding, Silas",SS0261,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Caledonia,vts_caledonia,50005,"Strong, Josiah B.",SJ1160,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Essex,vts_essex,50009,"Strong, Josiah B.",SJ1160,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Orange,vts_orange,50017,"Strong, Josiah B.",SJ1160,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Washington,vts_washington,50023,"Strong, Josiah B.",SJ1160,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Caledonia,vts_caledonia,50005,"West, Pres",WP0061,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Essex,vts_essex,50009,"West, Pres",WP0061,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Orange,vts_orange,50017,"West, Pres",WP0061,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Washington,vts_washington,50023,"West, Pres",WP0061,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Caledonia,vts_caledonia,50005,"Wheelock, G.",WG0112,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Essex,vts_essex,50009,"Wheelock, G.",WG0112,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Orange,vts_orange,50017,"Wheelock, G.",WG0112,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Washington,vts_washington,50023,"Wheelock, G.",WG0112,NA,1
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Caledonia,vts_caledonia,50005,"Whippler, Joseph",WJ0812,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Essex,vts_essex,50009,"Whippler, Joseph",WJ0812,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Orange,vts_orange,50017,"Whippler, Joseph",WJ0812,NA,0
+meae.congressional.congress17.vt.county,congressional,17,VT,county,state,vt.uscongress6.1820,Washington,vts_washington,50023,"Whippler, Joseph",WJ0812,NA,1

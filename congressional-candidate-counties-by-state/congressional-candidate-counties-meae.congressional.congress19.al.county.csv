@@ -1,0 +1,36 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.1.1825,Jackson,als_jackson,1071,"Clay, Clement C.",CC0000,NA,196
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.1.1825,Lauderdale,als_lauderdale,1077,"Clay, Clement C.",CC0000,NA,412
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.1.1825,Lawrence,als_lawrence,1079,"Clay, Clement C.",CC0000,NA,0
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.1.1825,Limestone,als_limestone,1083,"Clay, Clement C.",CC0000,NA,622
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.1.1825,Madison,als_madison,1089,"Clay, Clement C.",CC0000,NA,840
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.1.1825,Jackson,als_jackson,1071,"Moore, Gabriel",MG0000,Jacksonian,1321
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.1.1825,Lauderdale,als_lauderdale,1077,"Moore, Gabriel",MG0000,Jacksonian,979
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.1.1825,Lawrence,als_lawrence,1079,"Moore, Gabriel",MG0000,Jacksonian,0
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.1.1825,Limestone,als_limestone,1083,"Moore, Gabriel",MG0000,Jacksonian,981
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.1.1825,Madison,als_madison,1089,"Moore, Gabriel",MG0000,Jacksonian,1817
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.2.1825,Franklin,als_franklin,1059,"Baylor, Robert E. B.",BR0001,NA,725
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.2.1825,Jefferson,als_jefferson,1073,"Baylor, Robert E. B.",BR0001,NA,471
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.2.1825,Morgan,als_morgan,1103,"Baylor, Robert E. B.",BR0001,NA,488
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.2.1825,Franklin,als_franklin,1059,"MacKee, John",MJ0013,Jacksonian,243
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.2.1825,Jefferson,als_jefferson,1073,"MacKee, John",MJ0013,Jacksonian,287
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.2.1825,Morgan,als_morgan,1103,"MacKee, John",MJ0013,Jacksonian,412
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.2.1825,Franklin,als_franklin,1059,"Terrill, John D.",TJ0003,NA,58
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.2.1825,Jefferson,als_jefferson,1073,"Terrill, John D.",TJ0003,NA,145
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.2.1825,Morgan,als_morgan,1103,"Terrill, John D.",TJ0003,NA,139
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.3.1825,Autauga,als_autauga,1001,"Owen, George W.",OG0000,Jacksonian,0
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.3.1825,Baldwin,als_baldwin,1003,"Owen, George W.",OG0000,Jacksonian,0
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.3.1825,Blount,als_blount,1009,"Owen, George W.",OG0000,Jacksonian,178
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.3.1825,Butler,als_butler,1013,"Owen, George W.",OG0000,Jacksonian,178
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.3.1825,Clarke,als_clarke,1025,"Owen, George W.",OG0000,Jacksonian,0
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.3.1825,Conecuh,als_conecuh,1035,"Owen, George W.",OG0000,Jacksonian,0
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.3.1825,Covington,als_covington,1039,"Owen, George W.",OG0000,Jacksonian,365
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.3.1825,Dale,als_dale,1045,"Owen, George W.",OG0000,Jacksonian,0
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.3.1825,Dallas,als_dallas,1047,"Owen, George W.",OG0000,Jacksonian,0
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.3.1825,Henry,als_henry,1067,"Owen, George W.",OG0000,Jacksonian,365
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.3.1825,Mobile,als_mobile,1097,"Owen, George W.",OG0000,Jacksonian,0
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.3.1825,Monroe,als_monroe,1099,"Owen, George W.",OG0000,Jacksonian,0
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.3.1825,Montgomery,als_montgomery,1101,"Owen, George W.",OG0000,Jacksonian,0
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.3.1825,Pike,als_pike,1109,"Owen, George W.",OG0000,Jacksonian,0
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.3.1825,Washington,als_washington,1129,"Owen, George W.",OG0000,Jacksonian,215
+meae.congressional.congress19.al.county,congressional,19,AL,county,state,al.uscongress.3.1825,Wilcox,als_wilcox,1131,"Owen, George W.",OG0000,Jacksonian,0

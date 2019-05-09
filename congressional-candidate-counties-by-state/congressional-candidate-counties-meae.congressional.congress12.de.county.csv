@@ -1,0 +1,7 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress12.de.county,congressional,12,DE,county,state,de.uscongress.1810,Kent,des_kent,10001,"Dale, Richard C.",DR0001,Democratic-Republican,1023
+meae.congressional.congress12.de.county,congressional,12,DE,county,state,de.uscongress.1810,New Castle,des_newcastle,10003,"Dale, Richard C.",DR0001,Democratic-Republican,1586
+meae.congressional.congress12.de.county,congressional,12,DE,county,state,de.uscongress.1810,Sussex,des_sussex,10005,"Dale, Richard C.",DR0001,Democratic-Republican,1008
+meae.congressional.congress12.de.county,congressional,12,DE,county,state,de.uscongress.1810,Kent,des_kent,10001,"Ridgely, Henry M.",RH0001,Federalist,1249
+meae.congressional.congress12.de.county,congressional,12,DE,county,state,de.uscongress.1810,New Castle,des_newcastle,10003,"Ridgely, Henry M.",RH0001,Federalist,722
+meae.congressional.congress12.de.county,congressional,12,DE,county,state,de.uscongress.1810,Sussex,des_sussex,10005,"Ridgely, Henry M.",RH0001,Federalist,1663

@@ -1,0 +1,32 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress02.ga.county,congressional,2,GA,county,state,ga.uscongress.MiddleDistrict.1791,Burke,gas_burke,13033,"Baldwin, Abraham",BA0026,Anti-Federalist,137
+meae.congressional.congress02.ga.county,congressional,2,GA,county,state,ga.uscongress.MiddleDistrict.1791,Columbia,gas_columbia,13073,"Baldwin, Abraham",BA0026,Anti-Federalist,121
+meae.congressional.congress02.ga.county,congressional,2,GA,county,state,ga.uscongress.MiddleDistrict.1791,Richmond,gas_richmond,13245,"Baldwin, Abraham",BA0026,Anti-Federalist,24
+meae.congressional.congress02.ga.county,congressional,2,GA,county,state,ga.uscongress.MiddleDistrict.1791,Washington,gas_washington,13303,"Baldwin, Abraham",BA0026,Anti-Federalist,48
+meae.congressional.congress02.ga.county,congressional,2,GA,county,state,ga.uscongress.MiddleDistrict.1791,Burke,gas_burke,13033,"Carnes, Thomas P.",CT0042,Federalist,46
+meae.congressional.congress02.ga.county,congressional,2,GA,county,state,ga.uscongress.MiddleDistrict.1791,Columbia,gas_columbia,13073,"Carnes, Thomas P.",CT0042,Federalist,17
+meae.congressional.congress02.ga.county,congressional,2,GA,county,state,ga.uscongress.MiddleDistrict.1791,Richmond,gas_richmond,13245,"Carnes, Thomas P.",CT0042,Federalist,74
+meae.congressional.congress02.ga.county,congressional,2,GA,county,state,ga.uscongress.MiddleDistrict.1791,Washington,gas_washington,13303,"Carnes, Thomas P.",CT0042,Federalist,111
+meae.congressional.congress02.ga.county,congressional,2,GA,county,state,ga.uscongress.MiddleDistrict.1791,Burke,gas_burke,13033,"Jackson, James",JJ0004,NA,7
+meae.congressional.congress02.ga.county,congressional,2,GA,county,state,ga.uscongress.MiddleDistrict.1791,Columbia,gas_columbia,13073,"Jackson, James",JJ0004,NA,0
+meae.congressional.congress02.ga.county,congressional,2,GA,county,state,ga.uscongress.MiddleDistrict.1791,Richmond,gas_richmond,13245,"Jackson, James",JJ0004,NA,0
+meae.congressional.congress02.ga.county,congressional,2,GA,county,state,ga.uscongress.MiddleDistrict.1791,Washington,gas_washington,13303,"Jackson, James",JJ0004,NA,0
+meae.congressional.congress02.ga.county,congressional,2,GA,county,state,ga.uscongress.MiddleDistrict.1791,Burke,gas_burke,13033,"Jones, John",JJ0009,NA,2
+meae.congressional.congress02.ga.county,congressional,2,GA,county,state,ga.uscongress.MiddleDistrict.1791,Columbia,gas_columbia,13073,"Jones, John",JJ0009,NA,0
+meae.congressional.congress02.ga.county,congressional,2,GA,county,state,ga.uscongress.MiddleDistrict.1791,Richmond,gas_richmond,13245,"Jones, John",JJ0009,NA,0
+meae.congressional.congress02.ga.county,congressional,2,GA,county,state,ga.uscongress.MiddleDistrict.1791,Washington,gas_washington,13303,"Jones, John",JJ0009,NA,0
+meae.congressional.congress02.ga.county,congressional,2,GA,county,state,ga.uscongress.NorthernDistrict.1791,Greene,gas_greene,13133,"Willis, Francis",WF0022,Anti-Federalist,161
+meae.congressional.congress02.ga.county,congressional,2,GA,county,state,ga.uscongress.NorthernDistrict.1791,Wilkes,gas_wilkes,13317,"Willis, Francis",WF0022,Anti-Federalist,388
+meae.congressional.congress02.ga.county,congressional,2,GA,county,state,ga.uscongress.NorthernDistrict.1791,Greene,gas_greene,13133,"Mathews, George",MG0009,Federalist,70
+meae.congressional.congress02.ga.county,congressional,2,GA,county,state,ga.uscongress.NorthernDistrict.1791,Wilkes,gas_wilkes,13317,"Mathews, George",MG0009,Federalist,206
+meae.congressional.congress02.ga.county,congressional,2,GA,county,state,ga.uscongress.SouthernDistrict.1791,Camden,gas_camden,13039,"Jackson, James",JJ0004,Anti-Federalist,10
+meae.congressional.congress02.ga.county,congressional,2,GA,county,state,ga.uscongress.SouthernDistrict.1791,Chatham,gas_chatham,13051,"Jackson, James",JJ0004,Anti-Federalist,149
+meae.congressional.congress02.ga.county,congressional,2,GA,county,state,ga.uscongress.SouthernDistrict.1791,Effingham,gas_effingham,13103,"Jackson, James",JJ0004,Anti-Federalist,17
+meae.congressional.congress02.ga.county,congressional,2,GA,county,state,ga.uscongress.SouthernDistrict.1791,Glynn,gas_glynn,13127,"Jackson, James",JJ0004,Anti-Federalist,35
+meae.congressional.congress02.ga.county,congressional,2,GA,county,state,ga.uscongress.SouthernDistrict.1791,Liberty,gas_liberty,13179,"Jackson, James",JJ0004,Anti-Federalist,62
+meae.congressional.congress02.ga.county,congressional,2,GA,county,state,ga.uscongress.SouthernDistrict.1791,Camden,gas_camden,13039,"Wayne, Anthony",WA0009,Federalist,79
+meae.congressional.congress02.ga.county,congressional,2,GA,county,state,ga.uscongress.SouthernDistrict.1791,Chatham,gas_chatham,13051,"Wayne, Anthony",WA0009,Federalist,90
+meae.congressional.congress02.ga.county,congressional,2,GA,county,state,ga.uscongress.SouthernDistrict.1791,Effingham,gas_effingham,13103,"Wayne, Anthony",WA0009,Federalist,90
+meae.congressional.congress02.ga.county,congressional,2,GA,county,state,ga.uscongress.SouthernDistrict.1791,Glynn,gas_glynn,13127,"Wayne, Anthony",WA0009,Federalist,12
+meae.congressional.congress02.ga.county,congressional,2,GA,county,state,ga.uscongress.SouthernDistrict.1791,Liberty,gas_liberty,13179,"Wayne, Anthony",WA0009,Federalist,7
+meae.congressional.congress02.ga.county,congressional,2,GA,county,state,ga.uscongress.SouthernDistrict.1791,Chatham,gas_chatham,13051,NA,Other candidates,NA,1

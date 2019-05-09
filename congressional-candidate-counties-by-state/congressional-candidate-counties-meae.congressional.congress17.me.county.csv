@@ -1,0 +1,89 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress1.1820,York,mes_york,23031,"Rice, Alexander",RA0016,Democratic-Republican,700
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress1.1820,York,mes_york,23031,"Dane, Joseph",DJ0174,Federalist,955
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress1.1820,York,mes_york,23031,"Lyman, Isaac",LI0011,NA,109
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress1.1820,York,mes_york,23031,"Moody, William",MW0011,NA,44
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress1.1820,York,mes_york,23031,NA,Other candidates,NA,15
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress2.1820,Cumberland,mes_cumberland,23005,"Irish, James",IJ0004,Democratic-Republican,313
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress2.1820,Cumberland,mes_cumberland,23005,"Whitman, Ezekiel",WE0022,Federalist,941
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress2.1820,Cumberland,mes_cumberland,23005,"Harris, Mark",HM0038,NA,12
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress2.1820,Cumberland,mes_cumberland,23005,NA,NA,NA,1
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress2.1820,Cumberland,mes_cumberland,23005,"Tucker, James B.",TJ0371,NA,1
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress2.1820,Cumberland,mes_cumberland,23005,"Ware, Ashur",WA0010,NA,1
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Hancock,mes_hancock,23009,"Hill, Mark L.",HM0035,Democratic-Republican,118
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Lincoln,mes_lincoln,23015,"Hill, Mark L.",HM0035,Democratic-Republican,800
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Hancock,mes_hancock,23009,"Wingate, Joshua, Jr.",WJ0015,Democratic-Republican,124
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Lincoln,mes_lincoln,23015,"Wingate, Joshua, Jr.",WJ0015,Democratic-Republican,598
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Hancock,mes_hancock,23009,"Head, Joshua",HJ0009,Federalist,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Lincoln,mes_lincoln,23015,"Head, Joshua",HJ0009,Federalist,79
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Hancock,mes_hancock,23009,"Brown, Benjamin",BB0020,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Lincoln,mes_lincoln,23015,"Brown, Benjamin",BB0020,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Hancock,mes_hancock,23009,"Clapp, Charles",CC0009,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Lincoln,mes_lincoln,23015,"Clapp, Charles",CC0009,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Hancock,mes_hancock,23009,"Davis, Samuel",DS0018,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Lincoln,mes_lincoln,23015,"Davis, Samuel",DS0018,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Hancock,mes_hancock,23009,"Hammatt, Abraham",HA0054,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Lincoln,mes_lincoln,23015,"Hammatt, Abraham",HA0054,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Hancock,mes_hancock,23009,"Hovey, William",HW0006,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Lincoln,mes_lincoln,23015,"Hovey, William",HW0006,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Hancock,mes_hancock,23009,"MacCobb, Parker",MP0027,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Lincoln,mes_lincoln,23015,"MacCobb, Parker",MP0027,NA,3
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Hancock,mes_hancock,23009,"Marston, Daniel",MD0012,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Lincoln,mes_lincoln,23015,"Marston, Daniel",MD0012,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Lincoln,mes_lincoln,23015,NA,Other candidates,NA,37
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Hancock,mes_hancock,23009,"Orr, Benjamin",OB0009,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Lincoln,mes_lincoln,23015,"Orr, Benjamin",OB0009,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Hancock,mes_hancock,23009,"Rose, Daniel",RD0021,Democratic-Republican,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Lincoln,mes_lincoln,23015,"Rose, Daniel",RD0021,Democratic-Republican,63
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Hancock,mes_hancock,23009,"Schenck, James",SJ0020,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Lincoln,mes_lincoln,23015,"Schenck, James",SJ0020,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Hancock,mes_hancock,23009,"Smith, Samuel",SS0014,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Lincoln,mes_lincoln,23015,"Smith, Samuel",SS0014,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Hancock,mes_hancock,23009,"Smith, Samuel E.",SS0015,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Lincoln,mes_lincoln,23015,"Smith, Samuel E.",SS0015,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Hancock,mes_hancock,23009,"Stafford, Pearl",SP0009,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Lincoln,mes_lincoln,23015,"Stafford, Pearl",SP0009,NA,43
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Hancock,mes_hancock,23009,"Thatcher, Ebenezer",TE0011,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Lincoln,mes_lincoln,23015,"Thatcher, Ebenezer",TE0011,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Hancock,mes_hancock,23009,"Tucker, Samuel",TS0002,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Lincoln,mes_lincoln,23015,"Tucker, Samuel",TS0002,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Hancock,mes_hancock,23009,"Whiting, Thurston",WT0006,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress3.1820,Lincoln,mes_lincoln,23015,"Whiting, Thurston",WT0006,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress5.second.1821,Kennebec,mes_kennebec,23011,"Herrick, Ebenezer",HE0005,Democratic-Republican,141
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress5.second.1821,Lincoln,mes_lincoln,23015,"Herrick, Ebenezer",HE0005,Democratic-Republican,587
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress5.second.1821,Kennebec,mes_kennebec,23011,"Warren, Ebenezer T.",WE0005,Democratic-Republican,298
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress5.second.1821,Lincoln,mes_lincoln,23015,"Warren, Ebenezer T.",WE0005,Democratic-Republican,175
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress5.second.1821,Kennebec,mes_kennebec,23011,"Grant, Peter",GP0006,Federalist,155
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress5.second.1821,Lincoln,mes_lincoln,23015,"Grant, Peter",GP0006,Federalist,9
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress5.second.1821,Kennebec,mes_kennebec,23011,"Gage, Joshua",GJ0005,NA,414
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress5.second.1821,Lincoln,mes_lincoln,23015,"Gage, Joshua",GJ0005,NA,114
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress5.second.1821,Kennebec,mes_kennebec,23011,"Gay, Rufus",GR0006,NA,3
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress5.second.1821,Lincoln,mes_lincoln,23015,"Gay, Rufus",GR0006,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress5.second.1821,Kennebec,mes_kennebec,23011,"Parker, James",PJ0005,NA,20
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress5.second.1821,Lincoln,mes_lincoln,23015,"Parker, James",PJ0005,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress5.second.1821,Kennebec,mes_kennebec,23011,"Saunders, James",SJ0026,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress5.second.1821,Lincoln,mes_lincoln,23015,"Saunders, James",SJ0026,NA,1
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress6.1820,Kennebec,mes_kennebec,23011,"Cushman, Joshua",CJ0007,Democratic-Republican,319
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress6.1820,Somerset,mes_somerset,23025,"Cushman, Joshua",CJ0007,Democratic-Republican,637
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress6.1820,Somerset,mes_somerset,23025,NA,Other candidates,NA,1
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress6.1820,Kennebec,mes_kennebec,23011,"Stevens, Isaac",SI0018,NA,1
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress6.1820,Somerset,mes_somerset,23025,"Stevens, Isaac",SI0018,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress7.1820,Cumberland,mes_cumberland,23005,"Lincoln, Enoch",LE0006,Democratic-Republican,271
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress7.1820,Oxford,mes_oxford,23017,"Lincoln, Enoch",LE0006,Democratic-Republican,761
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress7.1820,York,mes_york,23031,"Lincoln, Enoch",LE0006,Democratic-Republican,146
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress7.1820,Cumberland,mes_cumberland,23005,"Bradley, Isaac",BI0008,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress7.1820,Oxford,mes_oxford,23017,"Bradley, Isaac",BI0008,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress7.1820,York,mes_york,23031,"Bradley, Isaac",BI0008,NA,7
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress7.1820,Cumberland,mes_cumberland,23005,"Bradley, Samuel A.",BS0006,NA,16
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress7.1820,Oxford,mes_oxford,23017,"Bradley, Samuel A.",BS0006,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress7.1820,York,mes_york,23031,"Bradley, Samuel A.",BS0006,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress7.1820,Cumberland,mes_cumberland,23005,"Dana, Judah",DJ0008,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress7.1820,Oxford,mes_oxford,23017,"Dana, Judah",DJ0008,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress7.1820,York,mes_york,23031,"Dana, Judah",DJ0008,NA,5
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress7.1820,Cumberland,mes_cumberland,23005,"Emory, Stephen",ES0008,NA,1
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress7.1820,Oxford,mes_oxford,23017,"Emory, Stephen",ES0008,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress7.1820,York,mes_york,23031,"Emory, Stephen",ES0008,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress7.1820,Cumberland,mes_cumberland,23005,"Lincoln, Levi",LL0037,NA,3
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress7.1820,Oxford,mes_oxford,23017,"Lincoln, Levi",LL0037,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress7.1820,York,mes_york,23031,"Lincoln, Levi",LL0037,NA,0
+meae.congressional.congress17.me.county,congressional,17,ME,county,state,me.uscongress7.1820,Cumberland,mes_cumberland,23005,NA,Other candidates,NA,12

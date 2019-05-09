@@ -1,0 +1,79 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress1.1812,Bath,kys_bath,21011,"Clark, James",CJ0165,Democratic-Republican,708
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress1.1812,Clarke,kys_clark,21049,"Clark, James",CJ0165,Democratic-Republican,1075
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress1.1812,Estill,kys_estill,21065,"Clark, James",CJ0165,Democratic-Republican,244
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress1.1812,Fleming,kys_fleming,21069,"Clark, James",CJ0165,Democratic-Republican,837
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress1.1812,Floyd,kys_floyd,21071,"Clark, James",CJ0165,Democratic-Republican,468
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress1.1812,Greenup,kys_greenup,21089,"Clark, James",CJ0165,Democratic-Republican,263
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress1.1812,Montgomery,kys_montgomery,21173,"Clark, James",CJ0165,Democratic-Republican,965
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress10.1812,Greene,kys_green,21087,"Duval, William P.",DW0027,Democratic-Republican,0
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress10.1812,Hardin,kys_hardin,21093,"Duval, William P.",DW0027,Democratic-Republican,0
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress10.1812,Nelson,kys_nelson,21179,"Duval, William P.",DW0027,Democratic-Republican,0
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress10.1812,Washington,kys_washington,21229,"Duval, William P.",DW0027,Democratic-Republican,0
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress2.1812,Fayette,kys_fayette,21067,"Clay, Henry",CH0035,Democratic-Republican,1821
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress2.1812,Jessamine,kys_jessamine,21113,"Clay, Henry",CH0035,Democratic-Republican,621
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress2.1812,Woodford,kys_woodford,21239,"Clay, Henry",CH0035,Democratic-Republican,722
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress3.1812,Boone,kys_boone,21015,"Johnson, Richard M.",JR0007,Democratic-Republican,301
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress3.1812,Campbell,kys_campbell,21037,"Johnson, Richard M.",JR0007,Democratic-Republican,408
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress3.1812,Franklin,kys_franklin,21073,"Johnson, Richard M.",JR0007,Democratic-Republican,520
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress3.1812,Gallatin,kys_gallatin,21077,"Johnson, Richard M.",JR0007,Democratic-Republican,387
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress3.1812,Harrison,kys_harrison,21097,"Johnson, Richard M.",JR0007,Democratic-Republican,985
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress3.1812,Pendelton,kys_pendleton,21191,"Johnson, Richard M.",JR0007,Democratic-Republican,320
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress3.1812,Scott,kys_scott,21209,"Johnson, Richard M.",JR0007,Democratic-Republican,1127
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress4.1812,Bourbon,kys_bourbon,21017,"Desha, Joseph",DJ0079,Democratic-Republican,1432
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress4.1812,Bracken,kys_bracken,21023,"Desha, Joseph",DJ0079,Democratic-Republican,392
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress4.1812,Lewis,kys_lewis,21135,"Desha, Joseph",DJ0079,Democratic-Republican,300
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress4.1812,Mason,kys_mason,21161,"Desha, Joseph",DJ0079,Democratic-Republican,1236
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress4.1812,Nicholas,kys_nicholas,21181,"Desha, Joseph",DJ0079,Democratic-Republican,470
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress5.1812,Breckinridge,kys_breckinridge,21027,"Davidge, Rezin",DR0004,NA,29
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress5.1812,Caldwell,kys_caldwell,21033,"Davidge, Rezin",DR0004,NA,90
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress5.1812,Christian,kys_christian,21047,"Davidge, Rezin",DR0004,NA,700
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress5.1812,Grayson,kys_grayson,21085,"Davidge, Rezin",DR0004,NA,72
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress5.1812,Henderson,kys_henderson,21101,"Davidge, Rezin",DR0004,NA,38
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress5.1812,Hopkins,kys_hopkins,21107,"Davidge, Rezin",DR0004,NA,210
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress5.1812,Livingston,kys_livingston,21139,"Davidge, Rezin",DR0004,NA,91
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress5.1812,Muhlenberg,kys_muhlenberg,21177,"Davidge, Rezin",DR0004,NA,39
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress5.1812,Ohio,kys_ohio,21183,"Davidge, Rezin",DR0004,NA,165
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress5.1812,Union,kys_union,21225,"Davidge, Rezin",DR0004,NA,63
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress5.1812,Breckinridge,kys_breckinridge,21027,"Hopkins, Samuel G.",HS0042,Democratic-Republican,300
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress5.1812,Caldwell,kys_caldwell,21033,"Hopkins, Samuel G.",HS0042,Democratic-Republican,154
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress5.1812,Christian,kys_christian,21047,"Hopkins, Samuel G.",HS0042,Democratic-Republican,427
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress5.1812,Grayson,kys_grayson,21085,"Hopkins, Samuel G.",HS0042,Democratic-Republican,76
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress5.1812,Henderson,kys_henderson,21101,"Hopkins, Samuel G.",HS0042,Democratic-Republican,284
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress5.1812,Hopkins,kys_hopkins,21107,"Hopkins, Samuel G.",HS0042,Democratic-Republican,154
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress5.1812,Livingston,kys_livingston,21139,"Hopkins, Samuel G.",HS0042,Democratic-Republican,216
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress5.1812,Muhlenberg,kys_muhlenberg,21177,"Hopkins, Samuel G.",HS0042,Democratic-Republican,357
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress5.1812,Ohio,kys_ohio,21183,"Hopkins, Samuel G.",HS0042,Democratic-Republican,269
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress5.1812,Union,kys_union,21225,"Hopkins, Samuel G.",HS0042,Democratic-Republican,104
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress5.1812,Breckinridge,kys_breckinridge,21027,"Lyon, Matthew",LM0053,Democratic-Republican,20
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress5.1812,Caldwell,kys_caldwell,21033,"Lyon, Matthew",LM0053,Democratic-Republican,534
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress5.1812,Christian,kys_christian,21047,"Lyon, Matthew",LM0053,Democratic-Republican,148
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress5.1812,Grayson,kys_grayson,21085,"Lyon, Matthew",LM0053,Democratic-Republican,80
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress5.1812,Henderson,kys_henderson,21101,"Lyon, Matthew",LM0053,Democratic-Republican,8
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress5.1812,Hopkins,kys_hopkins,21107,"Lyon, Matthew",LM0053,Democratic-Republican,33
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress5.1812,Livingston,kys_livingston,21139,"Lyon, Matthew",LM0053,Democratic-Republican,16
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress5.1812,Muhlenberg,kys_muhlenberg,21177,"Lyon, Matthew",LM0053,Democratic-Republican,68
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress5.1812,Ohio,kys_ohio,21183,"Lyon, Matthew",LM0053,Democratic-Republican,13
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress5.1812,Union,kys_union,21225,"Lyon, Matthew",LM0053,Democratic-Republican,4
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress6.1812,Barren,kys_barren,21009,"Butler, Anthony",BA0048,NA,259
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress6.1812,Butler,kys_butler,21031,"Butler, Anthony",BA0048,NA,71
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress6.1812,Cumberland,kys_cumberland,21057,"Butler, Anthony",BA0048,NA,295
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress6.1812,Logan,kys_logan,21141,"Butler, Anthony",BA0048,NA,428
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress6.1812,Warren,kys_warren,21227,"Butler, Anthony",BA0048,NA,321
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress6.1812,Barren,kys_barren,21009,"Sharpe, Solomon P.",SS0045,Democratic-Republican,1025
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress6.1812,Butler,kys_butler,21031,"Sharpe, Solomon P.",SS0045,Democratic-Republican,180
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress6.1812,Cumberland,kys_cumberland,21057,"Sharpe, Solomon P.",SS0045,Democratic-Republican,524
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress6.1812,Logan,kys_logan,21141,"Sharpe, Solomon P.",SS0045,Democratic-Republican,545
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress6.1812,Warren,kys_warren,21227,"Sharpe, Solomon P.",SS0045,Democratic-Republican,923
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress7.1812,Clay,kys_clay,21051,"MacKee, Samuel",MS0028,Democratic-Republican,303
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress7.1812,Garrard,kys_garrard,21079,"MacKee, Samuel",MS0028,Democratic-Republican,907
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress7.1812,Madison,kys_madison,21151,"MacKee, Samuel",MS0028,Democratic-Republican,980
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress7.1812,Mercer,kys_mercer,21167,"MacKee, Samuel",MS0028,Democratic-Republican,1216
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress8.1812,Bullett,kys_bullitt,21029,"Ormsby, Stephen",OS0002,Democratic-Republican,0
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress8.1812,Henry,kys_henry,21103,"Ormsby, Stephen",OS0002,Democratic-Republican,0
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress8.1812,Jefferson,kys_jefferson,21111,"Ormsby, Stephen",OS0002,Democratic-Republican,0
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress8.1812,Shelby,kys_shelby,21211,"Ormsby, Stephen",OS0002,Democratic-Republican,0
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress8.1812,Bullett,kys_bullitt,21029,"Simpson, John",SJ0160,Democratic-Republican,0
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress8.1812,Henry,kys_henry,21103,"Simpson, John",SJ0160,Democratic-Republican,0
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress8.1812,Jefferson,kys_jefferson,21111,"Simpson, John",SJ0160,Democratic-Republican,0
+meae.congressional.congress13.ky.county,congressional,13,KY,county,state,ky.uscongress8.1812,Shelby,kys_shelby,21211,"Simpson, John",SJ0160,Democratic-Republican,0

@@ -1,0 +1,4 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress03.ri.county,congressional,3,RI,county,state,ri.uscongress.1792,Newport,ris_newport,44005,"Bourne, Benjamin",BB0013,Federalist,0
+meae.congressional.congress03.ri.county,congressional,3,RI,county,state,ri.uscongress.1792,Newport,ris_newport,44005,"Malbone, Francis",MF0037,Federalist,0
+meae.congressional.congress03.ri.county,congressional,3,RI,county,state,ri.uscongress.1792,Newport,ris_newport,44005,"Mumford, Paul",MP0122,NA,0

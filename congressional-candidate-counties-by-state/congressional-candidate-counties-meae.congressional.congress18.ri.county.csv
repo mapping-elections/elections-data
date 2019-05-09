@@ -1,0 +1,15 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress18.ri.county,congressional,18,RI,county,state,ri.uscongress.1822,Bristol,ris_bristol,44001,"Durfree, Job",DJ0538,Democratic-Republican,48
+meae.congressional.congress18.ri.county,congressional,18,RI,county,state,ri.uscongress.1822,Kent,ris_kent,44003,"Durfree, Job",DJ0538,Democratic-Republican,187
+meae.congressional.congress18.ri.county,congressional,18,RI,county,state,ri.uscongress.1822,Newport,ris_newport,44005,"Durfree, Job",DJ0538,Democratic-Republican,280
+meae.congressional.congress18.ri.county,congressional,18,RI,county,state,ri.uscongress.1822,Providence,ris_providence,44007,"Durfree, Job",DJ0538,Democratic-Republican,681
+meae.congressional.congress18.ri.county,congressional,18,RI,county,state,ri.uscongress.1822,Washington,ris_washington,44009,"Durfree, Job",DJ0538,Democratic-Republican,250
+meae.congressional.congress18.ri.county,congressional,18,RI,county,state,ri.uscongress.1822,Bristol,ris_bristol,44001,"Eddy, Samuel",ES0042,Democratic-Republican,48
+meae.congressional.congress18.ri.county,congressional,18,RI,county,state,ri.uscongress.1822,Kent,ris_kent,44003,"Eddy, Samuel",ES0042,Democratic-Republican,186
+meae.congressional.congress18.ri.county,congressional,18,RI,county,state,ri.uscongress.1822,Newport,ris_newport,44005,"Eddy, Samuel",ES0042,Democratic-Republican,281
+meae.congressional.congress18.ri.county,congressional,18,RI,county,state,ri.uscongress.1822,Providence,ris_providence,44007,"Eddy, Samuel",ES0042,Democratic-Republican,673
+meae.congressional.congress18.ri.county,congressional,18,RI,county,state,ri.uscongress.1822,Washington,ris_washington,44009,"Eddy, Samuel",ES0042,Democratic-Republican,229
+meae.congressional.congress18.ri.county,congressional,18,RI,county,state,ri.uscongress.1822,Kent,ris_kent,44003,NA,Other candidates,NA,1
+meae.congressional.congress18.ri.county,congressional,18,RI,county,state,ri.uscongress.1822,Newport,ris_newport,44005,NA,Other candidates,NA,1
+meae.congressional.congress18.ri.county,congressional,18,RI,county,state,ri.uscongress.1822,Providence,ris_providence,44007,NA,Other candidates,NA,7
+meae.congressional.congress18.ri.county,congressional,18,RI,county,state,ri.uscongress.1822,Washington,ris_washington,44009,NA,Other candidates,NA,22

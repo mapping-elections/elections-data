@@ -1,0 +1,21 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress11.ri.county,congressional,11,RI,county,state,ri.uscongress.1808,Bristol,ris_bristol,44001,"Russell, Jonathan",RJ0591,Democratic-Republican,234
+meae.congressional.congress11.ri.county,congressional,11,RI,county,state,ri.uscongress.1808,Kent,ris_kent,44003,"Russell, Jonathan",RJ0591,Democratic-Republican,383
+meae.congressional.congress11.ri.county,congressional,11,RI,county,state,ri.uscongress.1808,Newport,ris_newport,44005,"Russell, Jonathan",RJ0591,Democratic-Republican,598
+meae.congressional.congress11.ri.county,congressional,11,RI,county,state,ri.uscongress.1808,Providence,ris_providence,44007,"Russell, Jonathan",RJ0591,Democratic-Republican,1169
+meae.congressional.congress11.ri.county,congressional,11,RI,county,state,ri.uscongress.1808,Washington,ris_washington,44009,"Russell, Jonathan",RJ0591,Democratic-Republican,526
+meae.congressional.congress11.ri.county,congressional,11,RI,county,state,ri.uscongress.1808,Bristol,ris_bristol,44001,"Wilbour, Isaac",WI0068,Democratic-Republican,235
+meae.congressional.congress11.ri.county,congressional,11,RI,county,state,ri.uscongress.1808,Kent,ris_kent,44003,"Wilbour, Isaac",WI0068,Democratic-Republican,386
+meae.congressional.congress11.ri.county,congressional,11,RI,county,state,ri.uscongress.1808,Newport,ris_newport,44005,"Wilbour, Isaac",WI0068,Democratic-Republican,603
+meae.congressional.congress11.ri.county,congressional,11,RI,county,state,ri.uscongress.1808,Providence,ris_providence,44007,"Wilbour, Isaac",WI0068,Democratic-Republican,1187
+meae.congressional.congress11.ri.county,congressional,11,RI,county,state,ri.uscongress.1808,Washington,ris_washington,44009,"Wilbour, Isaac",WI0068,Democratic-Republican,515
+meae.congressional.congress11.ri.county,congressional,11,RI,county,state,ri.uscongress.1808,Bristol,ris_bristol,44001,"Jackson, Richard, Jr.",JR0052,Federalist,174
+meae.congressional.congress11.ri.county,congressional,11,RI,county,state,ri.uscongress.1808,Kent,ris_kent,44003,"Jackson, Richard, Jr.",JR0052,Federalist,541
+meae.congressional.congress11.ri.county,congressional,11,RI,county,state,ri.uscongress.1808,Newport,ris_newport,44005,"Jackson, Richard, Jr.",JR0052,Federalist,636
+meae.congressional.congress11.ri.county,congressional,11,RI,county,state,ri.uscongress.1808,Providence,ris_providence,44007,"Jackson, Richard, Jr.",JR0052,Federalist,1269
+meae.congressional.congress11.ri.county,congressional,11,RI,county,state,ri.uscongress.1808,Washington,ris_washington,44009,"Jackson, Richard, Jr.",JR0052,Federalist,688
+meae.congressional.congress11.ri.county,congressional,11,RI,county,state,ri.uscongress.1808,Bristol,ris_bristol,44001,"Potter, Elisha R.",PE0102,Federalist,173
+meae.congressional.congress11.ri.county,congressional,11,RI,county,state,ri.uscongress.1808,Kent,ris_kent,44003,"Potter, Elisha R.",PE0102,Federalist,526
+meae.congressional.congress11.ri.county,congressional,11,RI,county,state,ri.uscongress.1808,Newport,ris_newport,44005,"Potter, Elisha R.",PE0102,Federalist,634
+meae.congressional.congress11.ri.county,congressional,11,RI,county,state,ri.uscongress.1808,Providence,ris_providence,44007,"Potter, Elisha R.",PE0102,Federalist,1244
+meae.congressional.congress11.ri.county,congressional,11,RI,county,state,ri.uscongress.1808,Washington,ris_washington,44009,"Potter, Elisha R.",PE0102,Federalist,701

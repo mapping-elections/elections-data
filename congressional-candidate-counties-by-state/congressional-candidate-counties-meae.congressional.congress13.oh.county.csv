@@ -1,0 +1,288 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district1.1812,Butler,ohs_butler,39017,"Looker, Othneil",LO0001,Democratic-Republican,17
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district1.1812,Hamilton,ohs_hamilton,39061,"Looker, Othneil",LO0001,Democratic-Republican,5
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district1.1812,Preble,ohs_preble,39135,"Looker, Othneil",LO0001,Democratic-Republican,19
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district1.1812,Warren,ohs_warren,39165,"Looker, Othneil",LO0001,Democratic-Republican,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district1.1812,Butler,ohs_butler,39017,"MacClean, John",MJ0663,Democratic-Republican,532
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district1.1812,Hamilton,ohs_hamilton,39061,"MacClean, John",MJ0663,Democratic-Republican,864
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district1.1812,Preble,ohs_preble,39135,"MacClean, John",MJ0663,Democratic-Republican,88
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district1.1812,Warren,ohs_warren,39165,"MacClean, John",MJ0663,Democratic-Republican,668
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district1.1812,Butler,ohs_butler,39017,"Bigger, John",BJ0866,Federalist,75
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district1.1812,Hamilton,ohs_hamilton,39061,"Bigger, John",BJ0866,Federalist,41
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district1.1812,Preble,ohs_preble,39135,"Bigger, John",BJ0866,Federalist,83
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district1.1812,Warren,ohs_warren,39165,"Bigger, John",BJ0866,Federalist,124
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district1.1812,Butler,ohs_butler,39017,"Stone, Ethan",SE0090,Federalist,165
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district1.1812,Hamilton,ohs_hamilton,39061,"Stone, Ethan",SE0090,Federalist,330
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district1.1812,Preble,ohs_preble,39135,"Stone, Ethan",SE0090,Federalist,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district1.1812,Warren,ohs_warren,39165,"Stone, Ethan",SE0090,Federalist,7
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district2.1812,Adams,ohs_adams,39001,"Alexander, John",AJ0239,Democratic-Republican,6
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district2.1812,Clermont,ohs_clermont,39025,"Alexander, John",AJ0239,Democratic-Republican,215
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district2.1812,Clinton,ohs_clinton,39027,"Alexander, John",AJ0239,Democratic-Republican,193
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district2.1812,Fayette,ohs_fayette,39047,"Alexander, John",AJ0239,Democratic-Republican,249
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district2.1812,Greene,ohs_greene,39057,"Alexander, John",AJ0239,Democratic-Republican,308
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district2.1812,Highland,ohs_highland,39071,"Alexander, John",AJ0239,Democratic-Republican,295
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district2.1812,Adams,ohs_adams,39001,"Campbell, John W.",CJ0617,Democratic-Republican,708
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district2.1812,Clermont,ohs_clermont,39025,"Campbell, John W.",CJ0617,Democratic-Republican,188
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district2.1812,Clinton,ohs_clinton,39027,"Campbell, John W.",CJ0617,Democratic-Republican,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district2.1812,Fayette,ohs_fayette,39047,"Campbell, John W.",CJ0617,Democratic-Republican,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district2.1812,Greene,ohs_greene,39057,"Campbell, John W.",CJ0617,Democratic-Republican,189
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district2.1812,Highland,ohs_highland,39071,"Campbell, John W.",CJ0617,Democratic-Republican,88
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district2.1812,Adams,ohs_adams,39001,"Morris, Thomas",MT0090,Democratic-Republican,65
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district2.1812,Clermont,ohs_clermont,39025,"Morris, Thomas",MT0090,Democratic-Republican,554
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district2.1812,Clinton,ohs_clinton,39027,"Morris, Thomas",MT0090,Democratic-Republican,22
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district2.1812,Fayette,ohs_fayette,39047,"Morris, Thomas",MT0090,Democratic-Republican,11
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district2.1812,Greene,ohs_greene,39057,"Morris, Thomas",MT0090,Democratic-Republican,13
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district2.1812,Highland,ohs_highland,39071,"Morris, Thomas",MT0090,Democratic-Republican,187
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Athens,ohs_athens,39009,"MacArthur, Duncan",MD0142,Democratic-Republican,353
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Gallia,ohs_gallia,39053,"MacArthur, Duncan",MD0142,Democratic-Republican,251
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Pickaway,ohs_pickaway,39129,"MacArthur, Duncan",MD0142,Democratic-Republican,700
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Ross,ohs_ross,39141,"MacArthur, Duncan",MD0142,Democratic-Republican,1729
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Scioto,ohs_scioto,39145,"MacArthur, Duncan",MD0142,Democratic-Republican,359
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Washington,ohs_washington,39167,"MacArthur, Duncan",MD0142,Democratic-Republican,952
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Athens,ohs_athens,39009,"Gilman, Benjamin I.",GB0010,Federalist,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Gallia,ohs_gallia,39053,"Gilman, Benjamin I.",GB0010,Federalist,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Pickaway,ohs_pickaway,39129,"Gilman, Benjamin I.",GB0010,Federalist,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Ross,ohs_ross,39141,"Gilman, Benjamin I.",GB0010,Federalist,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Scioto,ohs_scioto,39145,"Gilman, Benjamin I.",GB0010,Federalist,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Washington,ohs_washington,39167,"Gilman, Benjamin I.",GB0010,Federalist,1
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Athens,ohs_athens,39009,"Birdseye, James",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Gallia,ohs_gallia,39053,"Birdseye, James",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Pickaway,ohs_pickaway,39129,"Birdseye, James",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Ross,ohs_ross,39141,"Birdseye, James",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Scioto,ohs_scioto,39145,"Birdseye, James",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Washington,ohs_washington,39167,"Birdseye, James",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Athens,ohs_athens,39009,"Fearing, Paul",FP0020,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Gallia,ohs_gallia,39053,"Fearing, Paul",FP0020,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Pickaway,ohs_pickaway,39129,"Fearing, Paul",FP0020,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Ross,ohs_ross,39141,"Fearing, Paul",FP0020,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Scioto,ohs_scioto,39145,"Fearing, Paul",FP0020,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Washington,ohs_washington,39167,"Fearing, Paul",FP0020,NA,2
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Athens,ohs_athens,39009,"Hogeboom, Roger L.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Gallia,ohs_gallia,39053,"Hogeboom, Roger L.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Pickaway,ohs_pickaway,39129,"Hogeboom, Roger L.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Ross,ohs_ross,39141,"Hogeboom, Roger L.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Scioto,ohs_scioto,39145,"Hogeboom, Roger L.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Washington,ohs_washington,39167,"Hogeboom, Roger L.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Athens,ohs_athens,39009,"Hopkins, Nathaniel W.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Gallia,ohs_gallia,39053,"Hopkins, Nathaniel W.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Pickaway,ohs_pickaway,39129,"Hopkins, Nathaniel W.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Ross,ohs_ross,39141,"Hopkins, Nathaniel W.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Scioto,ohs_scioto,39145,"Hopkins, Nathaniel W.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Washington,ohs_washington,39167,"Hopkins, Nathaniel W.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Athens,ohs_athens,39009,"Mallory, Orasmus C.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Gallia,ohs_gallia,39053,"Mallory, Orasmus C.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Pickaway,ohs_pickaway,39129,"Mallory, Orasmus C.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Ross,ohs_ross,39141,"Mallory, Orasmus C.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Scioto,ohs_scioto,39145,"Mallory, Orasmus C.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Washington,ohs_washington,39167,"Mallory, Orasmus C.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Athens,ohs_athens,39009,"Miller, James J.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Gallia,ohs_gallia,39053,"Miller, James J.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Pickaway,ohs_pickaway,39129,"Miller, James J.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Ross,ohs_ross,39141,"Miller, James J.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Scioto,ohs_scioto,39145,"Miller, James J.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Washington,ohs_washington,39167,"Miller, James J.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Athens,ohs_athens,39009,"Mumford, George S.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Gallia,ohs_gallia,39053,"Mumford, George S.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Pickaway,ohs_pickaway,39129,"Mumford, George S.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Ross,ohs_ross,39141,"Mumford, George S.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Ross,ohs_ross,39141,"Mumford, George S.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Scioto,ohs_scioto,39145,"Mumford, George S.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Washington,ohs_washington,39167,"Mumford, George S.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Athens,ohs_athens,39009,"Van Alen, Jacob R.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Gallia,ohs_gallia,39053,"Van Alen, Jacob R.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Pickaway,ohs_pickaway,39129,"Van Alen, Jacob R.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Ross,ohs_ross,39141,"Van Alen, Jacob R.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Scioto,ohs_scioto,39145,"Van Alen, Jacob R.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Washington,ohs_washington,39167,"Van Alen, Jacob R.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Athens,ohs_athens,39009,"Woodridge, William",WW0201,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Gallia,ohs_gallia,39053,"Woodridge, William",WW0201,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Pickaway,ohs_pickaway,39129,"Woodridge, William",WW0201,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Ross,ohs_ross,39141,"Woodridge, William",WW0201,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Scioto,ohs_scioto,39145,"Woodridge, William",WW0201,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district3.1812,Washington,ohs_washington,39167,"Woodridge, William",WW0201,NA,1
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district4.1812,Belmont,ohs_belmont,39013,"Caldwell, James",CJ0608,Democratic-Republican,965
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district4.1812,Coshocton,ohs_coshocton,39031,"Caldwell, James",CJ0608,Democratic-Republican,29
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district4.1812,Guernsey,ohs_guernsey,39059,"Caldwell, James",CJ0608,Democratic-Republican,204
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district4.1812,Jefferson,ohs_jefferson,39081,"Caldwell, James",CJ0608,Democratic-Republican,584
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district4.1812,Muskingum,ohs_muskingum,39119,"Caldwell, James",CJ0608,Democratic-Republican,719
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district4.1812,Belmont,ohs_belmont,39013,"Pritchard, James",PJ0360,Democratic-Republican,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district4.1812,Coshocton,ohs_coshocton,39031,"Pritchard, James",PJ0360,Democratic-Republican,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district4.1812,Guernsey,ohs_guernsey,39059,"Pritchard, James",PJ0360,Democratic-Republican,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district4.1812,Jefferson,ohs_jefferson,39081,"Pritchard, James",PJ0360,Democratic-Republican,204
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district4.1812,Muskingum,ohs_muskingum,39119,"Pritchard, James",PJ0360,Democratic-Republican,59
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district4.1812,Belmont,ohs_belmont,39013,"Wells, Bazaleel",WB0051,Federalist,686
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district4.1812,Coshocton,ohs_coshocton,39031,"Wells, Bazaleel",WB0051,Federalist,175
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district4.1812,Guernsey,ohs_guernsey,39059,"Wells, Bazaleel",WB0051,Federalist,166
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district4.1812,Jefferson,ohs_jefferson,39081,"Wells, Bazaleel",WB0051,Federalist,913
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district4.1812,Muskingum,ohs_muskingum,39119,"Wells, Bazaleel",WB0051,Federalist,150
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Champaign,ohs_champaign,39021,"Kilbourn, James",KJ0144,Democratic-Republican,204
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Delaware,ohs_delaware,39041,"Kilbourn, James",KJ0144,Democratic-Republican,136
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Fairfield,ohs_fairfield,39045,"Kilbourn, James",KJ0144,Democratic-Republican,7
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Franklin,ohs_franklin,39049,"Kilbourn, James",KJ0144,Democratic-Republican,292
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Licking,ohs_licking,39089,"Kilbourn, James",KJ0144,Democratic-Republican,211
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Madison,ohs_madison,39097,"Kilbourn, James",KJ0144,Democratic-Republican,33
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Miami,ohs_miami,39109,"Kilbourn, James",KJ0144,Democratic-Republican,123
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Montgomery,ohs_montgomery,39113,"Kilbourn, James",KJ0144,Democratic-Republican,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Champaign,ohs_champaign,39021,"Bigger, John",BJ0866,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Delaware,ohs_delaware,39041,"Bigger, John",BJ0866,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Fairfield,ohs_fairfield,39045,"Bigger, John",BJ0866,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Franklin,ohs_franklin,39049,"Bigger, John",BJ0866,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Licking,ohs_licking,39089,"Bigger, John",BJ0866,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Madison,ohs_madison,39097,"Bigger, John",BJ0866,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Miami,ohs_miami,39109,"Bigger, John",BJ0866,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Champaign,ohs_champaign,39021,"Cloud, Robert",CR0093,Democratic-Republican,41
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Delaware,ohs_delaware,39041,"Cloud, Robert",CR0093,Democratic-Republican,164
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Fairfield,ohs_fairfield,39045,"Cloud, Robert",CR0093,Democratic-Republican,228
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Franklin,ohs_franklin,39049,"Cloud, Robert",CR0093,Democratic-Republican,125
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Licking,ohs_licking,39089,"Cloud, Robert",CR0093,Democratic-Republican,138
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Madison,ohs_madison,39097,"Cloud, Robert",CR0093,Democratic-Republican,14
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Miami,ohs_miami,39109,"Cloud, Robert",CR0093,Democratic-Republican,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Montgomery,ohs_montgomery,39113,"Cloud, Robert",CR0093,Democratic-Republican,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Champaign,ohs_champaign,39021,"Crane, Joseph H.",CJ0604,NA,41
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Delaware,ohs_delaware,39041,"Crane, Joseph H.",CJ0604,NA,3
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Fairfield,ohs_fairfield,39045,"Crane, Joseph H.",CJ0604,NA,7
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Franklin,ohs_franklin,39049,"Crane, Joseph H.",CJ0604,NA,7
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Licking,ohs_licking,39089,"Crane, Joseph H.",CJ0604,NA,5
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Madison,ohs_madison,39097,"Crane, Joseph H.",CJ0604,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Miami,ohs_miami,39109,"Crane, Joseph H.",CJ0604,NA,9
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Montgomery,ohs_montgomery,39113,"Crane, Joseph H.",CJ0604,NA,291
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Champaign,ohs_champaign,39021,"Curry, Hiram M.",CH0125,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Delaware,ohs_delaware,39041,"Curry, Hiram M.",CH0125,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Fairfield,ohs_fairfield,39045,"Curry, Hiram M.",CH0125,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Franklin,ohs_franklin,39049,"Curry, Hiram M.",CH0125,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Licking,ohs_licking,39089,"Curry, Hiram M.",CH0125,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Madison,ohs_madison,39097,"Curry, Hiram M.",CH0125,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Miami,ohs_miami,39109,"Curry, Hiram M.",CH0125,NA,5
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Montgomery,ohs_montgomery,39113,"Curry, Hiram M.",CH0125,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Champaign,ohs_champaign,39021,"Foos, Joseph",FJ0281,Democratic-Republican,103
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Delaware,ohs_delaware,39041,"Foos, Joseph",FJ0281,Democratic-Republican,19
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Fairfield,ohs_fairfield,39045,"Foos, Joseph",FJ0281,Democratic-Republican,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Franklin,ohs_franklin,39049,"Foos, Joseph",FJ0281,Democratic-Republican,172
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Licking,ohs_licking,39089,"Foos, Joseph",FJ0281,Democratic-Republican,99
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Madison,ohs_madison,39097,"Foos, Joseph",FJ0281,Democratic-Republican,32
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Miami,ohs_miami,39109,"Foos, Joseph",FJ0281,Democratic-Republican,41
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Montgomery,ohs_montgomery,39113,"Foos, Joseph",FJ0281,Democratic-Republican,77
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Champaign,ohs_champaign,39021,"Irwin, William W.",IW0018,NA,6
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Delaware,ohs_delaware,39041,"Irwin, William W.",IW0018,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Fairfield,ohs_fairfield,39045,"Irwin, William W.",IW0018,NA,306
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Franklin,ohs_franklin,39049,"Irwin, William W.",IW0018,NA,61
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Licking,ohs_licking,39089,"Irwin, William W.",IW0018,NA,40
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Madison,ohs_madison,39097,"Irwin, William W.",IW0018,NA,49
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Miami,ohs_miami,39109,"Irwin, William W.",IW0018,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Montgomery,ohs_montgomery,39113,"Irwin, William W.",IW0018,NA,49
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Champaign,ohs_champaign,39021,"MacClain, John",MJ1344,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Delaware,ohs_delaware,39041,"MacClain, John",MJ1344,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Fairfield,ohs_fairfield,39045,"MacClain, John",MJ1344,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Franklin,ohs_franklin,39049,"MacClain, John",MJ1344,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Licking,ohs_licking,39089,"MacClain, John",MJ1344,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Madison,ohs_madison,39097,"MacClain, John",MJ1344,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Miami,ohs_miami,39109,"MacClain, John",MJ1344,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Montgomery,ohs_montgomery,39113,"MacClain, John",MJ1344,NA,1
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Champaign,ohs_champaign,39021,"Slaughter, Robert F.",SR0170,Democratic-Republican,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Delaware,ohs_delaware,39041,"Slaughter, Robert F.",SR0170,Democratic-Republican,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Fairfield,ohs_fairfield,39045,"Slaughter, Robert F.",SR0170,Democratic-Republican,925
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Franklin,ohs_franklin,39049,"Slaughter, Robert F.",SR0170,Democratic-Republican,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Licking,ohs_licking,39089,"Slaughter, Robert F.",SR0170,Democratic-Republican,31
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Madison,ohs_madison,39097,"Slaughter, Robert F.",SR0170,Democratic-Republican,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Miami,ohs_miami,39109,"Slaughter, Robert F.",SR0170,Democratic-Republican,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district5.1812,Montgomery,ohs_montgomery,39113,"Slaughter, Robert F.",SR0170,Democratic-Republican,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Ashtabula,ohs_ashtabula,39007,"Beall, Reasin",BR0094,Democratic-Republican,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Columbiana,ohs_columbiana,39029,"Beall, Reasin",BR0094,Democratic-Republican,436
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Cuyahoga,ohs_cuyahoga,39035,"Beall, Reasin",BR0094,Democratic-Republican,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Geauga,ohs_geauga,39055,"Beall, Reasin",BR0094,Democratic-Republican,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Knox,ohs_knox,39083,"Beall, Reasin",BR0094,Democratic-Republican,434
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Portage,ohs_portage,39133,"Beall, Reasin",BR0094,Democratic-Republican,41
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Stark,ohs_stark,39151,"Beall, Reasin",BR0094,Democratic-Republican,180
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Trumbull,ohs_trumbull,39155,"Beall, Reasin",BR0094,Democratic-Republican,20
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Tuscarawas,ohs_tuscarawas,39157,"Beall, Reasin",BR0094,Democratic-Republican,110
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Wayne,ohs_wayne,39169,"Beall, Reasin",BR0094,Democratic-Republican,37
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Ashtabula,ohs_ashtabula,39007,"Edwards, John S.",EJ0143,Federalist,196
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Columbiana,ohs_columbiana,39029,"Edwards, John S.",EJ0143,Federalist,189
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Cuyahoga,ohs_cuyahoga,39035,"Edwards, John S.",EJ0143,Federalist,220
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Geauga,ohs_geauga,39055,"Edwards, John S.",EJ0143,Federalist,135
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Knox,ohs_knox,39083,"Edwards, John S.",EJ0143,Federalist,1
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Portage,ohs_portage,39133,"Edwards, John S.",EJ0143,Federalist,271
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Stark,ohs_stark,39151,"Edwards, John S.",EJ0143,Federalist,23
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Trumbull,ohs_trumbull,39155,"Edwards, John S.",EJ0143,Federalist,880
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Tuscarawas,ohs_tuscarawas,39157,"Edwards, John S.",EJ0143,Federalist,20
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Wayne,ohs_wayne,39169,"Edwards, John S.",EJ0143,Federalist,16
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Ashtabula,ohs_ashtabula,39007,"Birdseye, James",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Columbiana,ohs_columbiana,39029,"Birdseye, James",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Cuyahoga,ohs_cuyahoga,39035,"Birdseye, James",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Geauga,ohs_geauga,39055,"Birdseye, James",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Knox,ohs_knox,39083,"Birdseye, James",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Portage,ohs_portage,39133,"Birdseye, James",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Stark,ohs_stark,39151,"Birdseye, James",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Trumbull,ohs_trumbull,39155,"Birdseye, James",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Tuscarawas,ohs_tuscarawas,39157,"Birdseye, James",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Wayne,ohs_wayne,39169,"Birdseye, James",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Ashtabula,ohs_ashtabula,39007,"Hindman, Samuel",HS0025,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Columbiana,ohs_columbiana,39029,"Hindman, Samuel",HS0025,NA,18
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Cuyahoga,ohs_cuyahoga,39035,"Hindman, Samuel",HS0025,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Geauga,ohs_geauga,39055,"Hindman, Samuel",HS0025,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Knox,ohs_knox,39083,"Hindman, Samuel",HS0025,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Portage,ohs_portage,39133,"Hindman, Samuel",HS0025,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Stark,ohs_stark,39151,"Hindman, Samuel",HS0025,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Trumbull,ohs_trumbull,39155,"Hindman, Samuel",HS0025,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Tuscarawas,ohs_tuscarawas,39157,"Hindman, Samuel",HS0025,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Wayne,ohs_wayne,39169,"Hindman, Samuel",HS0025,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Ashtabula,ohs_ashtabula,39007,"Hogeboom, Roger L.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Columbiana,ohs_columbiana,39029,"Hogeboom, Roger L.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Cuyahoga,ohs_cuyahoga,39035,"Hogeboom, Roger L.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Geauga,ohs_geauga,39055,"Hogeboom, Roger L.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Knox,ohs_knox,39083,"Hogeboom, Roger L.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Portage,ohs_portage,39133,"Hogeboom, Roger L.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Stark,ohs_stark,39151,"Hogeboom, Roger L.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Trumbull,ohs_trumbull,39155,"Hogeboom, Roger L.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Tuscarawas,ohs_tuscarawas,39157,"Hogeboom, Roger L.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Wayne,ohs_wayne,39169,"Hogeboom, Roger L.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Ashtabula,ohs_ashtabula,39007,"Hopkins, Nathaniel W.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Columbiana,ohs_columbiana,39029,"Hopkins, Nathaniel W.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Cuyahoga,ohs_cuyahoga,39035,"Hopkins, Nathaniel W.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Geauga,ohs_geauga,39055,"Hopkins, Nathaniel W.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Knox,ohs_knox,39083,"Hopkins, Nathaniel W.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Portage,ohs_portage,39133,"Hopkins, Nathaniel W.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Stark,ohs_stark,39151,"Hopkins, Nathaniel W.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Trumbull,ohs_trumbull,39155,"Hopkins, Nathaniel W.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Tuscarawas,ohs_tuscarawas,39157,"Hopkins, Nathaniel W.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Wayne,ohs_wayne,39169,"Hopkins, Nathaniel W.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Ashtabula,ohs_ashtabula,39007,"Mallory, Orasmus C.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Columbiana,ohs_columbiana,39029,"Mallory, Orasmus C.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Cuyahoga,ohs_cuyahoga,39035,"Mallory, Orasmus C.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Geauga,ohs_geauga,39055,"Mallory, Orasmus C.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Knox,ohs_knox,39083,"Mallory, Orasmus C.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Portage,ohs_portage,39133,"Mallory, Orasmus C.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Stark,ohs_stark,39151,"Mallory, Orasmus C.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Trumbull,ohs_trumbull,39155,"Mallory, Orasmus C.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Tuscarawas,ohs_tuscarawas,39157,"Mallory, Orasmus C.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Wayne,ohs_wayne,39169,"Mallory, Orasmus C.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Ashtabula,ohs_ashtabula,39007,"Miller, James J.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Columbiana,ohs_columbiana,39029,"Miller, James J.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Cuyahoga,ohs_cuyahoga,39035,"Miller, James J.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Geauga,ohs_geauga,39055,"Miller, James J.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Knox,ohs_knox,39083,"Miller, James J.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Portage,ohs_portage,39133,"Miller, James J.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Stark,ohs_stark,39151,"Miller, James J.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Trumbull,ohs_trumbull,39155,"Miller, James J.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Tuscarawas,ohs_tuscarawas,39157,"Miller, James J.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Wayne,ohs_wayne,39169,"Miller, James J.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Ashtabula,ohs_ashtabula,39007,"Mumford, George S.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Columbiana,ohs_columbiana,39029,"Mumford, George S.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Cuyahoga,ohs_cuyahoga,39035,"Mumford, George S.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Geauga,ohs_geauga,39055,"Mumford, George S.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Knox,ohs_knox,39083,"Mumford, George S.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Portage,ohs_portage,39133,"Mumford, George S.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Stark,ohs_stark,39151,"Mumford, George S.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Trumbull,ohs_trumbull,39155,"Mumford, George S.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Tuscarawas,ohs_tuscarawas,39157,"Mumford, George S.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Wayne,ohs_wayne,39169,"Mumford, George S.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Ashtabula,ohs_ashtabula,39007,"Van Alen, Jacob R.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Columbiana,ohs_columbiana,39029,"Van Alen, Jacob R.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Cuyahoga,ohs_cuyahoga,39035,"Van Alen, Jacob R.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Geauga,ohs_geauga,39055,"Van Alen, Jacob R.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Knox,ohs_knox,39083,"Van Alen, Jacob R.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Portage,ohs_portage,39133,"Van Alen, Jacob R.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Stark,ohs_stark,39151,"Van Alen, Jacob R.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Trumbull,ohs_trumbull,39155,"Van Alen, Jacob R.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Tuscarawas,ohs_tuscarawas,39157,"Van Alen, Jacob R.",Other candidates,NA,0
+meae.congressional.congress13.oh.county,congressional,13,OH,county,state,oh.ushouseofrepresentatives.district6.1812,Wayne,ohs_wayne,39169,"Van Alen, Jacob R.",Other candidates,NA,0

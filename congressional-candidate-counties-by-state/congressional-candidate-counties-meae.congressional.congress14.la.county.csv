@@ -1,0 +1,11 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress14.la.county,congressional,14,LA,county,state,la.uscongress.1814,Acadia,olt_acadiacnty,NA,"Robertson, Thomas Bolling",RT0026,Democratic-Republican,273
+meae.congressional.congress14.la.county,congressional,14,LA,county,state,la.uscongress.1814,German Coast,olt_germancoastcnty,NA,"Robertson, Thomas Bolling",RT0026,Democratic-Republican,65
+meae.congressional.congress14.la.county,congressional,14,LA,county,state,la.uscongress.1814,Oppeloussa,olt_opelousascnty,NA,"Robertson, Thomas Bolling",RT0026,Democratic-Republican,264
+meae.congressional.congress14.la.county,congressional,14,LA,county,state,la.uscongress.1814,Acadia,olt_acadiacnty,NA,"Prevost, John B.",PJ0122,Federalist,3
+meae.congressional.congress14.la.county,congressional,14,LA,county,state,la.uscongress.1814,German Coast,olt_germancoastcnty,NA,"Prevost, John B.",PJ0122,Federalist,1
+meae.congressional.congress14.la.county,congressional,14,LA,county,state,la.uscongress.1814,Oppeloussa,olt_opelousascnty,NA,"Prevost, John B.",PJ0122,Federalist,1
+meae.congressional.congress14.la.county,congressional,14,LA,county,state,la.uscongress.1814,Acadia,olt_acadiacnty,NA,"Landry, John",LJ0059,NA,0
+meae.congressional.congress14.la.county,congressional,14,LA,county,state,la.uscongress.1814,German Coast,olt_germancoastcnty,NA,"Landry, John",LJ0059,NA,0
+meae.congressional.congress14.la.county,congressional,14,LA,county,state,la.uscongress.1814,Oppeloussa,olt_opelousascnty,NA,"Landry, John",LJ0059,NA,0
+meae.congressional.congress14.la.county,congressional,14,LA,county,state,la.uscongress.1814,German Coast,olt_germancoastcnty,NA,NA,Other candidates,NA,1
