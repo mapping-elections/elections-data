@@ -1,0 +1,4 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress17.ms.county,ms.uscongress.1820,Christopher Rankin,RC0047,At-large,Democratic-Republican,3908,3910,0.999,TRUE,FALSE
+meae.congressional.congress17.ms.county,ms.uscongress.1820,Cowles Mead,MC0004,At-large,NA,1,3910,0,FALSE,FALSE
+meae.congressional.congress17.ms.county,ms.uscongress.1820,Thomas B. Read,RT0129,At-large,NA,1,3910,0,FALSE,FALSE

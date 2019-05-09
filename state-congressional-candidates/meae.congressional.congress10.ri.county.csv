@@ -1,0 +1,7 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress10.ri.county,ri.uscongress.1806,Nehemiah Knight,KN0024,At-large,Democratic-Republican,1794,6700,0.268,TRUE,FALSE
+meae.congressional.congress10.ri.county,ri.uscongress.1806,Isaac Wilbour,WI0068,At-large,Democratic-Republican,1630,6700,0.243,TRUE,FALSE
+meae.congressional.congress10.ri.county,ri.uscongress.1806,William Hunter,HW0370,At-large,Federalist,1483,6700,0.221,FALSE,FALSE
+meae.congressional.congress10.ri.county,ri.uscongress.1806,Thomas Arnold,AT0043,At-large,Federalist,1456,6700,0.217,FALSE,FALSE
+meae.congressional.congress10.ri.county,ri.uscongress.1806,Thomas B. Hazard,HT0204,At-large,Republican Faction,310,6700,0.046,FALSE,FALSE
+meae.congressional.congress10.ri.county,ri.uscongress.1806,scattering,NA,At-large,NA,27,6700,0.004,FALSE,FALSE

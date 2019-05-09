@@ -1,0 +1,3 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress11.de.county,de.uscongress.1808,Nicholas Van Dyke,VN0010,At-large,Federalist,3242,6079,0.533,TRUE,FALSE
+meae.congressional.congress11.de.county,de.uscongress.1808,Joseph Haslet,HJ0024,At-large,Democratic-Republican,2837,6079,0.467,FALSE,FALSE

@@ -1,0 +1,8 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress11.tn.county,tn.congress.washington.1809,John Rhea,RJ0595,1,Democratic-Republican,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress11.tn.county,tn.congress.hamilton.1809,Pleasant M. Miller,MP0110,2,Democratic-Republican,1107,1434,0.772,TRUE,FALSE
+meae.congressional.congress11.tn.county,tn.congress.hamilton.1809,scattering,NA,2,NA,327,1434,0.228,FALSE,FALSE
+meae.congressional.congress11.tn.county,tn.congress.mero.1809,Robert Weakley,WR0102,3,Democratic-Republican,3171,6688,0.474,TRUE,FALSE
+meae.congressional.congress11.tn.county,tn.congress.mero.1809,Abraham Maury,MA0293,3,Democratic-Republican,2671,6688,0.399,FALSE,FALSE
+meae.congressional.congress11.tn.county,tn.congress.mero.1810,James Lyon,LJ0535,3,Democratic-Republican,844,6688,0.126,FALSE,FALSE
+meae.congressional.congress11.tn.county,tn.congress.mero.1811,Moses Fisk,FM0045,3,NA,2,6688,0,FALSE,FALSE

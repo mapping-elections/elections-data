@@ -1,0 +1,4 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress14.in.county,in.uscongress.1816,William Hendricks,HW0072,At-large,Democratic-Republican,5160,6430,0.802,TRUE,FALSE
+meae.congressional.congress14.in.county,in.uscongress.1816,Allen D. Thom,TA0002,At-large,NA,1269,6430,0.197,FALSE,FALSE
+meae.congressional.congress14.in.county,in.uscongress.1816,George R.C. Sullivan,SG0008,At-large,NA,1,6430,0,FALSE,FALSE

@@ -1,0 +1,5 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress13.ri.county,ri.uscongress.1812,"Richard Jackson, Jr.",JR0052,At-large,Federalist,4454,15218,0.293,TRUE,FALSE
+meae.congressional.congress13.ri.county,ri.uscongress.1812,Elisha Potter,PE0102,At-large,Federalist,4446,15218,0.292,TRUE,FALSE
+meae.congressional.congress13.ri.county,ri.uscongress.1812,Jonathan Russell,RJ0591,At-large,Democratic-Republican,3164,15218,0.208,FALSE,FALSE
+meae.congressional.congress13.ri.county,ri.uscongress.1812,Isaac Wilbour,WI0068,At-large,Democratic-Republican,3154,15218,0.207,FALSE,FALSE

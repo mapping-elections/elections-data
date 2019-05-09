@@ -1,0 +1,23 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress17.sc.county,sc.uscongress.charleston.1820,Joel R. Poinsett,PJ0709,1,Federalist,1326,2613,0.507,TRUE,FALSE
+meae.congressional.congress17.sc.county,sc.uscongress.charleston.1820,John Geddes,GJ0575,1,Democratic-Republican,1287,2613,0.493,FALSE,FALSE
+meae.congressional.congress17.sc.county,sc.uscongress.beaufort.1820,William Lowndes,LW0219,2,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress17.sc.county,sc.uscongress.georgetown.1820,Thomas R. Mitchell,MT0226,3,Democratic-Republican,1466,2961,0.495,TRUE,FALSE
+meae.congressional.congress17.sc.county,sc.uscongress.georgetown.1820,Benjamin Huger,HB0145,3,Federalist,1161,2961,0.392,FALSE,FALSE
+meae.congressional.congress17.sc.county,sc.uscongress.georgetown.1820,John R. Wilson,WJ0939,3,Democratic-Republican,334,2961,0.113,FALSE,FALSE
+meae.congressional.congress17.sc.county,sc.uscongress.orangeburgh.1820,James Overstreet,OJ0112,4,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress17.sc.county,sc.uscongress.orangeburgh.1820,John M. Felder,FJ0438,4,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress17.sc.county,sc.uscongress.fairfield.1820,Starling Tucker,TS0104,5,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress17.sc.county,sc.uscongress.fairfield.1820,William Strother,SW0307,5,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress17.sc.county,sc.uscongress.fairfield.1820,Samuel Johnston,JS0080,5,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress17.sc.county,sc.uscongress.fairfield.1820,Alston,NA,5,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress17.sc.county,sc.uscongress.fairfield.1820,Bratton,NA,5,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress17.sc.county,sc.uscongress.fairfield.1820,E. Pearson,PE0114,5,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress17.sc.county,sc.uscongress.fairfield.1820,Towny Powell,PT0129,5,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress17.sc.county,sc.uscongress.fairfield.1820,blank,NA,5,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress17.sc.county,sc.uscongress.edgefield.1820,George MacDuffie,MG0132,6,Democratic-Republican,2642,2642,1,TRUE,TRUE
+meae.congressional.congress17.sc.county,sc.uscongress.pendleton.1820,John Wilson,WJ0940,7,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress17.sc.county,sc.uscongress.pendleton.1820,Elias Earle,EE0042,7,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress17.sc.county,sc.uscongress.chester.1820,Joseph Gist,GJ0573,8,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress17.sc.county,sc.uscongress.chester.1820,James MacCreary,MJ1355,8,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress17.sc.county,sc.uscongress.kershaw.1820,John S. Richardson,RJ0637,9,Democratic-Republican,NA,0,NA,TRUE,TRUE

@@ -1,0 +1,5 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress04.ri.county,ri.uscongress1.1794,Benjamin Bourn,BB0013,1,Federalist,1880,3018,0.623,TRUE,FALSE
+meae.congressional.congress04.ri.county,ri.uscongress1.1794,Peleg Arnold,AP0028,1,Democratic-Republican,1138,3018,0.377,FALSE,FALSE
+meae.congressional.congress04.ri.county,ri.uscongress2.1794,Francis Malbone,MF0037,2,Federalist,1911,3089,0.619,TRUE,FALSE
+meae.congressional.congress04.ri.county,ri.uscongress2.1794,"Joseph Stanton, Jr.",SJ1416,2,Democratic-Republican,1178,3089,0.381,FALSE,FALSE

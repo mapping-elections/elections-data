@@ -1,0 +1,40 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress19.nc.county,nc.uscongress1.1825,Lemuel Sawyer,SL0032,1,Anti-Caucus,2483,4154,0.598,TRUE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress1.1825,Alfred M. Gatlin,GA0047,1,Caucus,1671,4154,0.402,FALSE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress10.1825,"John Long, Jr.",LJ0271,10,Caucus,3246,6135,0.529,TRUE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress10.1825,John Giles,GJ0347,10,Anti-Caucus,2889,6135,0.471,FALSE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress11.1825,Henry W. Conner,CH0119,11,Anti-Caucus,2693,2984,0.902,TRUE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress11.1825,T. Hunt,HT0022,11,NA,250,2984,0.084,FALSE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress11.1825,D. Forney,FD0003,11,NA,6,2984,0.002,FALSE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress11.1825,Conrad,NA,11,NA,4,2984,0.001,FALSE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress11.1825,Samuel Henderson,HS0045,11,NA,3,2984,0.001,FALSE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress11.1825,Shipp,NA,11,NA,2,2984,0.001,FALSE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress11.1825,P. Forney,FP0017,11,NA,1,2984,0,FALSE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress11.1825,Jacob Ingle,IJ0017,11,NA,1,2984,0,FALSE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress11.1825,William Davidson,DW0128,11,NA,1,2984,0,FALSE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress11.1825,M. R.,NA,11,NA,1,2984,0,FALSE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress11.1825,J. Z.,NA,11,NA,1,2984,0,FALSE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress11.1825,blank,NA,11,NA,21,2984,0.007,FALSE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress12.1825,Samuel P. Carson,CS0161,12,Anti-Caucus,2081,5908,0.352,TRUE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress12.1825,Robert B. Vance,VR0007,12,Caucus,1924,5908,0.326,FALSE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress12.1825,James Graham,GJ0348,12,Anti-Caucus,1903,5908,0.322,FALSE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress13.1825,Lewis Williams,WL0047,13,Caucus,3102,5003,0.62,TRUE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress13.1825,Meshack Franklin,FM0021,13,Anti-Caucus,1901,5003,0.38,FALSE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress2.1825,Willis Alston,AW0047,2,Anti-Caucus,1321,3136,0.421,TRUE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress2.1825,George B. Outlaw,OG0010,2,Caucus,978,3136,0.312,FALSE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress2.1825,James Grant,GJ0349,2,Anti-Caucus,837,3136,0.267,FALSE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress3.1825,Richard Hines,HR0171,3,Anti-Caucus,2607,4950,0.527,TRUE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress3.1825,Thomas H. Hall,HT0135,3,Caucus,2343,4950,0.473,FALSE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress4.1825,John H. Bryan,BJ0862,4,Anti-Caucus,2488,4880,0.51,TRUE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress4.1825,Richard D. Spaight,SR0172,4,Caucus,2392,4880,0.49,FALSE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress5.1825,Gabriel Holmes,HG0080,5,Anti-Caucus,3347,5329,0.628,TRUE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress5.1825,Charles Hooks,HC0086,5,Caucus,1982,5329,0.372,FALSE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress6.1825,Weldon N. Edwards,EW0066,6,Caucus,2804,2804,1,TRUE,TRUE
+meae.congressional.congress19.nc.county,nc.uscongress7.1825,Archibald MacNeill,MA0181,7,Anti-Caucus,3086,9087,0.34,TRUE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress7.1825,John Culpepper,CJ0545,7,Caucus,2905,9087,0.32,FALSE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress7.1825,Barrott,NA,7,NA,3,9087,0,FALSE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress7.1825,scattering,NA,7,NA,7,9087,0.001,FALSE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress8.1825,Willie P. Mangum,MW0251,8,Caucus,2301,4544,0.506,TRUE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress8.1825,Josiah Crudup,CJ0586,8,Anti-Caucus,2243,4544,0.494,FALSE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress9.1825,Romulus M. Saunders,SR0176,9,Caucus,NA,0,NA,TRUE,FALSE
+meae.congressional.congress19.nc.county,nc.uscongress9.1825,scattering,NA,9,Anti-Caucus,NA,0,NA,FALSE,FALSE

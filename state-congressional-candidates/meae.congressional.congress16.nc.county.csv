@@ -1,0 +1,27 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress16.nc.county,nc.uscongress1.1819,Lemuel Sawyer,SL0032,1,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress16.nc.county,nc.uscongress1.1819,Voight,NA,1,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress16.nc.county,nc.uscongress10.1819,Charles Fisher,FC0020,10,Democratic-Republican,2991,4596,0.651,TRUE,FALSE
+meae.congressional.congress16.nc.county,nc.uscongress10.1819,Wiley Jones,JW0060,10,Federalist,1605,4596,0.349,FALSE,FALSE
+meae.congressional.congress16.nc.county,nc.uscongress11.1819,William Davidson,DW0128,11,Federalist,1708,3790,0.451,TRUE,FALSE
+meae.congressional.congress16.nc.county,nc.uscongress11.1819,John F. Brevard,BJ0839,11,Democratic-Republican,1403,3790,0.37,FALSE,FALSE
+meae.congressional.congress16.nc.county,nc.uscongress11.1819,Henry W. Conner,CH0119,11,Democratic-Republican,678,3790,0.179,FALSE,FALSE
+meae.congressional.congress16.nc.county,nc.uscongress11.1819,blank,NA,11,NA,1,3790,0,FALSE,FALSE
+meae.congressional.congress16.nc.county,nc.uscongress12.1819,Felix Walker,WF0041,12,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress16.nc.county,nc.uscongress12.1819,Joseph M. D. Carson,CJ0555,12,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress16.nc.county,nc.uscongress13.1819,Lewis Williams,WL0047,13,Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress16.nc.county,nc.uscongress2.1819,Hutchins G. Burton,BH0084,2,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress16.nc.county,nc.uscongress3.1819,Thomas H. Hall,HT0135,3,Democratic-Republican,2565,3282,0.782,TRUE,FALSE
+meae.congressional.congress16.nc.county,nc.uscongress3.1819,John Holland,HJ0665,3,Federalist,717,3282,0.218,FALSE,FALSE
+meae.congressional.congress16.nc.county,nc.uscongress4.1819,Jesse Slocumb,SJ0848,4,Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress16.nc.county,nc.uscongress5.1819,Charles Hooks,HC0086,5,Democratic-Republican,2745,4651,0.59,TRUE,FALSE
+meae.congressional.congress16.nc.county,nc.uscongress5.1819,Samuel Stanford,SS0230,5,Federalist,1906,4651,0.41,FALSE,FALSE
+meae.congressional.congress16.nc.county,nc.uscongress6.1819,Welden N. Edwards,EW0066,6,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress16.nc.county,nc.uscongress7.1819,John Culpepper,CJ0545,7,Federalist,2758,5307,0.52,TRUE,FALSE
+meae.congressional.congress16.nc.county,nc.uscongress7.1819,James Stewart,SJ0842,7,Democratic-Republican,2549,5307,0.48,FALSE,FALSE
+meae.congressional.congress16.nc.county,nc.uscongress8.1819,James S. Smith,SJ0849,8,Democratic-Republican,2554,4680,0.546,TRUE,FALSE
+meae.congressional.congress16.nc.county,nc.uscongress8.1819,Samuel Dickens,DS0131,8,Federalist,2126,4680,0.454,FALSE,FALSE
+meae.congressional.congress16.nc.county,nc.uscongress9.1819,Thomas Settle,ST0194,9,Democratic-Republican,3461,3461,1,TRUE,FALSE
+meae.congressional.congress16.nc.county,nc.uscongress9.1819,William Snow,SW0165,9,Democratic-Republican,NA,3461,NA,FALSE,FALSE
+meae.congressional.congress16.nc.county,nc.uscongress9.1819,Joshua Cox,CJ0541,9,NA,NA,3461,NA,FALSE,FALSE
+meae.congressional.congress16.nc.county,nc.uscongress9.1819,Sanders,NA,9,NA,NA,3461,NA,FALSE,FALSE

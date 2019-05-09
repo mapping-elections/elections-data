@@ -1,0 +1,35 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress08.nc.county,nc.uscongress1.1803,Thomas Wynns,WT0142,1,Democratic-Republican,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress08.nc.county,nc.uscongress10.1803,Nathaniel Alexander,AN0006,10,Democratic-Republican,1966,3525,0.558,TRUE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress10.1803,Basil Gaither,GB0036,10,Federalist,1559,3525,0.442,FALSE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress11.1803,James Holland,HJ0602,11,Democratic-Republican,3052,4318,0.707,TRUE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress11.1803,William Tate,TW0079,11,Federalist,1266,4318,0.293,FALSE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress12.1803,Joseph Winston,WJ0494,12,Democratic-Republican,1451,4897,0.296,TRUE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress12.1803,Meshack Franklin,FM0021,12,Democratic-Republican,1401,4897,0.286,FALSE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress12.1803,William Lenoir,LW0115,12,Democratic-Republican,1115,4897,0.228,FALSE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress12.1803,George Houser,HG0081,12,Democratic-Republican,475,4897,0.097,FALSE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress12.1803,Mussendine Matthews,MM0040,12,Federalist,455,4897,0.093,FALSE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress2.1803,Willis Alston,AW0047,2,Democratic-Republican,1986,3149,0.631,TRUE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress2.1803,William R. Davie,DW0110,2,Federalist,1163,3149,0.369,FALSE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress3.1803,William Kennedy,KW0059,3,Democratic-Republican,1678,3286,0.511,TRUE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress3.1803,Thomas Blount,BT0194,3,Democratic-Republican,1608,3286,0.489,FALSE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress4.1803,William Blackledge,BW0216,4,Democratic-Republican,2653,4429,0.599,TRUE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress4.1803,John Stanly,SJ0834,4,Federalist,1776,4429,0.401,FALSE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress5.1803,James Gillespie,GJ0328,5,Democratic-Republican,2087,3631,0.575,TRUE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress5.1803,Alexander D. Moore,MA0151,5,Federalist,1544,3631,0.425,FALSE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress6.1803,Nathaniel Macon,MN0068,6,Democratic-Republican,2396,2401,0.998,TRUE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress6.1803,John Haywood,HJ0621,6,NA,1,2401,0,FALSE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress6.1803,Thomas Taylor,TT0079,6,NA,1,2401,0,FALSE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress6.1803,Robert Parke,PR0035,6,NA,1,2401,0,FALSE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress6.1803,Solomon Green,GS0059,6,NA,1,2401,0,FALSE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress6.1803,Kemp Plummer,PK0000,6,NA,1,2401,0,FALSE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress7.1803,Samuel Purviance,PS0066,7,Federalist,2196,5188,0.423,TRUE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress7.1803,Duncan MacFarland,MD0119,7,Democratic-Republican,1710,5188,0.33,FALSE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress7.1803,Isaac Lanier,LI0016,7,Federalist,1226,5188,0.236,FALSE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress7.1803,John Hay,HJ0601,7,Democratic-Republican,56,5188,0.011,FALSE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress8.1803,Richard Stanford,SR0175,8,Democratic-Republican,2529,3367,0.751,TRUE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress8.1803,Nathaniel Jones,JN0005,8,Federalist,838,3367,0.249,FALSE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress9.1803,Marmaduke Williams,WM0000,9,Democratic-Republican,2292,4258,0.538,TRUE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress9.1803,Theophilus Lacy,LT0067,9,Democratic-Republican,1205,4258,0.283,FALSE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress9.1803,William Nash,NW0023,9,Democratic-Republican,659,4258,0.155,FALSE,FALSE
+meae.congressional.congress08.nc.county,nc.uscongress9.1803,Anton Brown,BA0157,9,Federalist,102,4258,0.024,FALSE,FALSE

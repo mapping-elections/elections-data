@@ -1,0 +1,45 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress16.pa.county,pa.congress.1.1818,John Sergeant,SJ1073,1,Federalist,5659,39713,0.142,TRUE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.1.1818,Joseph Hemphill,HJ0774,1,Federalist,5658,39713,0.142,TRUE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.1.1818,Samuel Edwards,ES0034,1,Federalist,5485,39713,0.138,TRUE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.1.1818,Thomas Forrest,FT0063,1,Federalist,5242,39713,0.132,TRUE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.1.1818,Nicholas Biddle,BN0101,1,Democratic-Republican,4650,39713,0.117,FALSE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.1.1818,John Connelly,CJ0746,1,Democratic-Republican,4316,39713,0.109,FALSE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.1.1818,George G. Leiper,LG0067,1,Democratic-Republican,4261,39713,0.107,FALSE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.1.1818,Jacob Sommer,SJ1311,1,Democratic-Republican,4237,39713,0.107,FALSE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.1.1818,Charles W. Hare,HC0120,1,Democratic-Republican,205,39713,0.005,FALSE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.10.1818,John Murray,MJ0979,10,Democratic-Republican,7423,14722,0.504,TRUE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.10.1818,George Dennison,DG0052,10,Democratic-Republican,7299,14722,0.496,TRUE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.10.1818,Charles Mause,MC0062,10,Federalist,NA,14722,NA,FALSE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.10.1818,William F. Morris,MW0416,10,Federalist,NA,14722,NA,FALSE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.11.1818,David Marchand,MD0187,11,Democratic-Republican,2470,4699,0.526,TRUE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.11.1818,James M. Kelly,KJ0277,11,Federalist,2229,4699,0.474,FALSE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.12.1818,Thomas Patterson,PT0153,12,Democratic-Republican,1503,2287,0.657,TRUE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.12.1818,Joseph Pentecost,PJ0581,12,Federalist,784,2287,0.343,FALSE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.13.1818,Christian Tarr,TC0055,13,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.13.1818,Henry Heaton,HH0067,13,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.14.1818,Henry Baldwin,BH0142,14,Federalist,2305,4189,0.55,TRUE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.14.1818,Samuel Douglas,DS0152,14,Democratic-Republican,1884,4189,0.45,FALSE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.15.1818,Robert Moore,MR0144,15,Democratic-Republican,2516,4701,0.535,TRUE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.15.1818,Thomas Wilson,WT0157,15,Democratic-Republican,2185,4701,0.465,FALSE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.2.1818,William Darlington,DW0154,2,Democratic-Republican,4811,17835,0.27,TRUE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.2.1818,Samuel Gross,GS0076,2,Democratic-Republican,4729,17835,0.265,TRUE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.2.1818,Levi Pawling,PL0018,2,Federalist,4178,17835,0.234,FALSE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.2.1818,James Kelton,KJ0198,2,Federalist,4117,17835,0.231,FALSE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.3.1818,Jacob Hibshman,HJ0843,3,Democratic-Republican,4477,16807,0.266,TRUE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.3.1818,James Wallace,WJ0814,3,Democratic-Republican,4426,16807,0.263,TRUE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.3.1818,James Montgomery,MJ1195,3,Federalist,3967,16807,0.236,FALSE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.3.1818,John Whiteside,WJ0716,3,Federalist,3937,16807,0.234,FALSE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.4.1818,Jacob Hostetter,HJ0778,4,Democratic-Republican,2967,2967,1,TRUE,TRUE
+meae.congressional.congress16.pa.county,pa.congress.5.1818,David Fullerton,FD0036,5,Democratic-Republican,4435,14747,0.301,TRUE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.5.1818,Andrew Boden,BA0228,5,Democratic-Republican,4340,14747,0.294,TRUE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.5.1818,Alexander Cobean,CA0149,5,Federalist,3040,14747,0.206,FALSE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.5.1818,John P. Helfenstein,HJ1116,5,Federalist,2932,14747,0.199,FALSE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.6.1818,Samuel Moore,MS0176,6,Democratic-Republican,4577,9038,0.506,TRUE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.6.1818,Thomas J. Rogers,RT0097,6,Democratic-Republican,4461,9038,0.494,TRUE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.7.1818,Joseph Hiester,HJ0793,7,Federalist,2282,4067,0.561,TRUE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.7.1818,Jonathan Hudson,HJ0990,7,Democratic-Republican,1785,4067,0.439,FALSE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.8.1818,Robert Philson,PR0062,8,Democratic-Republican,1880,3153,0.596,TRUE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.8.1818,John A. Burd,BJ1239,8,Federalist,1273,3153,0.404,FALSE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.9.1818,William P. Maclay,MW0408,9,Democratic-Republican,4454,5716,0.779,TRUE,FALSE
+meae.congressional.congress16.pa.county,pa.congress.9.1818,John Brown,BJ1047,9,Democratic-Republican,1262,5716,0.221,FALSE,FALSE

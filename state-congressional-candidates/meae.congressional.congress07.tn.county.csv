@@ -1,0 +1,4 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress07.tn.county,tn.congress.1801,William C.C. Claiborne,CW0037,At-large,Democratic-Republican,7977,9240,0.863,TRUE,FALSE
+meae.congressional.congress07.tn.county,tn.congress.1801,John Rhea,RJ0595,At-large,Democratic-Republican,1261,9240,0.136,FALSE,FALSE
+meae.congressional.congress07.tn.county,tn.congress.1801,John Sevier,SJ0166,At-large,NA,2,9240,0,FALSE,FALSE

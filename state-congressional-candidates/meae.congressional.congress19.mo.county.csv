@@ -1,0 +1,4 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress19.mo.county,mo.uscongress.1824,John Scott,SJ0448,At-large,Adams/Clay,5031,10684,0.471,TRUE,FALSE
+meae.congressional.congress19.mo.county,mo.uscongress.1824,George F. Strother,SG0055,At-large,NA,4528,10684,0.424,FALSE,FALSE
+meae.congressional.congress19.mo.county,mo.uscongress.1824,Robert Wash,WR0078,At-large,NA,1125,10684,0.105,FALSE,FALSE

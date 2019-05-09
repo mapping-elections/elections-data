@@ -1,0 +1,31 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress06.pa.county,pa.uscongress1.1798,Robert Waln,WR0132,1,Federalist,865,1236,0.7,TRUE,FALSE
+meae.congressional.congress06.pa.county,pa.uscongress1.1798,Samuel Miles,MS0150,1,Democratic-Republican,371,1236,0.3,FALSE,FALSE
+meae.congressional.congress06.pa.county,pa.uscongress10.1798,Henry Woods,WH0059,10,Federalist,2546,4742,0.537,TRUE,FALSE
+meae.congressional.congress06.pa.county,pa.uscongress10.1798,Thomas Johnston,JT0037,10,Federalist,1228,4742,0.259,FALSE,FALSE
+meae.congressional.congress06.pa.county,pa.uscongress10.1798,David Bard,BD0120,10,Democratic-Republican,968,4742,0.204,FALSE,FALSE
+meae.congressional.congress06.pa.county,pa.uscongress11.1798,John Smilie,SJ0970,11,Democratic-Republican,1782,3873,0.46,TRUE,FALSE
+meae.congressional.congress06.pa.county,pa.uscongress11.1798,William Todd,TW0090,11,Federalist,1265,3873,0.327,FALSE,FALSE
+meae.congressional.congress06.pa.county,pa.uscongress11.1798,James Guthrie,GJ0379,11,Federalist,826,3873,0.213,FALSE,FALSE
+meae.congressional.congress06.pa.county,pa.uscongress12.1798,Albert Gallatin,GA0061,12,Democratic-Republican,3926,6667,0.589,TRUE,FALSE
+meae.congressional.congress06.pa.county,pa.uscongress12.1798,John Woods,WJ0613,12,Federalist,2741,6667,0.411,FALSE,FALSE
+meae.congressional.congress06.pa.county,pa.uscongress2.1798,Michael Leib,LM0058,2,Democratic-Republican,1129,1999,0.565,TRUE,FALSE
+meae.congressional.congress06.pa.county,pa.uscongress2.1798,Anthony Morris,MA0209,2,Federalist,870,1999,0.435,FALSE,FALSE
+meae.congressional.congress06.pa.county,pa.uscongress2.1798,Samuel Miles,MS0150,2,NA,NA,1999,NA,FALSE,FALSE
+meae.congressional.congress06.pa.county,pa.uscongress3.1798,Richard Thomas,TR0064,3,Federalist,3760,5274,0.713,TRUE,FALSE
+meae.congressional.congress06.pa.county,pa.uscongress3.1798,John Pearson,PJ0431,3,Democratic-Republican,1514,5274,0.287,FALSE,FALSE
+meae.congressional.congress06.pa.county,pa.uscongress4.1798,Robert Brown,BR0106,4,Democratic-Republican,5372,17278,0.311,TRUE,FALSE
+meae.congressional.congress06.pa.county,pa.uscongress4.1798,Peter Muhlenberg,MP0089,4,Democratic-Republican,4935,17278,0.286,TRUE,FALSE
+meae.congressional.congress06.pa.county,pa.uscongress4.1798,John Chapman,CJ0685,4,Federalist,3605,17278,0.209,FALSE,FALSE
+meae.congressional.congress06.pa.county,pa.uscongress4.1798,Jacob Eyerly,EJ0166,4,Federalist,3288,17278,0.19,FALSE,FALSE
+meae.congressional.congress06.pa.county,pa.uscongress4.1798,Anthony Morris,MA0209,4,Federalist,78,17278,0.005,FALSE,FALSE
+meae.congressional.congress06.pa.county,pa.uscongress5.1798,Joseph Heister,HJ0793,5,Democratic-Republican,3461,4953,0.699,TRUE,FALSE
+meae.congressional.congress06.pa.county,pa.uscongress5.1798,Daniel Clymer,CD0166,5,Federalist,1492,4953,0.301,FALSE,FALSE
+meae.congressional.congress06.pa.county,pa.uscongress6.1798,John A. Hanna,HJ0754,6,Democratic-Republican,3052,4606,0.663,TRUE,FALSE
+meae.congressional.congress06.pa.county,pa.uscongress6.1798,Daniel Smith,SD0132,6,Federalist,1554,4606,0.337,FALSE,FALSE
+meae.congressional.congress06.pa.county,pa.uscongress7.1798,John W. Kittera,KJ0172,7,Federalist,1403,1810,0.775,TRUE,FALSE
+meae.congressional.congress06.pa.county,pa.uscongress7.1798,William Barton,BW0270,7,Democratic-Republican,407,1810,0.225,FALSE,FALSE
+meae.congressional.congress06.pa.county,pa.uscongress8.1798,Thomas Hartley,HT0154,8,Federalist,3857,4516,0.854,TRUE,FALSE
+meae.congressional.congress06.pa.county,pa.uscongress8.1798,Henry Slagle,SH0129,8,Democratic-Republican,659,4516,0.146,FALSE,FALSE
+meae.congressional.congress06.pa.county,pa.uscongress9.1798,Andrew Gregg,GA0060,9,Democratic-Republican,2618,4530,0.578,TRUE,FALSE
+meae.congressional.congress06.pa.county,pa.uscongress9.1798,James Armstrong,AJ0015,9,Federalist,1912,4530,0.422,FALSE,FALSE

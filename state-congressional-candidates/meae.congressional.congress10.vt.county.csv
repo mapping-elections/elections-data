@@ -1,0 +1,118 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress10.vt.county,vt.uscongress.northeast.1806,James Fisk,FJ0462,3,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northeast.1806,William Chamberlain,CW0352,3,Federalist,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northeast.1806,Samuel C. Crafts,CS0219,3,Democratic-Republican,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northeast.1806,Reuben Blanchard,BR0162,3,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northeast.1806,John Mattocks,MJ1397,3,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northeast.1806,Israel Smith,SI0092,3,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northeast.1806,Isaac Tichenor,TI0032,3,Federalist,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northeast.1806,Paul Brigham,BP0101,3,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northeast.1806,John Cameron,CJ0764,3,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northeast.1806,Daniel Peaslee,PD0105,3,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northeast.1806,Benjamin Swan,SB0024,3,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northeast.1806,Cyrus Ware,WC0078,3,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northeast.1806,William A. Griswold,GW0183,3,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northeast.1806,"David King, Jr.",KD0035,3,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northeast.1806,Nathaniel King,KN0020,3,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northeast.1806,Abraham Morris,MA0214,3,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northeast.1806,Joseph Woodworth,WJ0784,3,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,Martin Chittenden,CM0084,4,Federalist,2178,4146,0.525,TRUE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,Ezra Butler,BE0213,4,Democratic-Republican,1794,4146,0.433,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,Israel Smith,SI0092,4,NA,31,4146,0.007,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,Noah Chittenden,CN0046,4,NA,29,4146,0.007,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,Amos Marsh,MA0292,4,NA,16,4146,0.004,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,Charles Rich,RC0058,4,NA,16,4146,0.004,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,Isaac Tichenor,TI0032,4,Federalist,12,4146,0.003,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,James Witherell,WJ0969,4,NA,11,4146,0.003,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,Loyal Case,CL0039,4,NA,9,4146,0.002,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,Paul Brigham,BP0101,4,NA,6,4146,0.001,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,Udney Hay,HU0003,4,NA,4,4146,0.001,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,Herman Allen,AH0032,4,NA,4,4146,0.001,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,James Fisk,FJ0462,4,NA,4,4146,0.001,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,Daniel Chipman,CD0204,4,Federalist,3,4146,0.001,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,Nathan Levenworth,LN0032,4,NA,2,4146,0,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,Joel Linsley,LJ0546,4,NA,2,4146,0,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,Seth Pomeroy,PS0177,4,NA,2,4146,0,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,Nathan Robinson,RN0000,4,NA,2,4146,0,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,Lewis Sowles,SL0041,4,NA,2,4146,0,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,Benjamin Swan,SB0024,4,NA,2,4146,0,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,William Belknap,BW0342,4,NA,1,4146,0,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,Lemuel Bottom,BL0078,4,NA,1,4146,0,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,Joseph Brisman,BJ1128,4,NA,1,4146,0,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,Salath Bum,BS0196,4,NA,1,4146,0,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,Isaac Butler,BI0086,4,NA,1,4146,0,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,Joseph D. Farnsworth,FJ0363,4,NA,1,4146,0,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,Stephen Horn,HS0253,4,NA,1,4146,0,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,John Jackson,JJ0217,4,NA,1,4146,0,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,Samuel Jewett,JS0040,4,NA,1,4146,0,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,John S. Larrabee,LJ0472,4,NA,1,4146,0,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,John Peck,PJ0719,4,NA,1,4146,0,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,Silas Pond,PS0186,4,NA,1,4146,0,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,Moses Robinson,RM0013,4,NA,1,4146,0,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,Erastus Safford,SE0179,4,NA,1,4146,0,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,Samuel Strong,SS0315,4,NA,1,4146,0,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,Obediah Walker,WO0019,4,NA,1,4146,0,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.northwest.1806,Zerah Willoughby,WZ0002,4,NA,1,4146,0,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,James Elliot,EJ0292,2,Federalist,2239,NA,NA,TRUE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,William Hunter,HW0335,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,Elijah Knight,KE0039,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,Aaron Leland,LA0135,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,Mark Richards,RM0056,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,Lewis R. Morris,ML0045,2,Federalist,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,William Strong,SW0343,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,Elias Keyes,KE0050,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,Samuel Porter,PS0176,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,Titus Hutchinson,HT0218,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,Pascal P. Enos,EP0028,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,Israel Smith,SI0092,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,James Roberts,RJ0495,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,Charles Marsh,MC0079,2,Federalist,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,Stephen Jacob,JS0060,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,Paul Brigham,BP0101,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,Isaac Tichenor,TI0032,2,Federalist,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,Reuben Attwater,AR0061,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,William C. Bradley,BW0418,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,Samuel Fletcher,FS0133,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,Jonathan H. Hubbard,HJ1289,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,James Witherell,WJ0969,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,Samuel Allen,AS0080,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,John Barrett,BJ1132,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,Alexander Campbell,CA0208,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,John Campbell,CJ0758,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,Jabez Delano,DJ0445,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,Asaph Fletcher,FA0083,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,Jabez Foster,FJ0356,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,John Gambel,GJ0495,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,Amos Heath,HA0220,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,John Leverett,LJ0544,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,Timothy Mather,MT0127,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,Nehemiah Nobles,NN0023,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,Benjamin Ross,RB0037,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,Samuel Sheppard,SS0251,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,Charles Steven,SC0157,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,Benjamin Swan,SB0024,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,Joseph Tilden,TJ0421,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southeast.1806,Lemuel Willis,WL0068,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southwest.1806,James Witherell,WJ0969,1,Democratic-Republican,2026,3439,0.589,TRUE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southwest.1806,Jonas Galusha,GJ0613,1,Democratic-Republican,1101,3439,0.32,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southwest.1806,Chauncey Langdon,LC0074,1,Federalist,NA,3439,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southwest.1806,Israel Smith,SI0092,1,NA,NA,3439,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southwest.1806,Ebenezer Harris,HE0149,1,NA,NA,3439,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southwest.1806,Gideon Olin,OG0018,1,NA,NA,3439,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southwest.1806,Nathan Robinson,RN0000,1,NA,NA,3439,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southwest.1806,Abel Spencer,SA0276,1,NA,NA,3439,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southwest.1806,Jacob Galusha,GJ0501,1,NA,NA,3439,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southwest.1806,Thomas Hammond,HT0030,1,NA,NA,3439,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southwest.1806,Chauncey Smith,SC0144,1,NA,NA,3439,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southwest.1806,"Jonas Clark, Jr.",CJ0790,1,NA,NA,3439,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southwest.1806,"William Henry, Jr.",HW0200,1,NA,NA,3439,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southwest.1806,Pere G. Ladd,LP0024,1,NA,NA,3439,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southwest.1806,Lewis R. Morris,ML0045,1,Federalist,NA,3439,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southwest.1806,Edward Oldin,OE0001,1,NA,NA,3439,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southwest.1806,Ezekiel Porter,PE0126,1,NA,NA,3439,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southwest.1806,"Moses Robinson, Jr.",RM0013,1,NA,NA,3439,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southwest.1806,Dyar Spellingwell,SD0203,1,NA,NA,3439,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southwest.1806,Asa Standish,SA0238,1,NA,NA,3439,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southwest.1806,Benjamin Swan,SB0024,1,NA,NA,3439,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southwest.1806,Solomon Wright,WS0114,1,NA,NA,3439,NA,FALSE,FALSE
+meae.congressional.congress10.vt.county,vt.uscongress.southwest.1806,scattering,NA,1,NA,312,3439,0.091,FALSE,FALSE

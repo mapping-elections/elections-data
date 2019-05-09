@@ -1,0 +1,10 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress02.ga.county,ga.uscongress.MiddleDistrict.1791,Abraham Baldwin,BA0026,2,Anti-Federalist,330,587,0.562,TRUE,FALSE
+meae.congressional.congress02.ga.county,ga.uscongress.MiddleDistrict.1791,Thomas P. Carnes,CT0042,2,Federalist,248,587,0.422,FALSE,FALSE
+meae.congressional.congress02.ga.county,ga.uscongress.MiddleDistrict.1791,James Jackson,JJ0004,2,NA,7,587,0.012,FALSE,FALSE
+meae.congressional.congress02.ga.county,ga.uscongress.MiddleDistrict.1791,John Jones,JJ0009,2,NA,2,587,0.003,FALSE,FALSE
+meae.congressional.congress02.ga.county,ga.uscongress.NorthernDistrict.1791,Francis Willis,WF0022,3,Anti-Federalist,549,825,0.665,TRUE,FALSE
+meae.congressional.congress02.ga.county,ga.uscongress.NorthernDistrict.1791,George Mathews,MG0009,3,Federalist,276,825,0.335,FALSE,FALSE
+meae.congressional.congress02.ga.county,ga.uscongress.SouthernDistrict.1791,Anthony Wayne,WA0009,1,Federalist,278,552,0.504,TRUE,FALSE
+meae.congressional.congress02.ga.county,ga.uscongress.SouthernDistrict.1791,James Jackson,JJ0004,1,Anti-Federalist,273,552,0.495,FALSE,FALSE
+meae.congressional.congress02.ga.county,ga.uscongress.SouthernDistrict.1791,scattering,NA,1,NA,1,552,0.002,FALSE,FALSE

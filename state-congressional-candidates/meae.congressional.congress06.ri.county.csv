@@ -1,0 +1,5 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress06.ri.county,ri.uscongress.1strep.1798,Christopher G. Champlin,CC0006,At-large,Federalist,2836,2908,0.975,TRUE,FALSE
+meae.congressional.congress06.ri.county,ri.uscongress.1strep.1798,scattering,NA,At-large,NA,72,2908,0.025,FALSE,FALSE
+meae.congressional.congress06.ri.county,ri.uscongress.2ndrep.1798,John Brown,BJ1311,At-large,Federalist,2680,4095,0.654,TRUE,FALSE
+meae.congressional.congress06.ri.county,ri.uscongress.2ndrep.1798,Thomas Tillinghast,TT0119,At-large,Democratic-Republican,1415,4095,0.346,FALSE,FALSE

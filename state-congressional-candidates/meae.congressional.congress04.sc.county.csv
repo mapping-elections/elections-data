@@ -1,0 +1,10 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress04.sc.county,sc.uscongress.district1.1794,William Smith,SW0299,1,Federalist,698,1351,0.517,TRUE,FALSE
+meae.congressional.congress04.sc.county,sc.uscongress.district1.1794,"John Rutledge, Jr.",RJ0621,1,Federalist,504,1351,0.373,FALSE,FALSE
+meae.congressional.congress04.sc.county,sc.uscongress.district1.1794,Thomas Tucker,TT0123,1,Democratic-Republican,149,1351,0.11,FALSE,FALSE
+meae.congressional.congress04.sc.county,NA,Wade Hampton,HW0374,2,Democratic-Republican,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress04.sc.county,NA,Lemuel Benton,BL0075,3,Democratic-Republican,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress04.sc.county,NA,Richard Winn,WR0158,4,Democratic-Republican,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress04.sc.county,sc.uscongress.district3.1794,Robert G. Harper,HR0079,5,Federalist,1389,2381,0.583,TRUE,FALSE
+meae.congressional.congress04.sc.county,sc.uscongress.district3.1794,John Hunter,HJ1210,5,Democratic-Republican,992,2381,0.417,FALSE,FALSE
+meae.congressional.congress04.sc.county,NA,Samuel Earle,NA,6,Democratic-Republican,NA,NA,NA,TRUE,TRUE

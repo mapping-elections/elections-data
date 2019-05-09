@@ -1,0 +1,17 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress01.pa.county,pa.congress.atlarge.1788,Frederick A. Muhlenberg,MF0016,At-large,Federalist,8726,116938,0.075,TRUE,FALSE
+meae.congressional.congress01.pa.county,pa.congress.atlarge.1788,Henry Wynkoop,WH0022,At-large,Federalist,8280,116938,0.071,TRUE,FALSE
+meae.congressional.congress01.pa.county,pa.congress.atlarge.1788,Thomas Hartley,HT0154,At-large,Federalist,8191,116938,0.07,TRUE,FALSE
+meae.congressional.congress01.pa.county,pa.congress.atlarge.1788,George Clymer,CG0011,At-large,Federalist,8116,116938,0.069,TRUE,FALSE
+meae.congressional.congress01.pa.county,pa.congress.atlarge.1788,Thomas Fitzsimons,FT0061,At-large,Federalist,8116,116938,0.069,TRUE,FALSE
+meae.congressional.congress01.pa.county,pa.congress.atlarge.1788,Thomas Scott,ST0215,At-large,Federalist,8096,116938,0.069,TRUE,FALSE
+meae.congressional.congress01.pa.county,pa.congress.atlarge.1788,Peter Muhlenberg,MP0089,At-large,Anti-Federalist,7465,116938,0.064,TRUE,FALSE
+meae.congressional.congress01.pa.county,pa.congress.atlarge.1788,Daniel Hiester,ZZ0005,At-large,Anti-Federalist,7455,116938,0.064,TRUE,FALSE
+meae.congressional.congress01.pa.county,pa.congress.atlarge.1788,John Allison,AJ0252,At-large,Federalist,7098,116938,0.061,FALSE,FALSE
+meae.congressional.congress01.pa.county,pa.congress.atlarge.1788,Stephen Chambers,CS0038,At-large,Federalist,7080,116938,0.061,FALSE,FALSE
+meae.congressional.congress01.pa.county,pa.congress.atlarge.1788,William Findley,FW0062,At-large,Anti-Federalist,6638,116938,0.057,FALSE,FALSE
+meae.congressional.congress01.pa.county,pa.congress.atlarge.1788,William Irvine,IW0016,At-large,Anti-Federalist,6546,116938,0.056,FALSE,FALSE
+meae.congressional.congress01.pa.county,pa.congress.atlarge.1788,Charles Pettit,PC0037,At-large,Anti-Federalist,6537,116938,0.056,FALSE,FALSE
+meae.congressional.congress01.pa.county,pa.congress.atlarge.1788,William Montgomery,MW0284,At-large,Anti-Federalist,6409,116938,0.055,FALSE,FALSE
+meae.congressional.congress01.pa.county,pa.congress.atlarge.1788,Blair MacClenachan,MB0070,At-large,Anti-Federalist,6277,116938,0.054,FALSE,FALSE
+meae.congressional.congress01.pa.county,pa.congress.atlarge.1788,Robert Whitehall,WR0153,At-large,Anti-Federalist,5908,116938,0.051,FALSE,FALSE

@@ -1,0 +1,129 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress07.ny.county,ny.uscongress1.1800,John Smith,SJ0689,1,Democratic-Republican,2268,4153,0.546,TRUE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress1.1800,Silas Wood,WS0084,1,Federalist,1874,4153,0.451,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress1.1800,William Denning,DW0080,1,Democratic-Republican,2,4153,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress1.1800,Benjamin Hunting,HB0116,1,Democratic-Republican,2,4153,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress1.1800,Ebenezer Purdy,PE0055,1,Democratic-Republican,2,4153,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress1.1800,John I. Skidmore,SJ0669,1,Democratic-Republican,1,4153,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress1.1800,Abraham Montfort,MA0107,1,Democratic-Republican,1,4153,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress1.1800,Joseph Pettit,PJ0298,1,Democratic-Republican,1,4153,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress1.1800,Johah Hallet,HJ0511,1,Democratic-Republican,1,4153,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress1.1800,Selah Strong,SS0176,1,Federalist,1,4153,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress10.1800,Thomas Morris,MT0003,10,Federalist,3266,6071,0.538,TRUE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress10.1800,William Stuart,SW0043,10,Democratic-Republican,2377,6071,0.392,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress10.1800,John Patterson,PJ0208,10,Democratic-Republican,264,6071,0.043,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress10.1800,Jediah Sanger,SJ0678,10,Federalist,53,6071,0.009,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress10.1800,"Robert Roseboom, Sr.",RR0035,10,Democratic-Republican,55,6071,0.009,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress10.1800,Benjamin Walker,WB0005,10,Federalist,13,6071,0.002,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress10.1800,Robert Morris,MR0058,10,NA,9,6071,0.001,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress10.1800,Edward Edwards,EE0031,10,Federalist,6,6071,0.001,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress10.1800,Francis Henry,HF0029,10,Federalist,5,6071,0.001,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress10.1800,Comfort Tyler,TC0040,10,Federalist,4,6071,0.001,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress10.1800,Samuel Tinckham,TS0003,10,NA,2,6071,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress10.1800,Silas Halsey,HS0138,10,Democratic-Republican,2,6071,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress10.1800,William Cooper,CW0154,10,Federalist,2,6071,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress10.1800,Jabez Eaker,EJ0036,10,NA,2,6071,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress10.1800,Asa Danforth,DA0049,10,Democratic-Republican,2,6071,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress10.1800,Moss Kent,KM0021,10,Federalist,1,6071,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress10.1800,"John Williams, Jr.",WJ0127,10,NA,1,6071,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress10.1800,Joseph S. Sidney,SJ0128,10,NA,1,6071,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress10.1800,Nathaniel W. Howell,HN0037,10,Federalist,1,6071,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress10.1800,"Ebenezer Butler, Jr.",BE0172,10,NA,1,6071,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress10.1800,John Stewart,SJ0115,10,NA,1,6071,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress10.1800,William H. Cuyler,CW0066,10,NA,1,6071,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress10.1800,Ezekiel Lyon,LE0007,10,NA,1,6071,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress10.1800,Jacob Morris,MJ0438,10,Federalist,1,6071,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress2.1800,Samuel L. Mitchell,MS0108,2,Democratic-Republican,2180,4283,0.509,TRUE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress2.1800,Jacob Morton,MJ0446,2,Federalist,2091,4283,0.488,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress2.1800,Philip Van Cortlandt,VP0041,2,Democratic-Republican,8,4283,0.002,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress2.1800,Samuel Bayard,BS0186,2,Federalist,2,4283,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress2.1800,William H. Woolsey,WW0007,2,NA,1,4283,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress2.1800,Peter H. Wendover,WP0068,2,NA,1,4283,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress3.1800,Philip Van Cortlandt,VP0041,3,Democratic-Republican,2070,3613,0.573,TRUE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress3.1800,Samuel Bayard,BS0186,3,Federalist,1400,3613,0.387,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress3.1800,Jacob Morton,MJ0446,3,Federalist,66,3613,0.018,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress3.1800,Samuel L. Mitchell,MS0108,3,Democratic-Republican,47,3613,0.013,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress3.1800,Samuel Jones,JS0049,3,Federalist,5,3613,0.001,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress3.1800,Samuel Haight,HS0136,3,Federalist,4,3613,0.001,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress3.1800,Selah Strong,SS0176,3,Federalist,4,3613,0.001,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress3.1800,William Bayard,BW0025,3,NA,3,3613,0.001,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress3.1800,Robert Graham,GR0078,3,Federalist,3,3613,0.001,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress3.1800,Nathan Rockwell,RN0022,3,Federalist,3,3613,0.001,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress3.1800,Elijah Ward,WE0084,3,Federalist,3,3613,0.001,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress3.1800,"John Woolsey, Jr.",WJ0437,3,Federalist,3,3613,0.001,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress3.1800,Charles Teed,TC0041,3,Federalist,2,3613,0.001,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress4.1800,Lucas Elmendorf,EL0004,4,Democratic-Republican,3305,5556,0.595,TRUE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress4.1800,John Hathorn,HJ0485,4,Federalist,2026,5556,0.365,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress4.1800,Leonard Bronk,BL0041,4,Federalist,178,5556,0.032,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress4.1800,"Lucas Elemendorf, Jr.",EL0004,4,NA,31,5556,0.006,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress4.1800,Lucas Devol,DL0011,4,NA,1,5556,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress4.1800,Cornelius Louw,LC0019,4,Federalist,1,5556,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress4.1800,Conrad E. Elmendorf,EC0014,4,Democratic-Republican,2,5556,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress4.1800,James Oliver,OJ0059,4,Federalist,2,5556,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress4.1800,John Thompson,TJ0017,4,Federalist,2,5556,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress4.1800,William Thompson,TW0052,4,Federalist,2,5556,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress4.1800,Jacob Ford,FJ0173,4,Federalist,2,5556,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress4.1800,Thomas Broadhead,BT0181,4,Federalist,2,5556,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress4.1800,Patrick Lamb,LP0038,4,Federalist,1,5556,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress4.1800,Isaac Hardenberg,HI0009,4,Federalist,1,5556,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress5.1800,Thomas Tilloston,TT0054,5,Democratic-Republican,1991,3237,0.615,TRUE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress5.1800,David Brooks,BD0076,5,Federalist,1244,3237,0.384,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress5.1800,Richard D'Cantillion,DR0026,5,Federalist,1,3237,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress5.1800,Jonathan Owen,OJ0069,5,NA,1,3237,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress6.1800,John Bird,BJ0683,6,Federalist,2456,4608,0.533,TRUE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress6.1800,Henry W. Livingston,LH0032,6,Federalist,2085,4608,0.452,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress6.1800,John Woodworth,WJ0439,6,Democratic-Republican,52,4608,0.011,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress6.1800,John Bud,BJ0562,6,NA,5,4608,0.001,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress6.1800,Robert Yates,YR0003,6,Democratic-Republican,2,4608,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress6.1800,James Savage,SJ0643,6,Federalist,1,4608,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress6.1800,Derick Gardiner,GD0038,6,Federalist,1,4608,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress6.1800,Ezekiel Gilbert,GE0066,6,Federalist,1,4608,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress6.1800,Derick Lane,LD0001,6,Federalist,1,4608,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress6.1800,Edward Livingston,LE0052,6,NA,1,4608,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress6.1800,Walter M. Livingston,LW0009,6,NA,1,4608,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress6.1800,John Lovitt,LJ0221,6,Federalist,1,4608,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress6.1800,Henry K. Van Rensselaer,VH0031,6,NA,1,4608,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress7.1800,David Thomas,TD0045,7,Democratic-Republican,2987,5933,0.503,TRUE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress7.1800,John Williams,WJ0409,7,Federalist,2810,5933,0.474,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress7.1800,John Thompson,TJ0297,7,Democratic-Republican,78,5933,0.013,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress7.1800,David Hopkins,HD0052,7,Federalist,12,5933,0.002,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress7.1800,Stephen Lush,LS0053,7,NA,10,5933,0.002,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress7.1800,James Gordon,GJ0267,7,NA,9,5933,0.002,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress7.1800,Robert Yates,YR0003,7,Democratic-Republican,7,5933,0.001,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress7.1800,David Thompson,TD0064,7,NA,6,5933,0.001,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress7.1800,Benjamin Mooers,MB0043,7,Democratic-Republican,4,5933,0.001,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress7.1800,Benjamin Stafford,SB0020,7,NA,2,5933,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress7.1800,Gerrit G. Lansing,LG0008,7,Federalist,1,5933,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress7.1800,Ebenezer Russell,RE0047,7,Federalist,1,5933,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress7.1800,John Ten Broeck,TJ0200,7,Democratic-Republican,1,5933,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress7.1800,David Congress,CD0009,7,NA,1,5933,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress7.1800,Hezekiah Middlebox,MH0014,7,NA,1,5933,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress7.1800,Richard Macumber,MR0011,7,NA,1,5933,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress7.1800,Caleb Nichols,NC0015,7,NA,1,5933,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress7.1800,Thomas Tredwell,TT0055,7,NA,1,5933,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress8.1800,Killian K. Van Rensselaer,VK0000,8,Federalist,1577,2955,0.534,TRUE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress8.1800,George Tiffany,TG0045,8,Federalist,1113,2955,0.377,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress8.1800,Henry Glen,GH0039,8,Federalist,258,2955,0.087,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress8.1800,Robert Yates,YR0003,8,Democratic-Republican,3,2955,0.001,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress8.1800,Stephen Lush,LS0053,8,Federalist,2,2955,0.001,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress8.1800,Silvester Tiffany,TS0018,8,NA,1,2955,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress8.1800,Charles Vorce,VC0011,8,NA,1,2955,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress9.1800,Benjamin Walker,WB0005,9,Federalist,4241,6632,0.639,TRUE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress9.1800,Jacob Eaker,EJ0111,9,Democratic-Republican,2274,6632,0.343,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress9.1800,Thomas Converse,CT0158,9,Democratic-Republican,51,6632,0.008,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress9.1800,Jedediah Sanger,SJ0678,9,Federalist,28,6632,0.004,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress9.1800,Nathaniel King,KN0000,9,Federalist,9,6632,0.001,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress9.1800,Jonathan Forman,FJ0003,9,NA,6,6632,0.001,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress9.1800,James Glover,GJ0016,9,NA,3,6632,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress9.1800,Joshua Mursereau,MJ0000,9,NA,3,6632,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress9.1800,Abraham Arndt,AA0051,9,NA,2,6632,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress9.1800,John T. Vischer,VJ0063,9,NA,2,6632,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress9.1800,Gerrit Putnam,PG0052,9,NA,2,6632,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress9.1800,Daniel Paris,PD0053,9,NA,2,6632,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress9.1800,James Allen,AJ0205,9,NA,2,6632,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress9.1800,Jacob Merkell,MJ0449,9,NA,2,6632,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress9.1800,George Eaker,EG0010,9,NA,1,6632,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress9.1800,Nathaniel Walker,WN0040,9,NA,1,6632,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress9.1800,Elijah Welch,WE0014,9,NA,1,6632,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress9.1800,Thomas Walker,WT0031,9,NA,1,6632,0,FALSE,FALSE
+meae.congressional.congress07.ny.county,ny.uscongress9.1800,Arthur Breese,BA0133,9,NA,1,6632,0,FALSE,FALSE

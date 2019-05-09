@@ -1,0 +1,43 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Abraham Clark,CA0071,At-large,Federalist,6435,32338,0.199,TRUE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Jonathan Dayton,DJ0209,At-large,Federalist,4446,32338,0.137,TRUE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Elias Boudinot,BE0179,At-large,Federalist,4433,32338,0.137,TRUE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Aaron Kitchel,KA0023,At-large,Anti-Federalist,2828,32338,0.087,TRUE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Lambert Cadwalader,CL0010,At-large,Federalist,2275,32338,0.07,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,James Linn,LJ0151,At-large,Anti-Federalist,1773,32338,0.055,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Thomas Sinnickson,ST0147,At-large,Federalist,1648,32338,0.051,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Robert Hoops,HR0098,At-large,NA,1592,32338,0.049,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Thomas Henderson,HT0100,At-large,Federalist,1210,32338,0.037,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,John Witherspoon,WJ0338,At-large,NA,884,32338,0.027,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,John Beatty,BJ0587,At-large,Federalist,731,32338,0.023,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,John Sheppard,SJ0521,At-large,NA,598,32338,0.018,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Joseph Ellis,EJ0229,At-large,NA,560,32338,0.017,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Robert Ogden,OR0010,At-large,NA,490,32338,0.015,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,James Schureman,SJ0522,At-large,NA,489,32338,0.015,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,John Harring,HJ0385,At-large,NA,365,32338,0.011,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Joseph Hugg,HJ0386,At-large,NA,356,32338,0.011,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Samuel Dick,DS0108,At-large,NA,210,32338,0.006,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,John Bayard,BJ0588,At-large,NA,196,32338,0.006,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Job Smith,SJ0523,At-large,NA,158,32338,0.005,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Ebenezer Elmer,EE0016,At-large,NA,157,32338,0.005,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Abraham Ogden,OA0023,At-large,NA,103,32338,0.003,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Jeremiah Elbridge,EJ0093,At-large,NA,69,32338,0.002,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Franklin Davenport,DF0014,At-large,Federalist,53,32338,0.002,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Robert L. Hooper,HR0099,At-large,NA,50,32338,0.002,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Samuel Sharp,SS0153,At-large,NA,35,32338,0.001,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Richard Howell,HR0100,At-large,NA,33,32338,0.001,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Cornelius Hunnison,HC0052,At-large,NA,32,32338,0.001,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Joseph Bloomfield,BJ0589,At-large,NA,22,32338,0.001,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Bateman Lloyd,LB0030,At-large,NA,21,32338,0.001,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,James Parker,PJ0264,At-large,NA,21,32338,0.001,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Archibald Campbell,CA0072,At-large,NA,19,32338,0.001,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,William Eugene Imlay,IW0000,At-large,NA,15,32338,0,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Garret Leydecker,LG0015,At-large,NA,8,32338,0,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,James Cadwalader,CJ0388,At-large,NA,4,32338,0,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Henry Land,LH0024,At-large,NA,4,32338,0,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Abraham Ryerson,RA0022,At-large,NA,4,32338,0,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,John Benson,BJ0590,At-large,NA,3,32338,0,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Ebenezer Howell,HE0075,At-large,NA,3,32338,0,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Robert Hooper,HR0101,At-large,NA,2,32338,0,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,Adonijah Schuyler,SA0107,At-large,NA,2,32338,0,FALSE,FALSE
+meae.congressional.congress02.nj.county,nj.uscongress.1791,George Dooremus,DG0026,At-large,NA,1,32338,0,FALSE,FALSE

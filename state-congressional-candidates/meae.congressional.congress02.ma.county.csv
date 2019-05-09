@@ -1,0 +1,69 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress02.ma.county,ma.uscongress.1.1790,Fisher Ames,AF0004,1,Federalist,1850,2509,0.737,TRUE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.1.1790,"Benjamin Austin, Jr.",AB0013,1,Anti-Federalist,397,2509,0.158,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.1.1790,"Thomas Dawes, Jr.",DT0015,1,Anti-Federalist,248,2509,0.099,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.1.1790,William Heath,HW0171,1,NA,12,2509,0.005,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.1.1790,Elijah Dunbar,DE0023,1,NA,1,2509,0,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.1.1790,Oliver Pond,PO0008,1,NA,1,2509,0,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.2.1790,Benjamin Goodhue,GB0015,2,Federalist,1027,1182,0.869,TRUE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.2.1790,Samuel Holten,HS0071,2,Anti-Federalist,129,1182,0.109,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.2.1790,Azor Orne,OA0008,2,NA,9,1182,0.008,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.2.1790,Nathan Dane,DN0011,2,Federalist,6,1182,0.005,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.2.1790,Theophilus Parsons,PT0090,2,Federalist,6,1182,0.005,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.2.1790,Daniel Kilham,KD0021,2,NA,3,1182,0.003,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.2.1790,Samuel Sewall,SS0068,2,Federalist,2,1182,0.002,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.3.1790,Elbridge Gerry,GE0049,3,Anti-Federalist,1067,1792,0.595,TRUE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.3.1790,Nathaniel Gorham,GN0007,3,Federalist,699,1792,0.39,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.3.1790,Joseph B. Varnum,VJ0024,3,NA,13,1792,0.007,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.3.1790,Francis Dana,DF0019,3,Federalist,9,1792,0.005,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.3.1790,Ebenezer Bridge,BE0139,3,NA,2,1792,0.001,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.3.1790,William Hull,HW0079,3,NA,1,1792,0.001,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.3.1790,Oliver Prescott,PO0007,3,NA,1,1792,0.001,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.4.1790,Theodore Sedgwick,ST0102,4,Federalist,2241,2987,0.75,TRUE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.4.1790,Samuel Lyman,LS0018,4,Federalist,487,2987,0.163,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.4.1790,William Lyman,LW0055,4,NA,74,2987,0.025,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.4.1790,Thompson J. Skinner,ST0101,4,NA,62,2987,0.021,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.4.1790,John Bacon,BJ0484,4,NA,60,2987,0.02,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.4.1790,Samuel Fowler,FS0045,4,NA,29,2987,0.01,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.4.1790,William Whiting,WW0090,4,NA,19,2987,0.006,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.4.1790,Simeon Strong,SS0125,4,NA,11,2987,0.004,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.4.1790,Jonathan Arms,AJ0087,4,NA,1,2987,0,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.4.1790,Elijah Hunt,HE0036,4,NA,1,2987,0,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.4.1790,Samuel Pomeroy,PS0061,4,NA,1,2987,0,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.4.1790,William Williams,WW0126,4,NA,1,2987,0,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.5.ballot2.1790,Shearjashub Bourne,BS0036,5,Federalist,667,1151,0.579,TRUE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.5.ballot2.1790,Joshua Thomas,TJ0188,5,NA,278,1151,0.242,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.5.ballot2.1790,James Warren,WJ0248,5,NA,85,1151,0.074,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.5.ballot2.1790,Thomas Davis,DT0014,5,NA,77,1151,0.067,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.5.ballot2.1790,George Partridge,PG0027,5,NA,28,1151,0.024,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.5.ballot2.1790,John Davis,DJ0181,5,NA,9,1151,0.008,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.5.ballot2.1790,James Sprout,SJ0412,5,NA,5,1151,0.004,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.5.ballot2.1790,Abner Hammett,HA0094,5,NA,1,1151,0.001,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.5.ballot2.1790,Ephraim Spooner,SE0027,5,NA,1,1151,0.001,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.7.ballot2.1790,Artemas Ward,WA0043,7,Federalist,1254,2457,0.51,TRUE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.7.ballot2.1790,Jonathan Grout,GJ0158,7,Anti-Federalist,1119,2457,0.455,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.7.ballot2.1790,Nathan Tyler,TN0002,7,NA,61,2457,0.025,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.7.ballot2.1790,John Sprague,SJ0360,7,NA,13,2457,0.005,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.7.ballot2.1790,Plingo Merick,MP0066,7,NA,3,2457,0.001,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.7.ballot2.1790,Jeremiah Learned,LJ0102,7,NA,2,2457,0.001,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.7.ballot2.1790,Timothy Paine,PT0071,7,NA,2,2457,0.001,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.7.ballot2.1790,Daniel Bigelow,BD0045,7,NA,1,2457,0,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.7.ballot2.1790,David Bigelow,BD0046,7,NA,1,2457,0,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.7.ballot2.1790,Joseph Stone,SJ0356,7,NA,1,2457,0,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.8.ballot4.1791,George Thacher,TG0012,8,Federalist,2738,5343,0.512,TRUE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.8.ballot4.1791,"William Lithgow, Jr.",LW0054,8,NA,2178,5343,0.408,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.8.ballot4.1791,Nathaniel Wells,WN0011,8,Federalist,347,5343,0.065,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.8.ballot4.1791,Josiah Thacher,TJ0159,8,NA,26,5343,0.005,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.8.ballot4.1791,John Gardner,GJ0180,8,NA,22,5343,0.004,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.8.ballot4.1791,Henry Dearborn,DH0026,8,NA,21,5343,0.004,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.8.ballot4.1791,David Mitchell,MD0024,8,NA,4,5343,0.001,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.8.ballot4.1791,Joshua B. Osgood,OJ0065,8,NA,2,5343,0,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.8.ballot4.1791,Dummer Sewall,SD0057,8,NA,2,5343,0,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.8.ballot4.1791,Robert Dyer,DR0034,8,NA,1,5343,0,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.8.ballot4.1791,George Lewis,LG0036,8,NA,1,5343,0,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.8.ballot4.1791,William Wedgery,WW0129,8,NA,1,5343,0,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.6.ballot9.1792,George Leonard,LG0029,6,Federalist,1161,2150,0.54,TRUE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.6.ballot9.1792,Phanuel Bishop,BP0031,6,Anti-Federalist,578,2150,0.269,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.6.ballot9.1792,"Peleg Coffin, Jr.",CP0027,6,Anti-Federalist,348,2150,0.162,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.6.ballot9.1792,David Cobb,CD0056,6,NA,62,2150,0.029,FALSE,FALSE
+meae.congressional.congress02.ma.county,ma.uscongress.6.ballot9.1792,Philip Miller,MP0033,6,NA,1,2150,0,FALSE,FALSE

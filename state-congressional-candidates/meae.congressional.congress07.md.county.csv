@@ -1,0 +1,21 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress07.md.county,md.uscongress1.1801,John Campbell,CJ0207,1,Federalist,1207,1576,0.766,TRUE,FALSE
+meae.congressional.congress07.md.county,md.uscongress1.1801,Frances Digges,DF0005,1,Democratic-Republican,369,1576,0.234,FALSE,FALSE
+meae.congressional.congress07.md.county,md.uscongress2.1801,Richard Sprigg,SR0049,2,Democratic-Republican,1393,2143,0.65,TRUE,FALSE
+meae.congressional.congress07.md.county,md.uscongress2.1801,John Thomas,TJ0160,2,Federalist,750,2143,0.35,FALSE,FALSE
+meae.congressional.congress07.md.county,md.uscongress3.1801,Thomas Plater,PT0052,3,Federalist,964,1817,0.531,TRUE,FALSE
+meae.congressional.congress07.md.county,md.uscongress3.1801,Patrick Magruder,MP0018,3,Democratic-Republican,853,1817,0.469,FALSE,FALSE
+meae.congressional.congress07.md.county,md.uscongress4.1801,Daniel Heister,ZZ0005,4,Democratic-Republican,2460,4285,0.574,TRUE,FALSE
+meae.congressional.congress07.md.county,md.uscongress4.1801,Eli Williams,WE0027,4,Federalist,1825,4285,0.426,FALSE,FALSE
+meae.congressional.congress07.md.county,md.uscongress5.1801,Samuel Smith,SS0062,5,Democratic-Republican,1689,1710,0.988,TRUE,FALSE
+meae.congressional.congress07.md.county,md.uscongress5.1801,Charles Ridgely,RC0025,5,Federalist,21,1710,0.012,FALSE,FALSE
+meae.congressional.congress07.md.county,md.uscongress6.1801,John Archer,AJ0075,6,Democratic-Republican,1530,1603,0.954,TRUE,FALSE
+meae.congressional.congress07.md.county,md.uscongress6.1801,John Carlisle,CJ0219,6,Federalist,62,1603,0.039,FALSE,FALSE
+meae.congressional.congress07.md.county,md.uscongress6.1801,Philip Thomas,TP0016,6,Federalist,7,1603,0.004,FALSE,FALSE
+meae.congressional.congress07.md.county,md.uscongress6.1801,Samuel Rasin,RS0019,6,NA,2,1603,0.001,FALSE,FALSE
+meae.congressional.congress07.md.county,md.uscongress6.1801,Nicholas MacComus,MN0012,6,NA,1,1603,0.001,FALSE,FALSE
+meae.congressional.congress07.md.county,md.uscongress6.1801,Robert Wright,WR0038,6,NA,1,1603,0.001,FALSE,FALSE
+meae.congressional.congress07.md.county,md.uscongress7.1801,Joseph H. Nicholson,NJ0026,7,Democratic-Republican,883,886,0.997,TRUE,FALSE
+meae.congressional.congress07.md.county,md.uscongress7.1801,Solomon Jones,JS0001,7,NA,3,886,0.003,FALSE,FALSE
+meae.congressional.congress07.md.county,md.uscongress8.1801,John Dennis,DJ0122,8,Federalist,802,897,0.894,TRUE,FALSE
+meae.congressional.congress07.md.county,md.uscongress8.1801,William Polk,PW0048,8,Democratic-Republican,95,897,0.106,FALSE,FALSE

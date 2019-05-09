@@ -1,0 +1,26 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress13.md.county,md.uscongress1.1812,Philip Stewart,SP0013,1,Federalist,2051,2073,0.989,TRUE,FALSE
+meae.congressional.congress13.md.county,md.uscongress1.1812,Francis Digges,DF0005,1,Democratic-Republican,9,2073,0.004,FALSE,FALSE
+meae.congressional.congress13.md.county,md.uscongress1.1812,Mark Richardson,RM0043,1,NA,4,2073,0.002,FALSE,FALSE
+meae.congressional.congress13.md.county,md.uscongress1.1812,Caleb Hawkins,HC0033,1,Democratic-Republican,3,2073,0.001,FALSE,FALSE
+meae.congressional.congress13.md.county,md.uscongress1.1812,Henry H. Chapman,CH0050,1,Federalist,1,2073,0,FALSE,FALSE
+meae.congressional.congress13.md.county,md.uscongress1.1812,John Forbes,FJ0390,1,Democratic-Republican,1,2073,0,FALSE,FALSE
+meae.congressional.congress13.md.county,md.uscongress1.1812,William G. Hunt,HW0234,1,NA,1,2073,0,FALSE,FALSE
+meae.congressional.congress13.md.county,md.uscongress1.1812,John R. Plater,PJ0155,1,Federalist,1,2073,0,FALSE,FALSE
+meae.congressional.congress13.md.county,md.uscongress1.1812,Jonas Rogerson,RJ0614,1,NA,1,2073,0,FALSE,FALSE
+meae.congressional.congress13.md.county,md.uscongress1.1812,John B. Turner,TJ0586,1,NA,1,2073,0,FALSE,FALSE
+meae.congressional.congress13.md.county,md.uscongress2.1812,Joseph Kent,KJ0034,2,Democratic-Republican,1905,3666,0.52,TRUE,FALSE
+meae.congressional.congress13.md.county,md.uscongress2.1812,Archibald Van Horn,VA0054,2,Federalist,1761,3666,0.48,FALSE,FALSE
+meae.congressional.congress13.md.county,md.uscongress3.1812,Alexander C. Hanson,HA0038,3,Federalist,2591,4297,0.603,TRUE,FALSE
+meae.congressional.congress13.md.county,md.uscongress3.1812,John Linthicum,LJ0073,3,Democratic-Republican,1706,4297,0.397,FALSE,FALSE
+meae.congressional.congress13.md.county,md.uscongress4.1812,Samuel Ringgold,RS0013,4,Democratic-Republican,3621,6762,0.535,TRUE,FALSE
+meae.congressional.congress13.md.county,md.uscongress4.1812,Roger B. Taney,TR0022,4,Federalist,3141,6762,0.465,FALSE,FALSE
+meae.congressional.congress13.md.county,md.uscongress5.1812,Alexander MacKim,MA0045,5,Democratic-Republican,4966,13057,0.38,TRUE,FALSE
+meae.congressional.congress13.md.county,md.uscongress5.1812,Nicholas Moore,MN0021,5,Democratic-Republican,4273,13057,0.327,TRUE,FALSE
+meae.congressional.congress13.md.county,md.uscongress5.1812,Peter Little,LP0015,5,Democratic-Republican,3818,13057,0.292,FALSE,FALSE
+meae.congressional.congress13.md.county,md.uscongress6.1812,Stevenson Archer,AS0013,6,Democratic-Republican,3147,3150,0.999,TRUE,FALSE
+meae.congressional.congress13.md.county,md.uscongress6.1812,Thomas Garrison Moffet,MT0057,6,NA,3,3150,0.001,FALSE,FALSE
+meae.congressional.congress13.md.county,md.uscongress7.1812,Robert Wright,WR0038,7,Democratic-Republican,2079,3873,0.537,TRUE,FALSE
+meae.congressional.congress13.md.county,md.uscongress7.1812,Samuel W. Thomas,TS0017,7,Federalist,1794,3873,0.463,FALSE,FALSE
+meae.congressional.congress13.md.county,md.uscongress8.1812,Charles Goldsborough,GC0057,8,Federalist,3497,5402,0.647,TRUE,FALSE
+meae.congressional.congress13.md.county,md.uscongress8.1812,Thomas Williams,WT0027,8,Democratic-Republican,1905,5402,0.353,FALSE,FALSE

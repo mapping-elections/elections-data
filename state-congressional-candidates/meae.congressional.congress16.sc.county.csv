@@ -1,0 +1,20 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress16.sc.county,sc.uscongress.beaufort.1818,William Lowndes,LW0219,2,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress16.sc.county,sc.uscongress.charleston.1818,Charles Pinckney,PC0060,1,Democratic-Republican,1164,2376,0.49,TRUE,FALSE
+meae.congressional.congress16.sc.county,sc.uscongress.charleston.1818,Daniel Elliott Huger,HD0117,1,Federalist,810,2376,0.341,FALSE,FALSE
+meae.congressional.congress16.sc.county,sc.uscongress.charleston.1818,"William Crafts, Jr.",CW0322,1,Federalist,402,2376,0.169,FALSE,FALSE
+meae.congressional.congress16.sc.county,sc.uscongress.chester.1818,James MacCreary,MJ1355,8,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress16.sc.county,sc.uscongress.edgefield.1818,Eldred Simkins,SE0123,6,Democratic-Republican,2309,4262,0.542,TRUE,FALSE
+meae.congressional.congress16.sc.county,sc.uscongress.edgefield.1818,Joseph Black,BJ1359,6,Democratic-Republican,1105,4262,0.259,FALSE,FALSE
+meae.congressional.congress16.sc.county,sc.uscongress.edgefield.1818,William Butler,BW0365,6,Democratic-Republican,848,4262,0.199,FALSE,FALSE
+meae.congressional.congress16.sc.county,sc.uscongress.georgetown.1818,James Ervin,EJ0276,3,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress16.sc.county,sc.uscongress.newberry.1818,Starling Tucker,TS0104,5,Democratic-Republican,2530,4985,0.508,TRUE,FALSE
+meae.congressional.congress16.sc.county,sc.uscongress.newberry.1818,William Brown,BW0399,5,Democratic-Republican,1421,4985,0.285,FALSE,FALSE
+meae.congressional.congress16.sc.county,sc.uscongress.newberry.1818,Philip E. Pearson,PP0041,5,Democratic-Republican,1034,4985,0.207,FALSE,FALSE
+meae.congressional.congress16.sc.county,sc.uscongress.orangeburg.1818,James Overstreet,OJ0112,4,Democratic-Republican,1249,3047,0.41,TRUE,FALSE
+meae.congressional.congress16.sc.county,sc.uscongress.orangeburg.1818,John J. Chappell,CJ1050,4,Democratic-Republican,1073,3047,0.352,FALSE,FALSE
+meae.congressional.congress16.sc.county,sc.uscongress.orangeburg.1818,John M. Felder,FJ0438,4,Federalist,725,3047,0.238,FALSE,FALSE
+meae.congressional.congress16.sc.county,sc.uscongress.pendleton.1818,Elias Earle,EE0042,7,Democratic-Republican,2166,4032,0.537,TRUE,FALSE
+meae.congressional.congress16.sc.county,sc.uscongress.pendleton.1818,John H. Harrison,HJ1249,7,Democratic-Republican,1866,4032,0.463,FALSE,FALSE
+meae.congressional.congress16.sc.county,sc.uscongress.sumpter.1818,Joseph Brevard,BJ1390,9,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress16.sc.county,sc.uscongress.sumpter.1818,James C. Postell,PJ0691,9,Federalist,NA,0,NA,FALSE,FALSE

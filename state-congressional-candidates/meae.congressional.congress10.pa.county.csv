@@ -1,0 +1,36 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress10.pa.county,pa.uscongress1.1806,John Porter,PJ0433,1,Democratic-Republican,4857,27263,0.178,TRUE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress1.1806,Jacob Richards,RJ0353,1,Democratic-Republican,4770,27263,0.175,TRUE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress1.1806,Joseph Clay,CJ0754,1,Democratic-Republican,4700,27263,0.172,TRUE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress1.1806,William Graham,GW0141,1,Federalist,4223,27263,0.155,FALSE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress1.1806,Isaac Worrell,WI0040,1,Federalist,4213,27263,0.155,FALSE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress1.1806,Joseph Hemphill,HJ0774,1,Federalist,2922,27263,0.107,FALSE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress1.1806,John Sergent,SJ1073,1,Federalist,1578,27263,0.058,FALSE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress10.1806,William Hoge,HW0316,10,Democratic-Republican,1203,1940,0.62,TRUE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress10.1806,John Hamilton,HJ0746,10,Federalist,737,1940,0.38,FALSE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress11.1806,Samuel Smith,SS0274,11,Democratic-Republican,3339,5960,0.56,TRUE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress11.1806,John Wilkins,WJ0616,11,Federalist,2621,5960,0.44,FALSE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress2.1806,Robert Brown,BR0106,2,Democratic-Republican,5180,28763,0.18,TRUE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress2.1806,William Milnor,MW0326,2,Republican Faction,4824,28763,0.168,TRUE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress2.1806,John Pugh,PJ0443,2,Democratic-Republican,4761,28763,0.166,TRUE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress2.1806,John Hahn,HJ1003,2,Democratic-Republican,4750,28763,0.165,FALSE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress2.1806,Frederick Conrad,CF0031,2,Republican Faction,4659,28763,0.162,FALSE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress2.1806,William Lattimore,LW0156,2,Republican Faction,4589,28763,0.16,FALSE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress3.1806,John Heister,HJ0784,3,Federalist,6709,36571,0.183,TRUE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress3.1806,Matthais Richards,RM0041,3,Federalist,6625,36571,0.181,TRUE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress3.1806,Robert Jenkins,JR0043,3,Federalist,6487,36571,0.177,TRUE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress3.1806,John Whitehill,WJ0661,3,Democratic-Republican,5666,36571,0.155,FALSE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress3.1806,Roger Davis,DR0049,3,Democratic-Republican,5545,36571,0.152,FALSE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress3.1806,William Witman,WW0223,3,Democratic-Republican,5539,36571,0.151,FALSE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress4.1806,Robert Whitehill,WR0153,4,Democratic-Republican,6024,12620,0.477,TRUE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress4.1806,David Baird,BD0120,4,Republican Faction,5388,12620,0.427,TRUE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress4.1806,Ezra Doty,DE0075,4,Democratic-Republican,983,12620,0.078,FALSE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress4.1806,Oliver Pollack,PO0022,4,Republican Faction,225,12620,0.018,FALSE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress5.1806,"Daniel Montgomery, Jr.",MD0192,5,Democratic-Republican,3161,5482,0.577,TRUE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress5.1806,Andrew Gregg,GA0060,5,Republican Faction,2321,5482,0.423,FALSE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress6.1806,James Kelly,KJ0173,6,Federalist,2979,2979,1,TRUE,TRUE
+meae.congressional.congress10.pa.county,pa.uscongress7.1806,John Rea,RJ0310,7,Democratic-Republican,1511,2866,0.527,TRUE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress7.1806,Andrew Dunlap,DA0079,7,Federalist,852,2866,0.297,FALSE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress7.1806,Henry Woods,WH0059,7,Republican Faction,503,2866,0.176,FALSE,FALSE
+meae.congressional.congress10.pa.county,pa.uscongress8.1806,William Findley,FW0062,8,Democratic-Republican,NA,NA,1,TRUE,TRUE
+meae.congressional.congress10.pa.county,pa.uscongress9.1806,John Smilie,SJ0970,9,Democratic-Republican,1987,1987,1,TRUE,TRUE

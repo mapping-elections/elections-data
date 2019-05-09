@@ -1,0 +1,15 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress07.ga.county,ga.uscongress.1800,James Jones,JJ0010,At-large,Federalist,8616,18017,0.478,TRUE,FALSE
+meae.congressional.congress07.ga.county,ga.uscongress.1800,Benjamin Taliaferro,TB0026,At-large,Federalist,7568,18017,0.42,TRUE,FALSE
+meae.congressional.congress07.ga.county,ga.uscongress.1800,Francis Willis,WF0022,At-large,Federalist,1791,18017,0.099,FALSE,FALSE
+meae.congressional.congress07.ga.county,ga.uscongress.1800,William Stevens,SW0409,At-large,NA,29,18017,0.002,FALSE,FALSE
+meae.congressional.congress07.ga.county,ga.uscongress.1800,James Cochran,CJ0956,At-large,NA,2,18017,0,FALSE,FALSE
+meae.congressional.congress07.ga.county,ga.uscongress.1800,James Gibson,GJ0370,At-large,NA,2,18017,0,FALSE,FALSE
+meae.congressional.congress07.ga.county,ga.uscongress.1800,John Milledge,MJ0057,At-large,NA,2,18017,0,FALSE,FALSE
+meae.congressional.congress07.ga.county,ga.uscongress.1800,Robert Abercrombie,AR0065,At-large,NA,1,18017,0,FALSE,FALSE
+meae.congressional.congress07.ga.county,ga.uscongress.1800,Abraham Baldwin,BA0026,At-large,NA,1,18017,0,FALSE,FALSE
+meae.congressional.congress07.ga.county,ga.uscongress.1800,Thomas P. Carnes,CT0042,At-large,NA,1,18017,0,FALSE,FALSE
+meae.congressional.congress07.ga.county,ga.uscongress.1800,John London,LJ0021,At-large,NA,1,18017,0,FALSE,FALSE
+meae.congressional.congress07.ga.county,ga.uscongress.1800,Daniel Ouensels,OD0013,At-large,NA,1,18017,0,FALSE,FALSE
+meae.congressional.congress07.ga.county,ga.uscongress.1800,Joseph Plumer,PJ0625,At-large,NA,1,18017,0,FALSE,FALSE
+meae.congressional.congress07.ga.county,ga.uscongress.1800,Jesse Scruggs,SJ0094,At-large,NA,1,18017,0,FALSE,FALSE

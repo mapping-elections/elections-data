@@ -1,0 +1,15 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress13.tn.county,tn.congress.1.1813,John Rhea,RJ0595,1,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress13.tn.county,tn.congress.2.1813,John Sevier,SJ0166,2,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress13.tn.county,tn.congress.3.1813,Thomas K. Harris,HT0213,3,Democratic-Republican,1068,3413,0.313,TRUE,FALSE
+meae.congressional.congress13.tn.county,tn.congress.3.1813,William Kelly,KW0069,3,NA,1067,3413,0.313,FALSE,FALSE
+meae.congressional.congress13.tn.county,tn.congress.3.1813,James Rogers,RJ0597,3,NA,866,3413,0.254,FALSE,FALSE
+meae.congressional.congress13.tn.county,tn.congress.3.1813,Bird Smith,SB0126,3,NA,407,3413,0.119,FALSE,FALSE
+meae.congressional.congress13.tn.county,tn.congress.3.1813,Moses Fisk,FM0045,3,NA,3,3413,0.001,FALSE,FALSE
+meae.congressional.congress13.tn.county,tn.congress.3.1813,Rogers,NA,3,NA,2,3413,0.001,FALSE,FALSE
+meae.congressional.congress13.tn.county,tn.congress.4.1813,John H. Bowen,BJ1411,4,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress13.tn.county,tn.congress.5.1813,Felix Grundy,GF0029,5,Democratic-Republican,3277,4034,0.812,TRUE,FALSE
+meae.congressional.congress13.tn.county,tn.congress.5.1813,Newton Cannon,CN0037,5,Democratic-Republican,757,4034,0.188,FALSE,FALSE
+meae.congressional.congress13.tn.county,tn.congress.6.1813,Parry W. Humphreys,HP0075,6,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress13.tn.county,tn.congress.6.1813,James B. Reynolds,RJ0680,6,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress13.tn.county,tn.congress.6.1813,J. B. Wynn,WJ0957,6,NA,NA,0,NA,FALSE,FALSE

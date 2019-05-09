@@ -1,0 +1,32 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress03.ny.county,ny.uscongress1.1793,Thomas Tredwell,TT0055,1,Democratic-Republican,1446,2888,0.501,TRUE,FALSE
+meae.congressional.congress03.ny.county,ny.uscongress1.1793,Joshua Sands,SJ0646,1,Federalist,769,2888,0.266,FALSE,FALSE
+meae.congressional.congress03.ny.county,ny.uscongress1.1793,Harry Peters,PH0027,1,Federalist,673,2888,0.233,FALSE,FALSE
+meae.congressional.congress03.ny.county,ny.uscongress10.1793,Silas Talbot,TS0063,10,Federalist,1231,3423,0.36,TRUE,FALSE
+meae.congressional.congress03.ny.county,ny.uscongress10.1793,William Cooper,CW0154,10,Federalist,961,3423,0.281,FALSE,FALSE
+meae.congressional.congress03.ny.county,ny.uscongress10.1793,John Winn,WJ0414,10,Democratic-Republican,738,3423,0.216,FALSE,FALSE
+meae.congressional.congress03.ny.county,ny.uscongress10.1793,Andrew Fink,FA0037,10,Democratic-Republican,408,3423,0.119,FALSE,FALSE
+meae.congressional.congress03.ny.county,ny.uscongress10.1793,Josiah Crane,CJ0466,10,Democratic-Republican,85,3423,0.025,FALSE,FALSE
+meae.congressional.congress03.ny.county,ny.uscongress2.1793,John Watts,WJ0410,2,Federalist,1872,2579,0.726,TRUE,FALSE
+meae.congressional.congress03.ny.county,ny.uscongress2.1793,William S. Livingston,LW0102,2,Democratic-Republican,707,2579,0.274,FALSE,FALSE
+meae.congressional.congress03.ny.county,ny.uscongress3.1793,Philip Van Cortlandt,VP0041,3,Democratic-Republican,973,1781,0.546,TRUE,FALSE
+meae.congressional.congress03.ny.county,ny.uscongress3.1793,Richard Hatfield,HR0118,3,Federalist,808,1781,0.454,FALSE,FALSE
+meae.congressional.congress03.ny.county,ny.uscongress4.1793,Peter Van Gaasbeck,VP0015,4,Federalist,1464,3096,0.473,TRUE,FALSE
+meae.congressional.congress03.ny.county,ny.uscongress4.1793,John Hathorn,HJ0485,4,Democratic-Republican,1448,3096,0.468,FALSE,FALSE
+meae.congressional.congress03.ny.county,ny.uscongress4.1793,John Carpenter,CJ0462,4,Democratic-Republican,72,3096,0.023,FALSE,FALSE
+meae.congressional.congress03.ny.county,ny.uscongress4.1793,Cornelius C. Schoonmaker,SC0076,4,Democratic-Republican,53,3096,0.017,FALSE,FALSE
+meae.congressional.congress03.ny.county,ny.uscongress4.1793,William Thompson,TW0052,4,Democratic-Republican,40,3096,0.013,FALSE,FALSE
+meae.congressional.congress03.ny.county,ny.uscongress4.1793,Jesse Woodhull,WJ0407,4,Democratic-Republican,19,3096,0.006,FALSE,FALSE
+meae.congressional.congress03.ny.county,ny.uscongress5.1793,Theodorus Bailey,BT0171,5,Democratic-Republican,984,1836,0.536,TRUE,FALSE
+meae.congressional.congress03.ny.county,ny.uscongress5.1793,James Kent,KJ0097,5,Federalist,852,1836,0.464,FALSE,FALSE
+meae.congressional.congress03.ny.county,ny.uscongress6.1793,Ezekiel Gilbert,GE0066,6,Federalist,977,2781,0.351,TRUE,FALSE
+meae.congressional.congress03.ny.county,ny.uscongress6.1793,Peter R. Livingston,LP0036,6,Federalist,948,2781,0.341,FALSE,FALSE
+meae.congressional.congress03.ny.county,ny.uscongress6.1793,Peter Van Ness,VP0037,6,Democratic-Republican,856,2781,0.308,FALSE,FALSE
+meae.congressional.congress03.ny.county,ny.uscongress7.1793,Henry Glen,GH0039,7,Federalist,927,1453,0.638,TRUE,FALSE
+meae.congressional.congress03.ny.county,ny.uscongress7.1793,Jeremiah Van Rensselaer,VJ0189,7,Democratic-Republican,526,1453,0.362,FALSE,FALSE
+meae.congressional.congress03.ny.county,ny.uscongress8.1793,John E. Van Alen,VJ0202,8,Federalist,1165,2047,0.569,TRUE,FALSE
+meae.congressional.congress03.ny.county,ny.uscongress8.1793,Henry K. Van Rensselaer,VH0031,8,Democratic-Republican,870,2047,0.425,FALSE,FALSE
+meae.congressional.congress03.ny.county,ny.uscongress8.1793,Thomas Sickles,ST0160,8,Democratic-Republican,12,2047,0.006,FALSE,FALSE
+meae.congressional.congress03.ny.county,ny.uscongress9.1793,James Gordon,GJ0267,9,Federalist,1278,2780,0.46,TRUE,FALSE
+meae.congressional.congress03.ny.county,ny.uscongress9.1793,John Williams,WJ0409,9,Democratic-Republican,1147,2780,0.413,FALSE,FALSE
+meae.congressional.congress03.ny.county,ny.uscongress9.1793,John M. Thompson,TJ0297,9,Democratic-Republican,355,2780,0.128,FALSE,FALSE

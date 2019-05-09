@@ -1,0 +1,5 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress14.la.county,la.uscongress.1814,Thomas B. Robertson,RT0026,At-large,Democratic-Republican,2684,2964,0.906,TRUE,FALSE
+meae.congressional.congress14.la.county,la.uscongress.1814,John B. Prevost,PJ0122,At-large,Federalist,242,2964,0.082,FALSE,FALSE
+meae.congressional.congress14.la.county,la.uscongress.1814,John Landry,LJ0059,At-large,NA,29,2964,0.01,FALSE,FALSE
+meae.congressional.congress14.la.county,la.uscongress.1814,scattering,NA,At-large,NA,9,2964,0.003,FALSE,FALSE

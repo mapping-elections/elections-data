@@ -1,0 +1,16 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress15.ga.county,ga.uscongress.1816,William Terrell,TW0005,At-large,Democratic-Republican,10961,100832,0.109,TRUE,FALSE
+meae.congressional.congress15.ga.county,ga.uscongress.1816,Joel Crawford,CJ0122,At-large,Democratic-Republican,10569,100832,0.105,TRUE,FALSE
+meae.congressional.congress15.ga.county,ga.uscongress.1816,Joel Abbot,AJ0029,At-large,Democratic-Republican,9680,100832,0.096,TRUE,FALSE
+meae.congressional.congress15.ga.county,ga.uscongress.1816,Zadock Cook,CZ0000,At-large,Democratic-Republican,8470,100832,0.084,TRUE,FALSE
+meae.congressional.congress15.ga.county,ga.uscongress.1816,Thomas W. Cobb,CT0041,At-large,Democratic-Republican,8280,100832,0.082,TRUE,FALSE
+meae.congressional.congress15.ga.county,ga.uscongress.1816,John Forsyth,FJ0021,At-large,Democratic-Republican,7978,100832,0.079,TRUE,FALSE
+meae.congressional.congress15.ga.county,ga.uscongress.1816,John M. Dooly,DJ0047,At-large,NA,7322,100832,0.073,FALSE,FALSE
+meae.congressional.congress15.ga.county,ga.uscongress.1816,Richard H. Wilde,WR0013,At-large,NA,7072,100832,0.07,FALSE,FALSE
+meae.congressional.congress15.ga.county,ga.uscongress.1816,Homer Virgil Milton,MH0021,At-large,NA,6888,100832,0.068,FALSE,FALSE
+meae.congressional.congress15.ga.county,ga.uscongress.1816,Wilson Lumpkin,LW0012,At-large,NA,6870,100832,0.068,FALSE,FALSE
+meae.congressional.congress15.ga.county,ga.uscongress.1816,Alfred Cuthbert,CA0020,At-large,Democratic-Republican,6409,100832,0.064,FALSE,FALSE
+meae.congressional.congress15.ga.county,ga.uscongress.1816,Allen Daniel,DA0004,At-large,NA,6370,100832,0.063,FALSE,FALSE
+meae.congressional.congress15.ga.county,ga.uscongress.1816,Thomas Telfair,TT0002,At-large,Democratic-Republican,2327,100832,0.023,FALSE,FALSE
+meae.congressional.congress15.ga.county,ga.uscongress.1816,James Wood,WJ0077,At-large,NA,1624,100832,0.016,FALSE,FALSE
+meae.congressional.congress15.ga.county,ga.uscongress.1816,Key,NA,At-large,NA,12,100832,0,FALSE,FALSE

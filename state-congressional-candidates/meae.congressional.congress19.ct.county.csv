@@ -1,0 +1,152 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Gideon Tomlinson,TG0001,At-large,Democratic-Republican,6266,40930,0.153,TRUE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Elisha Phelps,PE0012,At-large,Adams/Clay,5934,40930,0.145,TRUE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Ralph I. Ingersoll,IR0000,At-large,Adams/Clay,5545,40930,0.135,TRUE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Orange Merwin,MO0000,At-large,Adams/Clay,5518,40930,0.135,TRUE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Noyes Barber,BN0014,At-large,Adams/Clay,4401,40930,0.108,TRUE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,John Baldwin,BJ1555,At-large,Adams/Clay,3653,40930,0.089,TRUE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Daniel Burrows,BD0248,At-large,Democratic-Republican,1785,40930,0.044,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Elisha Tracy,TE0007,At-large,Democratic-Republican,1491,40930,0.036,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Timothy Pitkin,PT0001,At-large,Federalist,1315,40930,0.032,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Calvin Willey,WC0000,At-large,Democratic-Republican,911,40930,0.022,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Samuel A. Foot,FS0001,At-large,Democratic-Republican,575,40930,0.014,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Asa Bacon,BA0002,At-large,Federalist,409,40930,0.01,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Dennis Kimberly,KD0044,At-large,Democratic-Republican,342,40930,0.008,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Lyman Law,LL0001,At-large,Democratic-Republican,315,40930,0.008,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Samuel Church,CS0269,At-large,Democratic-Republican,305,40930,0.007,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Robert Fairchild,FR0000,At-large,Democratic-Republican,220,40930,0.005,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Jacob B. Gurley,GJ0012,At-large,Federalist,197,40930,0.005,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Roger M. Sherman,SR0005,At-large,Federalist,195,40930,0.005,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Thomas S. Williams,WT0003,At-large,Federalist,149,40930,0.004,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Clark Bissell,BC0189,At-large,NA,129,40930,0.003,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Charles Denison,DC0000,At-large,Federalist,92,40930,0.002,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Frederick Wolcott,WF0018,At-large,Federalist,74,40930,0.002,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Nathan Johnson,JN0022,At-large,Democratic-Republican,69,40930,0.002,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,John T. Peters,PJ0003,At-large,Democratic-Republican,66,40930,0.002,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Ebenezer Stoddard,SE0220,At-large,Democratic-Republican,59,40930,0.001,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Ansel Sterling,SA0013,At-large,Democratic-Republican,48,40930,0.001,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Samuel Whitman,WS0250,At-large,NA,42,40930,0.001,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Rufus Hitchcock,HR0000,At-large,Democratic-Republican,38,40930,0.001,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Samuel B. Sherwood,SS0000,At-large,Federalist,37,40930,0.001,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Calvin Goddard,GC0005,At-large,Democratic-Republican,36,40930,0.001,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Thomas S. Perkins,PT0160,At-large,Democratic-Republican,34,40930,0.001,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Nathaniel Foy,FN0052,At-large,NA,27,40930,0.001,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Henry L. Ellsworth,EH0032,At-large,Federalist,23,40930,0.001,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,William L. Storrs,SW0445,At-large,NA,23,40930,0.001,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Thomas Williams,WT0172,At-large,Federalist,23,40930,0.001,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Samuel W. Dana,DS0003,At-large,Federalist,22,40930,0.001,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Jonathan W. Edwards,EJ0007,At-large,Federalist,22,40930,0.001,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Charles P. Huntington,HC0160,At-large,NA,21,40930,0.001,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Charles Taintor,TC0068,At-large,NA,21,40930,0.001,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Simeon Baldwin,BS0001,At-large,Federalist,20,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Enoch Burrows,BE0023,At-large,Democratic-Republican,20,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Dennis Kimball,KD0065,At-large,NA,19,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,John Russ,RJ0004,At-large,Democratic-Republican,18,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Elijah Hubbard,HE0013,At-large,Federalist,17,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Ichabod Ward,WI0063,At-large,NA,17,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Daniel Bacon,BD0250,At-large,Democratic-Republican,15,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Henry Channing,CH0110,At-large,Democratic-Republican,15,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Andrew T. Judson,JA0055,At-large,Democratic-Republican,15,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,David Burrows,BD0245,At-large,NA,14,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,William W. Ellsworth,EW0092,At-large,NA,14,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Elisha Sterling,SE0001,At-large,Federalist,14,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,John Hallam,HJ1267,At-large,Democratic-Republican,12,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Edmund Badger,BE0262,At-large,Democratic-Republican,11,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Roger Huntington,HR0009,At-large,Democratic-Republican,11,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Asa Willey,WA0004,At-large,Federalist,11,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,John Hall,HJ0022,At-large,Federalist,10,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Daniel Kimberly,KD0070,At-large,Democratic-Republican,10,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,David Daggett,DD0000,At-large,Federalist,9,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,William Hungerford,HW0332,At-large,Federalist,9,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,George Stannard,SG0196,At-large,NA,9,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Joseph Trumbull,TJ0540,At-large,NA,9,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Jonathan Barnes,BJ0028,At-large,Federalist,8,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Henry W. Edwards,EH0001,At-large,Democratic-Republican,8,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Jabez H. Huntington,HJ1258,At-large,Federalist,8,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,George Larned,LG0089,At-large,Federalist,8,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Nathan Smith,SN0016,At-large,Federalist,7,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Seth P. Beers,BS0029,At-large,Democratic-Republican,6,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Noah B. Benedict,BN0004,At-large,Federalist,6,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,"Daniel Frost, Jr.",FD0076,At-large,Federalist,6,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Lodowick Torduk,TL0033,At-large,NA,6,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Joseph Eaton,EJ0009,At-large,Federalist,5,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Charles Pict,PC0093,At-large,NA,5,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,John W. Clillun,CJ1111,At-large,NA,4,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Cushing Eells,EC0000,At-large,Democratic-Republican,4,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Uriel Holmes,HU0000,At-large,Federalist,4,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Perry Smith,SP0149,At-large,Democratic-Republican,4,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Elias Tracy,TE0091,At-large,Democratic-Republican,4,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Samuel Childs,CS0276,At-large,NA,3,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Walter B. Kibbe,KW0062,At-large,Democratic-Republican,3,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Luther Loomis,LL0006,At-large,Democratic-Republican,3,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,David Plant,PD0008,At-large,Democratic-Republican,3,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,George W. Stanley,SG0001,At-large,NA,3,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Henry Strong,SH0167,At-large,NA,3,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Samuel B. Sturges,SS0345,At-large,NA,3,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,William T. Williams,WW0015,At-large,Federalist,3,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Asa Brown,BA0314,At-large,NA,2,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Epaphroditus Champion,CE0020,At-large,Federalist,2,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Joseph W. Cone,CJ1104,At-large,NA,2,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Thomas Day,DT0007,At-large,Democratic-Republican,2,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Walter W. Edwards,EW0080,At-large,NA,2,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,James Gould,GJ0008,At-large,NA,2,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Josiah Griffin,GJ0640,At-large,Federalist,2,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Ozias Holmes,HO0041,At-large,NA,2,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,James Kimberly,KJ0319,At-large,NA,2,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,George O. Lewis,LG0088,At-large,NA,2,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Phinehas Minor,MP0086,At-large,Democratic-Republican,2,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Jonathan O. Moseley,MJ0022,At-large,Federalist,2,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Seth Marshall,MS0220,At-large,Democratic-Republican,2,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Jonathan G. Smith,SJ0013,At-large,NA,2,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Daniel Tomlinson,TD0014,At-large,Federalist,2,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,John Welch,WJ0024,At-large,Democratic-Republican,2,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Homer Boardman,BH0223,At-large,Democratic-Republican,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,William W. Boardman,BW0482,At-large,NA,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Elisha Brigham,BE0257,At-large,Democratic-Republican,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,William Bristol,BW0017,At-large,Democratic-Republican,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Simon Carpenter,CS0273,At-large,NA,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Oliver Chapin,CO0023,At-large,Federalist,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Theophilus B. Chandler,CT0216,At-large,Federalist,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Isaac Chapman,CI0066,At-large,NA,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Law Church,CL0078,At-large,NA,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,William L. Cleaveland,CW0390,At-large,NA,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Walter W. Crawford,CW0394,At-large,NA,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,James Dodd,DJ0648,At-large,NA,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Nathan A. Foot,FN0054,At-large,NA,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Sylvester Gilbert,GS0003,At-large,Federalist,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Elizur Goodrich,GE0001,At-large,Federalist,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,James Gould,GJ0008,At-large,Federalist,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Matthew Griswold,GM0000,At-large,Federalist,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,George Hall,HG0176,At-large,NA,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Jonathan J. Hitchcock,HJ1287,At-large,NA,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Joel Holkins,HJ1266,At-large,Federalist,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Minor Hotchkiss,HM0131,At-large,Democratic-Republican,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Jirah Isham,IJ0016,At-large,Federalist,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Stephen Johnson,JS0061,At-large,NA,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Dennis Kingsbury,KD0064,At-large,NA,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,James Lanman,LJ0005,At-large,Democratic-Republican,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Ebenezer Learned,LE0109,At-large,NA,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,William Leonard,LW0213,At-large,NA,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Henry Lyman,LH0083,At-large,NA,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Charles Loring,LC0077,At-large,NA,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Oliver Merwin,MO0016,At-large,NA,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Simeon H. Minor,MS0223,At-large,Democratic-Republican,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Burnet Monson,MB0080,At-large,NA,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Clark Moore,MC0102,At-large,NA,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Joseph Merrick,MJ1173,At-large,NA,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,"John Nichols, Jr.",NJ0209,At-large,Federalist,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,William Palmer,PW0250,At-large,Federalist,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Elias Perkins,PE0001,At-large,Democratic-Republican,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Enoch Perkins,PE0010,At-large,Federalist,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Augustus Pettibone,PA0183,At-large,Federalist,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Charles B. Phelps,PC0098,At-large,NA,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Epaphras L. Phelps,PE0168,At-large,Federalist,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Ebenezer Phillips,PE0157,At-large,NA,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Hiram Rider,RH0089,At-large,Democratic-Republican,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Minot Sherman,SM0129,At-large,NA,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Seth P. Staples,SS0021,At-large,Federalist,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Elisha Stearns,SE0218,At-large,Federalist,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Benjamin Talmadge,TB0015,At-large,Federalist,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Comfort D. Tillman,TC0067,At-large,NA,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Moses Warren,WM0010,At-large,Democratic-Republican,1,40930,0,FALSE,FALSE
+meae.congressional.congress19.ct.county,ct.uscongress.1825,Sylvester Wells,WS0011,At-large,Democratic-Republican,1,40930,0,FALSE,FALSE

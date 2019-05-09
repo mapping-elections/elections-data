@@ -1,0 +1,29 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress11.nc.county,nc.uscongress1.1808,Lemuel Sawyer,SL0032,1,Democratic-Republican,2201,3286,0.67,TRUE,FALSE
+meae.congressional.congress11.nc.county,nc.uscongress1.1808,William Murfree,MW0233,1,Democratic-Republican,1085,3286,0.33,FALSE,FALSE
+meae.congressional.congress11.nc.county,nc.uscongress2.1808,Willis Alston,AW0047,2,Democratic-Republican,1769,3049,0.58,TRUE,FALSE
+meae.congressional.congress11.nc.county,nc.uscongress2.1808,Daniel Mason,MD0123,2,Democratic-Republican,1280,3049,0.42,FALSE,FALSE
+meae.congressional.congress11.nc.county,nc.uscongress3.1808,William Kennedy,KW0059,3,Federalist,2272,4368,0.52,TRUE,FALSE
+meae.congressional.congress11.nc.county,nc.uscongress3.1808,Thomas Blount,BT0194,3,Democratic-Republican,2096,4368,0.48,FALSE,FALSE
+meae.congressional.congress11.nc.county,nc.uscongress4.1808,John Stanly,SJ0834,4,Federalist,2702,5219,0.518,TRUE,FALSE
+meae.congressional.congress11.nc.county,nc.uscongress4.1808,William Blackledge,BW0216,4,Democratic-Republican,2517,5219,0.482,FALSE,FALSE
+meae.congressional.congress11.nc.county,nc.uscongress5.1808,Thomas Kenan,KT0049,5,Democratic-Republican,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress11.nc.county,nc.uscongress6.1808,Nathaniel Macon,MN0068,6,Democratic-Republican,2403,2404,1,TRUE,FALSE
+meae.congressional.congress11.nc.county,nc.uscongress6.1808,George Boddie,BG0094,6,NA,1,2404,0,FALSE,FALSE
+meae.congressional.congress11.nc.county,nc.uscongress7.1808,Archibald MacBryde,MA0162,7,Federalist,2951,5406,0.546,TRUE,FALSE
+meae.congressional.congress11.nc.county,nc.uscongress7.1808,John Culpepper,CJ0545,7,Federalist,2455,5406,0.454,FALSE,FALSE
+meae.congressional.congress11.nc.county,nc.uscongress8.1808,Richard Stanford,SR0175,8,Democratic-Republican,3078,4711,0.653,TRUE,FALSE
+meae.congressional.congress11.nc.county,nc.uscongress8.1808,Duncan Cameron,CD0126,8,Federalist,1633,4711,0.347,FALSE,FALSE
+meae.congressional.congress11.nc.county,nc.uscongress9.1808,James Cochrane,CJ0546,9,Democratic-Republican,2724,5210,0.523,TRUE,FALSE
+meae.congressional.congress11.nc.county,nc.uscongress9.1808,Theophilus Lacy,LT0067,9,Democratic-Republican,2486,5210,0.477,FALSE,FALSE
+meae.congressional.congress11.nc.county,nc.uscongress10.1808,Joseph Pearson,PJ0335,10,Federalist,2458,3854,0.638,TRUE,FALSE
+meae.congressional.congress11.nc.county,nc.uscongress10.1808,Robert Locke,LR0030,10,Democratic-Republican,1395,3854,0.362,FALSE,FALSE
+meae.congressional.congress11.nc.county,nc.uscongress10.1808,Evan S. Alexander,AE0024,10,NA,1,3854,0,FALSE,FALSE
+meae.congressional.congress11.nc.county,nc.uscongress11.1808,James Holland,HJ0602,11,Democratic-Republican,2352,4833,0.487,TRUE,FALSE
+meae.congressional.congress11.nc.county,nc.uscongress11.1808,Felix Walker,WF0041,11,Democratic-Republican,1506,4833,0.312,FALSE,FALSE
+meae.congressional.congress11.nc.county,nc.uscongress11.1808,John MacClain,MJ0560,11,Federalist,455,4833,0.094,FALSE,FALSE
+meae.congressional.congress11.nc.county,nc.uscongress11.1808,William Tate,TW0079,11,Federalist,385,4833,0.08,FALSE,FALSE
+meae.congressional.congress11.nc.county,nc.uscongress11.1808,William Porter,PW0175,11,Federalist,135,4833,0.028,FALSE,FALSE
+meae.congressional.congress11.nc.county,nc.uscongress12.1808,Meshack Franklin,FM0021,12,Democratic-Republican,2671,4894,0.546,TRUE,FALSE
+meae.congressional.congress11.nc.county,nc.uscongress12.1808,Joseph Winston,WJ0494,12,Democratic-Republican,1983,4894,0.405,FALSE,FALSE
+meae.congressional.congress11.nc.county,nc.uscongress12.1808,James Martin,MJ0541,12,Federalist,240,4894,0.049,FALSE,FALSE

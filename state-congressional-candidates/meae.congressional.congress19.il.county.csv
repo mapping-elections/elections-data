@@ -1,0 +1,4 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress19.il.county,il.uscongress.1824,Daniel P. Cook,CD0015,At-large,Adams/Clay,7619,12022,0.634,TRUE,FALSE
+meae.congressional.congress19.il.county,il.uscongress.1824,Shadrach Bond,BS0053,At-large,Jacksonian,4402,12022,0.366,FALSE,FALSE
+meae.congressional.congress19.il.county,il.uscongress.1824,James Underwood Peacock,PJ0054,At-large,NA,1,12022,0,FALSE,FALSE

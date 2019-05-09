@@ -1,0 +1,6 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress12.tn.county,tn.congress.1.1811,John Rhea,RJ0595,1,Democratic-Republican,2465,2465,1,TRUE,TRUE
+meae.congressional.congress12.tn.county,tn.congress.2.1811,John Sevier,SJ0166,2,Democratic-Republican,4331,4331,1,TRUE,TRUE
+meae.congressional.congress12.tn.county,tn.congress.3.1811,Felix Grundy,GF0029,3,Democratic-Republican,7878,13038,0.604,TRUE,FALSE
+meae.congressional.congress12.tn.county,tn.congress.3.1811,Isaac Roberts,RI0017,3,NA,2829,13038,0.217,FALSE,FALSE
+meae.congressional.congress12.tn.county,tn.congress.3.1811,James Winchester,WJ0955,3,NA,2331,13038,0.179,FALSE,FALSE

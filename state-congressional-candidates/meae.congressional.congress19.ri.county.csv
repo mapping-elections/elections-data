@@ -1,0 +1,7 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress19.ri.county,ri.uscongress.1825,Tristam Burges,BT0010,At-large,Adams/Clay,2932,10555,0.278,TRUE,FALSE
+meae.congressional.congress19.ri.county,ri.uscongress.1825,Dutee J. Pearce,PD0002,At-large,Adams/Clay,2534,10555,0.24,TRUE,FALSE
+meae.congressional.congress19.ri.county,ri.uscongress.1825,Job Durfee,DJ0538,At-large,Democratic-Republican,2468,10555,0.234,FALSE,FALSE
+meae.congressional.congress19.ri.county,ri.uscongress.1825,Samuel Eddy,ES0042,At-large,Democratic-Republican,2121,10555,0.201,FALSE,FALSE
+meae.congressional.congress19.ri.county,ri.uscongress.1825,William Hunter,HW0370,At-large,Democratic-Republican,364,10555,0.034,FALSE,FALSE
+meae.congressional.congress19.ri.county,ri.uscongress.1825,scattering,NA,At-large,NA,136,10555,0.013,FALSE,FALSE

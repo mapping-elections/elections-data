@@ -1,0 +1,9 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress14.de.county,de.uscongress.1814,Thomas Clayton,CT0005,At-large,Federalist,3964,13021,0.304,TRUE,FALSE
+meae.congressional.congress14.de.county,de.uscongress.1814,Thomas Cooper,CT0008,At-large,Federalist,3960,13021,0.304,TRUE,FALSE
+meae.congressional.congress14.de.county,de.uscongress.1814,Willard Hall,HW0048,At-large,Democratic-Republican,2547,13021,0.196,FALSE,FALSE
+meae.congressional.congress14.de.county,de.uscongress.1814,George Reed,RG0002,At-large,Democratic-Republican,2545,13021,0.195,FALSE,FALSE
+meae.congressional.congress14.de.county,de.uscongress.1814,Edward J. Dupont,DE0088,At-large,NA,2,13021,0,FALSE,FALSE
+meae.congressional.congress14.de.county,de.uscongress.1814,James M. Broom,BJ0090,At-large,Federalist,1,13021,0,FALSE,FALSE
+meae.congressional.congress14.de.county,de.uscongress.1814,Richard C. Dale,DR0001,At-large,NA,1,13021,0,FALSE,FALSE
+meae.congressional.congress14.de.county,de.uscongress.1814,Philip Hardcastle,HP0011,At-large,NA,1,13021,0,FALSE,FALSE

@@ -1,0 +1,25 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress03.md.county,md.uscongress1.1792,George Dent,DG0004,1,Federalist,971,2173,0.447,TRUE,FALSE
+meae.congressional.congress03.md.county,md.uscongress1.1792,John Parnham,PJ0127,1,Federalist,647,2173,0.298,FALSE,FALSE
+meae.congressional.congress03.md.county,md.uscongress1.1792,Philip B. Key,KP0001,1,Federalist,555,2173,0.255,FALSE,FALSE
+meae.congressional.congress03.md.county,md.uscongress2.1792,John F. Mercer,MJ0200,2,Anti-Federalist,1405,2467,0.57,TRUE,FALSE
+meae.congressional.congress03.md.county,md.uscongress2.1792,John Thomas,TJ0160,2,Federalist,1039,2467,0.421,FALSE,FALSE
+meae.congressional.congress03.md.county,md.uscongress2.1792,Richard A. Contee,CR0017,2,NA,23,2467,0.009,FALSE,FALSE
+meae.congressional.congress03.md.county,md.uscongress3.1792,Uriah Forrest,FU0000,3,Federalist,1099,1530,0.718,TRUE,FALSE
+meae.congressional.congress03.md.county,md.uscongress3.1792,William Dorsey,DW0030,3,Anti-Federalist,430,1530,0.281,FALSE,FALSE
+meae.congressional.congress03.md.county,md.uscongress3.1792,scattering,NA,3,NA,1,1530,0.001,FALSE,FALSE
+meae.congressional.congress03.md.county,md.uscongress4.1792,Thomas Sprigg,ST0060,4,Federalist,497,497,1,TRUE,TRUE
+meae.congressional.congress03.md.county,md.uscongress5.1792,Samuel Smith,SS0062,5,Federalist,1615,2642,0.611,TRUE,FALSE
+meae.congressional.congress03.md.county,md.uscongress5.1792,Charles Ridgely,RC0025,5,Anti-Federalist,1027,2642,0.389,FALSE,FALSE
+meae.congressional.congress03.md.county,md.uscongress6.1792,Gabriel Christie,CG0044,6,Anti-Federalist,1993,3135,0.636,TRUE,FALSE
+meae.congressional.congress03.md.county,md.uscongress6.1792,William Matthews,MW0075,6,Federalist,1141,3135,0.364,FALSE,FALSE
+meae.congressional.congress03.md.county,md.uscongress6.1792,John Lee Webster,WJ0139,6,NA,1,3135,0,FALSE,FALSE
+meae.congressional.congress03.md.county,md.uscongress7.1792,William Hindman,HW0097,7,Federalist,1389,2689,0.517,TRUE,FALSE
+meae.congressional.congress03.md.county,md.uscongress7.1792,James Tilghman,TJ0158,7,Anti-Federalist,1300,2689,0.483,FALSE,FALSE
+meae.congressional.congress03.md.county,md.uscongress8.1792,William Vans Murray,MW0069,8,Federalist,1515,1616,0.938,TRUE,FALSE
+meae.congressional.congress03.md.county,md.uscongress8.1792,Littleton Dennis,DL0009,8,Federalist,87,1616,0.054,FALSE,FALSE
+meae.congressional.congress03.md.county,md.uscongress8.1792,William Winder,WW0073,8,NA,6,1616,0.004,FALSE,FALSE
+meae.congressional.congress03.md.county,md.uscongress8.1792,John Gimby,GJ0604,8,NA,4,1616,0.002,FALSE,FALSE
+meae.congressional.congress03.md.county,md.uscongress8.1792,Henry Parker,PH0011,8,NA,2,1616,0.001,FALSE,FALSE
+meae.congressional.congress03.md.county,md.uscongress8.1792,John L. Purnell,PJ0000,8,NA,1,1616,0.001,FALSE,FALSE
+meae.congressional.congress03.md.county,md.uscongress8.1792,Gustaves Scott,SG0029,8,NA,1,1616,0.001,FALSE,FALSE

@@ -1,0 +1,5 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress17.al.county,al.congress.1821,Gabriel Moore,MG0000,At-large,Democratic-Republican,10996,17029,0.646,TRUE,FALSE
+meae.congressional.congress17.al.county,al.congress.1821,George W. Owen,OG0000,At-large,Democratic-Republican,5548,17029,0.326,FALSE,FALSE
+meae.congressional.congress17.al.county,al.congress.1821,Silas Dinsmoor,DS0001,At-large,NA,484,17029,0.028,FALSE,FALSE
+meae.congressional.congress17.al.county,al.congress.1821,Elizah Montgomery,ME0002,At-large,NA,1,17029,0,FALSE,FALSE

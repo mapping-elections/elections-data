@@ -1,0 +1,5 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress10.de.county,de.uscongress.1806,James M. Broom,BJ0090,At-large,Federalist,2353,3888,0.605,TRUE,FALSE
+meae.congressional.congress10.de.county,de.uscongress.1806,Thomas Fitzgerald,FT0001,At-large,Democratic-Republican,830,3888,0.213,FALSE,FALSE
+meae.congressional.congress10.de.county,de.uscongress.1806,Joseph Haslet,HJ0024,At-large,Democratic-Republican,382,3888,0.098,FALSE,FALSE
+meae.congressional.congress10.de.county,de.uscongress.1806,Thomas Montgomery,MT0004,At-large,Democratic-Republican,323,3888,0.083,FALSE,FALSE

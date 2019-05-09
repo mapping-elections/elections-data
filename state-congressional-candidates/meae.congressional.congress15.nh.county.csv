@@ -1,0 +1,89 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Josiah Butler,BJ0582,At-large,Democratic-Republican,15569,175070,0.089,TRUE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Nathaniel Upham,UN0000,At-large,Democratic-Republican,15562,175070,0.089,TRUE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Clifton Claggert,CC0033,At-large,Democratic-Republican,15551,175070,0.089,TRUE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Salma Hale,HS0111,At-large,Democratic-Republican,15416,175070,0.088,TRUE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,John F. Parrott,PJ0260,At-large,Democratic-Republican,15231,175070,0.087,TRUE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Arthur Livermore,LA0074,At-large,Democratic-Republican,15217,175070,0.087,TRUE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,William Hale,HW0187,At-large,Federalist,13600,175070,0.078,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Jeremiah Smith,SJ0471,At-large,Federalist,13582,175070,0.078,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Jeduthun Wilcox,WJ0330,At-large,Federalist,13578,175070,0.078,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Roger Vose,VR0000,At-large,Federalist,13536,175070,0.077,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Bradbury Cilley,CB0048,At-large,Federalist,13493,175070,0.077,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Parker Noyes,NP0004,At-large,Federalist,13477,175070,0.077,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,George Prescott,PG0048,At-large,Democratic-Republican,308,175070,0.002,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Daniel Young,YD0000,At-large,Democratic-Republican,249,175070,0.001,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Josiah Bartlett,BJ0545,At-large,NA,112,175070,0.001,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Samuel Hale,HS0107,At-large,NA,107,175070,0.001,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Joseph Healey,HJ1093,At-large,NA,55,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Stephen P. Webster,WS0094,At-large,NA,45,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,William Webster,WW0047,At-large,NA,35,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Samuel Quarles,QS0001,At-large,NA,28,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,William Badger,BW0164,At-large,NA,21,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Abiel Foster,FA0029,At-large,Federalist,21,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Thomas Manning,MT0083,At-large,NA,19,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Richard H. Ayer,AR0022,At-large,NA,18,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Amos Cogswell,CA0016,At-large,NA,18,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Thomas C. Drew,DT0126,At-large,NA,18,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Jacob Tuttle,TJ0153,At-large,NA,18,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Benjamin Butler,BB0029,At-large,NA,16,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Levi Woodbury,WL0039,At-large,NA,11,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,John Durken,DJ0559,At-large,NA,9,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,John T. Gilman,GJ0184,At-large,Federalist,9,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Nathaniel A. Havin,HN0031,At-large,NA,9,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,John MacClary,MJ0382,At-large,NA,9,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Robert Means,MR0056,At-large,NA,9,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,George B. Upham,UG0000,At-large,NA,9,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Thomas Bellows,BT0150,At-large,NA,8,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Benjamin J. Gilbert,GB0057,At-large,NA,8,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Henry S. Langdon,LH0076,At-large,NA,8,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,John Tappan,TJ0457,At-large,NA,8,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Samuel Dinsmore,DS0099,At-large,NA,5,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Daniel Gookin,GD0009,At-large,NA,5,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Ezra Bartlett,BE0178,At-large,NA,4,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,J. K. Smith,SJ0517,At-large,NA,4,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,William K. Atkinson,AW0040,At-large,NA,2,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Josiah Britton,BJ1262,At-large,NA,2,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,John S. Cutts,CJ0844,At-large,NA,2,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Enoch Colby,CE0162,At-large,NA,2,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Eli Hale,HE0165,At-large,NA,2,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Daniel Hoit,HD0184,At-large,NA,2,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,William A. Kent,KW0046,At-large,Federalist,2,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,John Langdon,LJ0127,At-large,NA,2,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,George Sullivan,SG0056,At-large,Federalist,2,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Benjamin West,WB0027,At-large,NA,2,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Charles H. Atherton,AC0017,At-large,Federalist,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Richard Ayley,AR0040,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Samuel Bell,BS0136,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Silas Betton,BS0134,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,James Bingham,BJ1305,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Jonathan Brown,BJ1235,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Baruch Chase,CB0081,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Oliver Crosby,CO0018,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,"Edward Cutts, Jr.",CE0090,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Moses Eastman,EM0021,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Timothy A. Edson,ET0039,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Joseph Ela,EJ0324,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Edward Evans,EE0014,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Estwick Evans,EE0047,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,William Gardner,GW0066,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,John George,GJ0512,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,John Goddard,GJ0185,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Samuel Grant,GS0056,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Samuel Grisky,GS0115,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,John P. Hale,HJ1039,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,John Hanis,HJ1047,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,John Harris,HJ0381,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Amos Kent,KA0060,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Hativil Knight,KH0026,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,William Low,LW0141,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Nathaniel F. Parrott,PN0049,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Moses P. Payson,PM0041,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Cyrus Perkins,PC0086,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,William Pickering,PW0131,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,James Shapley,SJ1356,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Ebenezer Stearns,SE0193,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Fredrick A. Sumner,SF0064,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,Ezekiel Webster,WE0017,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,John Wheeler,WJ0731,At-large,NA,1,175070,0,FALSE,FALSE
+meae.congressional.congress15.nh.county,nh.uscongress.1816,William H. Woodward,WW0140,At-large,Federalist,1,175070,0,FALSE,FALSE

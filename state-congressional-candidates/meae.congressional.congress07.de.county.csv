@@ -1,0 +1,3 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress07.de.county,de.uscongress.1800,James A. Bayard,BJ0078,At-large,Federalist,2674,5014,0.533,TRUE,FALSE
+meae.congressional.congress07.de.county,de.uscongress.1800,John Patten,PJ0032,At-large,Democratic-Republican,2340,5014,0.467,FALSE,FALSE

@@ -1,0 +1,20 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress15.tn.county,tn.congress.1.1817,John Rhea,RJ0595,1,Democratic-Republican,3136,4905,0.639,TRUE,FALSE
+meae.congressional.congress15.tn.county,tn.congress.1.1817,Alexander Sevier,SA0273,1,NA,1769,4905,0.361,FALSE,FALSE
+meae.congressional.congress15.tn.county,tn.congress.2.1817,William G. Blount,BW0412,2,Democratic-Republican,3927,7356,0.534,TRUE,FALSE
+meae.congressional.congress15.tn.county,tn.congress.2.1817,John Cocke,CJ1064,2,Democratic-Republican,3429,7356,0.466,FALSE,FALSE
+meae.congressional.congress15.tn.county,tn.congress.3.1817,Francis Jones,JF0010,3,Democratic-Republican,2827,8033,0.352,TRUE,FALSE
+meae.congressional.congress15.tn.county,tn.congress.3.1817,James Rogers,RJ0597,3,NA,1984,8033,0.247,FALSE,FALSE
+meae.congressional.congress15.tn.county,tn.congress.3.1817,Joseph Pickens,PJ0711,3,NA,1938,8033,0.241,FALSE,FALSE
+meae.congressional.congress15.tn.county,tn.congress.3.1817,Queen Morton,MQ0001,3,NA,1284,8033,0.16,FALSE,FALSE
+meae.congressional.congress15.tn.county,tn.congress.4.1817,Samuel Hogg,HS0246,4,Democratic-Republican,4010,6310,0.635,TRUE,FALSE
+meae.congressional.congress15.tn.county,tn.congress.4.1817,Archibald Overton,OA0020,4,NA,2300,6310,0.365,FALSE,FALSE
+meae.congressional.congress15.tn.county,tn.congress.5.1817,Thomas Claiborne,CT0204,5,Democratic-Republican,4458,9360,0.476,TRUE,FALSE
+meae.congressional.congress15.tn.county,tn.congress.5.1817,Newton Cannon,CN0037,5,Democratic-Republican,2669,9360,0.285,FALSE,FALSE
+meae.congressional.congress15.tn.county,tn.congress.5.1817,Robert Weakley,WR0102,5,Democratic-Republican,2233,9360,0.239,FALSE,FALSE
+meae.congressional.congress15.tn.county,tn.congress.6.1817,George W. L. Marr,MG0138,6,Democratic-Republican,3507,7536,0.465,TRUE,FALSE
+meae.congressional.congress15.tn.county,tn.congress.6.1817,Peter R. Booker,BP0099,6,NA,2017,7536,0.268,FALSE,FALSE
+meae.congressional.congress15.tn.county,tn.congress.6.1817,Thomas Johnson,JT0060,6,Democratic-Republican,1455,7536,0.193,FALSE,FALSE
+meae.congressional.congress15.tn.county,tn.congress.6.1817,James B. Reynolds,RJ0680,6,Democratic-Republican,319,7536,0.042,FALSE,FALSE
+meae.congressional.congress15.tn.county,tn.congress.6.1817,Samuel Goodridge,GS0113,6,NA,231,7536,0.031,FALSE,FALSE
+meae.congressional.congress15.tn.county,tn.congress.6.1817,Richard Winn,WR0106,6,NA,7,7536,0.001,FALSE,FALSE

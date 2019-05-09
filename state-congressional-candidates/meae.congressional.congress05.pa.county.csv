@@ -1,0 +1,33 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress05.pa.county,pa.uscongress1.1796,John Swanwick,SJ0964,1,Democratic-Republican,1502,2934,0.512,TRUE,FALSE
+meae.congressional.congress05.pa.county,pa.uscongress1.1796,Edward Tilghman,TE0070,1,Federalist,1432,2934,0.488,FALSE,FALSE
+meae.congressional.congress05.pa.county,pa.uscongress10.1796,David Bard,BD0120,10,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress05.pa.county,pa.uscongress10.1796,Abraham Smith,SA0174,10,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress05.pa.county,pa.uscongress10.1796,William M. Brown,BW0273,10,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress05.pa.county,pa.uscongress11.1796,William Findley,FW0062,11,Democratic-Republican,2090,2636,0.793,TRUE,FALSE
+meae.congressional.congress05.pa.county,pa.uscongress11.1796,James Findlay,FJ0306,11,Federalist,546,2636,0.207,FALSE,FALSE
+meae.congressional.congress05.pa.county,pa.uscongress12.1796,Albert Gallatin,GA0061,12,Democratic-Republican,2522,4087,0.617,TRUE,FALSE
+meae.congressional.congress05.pa.county,pa.uscongress12.1796,John Woods,WJ0613,12,Federalist,1079,4087,0.264,FALSE,FALSE
+meae.congressional.congress05.pa.county,pa.uscongress12.1796,Thomas Stokeley,ST0214,12,Federalist,486,4087,0.119,FALSE,FALSE
+meae.congressional.congress05.pa.county,pa.uscongress2.1796,Blair MacClenachan,MB0070,2,Democratic-Republican,1182,2092,0.565,TRUE,FALSE
+meae.congressional.congress05.pa.county,pa.uscongress2.1796,Robert Waln,WR0132,2,Federalist,910,2092,0.435,FALSE,FALSE
+meae.congressional.congress05.pa.county,pa.uscongress3.1796,Richard Thomas,TR0064,3,Federalist,1282,2425,0.529,TRUE,FALSE
+meae.congressional.congress05.pa.county,pa.uscongress3.1796,William Gibbons,GW0130,3,Democratic-Republican,1143,2425,0.471,FALSE,FALSE
+meae.congressional.congress05.pa.county,pa.uscongress4.1796,Samuel Sitgreaves,SS0245,4,Federalist,3752,5966,0.629,TRUE,FALSE
+meae.congressional.congress05.pa.county,pa.uscongress4.1796,John Chapman,CJ0685,4,Federalist,2214,5966,0.371,TRUE,FALSE
+meae.congressional.congress05.pa.county,pa.uscongress4.1796,Peter Muhlenberg,MP0089,4,Democratic-Republican,NA,5966,NA,FALSE,FALSE
+meae.congressional.congress05.pa.county,pa.uscongress4.1796,John Richards,RJ0314,4,Federalist,NA,5966,NA,FALSE,FALSE
+meae.congressional.congress05.pa.county,pa.uscongress4.1796,Robert Lollar,LR0052,4,Democratic-Republican,NA,5966,NA,FALSE,FALSE
+meae.congressional.congress05.pa.county,pa.uscongress5.1796,George Ege,EG0009,5,Federalist,2028,3566,0.569,TRUE,FALSE
+meae.congressional.congress05.pa.county,pa.uscongress5.1796,Joseph Hiester,HJ0793,5,Democratic-Republican,1538,3566,0.431,FALSE,FALSE
+meae.congressional.congress05.pa.county,pa.uscongress6.1796,John A. Hanna,HJ0754,6,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress05.pa.county,pa.uscongress6.1796,Samuel Maclay,MS0148,6,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress05.pa.county,pa.uscongress6.1796,John Carson,CJ0686,6,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress05.pa.county,pa.uscongress7.1796,John W. Kittera,KJ0172,7,Federalist,1679,1756,0.956,TRUE,FALSE
+meae.congressional.congress05.pa.county,pa.uscongress7.1796,William Webb,WW0218,7,Federalist,77,1756,0.044,FALSE,FALSE
+meae.congressional.congress05.pa.county,pa.uscongress8.1796,Thomas Hartley,HT0154,8,Federalist,1142,1142,1,TRUE,TRUE
+meae.congressional.congress05.pa.county,pa.uscongress9.1796,Andrew Gregg,GA0060,9,Democratic-Republican,1141,2122,0.538,TRUE,FALSE
+meae.congressional.congress05.pa.county,pa.uscongress9.1796,William Irvine,IW0016,9,Federalist,678,2122,0.32,FALSE,FALSE
+meae.congressional.congress05.pa.county,pa.uscongress9.1796,James Wallace,WJ0609,9,Federalist,168,2122,0.079,FALSE,FALSE
+meae.congressional.congress05.pa.county,pa.uscongress9.1796,Robert Whitehill,WR0153,9,Democratic-Republican,86,2122,0.041,FALSE,FALSE
+meae.congressional.congress05.pa.county,pa.uscongress9.1796,Thomas Kennedy,KT0064,9,Federalist,49,2122,0.023,FALSE,FALSE

@@ -1,0 +1,3 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress06.de.county,de.uscongress.1798,James A. Bayard,BJ0078,At-large,Federalist,2792,4564,0.612,TRUE,FALSE
+meae.congressional.congress06.de.county,de.uscongress.1798,Archibald Alexander,AA0027,At-large,Democratic-Republican,1772,4564,0.388,FALSE,FALSE

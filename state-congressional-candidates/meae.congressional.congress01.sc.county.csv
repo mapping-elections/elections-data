@@ -1,0 +1,13 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress01.sc.county,sc.uscongress.district1.1788,William Smith,SW0299,1,Federalist,600,1177,0.51,TRUE,FALSE
+meae.congressional.congress01.sc.county,sc.uscongress.district1.1788,Alexander Gillon,GA0121,1,Anti-Federalist,386,1177,0.328,FALSE,FALSE
+meae.congressional.congress01.sc.county,sc.uscongress.district1.1788,David Ramsay,RD0089,1,NA,191,1177,0.162,FALSE,FALSE
+meae.congressional.congress01.sc.county,sc.uscongress.district2.1788,Aedanus Burke,BA0012,2,Anti-Federalist,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress01.sc.county,sc.uscongress.district2.1788,John Bull,BJ1338,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress01.sc.county,sc.uscongress.district2.1788,Robert Barnwell,BR0143,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress01.sc.county,sc.uscongress.district2.1788,John Kean,KJ0007,2,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress01.sc.county,sc.uscongress.district3.1788,Daniel Huger,HD0170,3,Federalist,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress01.sc.county,sc.uscongress.district3.1788,John Page,PJ0585,3,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress01.sc.county,sc.uscongress.district4.1788,Thomas Sumter,ST0266,4,Anti-Federalist,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress01.sc.county,sc.uscongress.district5.1788,Thomas Tudor Tucker,TT0007,5,Anti-Federalist,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress01.sc.county,sc.uscongress.district5.1788,Henry Pendleton,PH0006,5,NA,NA,NA,NA,FALSE,FALSE

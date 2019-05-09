@@ -1,0 +1,45 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress11.va.county,va.uscongress.1.1809,John G. Jackson,JJ0287,1,Democratic-Republican,1326,2198,0.603,TRUE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.1.1809,Noah Linsley,LN0023,1,Federalist,872,2198,0.397,FALSE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.2.1809,James Stephenson,SJ1474,2,Federalist,876,1521,0.576,TRUE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.2.1809,John Morrow,MJ1223,2,Democratic-Republican,645,1521,0.424,FALSE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.3.1809,John Smith,SJ1530,3,Democratic-Republican,1085,1248,0.869,TRUE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.3.1809,Robert Page,PR0096,3,Federalist,163,1248,0.131,FALSE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.4.1809,Jacob Swoope,SJ1411,4,Federalist,1369,2550,0.537,TRUE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.4.1809,Daniel Smith,SD0213,4,Democratic-Republican,1181,2550,0.463,FALSE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.5.1809,James Breckinridge,BJ1431,5,Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.5.1809,Alexander Wilson,WA0179,5,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.6.1809,Daniel Sheffey,SD0212,6,Federalist,1662,2497,0.666,TRUE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.6.1809,Francis Preston,PF0010,6,Democratic-Republican,835,2497,0.334,FALSE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.7.1809,"Joseph Lewis, Jr.",LJ0458,7,Federalist,760,1225,0.62,TRUE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.7.1809,William Tyler,TW0150,7,Democratic-Republican,465,1225,0.38,FALSE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.8.1809,Walter Jones,JW0100,8,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.8.1809,John P. Hungerford,HJ1310,8,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.8.1809,John Talaver,TJ0535,8,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.8.1809,Richard Barnes,BR0184,8,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.9.1809,John Love,LJ0561,9,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress11.va.county,va.uscongress.10.1809,John Dawson,DJ0582,10,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress11.va.county,va.uscongress.11.1809,John Roane,RJ0605,11,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.11.1809,John T. Woodford,WJ1019,11,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.11.1809,John Daingerfield,DJ0584,11,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.11.1809,James Webb,WJ0991,11,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.11.1809,Sthuskley Rennolds,RS0128,11,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.12.1809,Burwell Bassett,BB0099,12,Democratic-Republican,1172,2041,0.574,TRUE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.12.1809,John Eyre,EJ0307,12,Federalist,869,2041,0.426,FALSE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.13.1809,William A. Burwell,BW0451,13,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress11.va.county,va.uscongress.14.1809,Matthew Clay,CM0108,14,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress11.va.county,va.uscongress.15.1809,John Randolph,RJ0610,15,Republican Faction,1243,1735,0.716,TRUE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.15.1809,Jerman Baker,BJ1470,15,Democratic-Republican,492,1735,0.284,FALSE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.16.1809,John W. Eppes,EJ0283,16,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress11.va.county,va.uscongress.17.1809,"Thomas Gholson, Jr.",GT0098,17,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.17.1809,Jarvis Northampton,NJ0185,17,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.18.1809,Peterson Goodwyn,GP0075,18,Democratic-Republican,670,950,0.705,TRUE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.18.1809,John Pegram,PJ0565,18,Federalist,280,950,0.295,FALSE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.19.1809,Edwin Gray,GE0059,19,Federalist,1003,1839,0.545,TRUE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.19.1809,Richard Byrd,BR0192,19,Democratic-Republican,689,1839,0.375,FALSE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.19.1809,William Massenburg,MW0409,19,Democratic-Republican,147,1839,0.08,FALSE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.20.1809,Thomas Newton,NT0024,20,Democratic-Republican,1051,1750,0.601,TRUE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.20.1809,Robert B. Tayler,TR0086,20,Federalist,699,1750,0.399,FALSE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.21.1809,Wilson C. Nicholas,NW0043,21,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress11.va.county,va.uscongress.22.1809,John Clopton,CJ1097,22,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress11.va.county,va.uscongress.22.1809,Charles Dabney,DC0063,22,Republican Faction,NA,0,NA,FALSE,FALSE

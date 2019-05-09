@@ -1,0 +1,13 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress01.ga.county,ga.uscongress.lowerdistrict.1789,James Jackson,JJ0004,1,Anti-Federalist,613,3974,0.154,TRUE,FALSE
+meae.congressional.congress01.ga.county,ga.uscongress.lowerdistrict.1789,William Houston,HW0061,1,NA,422,3974,0.106,FALSE,FALSE
+meae.congressional.congress01.ga.county,ga.uscongress.lowerdistrict.1789,James Seagrove,SJ0082,1,NA,7,3974,0.002,FALSE,FALSE
+meae.congressional.congress01.ga.county,ga.uscongress.lowerdistrict.1789,scattering,NA,1,NA,5,3974,0.001,FALSE,FALSE
+meae.congressional.congress01.ga.county,ga.uscongress.middledistrict.1789,Abraham Baldwin,BA0026,2,Anti-Federalist,1096,3974,0.276,TRUE,FALSE
+meae.congressional.congress01.ga.county,ga.uscongress.middledistrict.1789,Henry Osborne,OH0000,2,NA,437,3974,0.11,FALSE,FALSE
+meae.congressional.congress01.ga.county,ga.uscongress.middledistrict.1789,Joseph Sumner,SJ0083,2,NA,170,3974,0.043,FALSE,FALSE
+meae.congressional.congress01.ga.county,ga.uscongress.middledistrict.1789,Isaac Briggs,BI0007,2,NA,42,3974,0.011,FALSE,FALSE
+meae.congressional.congress01.ga.county,ga.uscongress.middledistrict.1789,scattering,NA,2,NA,8,3974,0.002,FALSE,FALSE
+meae.congressional.congress01.ga.county,ga.uscongress.upperdistrict.1789,George Matthews,MG0009,3,Anti-Federalist,1158,3974,0.291,TRUE,FALSE
+meae.congressional.congress01.ga.county,ga.uscongress.upperdistrict.1789,Anthony Wayne,WA0009,3,NA,8,3974,0.002,FALSE,FALSE
+meae.congressional.congress01.ga.county,ga.uscongress.upperdistrict.1789,scattering,NA,3,NA,8,3974,0.002,FALSE,FALSE

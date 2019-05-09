@@ -1,0 +1,25 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress03.vt.county,vt.uscongress.eastern.1793,Nathaniel Niles,NN0014,2,Democratic-Republican,586,972,0.603,TRUE,FALSE
+meae.congressional.congress03.vt.county,vt.uscongress.eastern.1793,Elijah Paine,PE0117,2,Federalist,136,972,0.14,FALSE,FALSE
+meae.congressional.congress03.vt.county,vt.uscongress.eastern.1793,Stephen Jacob,JS0060,2,NA,75,972,0.077,FALSE,FALSE
+meae.congressional.congress03.vt.county,vt.uscongress.eastern.1793,Paul Brigham,BP0101,2,NA,43,972,0.044,FALSE,FALSE
+meae.congressional.congress03.vt.county,vt.uscongress.eastern.1793,Samuel Cutler,CS0216,2,NA,38,972,0.039,FALSE,FALSE
+meae.congressional.congress03.vt.county,vt.uscongress.eastern.1793,Daniel Buck,BD0212,2,Federalist,34,972,0.035,FALSE,FALSE
+meae.congressional.congress03.vt.county,vt.uscongress.eastern.1793,Isaac Tichenor,TI0032,2,Federalist,21,972,0.022,FALSE,FALSE
+meae.congressional.congress03.vt.county,vt.uscongress.eastern.1793,Jonathan Arnold,AJ0380,2,NA,9,972,0.009,FALSE,FALSE
+meae.congressional.congress03.vt.county,vt.uscongress.eastern.1793,Asaph Fletcher,FA0083,2,NA,9,972,0.009,FALSE,FALSE
+meae.congressional.congress03.vt.county,vt.uscongress.eastern.1793,Jonathan Hunt,HJ1284,2,NA,6,972,0.006,FALSE,FALSE
+meae.congressional.congress03.vt.county,vt.uscongress.eastern.1793,Alexander Harvey,HA0186,2,NA,5,972,0.005,FALSE,FALSE
+meae.congressional.congress03.vt.county,vt.uscongress.eastern.1793,Calvin Knoulton,KC0033,2,NA,5,972,0.005,FALSE,FALSE
+meae.congressional.congress03.vt.county,vt.uscongress.eastern.1793,Benjamin Greene,GB0066,2,NA,2,972,0.002,FALSE,FALSE
+meae.congressional.congress03.vt.county,vt.uscongress.eastern.1793,Benjamin Henry,HB0147,2,NA,1,972,0.001,FALSE,FALSE
+meae.congressional.congress03.vt.county,vt.uscongress.eastern.1793,Samuel Knight,KS0042,2,NA,1,972,0.001,FALSE,FALSE
+meae.congressional.congress03.vt.county,vt.uscongress.eastern.1793,John Weld,WJ0967,2,NA,1,972,0.001,FALSE,FALSE
+meae.congressional.congress03.vt.county,vt.uscongress.western.secondballot.1793,Israel Smith,SI0092,1,Democratic-Republican,1991,3907,0.51,TRUE,FALSE
+meae.congressional.congress03.vt.county,vt.uscongress.western.secondballot.1793,Matthew Lyon,LM0053,1,Democratic-Republican,1719,3907,0.44,FALSE,FALSE
+meae.congressional.congress03.vt.county,vt.uscongress.western.secondballot.1793,Isaac Tichenor,TI0032,1,Federalist,170,3907,0.044,FALSE,FALSE
+meae.congressional.congress03.vt.county,vt.uscongress.western.secondballot.1793,Samuel Hitchcock,HS0250,1,NA,23,3907,0.006,FALSE,FALSE
+meae.congressional.congress03.vt.county,vt.uscongress.western.secondballot.1793,Chipman,NA,1,NA,1,3907,0,FALSE,FALSE
+meae.congressional.congress03.vt.county,vt.uscongress.western.secondballot.1793,Shumway,NA,1,NA,1,3907,0,FALSE,FALSE
+meae.congressional.congress03.vt.county,vt.uscongress.western.secondballot.1793,N. Smith,SN0074,1,NA,1,3907,0,FALSE,FALSE
+meae.congressional.congress03.vt.county,vt.uscongress.western.secondballot.1793,Wales,NA,1,NA,1,3907,0,FALSE,FALSE

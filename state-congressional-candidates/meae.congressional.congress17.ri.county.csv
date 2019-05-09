@@ -1,0 +1,6 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress17.ri.county,ri.uscongress.1820,Job Durfree,DJ0538,At-large,Democratic-Republican,3563,11326,0.315,TRUE,FALSE
+meae.congressional.congress17.ri.county,ri.uscongress.1820,Samuel Eddy,ES0042,At-large,Democratic-Republican,2891,11326,0.255,TRUE,FALSE
+meae.congressional.congress17.ri.county,ri.uscongress.1820,Samuel Bridgham,BS0012,At-large,Federalist,2773,11326,0.245,FALSE,FALSE
+meae.congressional.congress17.ri.county,ri.uscongress.1820,Nathaniel Hazard,HN0066,At-large,Democratic-Republican,2033,11326,0.179,FALSE,FALSE
+meae.congressional.congress17.ri.county,ri.uscongress.1820,scattering,NA,At-large,NA,66,11326,0.006,FALSE,FALSE

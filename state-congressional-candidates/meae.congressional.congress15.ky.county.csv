@@ -1,0 +1,23 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress15.ky.county,ky.uscongress1.1816,David Trimble,TD0023,1,Democratic-Republican,3319,6006,0.553,TRUE,FALSE
+meae.congressional.congress15.ky.county,ky.uscongress1.1816,George Stockton,SG0021,1,NA,2687,6006,0.447,FALSE,FALSE
+meae.congressional.congress15.ky.county,ky.uscongress2.1816,Henry Clay,CH0035,2,Democratic-Republican,2493,4330,0.576,TRUE,FALSE
+meae.congressional.congress15.ky.county,ky.uscongress2.1816,John Pope,PJ0075,2,Federalist,1837,4330,0.424,FALSE,FALSE
+meae.congressional.congress15.ky.county,ky.uscongress3.1816,Richard M. Johnson,JR0007,3,Democratic-Republican,3640,6427,0.566,TRUE,FALSE
+meae.congressional.congress15.ky.county,ky.uscongress3.1816,Benjamin Taylor,TB0031,3,Federalist,2787,6427,0.434,FALSE,FALSE
+meae.congressional.congress15.ky.county,ky.uscongress4.1816,Joseph Desha,DJ0079,4,Democratic-Republican,2991,5332,0.561,TRUE,FALSE
+meae.congressional.congress15.ky.county,ky.uscongress4.1816,William Garrard,GW0016,4,NA,2341,5332,0.439,FALSE,FALSE
+meae.congressional.congress15.ky.county,ky.uscongress5.1816,Anthony New,NA0009,5,Democratic-Republican,3587,5567,0.644,TRUE,FALSE
+meae.congressional.congress15.ky.county,ky.uscongress5.1816,Benjamin W. Patton,PB0013,5,NA,1980,5567,0.356,FALSE,FALSE
+meae.congressional.congress15.ky.county,ky.uscongress6.1816,David Walker,WD0004,6,Democratic-Republican,3300,6094,0.542,TRUE,FALSE
+meae.congressional.congress15.ky.county,ky.uscongress6.1816,William Thompson,TW0023,6,NA,2295,6094,0.377,FALSE,FALSE
+meae.congressional.congress15.ky.county,ky.uscongress6.1816,Solomon Sharp,SS0045,6,Democratic-Republican,499,6094,0.082,FALSE,FALSE
+meae.congressional.congress15.ky.county,ky.uscongress7.1816,George C. Robinson,RG0015,7,Democratic-Republican,2597,4168,0.623,TRUE,FALSE
+meae.congressional.congress15.ky.county,ky.uscongress7.1816,Robert Caldwell,CR0013,7,NA,1571,4168,0.377,FALSE,FALSE
+meae.congressional.congress15.ky.county,ky.uscongress8.1816,Richard C. Anderson,AR0003,8,Democratic-Republican,2578,4536,0.568,TRUE,FALSE
+meae.congressional.congress15.ky.county,ky.uscongress8.1816,Edward George,GE0026,8,NA,1569,4536,0.346,FALSE,FALSE
+meae.congressional.congress15.ky.county,ky.uscongress8.1816,Stephen Ormsby,OS0002,8,NA,389,4536,0.086,FALSE,FALSE
+meae.congressional.congress15.ky.county,ky.uscongress9.1816,Tunstall Quarles,QT0001,9,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress15.ky.county,ky.uscongress10.1816,Thomas Speed,ST0054,10,Democratic-Republican,2204,5211,0.423,TRUE,FALSE
+meae.congressional.congress15.ky.county,ky.uscongress10.1816,James Crutcher,CJ0162,10,NA,1624,5211,0.312,FALSE,FALSE
+meae.congressional.congress15.ky.county,ky.uscongress10.1816,John Lancaster,LJ0049,10,NA,1383,5211,0.265,FALSE,FALSE

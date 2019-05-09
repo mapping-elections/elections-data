@@ -1,0 +1,25 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress05.ny.county,ny.uscongress1.1796,Jonathan Havens,HJ0499,1,Democratic-Republican,1259,1907,0.66,TRUE,FALSE
+meae.congressional.congress05.ny.county,ny.uscongress1.1796,Selah Strong,SS0176,1,Federalist,648,1907,0.34,FALSE,FALSE
+meae.congressional.congress05.ny.county,ny.uscongress10.1796,James Cochran,CJ0481,10,Federalist,2993,6008,0.498,TRUE,FALSE
+meae.congressional.congress05.ny.county,ny.uscongress10.1796,William Cooper,CW0154,10,Federalist,2975,6008,0.495,FALSE,FALSE
+meae.congressional.congress05.ny.county,ny.uscongress10.1796,Charles Williamson,WC0053,10,Democratic-Republican,40,6008,0.007,FALSE,FALSE
+meae.congressional.congress05.ny.county,ny.uscongress2.1796,Edward Livingston,LE0044,2,Democratic-Republican,2362,4174,0.566,TRUE,FALSE
+meae.congressional.congress05.ny.county,ny.uscongress2.1796,James Watson,WJ0412,2,Federalist,1812,4174,0.434,FALSE,FALSE
+meae.congressional.congress05.ny.county,ny.uscongress3.1796,Philip Van Cortlandt,VP0041,3,Democratic-Republican,1016,2019,0.503,TRUE,FALSE
+meae.congressional.congress05.ny.county,ny.uscongress3.1796,Samuel Haight,HS0136,3,Federalist,1003,2019,0.497,FALSE,FALSE
+meae.congressional.congress05.ny.county,ny.uscongress4.1796,Lucas Elmendorf,EL0004,4,Democratic-Republican,1937,3451,0.561,TRUE,FALSE
+meae.congressional.congress05.ny.county,ny.uscongress4.1796,Conrad E. Elmendorf,EC0014,4,Federalist,1514,3451,0.439,FALSE,FALSE
+meae.congressional.congress05.ny.county,ny.uscongress5.1796,David Brooks,BD0076,5,Federalist,1220,2238,0.545,TRUE,FALSE
+meae.congressional.congress05.ny.county,ny.uscongress5.1796,Theodorus Bailey,BT0171,5,Democratic-Republican,1018,2238,0.455,FALSE,FALSE
+meae.congressional.congress05.ny.county,ny.uscongress6.1796,Hezekiah L. Hosmer,HH0037,6,Federalist,1036,1810,0.572,TRUE,FALSE
+meae.congressional.congress05.ny.county,ny.uscongress6.1796,John P. Van Ness,VJ0182,6,Democratic-Republican,758,1810,0.419,FALSE,FALSE
+meae.congressional.congress05.ny.county,ny.uscongress6.1796,scattering,NA,6,NA,16,1810,0.009,FALSE,FALSE
+meae.congressional.congress05.ny.county,ny.uscongress7.1796,Henry Glenn,GH0039,7,Federalist,480,618,0.777,TRUE,FALSE
+meae.congressional.congress05.ny.county,ny.uscongress7.1796,Peter Swart,SP0063,7,Democratic-Republican,138,618,0.223,FALSE,FALSE
+meae.congressional.congress05.ny.county,ny.uscongress8.1796,John E. Van Alen,VJ0202,8,Federalist,1680,2835,0.593,TRUE,FALSE
+meae.congressional.congress05.ny.county,ny.uscongress8.1796,John Woodworth,WJ0439,8,Democratic-Republican,1155,2835,0.407,FALSE,FALSE
+meae.congressional.congress05.ny.county,ny.uscongress9.1796,John Williams,WJ0409,9,Federalist,1318,2119,0.622,TRUE,FALSE
+meae.congressional.congress05.ny.county,ny.uscongress9.1796,James Gordon,GJ0267,9,Federalist,575,2119,0.271,FALSE,FALSE
+meae.congressional.congress05.ny.county,ny.uscongress9.1796,Douw I. Fonda,FD0017,9,Democratic-Republican,209,2119,0.099,FALSE,FALSE
+meae.congressional.congress05.ny.county,ny.uscongress9.1796,Ebenezer Russell,RE0047,9,Federalist,17,2119,0.008,FALSE,FALSE

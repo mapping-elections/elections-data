@@ -1,0 +1,31 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress06.vt.county,vt.uscongress.eastern.1798,Lewis R. Morris,ML0045,2,Federalist,3220,3724,0.865,TRUE,FALSE
+meae.congressional.congress06.vt.county,vt.uscongress.eastern.1798,Nathaniel Niles,NN0014,2,Democratic-Republican,251,3724,0.067,FALSE,FALSE
+meae.congressional.congress06.vt.county,vt.uscongress.eastern.1798,Amasa Paine,PA0117,2,Federalist,92,3724,0.025,FALSE,FALSE
+meae.congressional.congress06.vt.county,vt.uscongress.eastern.1798,Stephen R. Bradley,BS0312,2,Democratic-Republican,73,3724,0.02,FALSE,FALSE
+meae.congressional.congress06.vt.county,vt.uscongress.eastern.1798,William Chamberlain,CW0352,2,Federalist,41,3724,0.011,FALSE,FALSE
+meae.congressional.congress06.vt.county,vt.uscongress.eastern.1798,Daniel Farrand,FD0052,2,Federalist,21,3724,0.006,FALSE,FALSE
+meae.congressional.congress06.vt.county,vt.uscongress.eastern.1798,Stephen Jacobs,JS0060,2,Federalist,11,3724,0.003,FALSE,FALSE
+meae.congressional.congress06.vt.county,vt.uscongress.eastern.1798,Moses Robinson,RM0051,2,NA,3,3724,0.001,FALSE,FALSE
+meae.congressional.congress06.vt.county,vt.uscongress.eastern.1798,Aaron Leland,LA0135,2,NA,3,3724,0.001,FALSE,FALSE
+meae.congressional.congress06.vt.county,vt.uscongress.eastern.1798,Oliver Gallup,GO0011,2,NA,2,3724,0.001,FALSE,FALSE
+meae.congressional.congress06.vt.county,vt.uscongress.eastern.1798,Elijah Paine,PE0117,2,Federalist,1,3724,0,FALSE,FALSE
+meae.congressional.congress06.vt.county,vt.uscongress.eastern.1798,Joseph Lord,LJ0118,2,NA,1,3724,0,FALSE,FALSE
+meae.congressional.congress06.vt.county,vt.uscongress.eastern.1798,Samuel Cutler,CS0216,2,NA,1,3724,0,FALSE,FALSE
+meae.congressional.congress06.vt.county,vt.uscongress.eastern.1798,Jonathan Hunt,HJ1284,2,NA,1,3724,0,FALSE,FALSE
+meae.congressional.congress06.vt.county,vt.uscongress.eastern.1798,Samuel Fletcher,FS0133,2,NA,1,3724,0,FALSE,FALSE
+meae.congressional.congress06.vt.county,vt.uscongress.eastern.1798,Amasa Allen,AA0004,2,NA,1,3724,0,FALSE,FALSE
+meae.congressional.congress06.vt.county,vt.uscongress.eastern.1798,Benjamin Burt,BB0038,2,NA,1,3724,0,FALSE,FALSE
+meae.congressional.congress06.vt.county,vt.uscongress.runoff.western.1798,Matthew Lyon,LM0053,1,Democratic-Republican,3576,6448,0.555,TRUE,FALSE
+meae.congressional.congress06.vt.county,vt.uscongress.runoff.western.1798,Samuel Williams,WS0226,1,Federalist,2444,6448,0.379,FALSE,FALSE
+meae.congressional.congress06.vt.county,vt.uscongress.runoff.western.1798,Israel Smith,SI0092,1,Federalist,428,6448,0.066,FALSE,FALSE
+meae.congressional.congress06.vt.county,vt.uscongress.runoff.western.1798,Jonas Galusha,GJ0613,1,NA,NA,6448,NA,FALSE,FALSE
+meae.congressional.congress06.vt.county,vt.uscongress.runoff.western.1798,Daniel Chipman,CD0204,1,Federalist,NA,6448,NA,FALSE,FALSE
+meae.congressional.congress06.vt.county,vt.uscongress.runoff.western.1798,James Lyon,LJ0470,1,NA,NA,6448,NA,FALSE,FALSE
+meae.congressional.congress06.vt.county,vt.uscongress.runoff.western.1798,Gideon Olin,OG0018,1,NA,NA,6448,NA,FALSE,FALSE
+meae.congressional.congress06.vt.county,vt.uscongress.runoff.western.1798,Jonathan Robinson,RJ0696,1,NA,NA,6448,NA,FALSE,FALSE
+meae.congressional.congress06.vt.county,vt.uscongress.runoff.western.1798,Abel Spencer,SA0276,1,NA,NA,6448,NA,FALSE,FALSE
+meae.congressional.congress06.vt.county,vt.uscongress.runoff.western.1798,John White,WJ0208,1,NA,NA,6448,NA,FALSE,FALSE
+meae.congressional.congress06.vt.county,vt.uscongress.runoff.western.1798,Samuel Hitchcock,HS0250,1,Federalist,NA,6448,NA,FALSE,FALSE
+meae.congressional.congress06.vt.county,vt.uscongress.runoff.western.1798,Abel Lyon,LA0115,1,NA,NA,6448,NA,FALSE,FALSE
+meae.congressional.congress06.vt.county,vt.uscongress.runoff.western.1798,scattering,NA,1,NA,NA,6448,NA,FALSE,FALSE

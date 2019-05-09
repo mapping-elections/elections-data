@@ -1,0 +1,14 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress02.md.county,md.uscongress.1790,Samuel Sterett,SS0058,At-large,Chesapeake,16420,101578,0.162,TRUE,FALSE
+meae.congressional.congress02.md.county,md.uscongress.1790,William Pinkney,PW0043,At-large,Chesapeake,10456,101578,0.103,TRUE,FALSE
+meae.congressional.congress02.md.county,md.uscongress.1790,Joshua Seney,SJ0183,At-large,Chesapeake,9887,101578,0.097,TRUE,FALSE
+meae.congressional.congress02.md.county,md.uscongress.1790,William Vans Murray,MW0069,At-large,Chesapeake,9647,101578,0.095,TRUE,FALSE
+meae.congressional.congress02.md.county,md.uscongress.1790,Philip Key,KP0011,At-large,Chesapeake,9640,101578,0.095,TRUE,FALSE
+meae.congressional.congress02.md.county,md.uscongress.1790,Upton Sheredine,SU0000,At-large,Chesapeake,9388,101578,0.092,TRUE,FALSE
+meae.congressional.congress02.md.county,md.uscongress.1790,Daniel Carroll,CD0030,At-large,Potomac,7532,101578,0.074,FALSE,FALSE
+meae.congressional.congress02.md.county,md.uscongress.1790,George Gale,GG0007,At-large,Potomac,7464,101578,0.073,FALSE,FALSE
+meae.congressional.congress02.md.county,md.uscongress.1790,Michael Jenifer Stone,SM0034,At-large,Potomac,7318,101578,0.072,FALSE,FALSE
+meae.congressional.congress02.md.county,md.uscongress.1790,James Tilghman,TJ0158,At-large,Potomac,7286,101578,0.072,FALSE,FALSE
+meae.congressional.congress02.md.county,md.uscongress.1790,Benjamin Contee,CB0013,At-large,Potomac,6528,101578,0.064,FALSE,FALSE
+meae.congressional.congress02.md.county,md.uscongress.1790,Dent,NA,At-large,NA,11,101578,0,FALSE,FALSE
+meae.congressional.congress02.md.county,md.uscongress.1790,James Brown,BJ0266,At-large,NA,1,101578,0,FALSE,FALSE

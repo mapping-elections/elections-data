@@ -1,0 +1,10 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress12.ga.county,ga.uscongress.1810,William Bibb,BW0000,At-large,Democratic-Republican,17694,72766,0.243,TRUE,FALSE
+meae.congressional.congress12.ga.county,ga.uscongress.1810,George Troup,TG0014,At-large,Democratic-Republican,16470,72766,0.226,TRUE,FALSE
+meae.congressional.congress12.ga.county,ga.uscongress.1810,Howell Cobb,CH0029,At-large,Democratic-Republican,12294,72766,0.169,TRUE,FALSE
+meae.congressional.congress12.ga.county,ga.uscongress.1810,Bolling Hall,HB0018,At-large,Democratic-Republican,9116,72766,0.125,TRUE,FALSE
+meae.congressional.congress12.ga.county,ga.uscongress.1810,Elijah Clark,CE0024,At-large,Democratic-Republican,7789,72766,0.107,FALSE,FALSE
+meae.congressional.congress12.ga.county,ga.uscongress.1810,John Forsyth,FJ0021,At-large,Democratic-Republican,6629,72766,0.091,FALSE,FALSE
+meae.congressional.congress12.ga.county,ga.uscongress.1810,John Elliot,EJ0015,At-large,Federalist,2591,72766,0.036,FALSE,FALSE
+meae.congressional.congress12.ga.county,ga.uscongress.1810,James E. Houston,HJ0052,At-large,Democratic-Republican,174,72766,0.002,FALSE,FALSE
+meae.congressional.congress12.ga.county,ga.uscongress.1810,Jess Hatton,HJ0067,At-large,NA,9,72766,0,FALSE,FALSE

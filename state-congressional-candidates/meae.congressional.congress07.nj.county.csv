@@ -1,0 +1,27 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress07.nj.county,nj.congress.1800,James Mott,MJ0399,At-large,Democratic-Republican,14726,143794,0.102,TRUE,FALSE
+meae.congressional.congress07.nj.county,nj.congress.1800,Ebenezer Elmer,EE0016,At-large,Democratic-Republican,14637,143794,0.102,TRUE,FALSE
+meae.congressional.congress07.nj.county,nj.congress.1800,John Condit,CJ0382,At-large,Democratic-Republican,14614,143794,0.102,TRUE,FALSE
+meae.congressional.congress07.nj.county,nj.congress.1800,William Helms,HW0205,At-large,Democratic-Republican,14602,143794,0.102,TRUE,FALSE
+meae.congressional.congress07.nj.county,nj.congress.1800,Henry Southard,SH0055,At-large,Democratic-Republican,14547,143794,0.101,TRUE,FALSE
+meae.congressional.congress07.nj.county,nj.congress.1800,Aaron Ogden,OA0025,At-large,Federalist,14177,143794,0.099,FALSE,FALSE
+meae.congressional.congress07.nj.county,nj.congress.1800,Peter D. Vroom,VP0002,At-large,Federalist,14118,143794,0.098,FALSE,FALSE
+meae.congressional.congress07.nj.county,nj.congress.1800,James H. Imlay,IJ0057,At-large,Federalist,14106,143794,0.098,FALSE,FALSE
+meae.congressional.congress07.nj.county,nj.congress.1800,Franklin Davenport,DF0014,At-large,Federalist,14037,143794,0.098,FALSE,FALSE
+meae.congressional.congress07.nj.county,nj.congress.1800,William Coxe,CW0104,At-large,Federalist,14026,143794,0.098,FALSE,FALSE
+meae.congressional.congress07.nj.county,nj.congress.1800,William Southard,SW0048,At-large,NA,98,143794,0.001,FALSE,FALSE
+meae.congressional.congress07.nj.county,nj.congress.1800,Aaron Kitchell,KA0023,At-large,Democratic-Republican,32,143794,0,FALSE,FALSE
+meae.congressional.congress07.nj.county,nj.congress.1800,Silas Condit,CS0064,At-large,Democratic-Republican,25,143794,0,FALSE,FALSE
+meae.congressional.congress07.nj.county,nj.congress.1800,Thomas Newbold,NT0008,At-large,NA,14,143794,0,FALSE,FALSE
+meae.congressional.congress07.nj.county,nj.congress.1800,Abraham Kitchell,KA0027,At-large,NA,13,143794,0,FALSE,FALSE
+meae.congressional.congress07.nj.county,nj.congress.1800,M. Furman,FM0029,At-large,NA,8,143794,0,FALSE,FALSE
+meae.congressional.congress07.nj.county,nj.congress.1800,Jonathan Lambert,LJ0012,At-large,NA,2,143794,0,FALSE,FALSE
+meae.congressional.congress07.nj.county,nj.congress.1800,Artis Seagrave,SA0103,At-large,NA,2,143794,0,FALSE,FALSE
+meae.congressional.congress07.nj.county,nj.congress.1800,D. Marsh,MD0004,At-large,NA,2,143794,0,FALSE,FALSE
+meae.congressional.congress07.nj.county,nj.congress.1800,W. Woodhull,WW0142,At-large,NA,2,143794,0,FALSE,FALSE
+meae.congressional.congress07.nj.county,nj.congress.1800,William Parrett,PW0145,At-large,Democratic-Republican,1,143794,0,FALSE,FALSE
+meae.congressional.congress07.nj.county,nj.congress.1800,Joseph Cooper,CJ0399,At-large,NA,1,143794,0,FALSE,FALSE
+meae.congressional.congress07.nj.county,nj.congress.1800,Jonathan Elmer,EJ0094,At-large,Federalist,1,143794,0,FALSE,FALSE
+meae.congressional.congress07.nj.county,nj.congress.1800,W. Camfield,CW0039,At-large,NA,1,143794,0,FALSE,FALSE
+meae.congressional.congress07.nj.county,nj.congress.1800,John Outwater,OJ0033,At-large,NA,1,143794,0,FALSE,FALSE
+meae.congressional.congress07.nj.county,nj.congress.1800,Stephen Sayre,SS0011,At-large,NA,1,143794,0,FALSE,FALSE

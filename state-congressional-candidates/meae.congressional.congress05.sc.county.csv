@@ -1,0 +1,18 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress05.sc.county,sc.uscongress.beaufort.1796,"John Rutledge, Jr.",RJ0621,2,Federalist,839,961,0.873,TRUE,FALSE
+meae.congressional.congress05.sc.county,sc.uscongress.beaufort.1796,Elnathan Haskell,HE0016,2,Democratic-Republican,122,961,0.127,FALSE,FALSE
+meae.congressional.congress05.sc.county,sc.uscongress.camden.1796,Thomas Sumpter,ST0266,4,Democratic-Republican,854,1685,0.507,TRUE,FALSE
+meae.congressional.congress05.sc.county,sc.uscongress.camden.1796,Richard Winn,WR0158,4,Federalist,831,1685,0.493,FALSE,FALSE
+meae.congressional.congress05.sc.county,sc.uscongress.charleston.1796,William L. Smith,SW0299,1,Federalist,784,925,0.848,TRUE,FALSE
+meae.congressional.congress05.sc.county,sc.uscongress.charleston.1796,Robert Simons,SR0267,1,Democratic-Republican,126,925,0.136,FALSE,FALSE
+meae.congressional.congress05.sc.county,sc.uscongress.charleston.1796,John Rutledge,RJ0621,1,Democratic-Republican,15,925,0.016,FALSE,FALSE
+meae.congressional.congress05.sc.county,sc.uscongress.georgetown.1796,Lemuel Benton,BL0075,3,Democratic-Republican,777,1228,0.633,TRUE,FALSE
+meae.congressional.congress05.sc.county,sc.uscongress.georgetown.1796,Tristam Thomas,TT0124,3,Federalist,300,1228,0.244,FALSE,FALSE
+meae.congressional.congress05.sc.county,sc.uscongress.georgetown.1796,Joseph Blyth,BJ1341,3,Federalist,151,1228,0.123,FALSE,FALSE
+meae.congressional.congress05.sc.county,sc.uscongress.ninety-six.1796,Robert G. Harper,HR0079,5,Federalist,1618,2392,0.676,TRUE,FALSE
+meae.congressional.congress05.sc.county,sc.uscongress.ninety-six.1796,William Butler,BW0365,5,Democratic-Republican,774,2392,0.324,FALSE,FALSE
+meae.congressional.congress05.sc.county,sc.uscongress.washington.1796,William Smith,SW0300,6,Democratic-Republican,947,2557,0.37,TRUE,FALSE
+meae.congressional.congress05.sc.county,sc.uscongress.washington.1796,Abraham Nott,NA0041,6,Federalist,830,2557,0.325,FALSE,FALSE
+meae.congressional.congress05.sc.county,sc.uscongress.washington.1796,William Will,WW0358,6,Democratic-Republican,650,2557,0.254,FALSE,FALSE
+meae.congressional.congress05.sc.county,sc.uscongress.washington.1796,Samuel Lowrie,LS0094,6,Federalist,67,2557,0.026,FALSE,FALSE
+meae.congressional.congress05.sc.county,sc.uscongress.washington.1796,Robert Anderson,AR0055,6,Democratic-Republican,63,2557,0.025,FALSE,FALSE

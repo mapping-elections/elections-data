@@ -1,0 +1,12 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress05.ga.county,ga.uscongress.1796,Abraham Baldwin,BA0026,At-large,Democratic-Republican,5932,16576,0.358,TRUE,FALSE
+meae.congressional.congress05.ga.county,ga.uscongress.1796,John Milledge,MJ0057,At-large,Democratic-Republican,5489,16576,0.331,TRUE,FALSE
+meae.congressional.congress05.ga.county,ga.uscongress.1796,Thomas P. Carnes,CT0042,At-large,Federalist,3104,16576,0.187,FALSE,FALSE
+meae.congressional.congress05.ga.county,ga.uscongress.1796,Francis Willis,WF0022,At-large,Federalist,1745,16576,0.105,FALSE,FALSE
+meae.congressional.congress05.ga.county,ga.uscongress.1796,George Nailor,NG0000,At-large,Democratic-Republican,295,16576,0.018,FALSE,FALSE
+meae.congressional.congress05.ga.county,ga.uscongress.1796,William Barnett,BW0037,At-large,NA,5,16576,0,FALSE,FALSE
+meae.congressional.congress05.ga.county,ga.uscongress.1796,Thomas Glascock,GT0021,At-large,NA,2,16576,0,FALSE,FALSE
+meae.congressional.congress05.ga.county,ga.uscongress.1796,Howell Cobb,CH0029,At-large,NA,1,16576,0,FALSE,FALSE
+meae.congressional.congress05.ga.county,ga.uscongress.1796,A.C.G. Elholm,EA0052,At-large,NA,1,16576,0,FALSE,FALSE
+meae.congressional.congress05.ga.county,ga.uscongress.1796,Josiah Tatnall,TJ0074,At-large,NA,1,16576,0,FALSE,FALSE
+meae.congressional.congress05.ga.county,ga.uscongress.1796,John W. Thompson,TJ0469,At-large,NA,1,16576,0,FALSE,FALSE

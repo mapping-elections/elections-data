@@ -1,0 +1,5 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress16.in.county,in.uscongress.1818,William Hendricks,HW0072,At-large,Democratic-Republican,10646,11770,0.905,TRUE,FALSE
+meae.congressional.congress16.in.county,in.uscongress.1818,Reuben W. Nelson,NR0022,At-large,NA,1122,11770,0.095,FALSE,FALSE
+meae.congressional.congress16.in.county,in.uscongress.1818,Waller Taylor,TW0011,At-large,Democratic-Republican,1,11770,0,FALSE,FALSE
+meae.congressional.congress16.in.county,in.uscongress.1818,R. W. Noble,NR0021,At-large,NA,1,11770,0,FALSE,FALSE

@@ -1,0 +1,30 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress08.md.county,md.uscongress1.1803,John Campbell,CJ0207,1,Federalist,1733,2179,0.795,TRUE,FALSE
+meae.congressional.congress08.md.county,md.uscongress1.1803,William Thomas,TW0029,1,Democratic-Republican,446,2179,0.205,FALSE,FALSE
+meae.congressional.congress08.md.county,md.uscongress2.1803,Walter Bowie,BW0122,2,Democratic-Republican,2084,2094,0.995,TRUE,FALSE
+meae.congressional.congress08.md.county,md.uscongress2.1803,Alexander Boone,BA0013,2,NA,4,2094,0.002,FALSE,FALSE
+meae.congressional.congress08.md.county,md.uscongress2.1803,Charles Carroll,CC0012,2,Federalist,2,2094,0.001,FALSE,FALSE
+meae.congressional.congress08.md.county,md.uscongress2.1803,John Manning,MJ1120,2,NA,2,2094,0.001,FALSE,FALSE
+meae.congressional.congress08.md.county,md.uscongress2.1803,Gabriel Van Horn,VG0000,2,NA,1,2094,0,FALSE,FALSE
+meae.congressional.congress08.md.county,md.uscongress2.1803,Henry Whitemore,WH0052,2,NA,1,2094,0,FALSE,FALSE
+meae.congressional.congress08.md.county,md.uscongress3.1803,Thomas Plater,PT0052,3,Federalist,1874,3613,0.519,TRUE,FALSE
+meae.congressional.congress08.md.county,md.uscongress3.1803,Patrick Magruder,MP0018,3,Democratic-Republican,1507,3613,0.417,FALSE,FALSE
+meae.congressional.congress08.md.county,md.uscongress3.1803,Richard Wooten,WR0116,3,Federalist,232,3613,0.064,FALSE,FALSE
+meae.congressional.congress08.md.county,md.uscongress4.1803,Daniel Hiester,ZZ0005,4,Democratic-Republican,3571,5951,0.6,TRUE,FALSE
+meae.congressional.congress08.md.county,md.uscongress4.1803,Eli Williams,WE0027,4,Federalist,2379,5951,0.4,FALSE,FALSE
+meae.congressional.congress08.md.county,md.uscongress4.1803,Frisby Tilghman,TF0001,4,NA,1,5951,0,FALSE,FALSE
+meae.congressional.congress08.md.county,md.uscongress5.1803,Nicholas Moore,MN0021,5,Democratic-Republican,5069,9415,0.538,TRUE,FALSE
+meae.congressional.congress08.md.county,md.uscongress5.1803,William MacCreery,MW0092,5,Democratic-Republican,3610,9415,0.383,TRUE,FALSE
+meae.congressional.congress08.md.county,md.uscongress5.1803,George Buchanan,BG0026,5,Federalist,736,9415,0.078,FALSE,FALSE
+meae.congressional.congress08.md.county,md.uscongress6.1803,John Archer,AJ0075,6,Democratic-Republican,3227,3228,1,TRUE,FALSE
+meae.congressional.congress08.md.county,md.uscongress6.1803,Charles Gordon,GC0002,6,NA,1,3228,0,FALSE,FALSE
+meae.congressional.congress08.md.county,md.uscongress7.1803,Joseph Nicholson,NJ0026,7,Democratic-Republican,2132,2140,0.996,TRUE,FALSE
+meae.congressional.congress08.md.county,md.uscongress7.1803,William J. Hindman,HW0097,7,Federalist,7,2140,0.003,FALSE,FALSE
+meae.congressional.congress08.md.county,md.uscongress7.1803,Solomon Jones,JS0001,7,NA,1,2140,0,FALSE,FALSE
+meae.congressional.congress08.md.county,md.uscongress8.1803,John Dennis,DJ0122,8,Federalist,1751,1846,0.949,TRUE,FALSE
+meae.congressional.congress08.md.county,md.uscongress8.1803,Joshua Prideaux,PJ0138,8,Democratic-Republican,62,1846,0.034,FALSE,FALSE
+meae.congressional.congress08.md.county,md.uscongress8.1803,James B. Robinson,RJ0049,8,Democratic-Republican,8,1846,0.004,FALSE,FALSE
+meae.congressional.congress08.md.county,md.uscongress8.1803,Arthur Whitely,WA0005,8,NA,2,1846,0.001,FALSE,FALSE
+meae.congressional.congress08.md.county,md.uscongress8.1803,Samuel Heath,HS0010,8,NA,20,1846,0.011,FALSE,FALSE
+meae.congressional.congress08.md.county,md.uscongress8.1803,Thomas S. Tapett,TT0044,8,NA,2,1846,0.001,FALSE,FALSE
+meae.congressional.congress08.md.county,md.uscongress8.1803,William Polk,PW0048,8,NA,1,1846,0.001,FALSE,FALSE

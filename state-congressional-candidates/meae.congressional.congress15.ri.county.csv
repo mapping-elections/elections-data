@@ -1,0 +1,3 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress15.ri.county,ri.uscongress.1816,John L. Boss,BJ0012,At-large,Federalist,2239,4469,0.501,TRUE,FALSE
+meae.congressional.congress15.ri.county,ri.uscongress.1816,James B. Mason,MJ1283,At-large,Federalist,2230,4469,0.499,TRUE,FALSE

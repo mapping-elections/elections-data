@@ -1,0 +1,24 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress17.ky.county,ky.uscongress1.1820,David Trimble,TD0023,1,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress17.ky.county,ky.uscongress1.1820,William P. Fleming,FW0016,1,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress17.ky.county,ky.uscongress10.1820,Benjamin Hardin,HB0033,10,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress17.ky.county,ky.uscongress10.1820,Richard Rudd,RR0013,10,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress17.ky.county,ky.uscongress10.1820,John Hays,HJ0129,10,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress17.ky.county,ky.uscongress2.1820,Samuel H. Woodson,WS0054,2,Democratic-Republican,2651,4463,0.594,TRUE,FALSE
+meae.congressional.congress17.ky.county,ky.uscongress2.1820,John Pope,PJ0075,2,Federalist,1686,4463,0.378,FALSE,FALSE
+meae.congressional.congress17.ky.county,ky.uscongress2.1820,Thomas T. Barr,BT0025,2,NA,126,4463,0.028,FALSE,FALSE
+meae.congressional.congress17.ky.county,ky.uscongress3.1820,John T. Johnson,JJ0065,3,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress17.ky.county,ky.uscongress3.1820,Thomas A. Grimes,GT0026,3,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress17.ky.county,ky.uscongress4.1820,Thomas Metcalf,MT0035,4,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress17.ky.county,ky.uscongress5.1820,Anthony New,NA0009,5,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress17.ky.county,ky.uscongress5.1820,John Daviess,DJ0007,5,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress17.ky.county,ky.uscongress5.1820,Dickson Gwen,GD0005,5,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress17.ky.county,ky.uscongress6.1820,Francis Johnson,JF0000,6,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress17.ky.county,ky.uscongress6.1820,John Breathitt,BJ0236,6,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress17.ky.county,ky.uscongress6.1820,Willis Wills,WW0062,6,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress17.ky.county,ky.uscongress7.1820,George C. Robertson,RG0015,7,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress17.ky.county,ky.uscongress8.1820,Wingfield Bullock,BW0099,8,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress17.ky.county,ky.uscongress8.1820,Norborne B. Beall,BN0023,8,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress17.ky.county,ky.uscongress8.1820,Samuel Churchill,CS0014,8,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress17.ky.county,ky.uscongress8.1820,John Logan,LJ0052,8,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress17.ky.county,ky.uscongress9.1820,Thomas Montgomery,MT0031,9,Democratic-Republican,NA,0,NA,TRUE,TRUE

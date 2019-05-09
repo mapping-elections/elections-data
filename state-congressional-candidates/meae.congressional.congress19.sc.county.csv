@@ -1,0 +1,18 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress19.sc.county,sc.uscongress.charleston.1824,Joel R. Poinsett,PJ0709,1,Jacksonian,1528,2627,0.582,TRUE,FALSE
+meae.congressional.congress19.sc.county,sc.uscongress.charleston.1824,Samuel Warren,WS0211,1,NA,1099,2627,0.418,FALSE,FALSE
+meae.congressional.congress19.sc.county,sc.uscongress.beaufort.1824,"James Hamilton, Jr.",HJ1250,2,Jacksonian,NA,0,NA,TRUE,TRUE
+meae.congressional.congress19.sc.county,sc.uscongress.georgetown.1824,Thomas R. Mitchell,MT0226,3,Jacksonian,NA,0,NA,TRUE,TRUE
+meae.congressional.congress19.sc.county,sc.uscongress.orangeburgh.1824,Andrew R. Govan,GA0112,4,Jacksonian,NA,0,NA,TRUE,FALSE
+meae.congressional.congress19.sc.county,sc.uscongress.orangeburgh.1824,Jonadab Nettles,NJ0032,4,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress19.sc.county,sc.uscongress.orangeburgh.1824,blank,NA,4,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress19.sc.county,sc.uscongress.newberry.1824,Starling Tucker,TS0104,5,Jacksonian,NA,0,NA,TRUE,TRUE
+meae.congressional.congress19.sc.county,sc.uscongress.abbeville.1824,George MacDuffie,MG0132,6,Jacksonian,NA,0,NA,TRUE,TRUE
+meae.congressional.congress19.sc.county,sc.uscongress.pendleton.1824,John Wilson,WJ0940,7,Jacksonian,2551,5025,0.508,TRUE,FALSE
+meae.congressional.congress19.sc.county,sc.uscongress.pendleton.1824,Warren R. Davis,DW0206,7,NA,2474,5025,0.492,FALSE,FALSE
+meae.congressional.congress19.sc.county,sc.uscongress.chester.1824,Joseph Gist,GJ0573,8,Republican Faction,3692,6494,0.569,TRUE,FALSE
+meae.congressional.congress19.sc.county,sc.uscongress.chester.1824,James MacCreary,MJ1355,8,Adams/Clay,1869,6494,0.288,FALSE,FALSE
+meae.congressional.congress19.sc.county,sc.uscongress.chester.1824,Francis W. Davie,DF0015,8,Jacksonian,933,6494,0.144,FALSE,FALSE
+meae.congressional.congress19.sc.county,sc.uscongress.kershaw.1824,John W. Carter,CJ1058,9,Jacksonian,1882,4074,0.462,TRUE,FALSE
+meae.congressional.congress19.sc.county,sc.uscongress.kershaw.1824,James G. Spann,SJ1511,9,NA,1137,4074,0.279,FALSE,FALSE
+meae.congressional.congress19.sc.county,sc.uscongress.kershaw.1824,Chapman Levy,LC0066,9,NA,1055,4074,0.259,FALSE,FALSE

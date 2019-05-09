@@ -1,0 +1,38 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress12.pa.county,pa.uscongress1.1810,Adam Seybert,SA0219,1,Democratic-Republican,6276,31735,0.198,TRUE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress1.1810,William Anderson,AW0096,1,Democratic-Republican,6218,31735,0.196,TRUE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress1.1810,James Milnor,MJ0945,1,Federalist,4359,31735,0.137,TRUE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress1.1810,Thomas Truxton,TT0107,1,Federalist,4343,31735,0.137,FALSE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress1.1810,Thomas B. Dick,DT0098,1,Federalist,4269,31735,0.135,FALSE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress1.1810,John Porter,PJ0433,1,Republican Faction,3143,31735,0.099,FALSE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress1.1810,Robert MacMullin,MR0024,1,Republican Faction,3127,31735,0.099,FALSE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress1.1810,NA,NA,1,NA,NA,31735,NA,FALSE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress1.1810,NA,NA,1,NA,NA,31735,NA,FALSE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress2.1810,Robert Brown,BR0106,2,Democratic-Republican,5444,28452,0.191,TRUE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress2.1810,Jonathan Roberts,RJ0414,2,Democratic-Republican,5409,28452,0.19,TRUE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress2.1810,William Rodman,RW0146,2,Democratic-Republican,5377,28452,0.189,TRUE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress2.1810,William Milnor,MW0326,2,Republican Faction,4132,28452,0.145,FALSE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress2.1810,Levi Pawling,PL0018,2,Federalist,4033,28452,0.142,FALSE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress2.1810,William Lattimore,LW0156,2,Republican Faction,3955,28452,0.139,FALSE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress2.1810,Charles Miner,MC0051,2,Federalist,102,28452,0.004,FALSE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress3.1810,Joseph Lefever,LJ0342,3,Democratic-Republican,6616,36046,0.184,TRUE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress3.1810,Roger Davis,DR0049,3,Democratic-Republican,6612,36046,0.183,TRUE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress3.1810,John M. Hyneman,HJ0847,3,Democratic-Republican,6201,36046,0.172,TRUE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress3.1810,Daniel Hiester,HD0091,3,Federalist,5770,36046,0.16,FALSE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress3.1810,Samuel Bethel,BS0250,3,Federalist,5437,36046,0.151,FALSE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress3.1810,Marks John Biddle,BM0099,3,Federalist,5410,36046,0.15,FALSE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress4.1810,David Bard,BD0120,4,Democratic-Republican,5436,10865,0.5,TRUE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress4.1810,Robert Whitehill,WR0153,4,Democratic-Republican,5429,10865,0.5,TRUE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress5.1810,George Smith,SG0084,5,Democratic-Republican,3576,3576,1,TRUE,TRUE
+meae.congressional.congress12.pa.county,pa.uscongress6.1810,William Crawford,CW0246,6,Democratic-Republican,2332,4122,0.566,TRUE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress6.1810,David Cassat,CD0173,6,Federalist,1790,4122,0.434,FALSE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress7.1810,William Piper,PW0228,7,Democratic-Republican,1428,2443,0.585,TRUE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress7.1810,John Rea,RJ0310,7,Democratic-Republican,1015,2443,0.415,FALSE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress8.1810,William Findley,FW0062,8,Federalist,2735,4492,0.609,TRUE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress8.1810,John Kirkpatrick,KJ0247,8,Federalist,1757,4492,0.391,FALSE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress9.1810,John Smilie,SJ0970,9,Democratic-Republican,1401,1401,1,TRUE,TRUE
+meae.congressional.congress12.pa.county,pa.uscongress10.1810,Aaron Lyle,LA0096,10,Democratic-Republican,1344,1908,0.704,TRUE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress10.1810,Thomas L. Birch,BT0278,10,Democratic-Republican,564,1908,0.296,FALSE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress11.1810,Abner Lacock,LA0102,11,Democratic-Republican,2897,5678,0.51,TRUE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress11.1810,Adamson Tannehill,TA0049,11,Democratic-Republican,2455,5678,0.432,FALSE,FALSE
+meae.congressional.congress12.pa.county,pa.uscongress11.1810,Samuel Smith,SS0274,11,Democratic-Republican,326,5678,0.057,FALSE,FALSE

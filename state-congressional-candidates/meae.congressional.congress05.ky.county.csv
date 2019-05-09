@@ -1,0 +1,5 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress05.ky.county,ky.uscongressnortherndistrict.1796,John Fowler,FJ0047,2,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress05.ky.county,ky.uscongressnortherndistrict.1796,Notley Conn,CN0007,2,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress05.ky.county,ky.uscongressnortherndistrict.1796,Edmund Bullock,BE0063,2,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress05.ky.county,ky.uscongresssoutherndistrict.1796,Thomas Terry Davis,DT0030,1,Democratic-Republican,NA,0,NA,TRUE,TRUE

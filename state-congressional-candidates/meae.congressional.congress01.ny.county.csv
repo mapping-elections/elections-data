@@ -1,0 +1,13 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress01.ny.county,ny.uscongress1.1789,"Floyd, William",FW0034,1,Anti-Federalist,894,894,1,TRUE,TRUE
+meae.congressional.congress01.ny.county,ny.uscongress2.1789,"Laurence, John",LJ0218,2,Federalist,2542,2947,0.862,TRUE,FALSE
+meae.congressional.congress01.ny.county,ny.uscongress2.1789,"Broome, John",BJ0669,2,Anti-Federalist,372,2947,0.126,FALSE,FALSE
+meae.congressional.congress01.ny.county,ny.uscongress2.1789,"Pell, Philip",PP0007,2,Anti-Federalist,33,2947,0.011,FALSE,FALSE
+meae.congressional.congress01.ny.county,ny.uscongress3.1789,"Benson, Egbert",BE0171,3,Federalist,584,1158,0.504,TRUE,FALSE
+meae.congressional.congress01.ny.county,ny.uscongress3.1789,"Bailey, Theodorus",BT0171,3,Anti-Federalist,574,1158,0.496,FALSE,FALSE
+meae.congressional.congress01.ny.county,ny.uscongress4.1789,"Hathorn, John",HJ0485,4,Anti-Federalist,NA,NA,1,TRUE,TRUE
+meae.congressional.congress01.ny.county,ny.uscongress5.1789,"Sylvester, Peter",SP0060,5,Federalist,1628,3179,0.512,TRUE,FALSE
+meae.congressional.congress01.ny.county,ny.uscongress5.1789,"Adgate, Matthew",AM0007,5,Anti-Federalist,1501,3179,0.472,FALSE,FALSE
+meae.congressional.congress01.ny.county,ny.uscongress5.1789,"Williams, John",WJ0409,5,Anti-Federalist,50,3179,0.016,FALSE,FALSE
+meae.congressional.congress01.ny.county,ny.uscongress6.1789,"Van Rensselaer, Jeremiah",VJ0189,6,Anti-Federalist,1456,2671,0.545,TRUE,FALSE
+meae.congressional.congress01.ny.county,ny.uscongress6.1789,"Ten Broeck, Abraham",TA0014,6,Federalist,1215,2671,0.455,FALSE,FALSE

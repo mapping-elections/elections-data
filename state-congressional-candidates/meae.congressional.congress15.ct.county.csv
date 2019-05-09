@@ -1,0 +1,19 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress15.ct.county,ct.congress.1816,Sylvanus Backus,BS0014,At-large,Federalist,9591,70141,0.137,TRUE,FALSE
+meae.congressional.congress15.ct.county,ct.congress.1816,Samuel B. Sherwood,SS0000,At-large,Federalist,6301,70141,0.09,TRUE,FALSE
+meae.congressional.congress15.ct.county,ct.congress.1816,Charles Dennison,DC0000,At-large,Federalist,6218,70141,0.089,TRUE,FALSE
+meae.congressional.congress15.ct.county,ct.congress.1816,"Timothy Pitkin, Jr.",PT0001,At-large,Federalist,6189,70141,0.088,TRUE,FALSE
+meae.congressional.congress15.ct.county,ct.congress.1816,Thomas S. Williams,WT0003,At-large,Federalist,4952,70141,0.071,TRUE,FALSE
+meae.congressional.congress15.ct.county,ct.congress.1816,Jonathan O. Moseley,MJ0022,At-large,Federalist,4854,70141,0.069,TRUE,FALSE
+meae.congressional.congress15.ct.county,ct.congress.1816,"Uriel Holmes, Jr.",HU0000,At-large,Federalist,4667,70141,0.067,TRUE,FALSE
+meae.congressional.congress15.ct.county,ct.congress.1816,Ebenezer Huntingdon,HE0008,At-large,Federalist,4647,70141,0.066,FALSE,FALSE
+meae.congressional.congress15.ct.county,ct.congress.1816,Lyman Law,LL0001,At-large,Federalist,4453,70141,0.063,FALSE,FALSE
+meae.congressional.congress15.ct.county,ct.congress.1816,Lewis B. Sturges,SL0001,At-large,Federalist,4375,70141,0.062,FALSE,FALSE
+meae.congressional.congress15.ct.county,ct.congress.1816,Epaphroditus Champion,CE0020,At-large,Federalist,3913,70141,0.056,FALSE,FALSE
+meae.congressional.congress15.ct.county,ct.congress.1816,"Asa Bacon, Jr.",BA0002,At-large,Federalist,3784,70141,0.054,FALSE,FALSE
+meae.congressional.congress15.ct.county,ct.congress.1816,Nathaniel Terry,TN0001,At-large,Federalist,3078,70141,0.044,FALSE,FALSE
+meae.congressional.congress15.ct.county,ct.congress.1816,Sylvester Gilbert,GS0003,At-large,Federalist,2974,70141,0.042,FALSE,FALSE
+meae.congressional.congress15.ct.county,ct.congress.1816,James Gould,GJ0008,At-large,Federalist,67,70141,0.001,FALSE,FALSE
+meae.congressional.congress15.ct.county,ct.congress.1816,"John Davenport, Jr.",DJ0022,At-large,Federalist,40,70141,0.001,FALSE,FALSE
+meae.congressional.congress15.ct.county,ct.congress.1816,Nathan Smith,SN0016,At-large,Federalist,24,70141,0,FALSE,FALSE
+meae.congressional.congress15.ct.county,ct.congress.1816,Benjamin Talmadge,TB0015,At-large,Federalist,14,70141,0,FALSE,FALSE

@@ -1,0 +1,4 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress09.ri.county,ri.uscongress.1804,Nehemiah Knight,KN0024,At-large,Democratic-Republican,1618,3242,0.499,TRUE,FALSE
+meae.congressional.congress09.ri.county,ri.uscongress.1804,Joseph Stanton,SJ1416,At-large,Democratic-Republican,1606,3242,0.495,TRUE,FALSE
+meae.congressional.congress09.ri.county,ri.uscongress.1804,scattering,NA,At-large,NA,18,3242,0.006,FALSE,FALSE

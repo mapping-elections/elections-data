@@ -1,0 +1,4 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress18.il.county,il.uscongress.1822,Daniel P. Cook,CD0015,At-large,Adams/Clay,4765,8569,0.556,TRUE,FALSE
+meae.congressional.congress18.il.county,il.uscongress.1822,John MacLean,MJ0101,At-large,Republican Faction,3801,8569,0.444,FALSE,FALSE
+meae.congressional.congress18.il.county,il.uscongress.1822,Elias K. Kane,KE0009,At-large,Jacksonian,3,8569,0,FALSE,FALSE

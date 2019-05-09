@@ -1,0 +1,21 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress08.sc.county,sc.uscongress.charleston.1803,Thomas Lowndes,LT0118,1,Federalist,422,807,0.523,TRUE,FALSE
+meae.congressional.congress08.sc.county,sc.uscongress.charleston.1803,Robert Marion,MR0181,1,Democratic-Republican,385,807,0.477,FALSE,FALSE
+meae.congressional.congress08.sc.county,sc.uscongress.edgefield.1803,William Butler,BW0365,2,Democratic-Republican,700,750,0.933,TRUE,FALSE
+meae.congressional.congress08.sc.county,sc.uscongress.edgefield.1803,John Rutledge,RJ0621,2,Federalist,50,750,0.067,FALSE,FALSE
+meae.congressional.congress08.sc.county,sc.uscongress.georgetown.1803,Benjamin Huger,HB0145,3,Federalist,488,959,0.509,TRUE,FALSE
+meae.congressional.congress08.sc.county,sc.uscongress.georgetown.1803,Lemuel Benton,BL0075,3,Democratic-Republican,471,959,0.491,FALSE,FALSE
+meae.congressional.congress08.sc.county,sc.uscongress.orangeburg.1803,Wade Hampton,HW0374,4,Democratic-Republican,381,748,0.509,TRUE,FALSE
+meae.congressional.congress08.sc.county,sc.uscongress.orangeburg.1803,John Taylor,TJ0451,4,Federalist,367,748,0.491,FALSE,FALSE
+meae.congressional.congress08.sc.county,sc.uscongress.sumter.1803,Richard Winn,WR0158,5,Democratic-Republican,296,568,0.521,TRUE,FALSE
+meae.congressional.congress08.sc.county,sc.uscongress.sumter.1803,John Kershaw,KJ0375,5,Federalist,272,568,0.479,FALSE,FALSE
+meae.congressional.congress08.sc.county,sc.uscongress.abbeville.1803,Levi Casey,CL0065,6,Democratic-Republican,436,1003,0.435,TRUE,FALSE
+meae.congressional.congress08.sc.county,sc.uscongress.abbeville.1803,John Calhoun,CJ1014,6,Democratic-Republican,299,1003,0.298,FALSE,FALSE
+meae.congressional.congress08.sc.county,sc.uscongress.abbeville.1803,Robert Creswell,CR0145,6,Federalist,141,1003,0.141,FALSE,FALSE
+meae.congressional.congress08.sc.county,sc.uscongress.abbeville.1803,James Saxon,SJ1422,6,Federalist,103,1003,0.103,FALSE,FALSE
+meae.congressional.congress08.sc.county,sc.uscongress.abbeville.1803,Benjamin Herndon,HB0150,6,Federalist,24,1003,0.024,FALSE,FALSE
+meae.congressional.congress08.sc.county,sc.uscongress.chester.1803,Thomas Moore,MT0220,7,Democratic-Republican,694,1148,0.605,TRUE,FALSE
+meae.congressional.congress08.sc.county,sc.uscongress.chester.1803,William Hill,HW0378,7,Federalist,296,1148,0.258,FALSE,FALSE
+meae.congressional.congress08.sc.county,sc.uscongress.chester.1803,William Smith,SW0305,7,Democratic-Republican,158,1148,0.138,FALSE,FALSE
+meae.congressional.congress08.sc.county,sc.uscongress.pendleton.1803,John Earle,EJ0266,8,Democratic-Republican,407,567,0.718,TRUE,FALSE
+meae.congressional.congress08.sc.county,sc.uscongress.pendleton.1803,Eliab Moore,ME0123,8,Federalist,160,567,0.282,FALSE,FALSE

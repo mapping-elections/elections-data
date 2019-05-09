@@ -1,0 +1,3 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress19.de.county,de.uscongress.1824,Louis McLane,ML0002,At-large,Federalist,3387,6550,0.517,TRUE,FALSE
+meae.congressional.congress19.de.county,de.uscongress.1824,Arnold Naudain,NA0005,At-large,Democratic-Republican,3163,6550,0.483,FALSE,FALSE

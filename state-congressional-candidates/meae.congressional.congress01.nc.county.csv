@@ -1,0 +1,14 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress01.nc.county,nc.uscongress1.1790,John Baptist Ashe,AJ0212,1,Anti-Federalist,1335,2730,0.489,TRUE,FALSE
+meae.congressional.congress01.nc.county,nc.uscongress1.1790,Nathaniel Macon,MN0068,1,Anti-Federalist,1133,2730,0.415,FALSE,FALSE
+meae.congressional.congress01.nc.county,nc.uscongress1.1790,Stephen Moore,MS0117,1,NA,244,2730,0.089,FALSE,FALSE
+meae.congressional.congress01.nc.county,nc.uscongress1.1790,Parsons,NA,1,NA,18,2730,0.007,FALSE,FALSE
+meae.congressional.congress01.nc.county,nc.uscongress2.1790,Hugh Williamson,WH0019,2,Federalist,2150,2908,0.739,TRUE,FALSE
+meae.congressional.congress01.nc.county,nc.uscongress2.1790,Stephen Cabarrus,CS0145,2,Anti-Federalist,757,2908,0.26,FALSE,FALSE
+meae.congressional.congress01.nc.county,nc.uscongress2.1790,Cullin Polok,PC0031,2,NA,1,2908,0,FALSE,FALSE
+meae.congressional.congress01.nc.county,nc.uscongress3.1790,Timothy Bloodworth,BT0199,3,Anti-Federalist,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress01.nc.county,nc.uscongress3.1790,Benjamin Smith,SB0058,3,Federalist,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress01.nc.county,nc.uscongress4.1790,John Steele,SJ0192,4,Anti-Federalist,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress01.nc.county,nc.uscongress4.1790,Joseph MacDowell,MJ0540,4,Federalist,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress01.nc.county,nc.uscongress4.1790,Waightstill Avery,AW0018,4,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress01.nc.county,nc.uscongress5.1790,John Sevier,SJ0166,5,Federalist,NA,NA,1,TRUE,TRUE

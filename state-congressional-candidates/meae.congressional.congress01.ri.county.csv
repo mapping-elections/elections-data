@@ -1,0 +1,7 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress01.ri.county,ri.uscongress1.1790,Benjamin Bourne,BB0013,At-large,Federalist,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress01.ri.county,ri.uscongress1.1790,Job Comstock,CJ0038,At-large,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress01.ri.county,ri.uscongress1.1790,James Sheldon,SJ0042,At-large,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress01.ri.county,ri.uscongress1.1790,George Potter,PG0000,At-large,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress01.ri.county,ri.uscongress1.1790,Samuel Bissell,BS0004,At-large,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress01.ri.county,ri.uscongress1.1790,Pardon Tillinghast,TP0007,At-large,NA,NA,NA,NA,FALSE,FALSE

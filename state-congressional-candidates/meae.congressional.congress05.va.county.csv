@@ -1,0 +1,39 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress05.va.county,va.uscongress.1.1797,Daniel Morgan,MD0085,1,Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.1.1797,Robert Rutherford,RR0071,1,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.10.1797,Carter B. Harrison,HC0136,10,Democratic-Republican,261,471,0.554,TRUE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.10.1797,Edwin Gray,GE0059,10,Federalist,210,471,0.446,FALSE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.11.1797,Josiah Parker,PJ0725,11,Federalist,NA,0,NA,TRUE,TRUE
+meae.congressional.congress05.va.county,va.uscongress.12.1797,Thomas Evans,ET0046,12,Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.12.1797,John Page,PJ0728,12,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.13.1797,John Clopton,CJ1097,13,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.13.1797,Burwell Bassett,BB0099,13,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.14.1797,Samuel J. Cabell,CS0229,14,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress05.va.county,va.uscongress.15.1797,John Dawson,DJ0582,15,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.15.1797,Thomas Posey,PT0081,15,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.16.1797,Anthony New,NA0009,16,Democratic-Republican,942,1334,0.706,TRUE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.16.1797,"Carter Braxton, Jr.",BC0134,16,Federalist,391,1334,0.293,FALSE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.16.1797,Robert P. Waring,WR0113,16,NA,1,1334,0.001,FALSE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.17.1797,Richard Brent,BR0163,17,Democratic-Republican,414,414,1,TRUE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.17.1797,Leven Powell,PL0031,17,Federalist,NA,414,NA,FALSE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.18.1797,John Nicholas,NJ0072,18,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.18.1797,John Blackwell,BJ1448,18,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.18.1797,William Fitzhugh,FW0133,18,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.19.1797,Walter Jones,JW0100,19,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.19.1797,Burgess Ball,BB0101,19,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.2.1797,David Holmes,HD0041,2,Democratic-Republican,1350,2235,0.604,TRUE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.2.1797,John Steele,SJ1563,2,Federalist,615,2235,0.275,FALSE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.2.1797,John Bowyer,BJ0163,2,Democratic-Republican,270,2235,0.121,FALSE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.3.1797,James Machir,MJ1261,3,Federalist,1066,2346,0.454,TRUE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.3.1797,George Jackson,JG0032,3,Democratic-Republican,674,2346,0.287,FALSE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.3.1797,John Mitchell,MJ1263,3,Democratic-Republican,472,2346,0.201,FALSE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.3.1797,Thomas Wilson,WT0140,3,Federalist,134,2346,0.057,FALSE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.4.1797,Abraham Trigg,TA0080,4,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress05.va.county,va.uscongress.5.1797,John Trigg,TJ0571,5,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress05.va.county,va.uscongress.6.1797,Matthew Clay,CM0108,6,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress05.va.county,va.uscongress.7.1797,Abraham B. Venable,VA0029,7,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.7.1797,W. Wilson,WW0385,7,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.7.1797,Richard Wilson,WR0166,7,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.8.1797,Thomas Claiborne,CT0181,8,Democratic-Republican,761,1222,0.623,TRUE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.8.1797,Jesse Browne,BJ1441,8,Federalist,461,1222,0.377,FALSE,FALSE
+meae.congressional.congress05.va.county,va.uscongress.9.1797,William B. Giles,GW0186,9,Democratic-Republican,NA,0,NA,TRUE,TRUE

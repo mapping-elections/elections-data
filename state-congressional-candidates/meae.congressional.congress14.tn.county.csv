@@ -1,0 +1,15 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress14.tn.county,tn.congress.1.1815,Samuel Powell,PS0136,1,Democratic-Republican,2702,4584,0.589,TRUE,FALSE
+meae.congressional.congress14.tn.county,tn.congress.1.1815,John Rhea,RJ0595,1,Democratic-Republican,1882,4584,0.411,FALSE,FALSE
+meae.congressional.congress14.tn.county,tn.congress.2.1815,John Sevier,SJ0166,2,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress14.tn.county,tn.congress.3.1815,Isaac Thomas,TI0031,3,Democratic-Republican,3941,7250,0.544,TRUE,FALSE
+meae.congressional.congress14.tn.county,tn.congress.3.1815,Thomas K. Harris,HT0213,3,Democratic-Republican,3309,7250,0.456,FALSE,FALSE
+meae.congressional.congress14.tn.county,tn.congress.4.1815,Bennett H. Henderson,HB0169,4,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress14.tn.county,tn.congress.4.1815,Archibald W. Overton,OA0020,4,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress14.tn.county,tn.congress.4.1815,Willis Jones,JW0099,4,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress14.tn.county,tn.congress.4.1815,Aaron Lombert,LA0133,4,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress14.tn.county,tn.congress.5.1815,Newton Cannon,CN0037,5,Democratic-Republican,4884,4884,1,TRUE,TRUE
+meae.congressional.congress14.tn.county,tn.congress.6.1815,James B. Reynolds,RJ0680,6,Democratic-Republican,2402,7135,0.337,TRUE,FALSE
+meae.congressional.congress14.tn.county,tn.congress.6.1815,Peter R. Booker,BP0099,6,NA,2258,7135,0.316,FALSE,FALSE
+meae.congressional.congress14.tn.county,tn.congress.6.1815,George W. L. Marr,MG0138,6,NA,2058,7135,0.288,FALSE,FALSE
+meae.congressional.congress14.tn.county,tn.congress.6.1815,James Holland,HJ1278,6,NA,417,7135,0.058,FALSE,FALSE

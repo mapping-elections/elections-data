@@ -1,0 +1,11 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress06.ga.county,ga.uscongress.1798,James Jones,JJ0010,At-large,Federalist,4264,11437,0.373,TRUE,FALSE
+meae.congressional.congress06.ga.county,ga.uscongress.1798,Benjamin Taliaferro,TB0026,At-large,Federalist,3823,11437,0.334,TRUE,FALSE
+meae.congressional.congress06.ga.county,ga.uscongress.1798,Abraham Baldwin,BA0026,At-large,Democratic-Republican,3135,11437,0.274,FALSE,FALSE
+meae.congressional.congress06.ga.county,ga.uscongress.1798,John Milledge,MJ0057,At-large,Democratic-Republican,192,11437,0.017,FALSE,FALSE
+meae.congressional.congress06.ga.county,ga.uscongress.1798,Seaborn Jones,JS0022,At-large,NA,13,11437,0.001,FALSE,FALSE
+meae.congressional.congress06.ga.county,ga.uscongress.1798,Thomas Pohill,PT0113,At-large,NA,4,11437,0,FALSE,FALSE
+meae.congressional.congress06.ga.county,ga.uscongress.1798,John Kogler,KJ0327,At-large,NA,2,11437,0,FALSE,FALSE
+meae.congressional.congress06.ga.county,ga.uscongress.1798,Jesse Scruggs,SJ0094,At-large,NA,2,11437,0,FALSE,FALSE
+meae.congressional.congress06.ga.county,ga.uscongress.1798,George Walton,WG0006,At-large,NA,1,11437,0,FALSE,FALSE
+meae.congressional.congress06.ga.county,ga.uscongress.1798,Robert Watkins,WR0006,At-large,NA,1,11437,0,FALSE,FALSE

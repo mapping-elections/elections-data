@@ -1,0 +1,4 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress16.ms.county,ms.congress.1819,Christopher Rankin,RC0047,At-large,Democratic-Republican,2769,4020,0.689,TRUE,FALSE
+meae.congressional.congress16.ms.county,ms.congress.1819,Cowles Mead,MC0004,At-large,NA,1250,4020,0.311,FALSE,FALSE
+meae.congressional.congress16.ms.county,ms.congress.1819,George Poindexter,PG0042,At-large,Democratic-Republican,1,4020,0,FALSE,FALSE
