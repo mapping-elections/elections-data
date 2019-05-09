@@ -38,8 +38,8 @@ CSV files:
 
 Directories:
 
-- `state-congressional-parties/`. This directory contains the data in `congressional-counties-parties.csv`, but split apart into one file per state and Congress identified by MEAE ID. This format may be more convenient for mapping in GIS and other software.
-- `state-congressional-candidates/`. This directory contains the data in `congressional-candidate-totals.csv`, but split apart into one file per state and Congress identified by MEAE ID. This format may be more convenient for mapping in GIS and other software.
+- `congressional-parties-by-state/`. This directory contains the data in `congressional-counties-parties.csv`, but split apart into one file per state and Congress identified by MEAE ID. This format may be more convenient for mapping in GIS and other software.
+- `congressional-candidates-by-state/`. This directory contains the data in `congressional-candidate-totals.csv`, but split apart into one file per state and Congress identified by MEAE ID. This format may be more convenient for mapping in GIS and other software.
 - `towns/`. This directory contains latitutes and longitudes from the states that reported significant numbers of election returns by town in the NNV dataset.
 
 ## License
