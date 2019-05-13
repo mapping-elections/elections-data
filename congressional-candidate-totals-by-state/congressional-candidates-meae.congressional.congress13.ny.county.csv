@@ -1,0 +1,165 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress13.ny.county,ny.uscongress1.1812,John Lefferts,LJ0236,1,Democratic-Republican,3515,13943,0.252,TRUE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress1.1812,Ebenezer Sage,SE0063,1,Democratic-Republican,3508,13943,0.252,TRUE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress1.1812,Peter A. Jay,JP0004,1,Federalist,3446,13943,0.247,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress1.1812,Benjamin B. Blydenburg,BB0047,1,Federalist,3437,13943,0.247,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress1.1812,Egbert Benson,BE0171,1,Federalist,12,13943,0.001,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress1.1812,"Jotham Post, Jr.",PJ0366,1,Federalist,12,13943,0.001,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress1.1812,John Ferguson,FJ0208,1,Democratic-Republican,5,13943,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress1.1812,William Irving,IW0014,1,Democratic-Republican,5,13943,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress1.1812,Joseph Cubbley,CJ0562,1,NA,1,13943,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress1.1812,John V.D. Jacobson,JJ0117,1,NA,1,13943,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress1.1812,Benjamin Brewster,BB0136,1,NA,1,13943,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress2.1812,Egbert Benson,BE0171,2,Federalist,3938,15357,0.256,TRUE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress2.1812,Jotham Post,PJ0293,2,Federalist,3922,15357,0.255,TRUE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress2.1812,John Ferguson,FJ0208,2,Democratic-Republican,3737,15357,0.243,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress2.1812,William Irving,IW0014,2,Democratic-Republican,3732,15357,0.243,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress2.1812,Peter A. Jay,JP0004,2,Federalist,5,15357,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress2.1812,Benjamin B. Blydenburg,BB0047,2,Federalist,5,15357,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress2.1812,John Lefferts,LJ0236,2,Democratic-Republican,2,15357,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress2.1812,Ebenezer Sage,SE0063,2,Democratic-Republican,2,15357,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress2.1812,John Bingham,BJ0751,2,NA,2,15357,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress2.1812,Robert Benson,BR0135,2,NA,1,15357,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress2.1812,Michael Cashman,CM0086,2,NA,1,15357,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress2.1812,Isaac M. Ely,EI0001,2,NA,1,15357,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress2.1812,Nicholas Fish,FN0016,2,Federalist,1,15357,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress2.1812,George Gardner,GG0059,2,NA,1,15357,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress2.1812,William Henderson,HW0220,2,NA,1,15357,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress2.1812,John C. Mott,MJ0690,2,NA,1,15357,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress2.1812,Gurdon S. Mumford,MG0050,2,NA,1,15357,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress2.1812,William Somerville,SW0331,2,NA,1,15357,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress2.1812,James Townsend,TJ0196,2,NA,1,15357,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress2.1812,Pierre Van Wyck,VP0032,2,NA,1,15357,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress2.1812,Thomas Williams,WT0110,2,NA,1,15357,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress3.1812,Peter DeNoyelles,DP0026,3,Democratic-Republican,1404,3280,0.428,TRUE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress3.1812,Richard Valentine Morris,MR0070,3,Federalist,1307,3280,0.398,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress3.1812,"Pierre Van Cortlandt, Jr.",VP0039,3,Democratic-Republican,569,3280,0.173,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress4.1812,Thomas J. Oakley,OT0003,4,Federalist,2000,3489,0.573,TRUE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress4.1812,Theodorus R. Van Wyck,VT0016,4,Democratic-Republican,1489,3489,0.427,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress5.1812,Thomas P. Grosvenor,GT0059,5,Federalist,2025,2076,0.975,TRUE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress5.1812,Hezekiah L. Hosmer,HH0037,5,Federalist,17,2076,0.008,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress5.1812,Thomas Truesdell,TT0042,5,NA,13,2076,0.006,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress5.1812,Bill Hydorn,HB0068,5,NA,3,2076,0.001,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress5.1812,William Durfree,DW0086,5,NA,2,2076,0.001,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress5.1812,Harris Kellogg,KH0006,5,NA,2,2076,0.001,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress5.1812,John Bishop,BJ0477,5,NA,1,2076,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress5.1812,Beaman Brockway,BB0100,5,NA,1,2076,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress5.1812,David Chamberlain,CD0111,5,NA,1,2076,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress5.1812,Hachaliah Dulittle,DH0030,5,NA,1,2076,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress5.1812,Gayer Gardner,GG0032,5,NA,1,2076,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress5.1812,David Knapp,KD0039,5,NA,1,2076,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress5.1812,Nicholas MacIntyre,MN0031,5,NA,1,2076,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress5.1812,Bill Mallery,MB0049,5,NA,1,2076,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress5.1812,Killiam Miller,MK0001,5,NA,1,2076,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress5.1812,David Nicholas,ND0013,5,NA,1,2076,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress5.1812,Samuel Ten Broeck,TS0137,5,NA,1,2076,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress5.1812,James J. Van Alen,VJ0201,5,NA,1,2076,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress5.1812,Jacob R. Van Rensselaer,VJ0183,5,Federalist,1,2076,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress5.1812,Adam Wolfram,WA0101,5,NA,1,2076,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress6.1812,Jonathan Fisk,FJ0199,6,Democratic-Republican,1322,2421,0.546,TRUE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress6.1812,John Bradner,BJ0673,6,Federalist,664,2421,0.274,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress6.1812,Anthony Davis,DA0060,6,Democratic-Republican,435,2421,0.18,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress7.1812,Abraham Hasbrouck,HA0085,7,Democratic-Republican,1631,3118,0.523,TRUE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress7.1812,Abraham Te DeWitt,DA0058,7,Federalist,1486,3118,0.477,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress7.1812,"Andries Davis, Jr.",DA0109,7,NA,1,3118,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress8.1812,Samuel Sherwood,SS0183,8,Federalist,2303,4300,0.536,TRUE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress8.1812,John Ely,EJ0115,8,Democratic-Republican,1990,4300,0.463,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress8.1812,William Avery,AW0086,8,NA,1,4300,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress8.1812,Peter Bogart,BP0093,8,NA,1,4300,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress8.1812,Isaac Burr,BI0071,8,NA,1,4300,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress8.1812,Henry C. Houghtaling,HH0057,8,NA,1,4300,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress8.1812,Jonathan Keyes,KJ0197,8,NA,1,4300,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress8.1812,Ebenezer Merritt,ME0066,8,NA,1,4300,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress8.1812,Abijah Paine,PA0063,8,NA,1,4300,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress9.1812,John Lovett,LJ0221,9,Federalist,1253,1261,0.994,TRUE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress9.1812,John Roll,RJ0368,9,NA,4,1261,0.003,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress9.1812,"Adam Dietz, Jr.",DA0053,9,NA,2,1261,0.002,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress9.1812,Simion Bellamy,BS0149,9,NA,1,1261,0.001,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress9.1812,Daniel Woolford,WD0091,9,NA,1,1261,0.001,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress10.1812,Hosea Moffit,MH0061,10,Federalist,2147,2214,0.97,TRUE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress10.1812,John Thomas,TJ0201,10,NA,21,2214,0.009,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress10.1812,Peter Crandell,CP0087,10,NA,14,2214,0.006,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress10.1812,John W. Schermerhorn,SJ0644,10,NA,9,2214,0.004,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress10.1812,Thomas P. Grosvenor,GT0059,10,Federalist,5,2214,0.002,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress10.1812,Smith Filkins,FS0055,10,NA,5,2214,0.002,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress10.1812,James Dole,DJ0004,10,NA,2,2214,0.001,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress10.1812,Simeon Viele,VS0024,10,NA,2,2214,0.001,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress10.1812,John N.V. Carmerhorn,VJ0140,10,NA,1,2214,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress10.1812,Benjamin Covill,CB0042,10,NA,1,2214,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress10.1812,Anthony Cronkhite,CA0159,10,NA,1,2214,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress10.1812,Bartholomew Harvey,HB0087,10,NA,1,2214,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress10.1812,Asa Mann,MA0116,10,NA,1,2214,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress10.1812,John Moshure,MJ0539,10,NA,1,2214,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress10.1812,Eleazer Peck,PE0095,10,NA,1,2214,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress10.1812,Benjamin Smith,SB0053,10,NA,1,2214,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress10.1812,Marcus Williams,WM0039,10,NA,1,2214,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress11.1812,John W. Taylor,TJ0328,11,Democratic-Republican,2229,4203,0.53,TRUE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress11.1812,Samuel Stewart,SS0206,11,Federalist,1974,4203,0.47,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress12.1812,Zebulon R. Shipherd,SZ0012,12,Federalist,3981,14767,0.27,TRUE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress12.1812,Elisha I. Winter,WE0098,12,Federalist,3912,14767,0.265,TRUE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress12.1812,Melancton Smith,SM0083,12,Democratic-Republican,3238,14767,0.219,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress12.1812,Roger Skinner,SR0156,12,Democratic-Republican,3208,14767,0.217,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress12.1812,William Livingston,LW0107,12,Democratic-Republican,404,14767,0.027,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress12.1812,John Savage,SJ0737,12,NA,7,14767,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress12.1812,"John Daniels, Jr.",DJ0381,12,NA,4,14767,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress12.1812,Thomas P. Grosvenor,GT0059,12,Federalist,4,14767,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress12.1812,Elisha J. Shipherd,SE0157,12,NA,2,14767,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress12.1812,Alexander Livingston,LA0088,12,NA,2,14767,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress12.1812,Roger Grissell,GR0044,12,NA,1,14767,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress12.1812,Melancton Skinner,SM0056,12,NA,1,14767,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress12.1812,Melancton Wheeler,WM0057,12,NA,1,14767,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress12.1812,Henry Mattison,MH0067,12,NA,1,14767,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress12.1812,Abel Wood,WA0162,12,NA,1,14767,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress13.1812,Alexander Boyd,BA0140,13,Federalist,1722,3365,0.512,TRUE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress13.1812,John Gebhard,GJ0283,13,Democratic-Republican,1434,3365,0.426,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress13.1812,Jesse Shephard,SJ0731,13,Democratic-Republican,208,3365,0.062,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress13.1812,David Boyd,BD0086,13,NA,1,3365,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress14.1812,Jacob Markell,MJ0491,14,Federalist,2490,4477,0.556,TRUE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress14.1812,James MacIntyre,MJ0465,14,Democratic-Republican,1987,4477,0.444,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress15.1812,Joel Thompson,TJ0323,15,Federalist,4479,16773,0.267,TRUE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress15.1812,William Dowse,DW0088,15,Federalist,4417,16773,0.263,TRUE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress15.1812,Robert Rosebloom,RR0035,15,Democratic-Republican,3943,16773,0.235,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress15.1812,Amos Patterson,PA0076,15,Democratic-Republican,3917,16773,0.234,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress15.1812,Arunah Metcalf,MA0129,15,NA,5,16773,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress15.1812,Jonathan Roseboom,RJ0369,15,NA,4,16773,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress15.1812,Francis Henry,HF0029,15,NA,1,16773,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress15.1812,Tom Skinner,ST0178,15,NA,1,16773,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress15.1812,Joel Dowse,DJ0380,15,NA,1,16773,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress15.1812,James Patterson,PJ0365,15,NA,1,16773,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress15.1812,Robert Patterson,PR0079,15,NA,1,16773,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress15.1812,William M. Price,PW0095,15,NA,1,16773,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress15.1812,Stephen O. Runyon,RS0055,15,NA,1,16773,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress15.1812,Nathaniel Waldron,WN0090,15,NA,1,16773,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress16.1812,Morris S. Miller,MM0033,16,Federalist,2710,4283,0.633,TRUE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress16.1812,George Brayton,BG0082,16,Democratic-Republican,1573,4283,0.367,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress17.1812,William S. Smith,SW0140,17,Federalist,2605,4577,0.569,TRUE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress17.1812,Hubbard Smith,SH0090,17,Democratic-Republican,1972,4577,0.431,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress18.1812,Moss Kent,KM0021,18,Federalist,2194,3570,0.615,TRUE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress18.1812,Jacob Brown,BJ0752,18,Democratic-Republican,1369,3570,0.383,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress18.1812,Chandler Otis,OC0010,18,NA,4,3570,0.001,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress18.1812,Solomon Brown,BS0152,18,NA,1,3570,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress18.1812,Elisha Camp,CE0112,18,NA,1,3570,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress18.1812,John Stafford,SJ0693,18,NA,1,3570,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress19.1812,James Geddes,GJ0280,19,Federalist,1634,2933,0.557,TRUE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress19.1812,John Miller,MJ0472,19,Democratic-Republican,1297,2933,0.442,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress19.1812,William Mallery,MW0219,19,NA,2,2933,0.001,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress19.1812,William Cook,CW0165,19,NA,NA,2933,NA,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress20.1812,Oliver Comstock,CO0016,20,Democratic-Republican,4347,13386,0.325,TRUE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress20.1812,Daniel Avery,AD0015,20,Democratic-Republican,4323,13386,0.323,TRUE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress20.1812,Elijah Miller,ME0078,20,Federalist,2359,13386,0.176,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress20.1812,Vincent Matthews,MV0004,20,Federalist,2355,13386,0.176,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress20.1812,Elijah C. Comstock,CE0091,20,NA,1,13386,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress20.1812,Venien Mather,MV0003,20,NA,1,13386,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress21.1812,Nathaniel W. Howell,HN0037,21,Federalist,4436,16072,0.276,TRUE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress21.1812,Samuel M. Hopkins,HS0156,21,Federalist,4422,16072,0.275,TRUE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress21.1812,Chauncey Loomis,LC0023,21,Democratic-Republican,3618,16072,0.225,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress21.1812,Stephen Bates,BS0202,21,Democratic-Republican,3511,16072,0.218,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress21.1812,Micah Brooks,BM0060,21,Democratic-Republican,74,16072,0.005,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress21.1812,Nathaniel W. Hopkins,AA0000,21,NA,4,16072,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress21.1812,Moses Atwater,AM0019,21,NA,1,16072,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress21.1812,Alexander Smith,SA0171,21,NA,1,16072,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress21.1812,Silas Taylor,TS0109,21,NA,1,16072,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress21.1812,Stephen Baker,BS0150,21,NA,1,16072,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress21.1812,Chauncey Bates,BC0127,21,NA,1,16072,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress21.1812,Samuel M. Howell,HS0178,21,NA,1,16072,0,FALSE,FALSE
+meae.congressional.congress13.ny.county,ny.uscongress21.1812,William Loomis,LW0098,21,NA,1,16072,0,FALSE,FALSE

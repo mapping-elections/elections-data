@@ -1,0 +1,119 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress1.1802,Delaware,pas_delaware,42045,"Clay, Joseph",CJ0754,Democratic-Republican,597
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress1.1802,Philadelphia,pas_philadelphia,42101,"Clay, Joseph",CJ0754,Democratic-Republican,2677
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress1.1802,Delaware,pas_delaware,42045,"Gordon, Elisha",GE0078,Democratic-Republican,0
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress1.1802,Philadelphia,pas_philadelphia,42101,"Gordon, Elisha",GE0078,Democratic-Republican,346
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress1.1802,Delaware,pas_delaware,42045,"Leib, Michael",LM0058,Democratic-Republican,594
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress1.1802,Philadelphia,pas_philadelphia,42101,"Leib, Michael",LM0058,Democratic-Republican,2335
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress1.1802,Delaware,pas_delaware,42045,"Richards, Jacob",RJ0353,Democratic-Republican,596
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress1.1802,Philadelphia,pas_philadelphia,42101,"Richards, Jacob",RJ0353,Democratic-Republican,2668
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress1.1802,Delaware,pas_delaware,42045,"Brown, Peter",BP0075,Federalist,739
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress1.1802,Philadelphia,pas_philadelphia,42101,"Brown, Peter",BP0075,Federalist,778
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress1.1802,Delaware,pas_delaware,42045,"Latimer, George",LG0031,Federalist,732
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress1.1802,Philadelphia,pas_philadelphia,42101,"Latimer, George",LG0031,Federalist,778
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress1.1802,Delaware,pas_delaware,42045,"Preston, Jonas",PJ0428,Federalist,727
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress1.1802,Philadelphia,pas_philadelphia,42101,"Preston, Jonas",PJ0428,Federalist,770
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress10.1802,Washington,pas_washington,42125,"Hoge, William",HW0316,Democratic-Republican,2300
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress11.1802,Allegheny,pas_allegheny,42003,"Lucas, John B.",LJ0337,Democratic-Republican,862
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress11.1802,Beaver,pas_beaver,42007,"Lucas, John B.",LJ0337,Democratic-Republican,450
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress11.1802,Butler,pas_butler,42019,"Lucas, John B.",LJ0337,Democratic-Republican,176
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress11.1802,Crawford,pas_crawford,42039,"Lucas, John B.",LJ0337,Democratic-Republican,681
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress11.1802,Allegheny,pas_allegheny,42003,"Foster, Alexander W.",FA0053,Federalist,133
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress11.1802,Beaver,pas_beaver,42007,"Foster, Alexander W.",FA0053,Federalist,27
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress11.1802,Butler,pas_butler,42019,"Foster, Alexander W.",FA0053,Federalist,40
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress11.1802,Crawford,pas_crawford,42039,"Foster, Alexander W.",FA0053,Federalist,439
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress11.1802,Allegheny,pas_allegheny,42003,"Wilkins, John, Jr.",WJ0616,Federalist,968
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress11.1802,Beaver,pas_beaver,42007,"Wilkins, John, Jr.",WJ0616,Federalist,143
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress11.1802,Butler,pas_butler,42019,"Wilkins, John, Jr.",WJ0616,Federalist,99
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress11.1802,Crawford,pas_crawford,42039,"Wilkins, John, Jr.",WJ0616,Federalist,415
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Bucks,pas_bucks,42017,"Boileau, Nicholas Bellew",BN0080,Democratic-Republican,607
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Luzerne,pas_luzerne,42079,"Boileau, Nicholas Bellew",BN0080,Democratic-Republican,61
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Montgomery,pas_montgomery,42091,"Boileau, Nicholas Bellew",BN0080,Democratic-Republican,856
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Northampton,pas_northampton,42095,"Boileau, Nicholas Bellew",BN0080,Democratic-Republican,25
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Wayne,pas_wayne,42127,"Boileau, Nicholas Bellew",BN0080,Democratic-Republican,53
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Bucks,pas_bucks,42017,"Brown, Robert",BR0106,Democratic-Republican,3190
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Luzerne,pas_luzerne,42079,"Brown, Robert",BR0106,Democratic-Republican,910
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Montgomery,pas_montgomery,42091,"Brown, Robert",BR0106,Democratic-Republican,3382
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Northampton,pas_northampton,42095,"Brown, Robert",BR0106,Democratic-Republican,3718
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Wayne,pas_wayne,42127,"Brown, Robert",BR0106,Democratic-Republican,256
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Bucks,pas_bucks,42017,"Conrad, Frederick",CF0031,Democratic-Republican,1355
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Luzerne,pas_luzerne,42079,"Conrad, Frederick",CF0031,Democratic-Republican,121
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Montgomery,pas_montgomery,42091,"Conrad, Frederick",CF0031,Democratic-Republican,1316
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Northampton,pas_northampton,42095,"Conrad, Frederick",CF0031,Democratic-Republican,3252
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Wayne,pas_wayne,42127,"Conrad, Frederick",CF0031,Democratic-Republican,161
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Bucks,pas_bucks,42017,"Van Horne, Isaac",VI0017,Democratic-Republican,3189
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Luzerne,pas_luzerne,42079,"Van Horne, Isaac",VI0017,Democratic-Republican,157
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Montgomery,pas_montgomery,42091,"Van Horne, Isaac",VI0017,Democratic-Republican,3376
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Northampton,pas_northampton,42095,"Van Horne, Isaac",VI0017,Democratic-Republican,3718
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Wayne,pas_wayne,42127,"Van Horne, Isaac",VI0017,Democratic-Republican,257
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Bucks,pas_bucks,42017,"Butler, Lord",BL0063,Federalist,0
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Luzerne,pas_luzerne,42079,"Butler, Lord",BL0063,Federalist,781
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Montgomery,pas_montgomery,42091,"Butler, Lord",BL0063,Federalist,0
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Northampton,pas_northampton,42095,"Butler, Lord",BL0063,Federalist,0
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Wayne,pas_wayne,42127,"Butler, Lord",BL0063,Federalist,0
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Bucks,pas_bucks,42017,"Evans, Cadwalder",EC0027,Federalist,10
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Luzerne,pas_luzerne,42079,"Evans, Cadwalder",EC0027,Federalist,0
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Montgomery,pas_montgomery,42091,"Evans, Cadwalder",EC0027,Federalist,0
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Northampton,pas_northampton,42095,"Evans, Cadwalder",EC0027,Federalist,0
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Wayne,pas_wayne,42127,"Evans, Cadwalder",EC0027,Federalist,0
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Bucks,pas_bucks,42017,"Sitgreaves, Samuel",SS0245,Federalist,1326
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Luzerne,pas_luzerne,42079,"Sitgreaves, Samuel",SS0245,Federalist,729
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Montgomery,pas_montgomery,42091,"Sitgreaves, Samuel",SS0245,Federalist,1297
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Northampton,pas_northampton,42095,"Sitgreaves, Samuel",SS0245,Federalist,544
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Wayne,pas_wayne,42127,"Sitgreaves, Samuel",SS0245,Federalist,43
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Bucks,pas_bucks,42017,"Richards, John",RJ0314,NA,3
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Luzerne,pas_luzerne,42079,"Richards, John",RJ0314,NA,0
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Montgomery,pas_montgomery,42091,"Richards, John",RJ0314,NA,0
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Northampton,pas_northampton,42095,"Richards, John",RJ0314,NA,0
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress2.1802,Wayne,pas_wayne,42127,"Richards, John",RJ0314,NA,0
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress3.1802,Berks,pas_berks,42011,"Anderson, Isaac",AI0012,Democratic-Republican,4185
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress3.1802,Chester,pas_chester,42029,"Anderson, Isaac",AI0012,Democratic-Republican,2284
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress3.1802,Lancaster,pas_lancaster,42071,"Anderson, Isaac",AI0012,Democratic-Republican,2896
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress3.1802,Berks,pas_berks,42011,"Heister, Joseph",HJ0793,Democratic-Republican,4030
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress3.1802,Chester,pas_chester,42029,"Heister, Joseph",HJ0793,Democratic-Republican,2305
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress3.1802,Lancaster,pas_lancaster,42071,"Heister, Joseph",HJ0793,Democratic-Republican,2901
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress3.1802,Berks,pas_berks,42011,"Whitehill, John",WJ0661,Democratic-Republican,4188
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress3.1802,Chester,pas_chester,42029,"Whitehill, John",WJ0661,Democratic-Republican,2301
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress3.1802,Lancaster,pas_lancaster,42071,"Whitehill, John",WJ0661,Democratic-Republican,2907
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress3.1802,Berks,pas_berks,42011,"Boude, Thomas",BT0242,Federalist,587
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress3.1802,Chester,pas_chester,42029,"Boude, Thomas",BT0242,Federalist,2022
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress3.1802,Lancaster,pas_lancaster,42071,"Boude, Thomas",BT0242,Federalist,2220
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress3.1802,Berks,pas_berks,42011,"Bower, Jacob",BJ1013,Federalist,683
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress3.1802,Chester,pas_chester,42029,"Bower, Jacob",BJ1013,Federalist,2020
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress3.1802,Lancaster,pas_lancaster,42071,"Bower, Jacob",BJ1013,Federalist,2229
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress3.1802,Berks,pas_berks,42011,"Hemphill, Joseph",HJ0774,Federalist,587
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress3.1802,Chester,pas_chester,42029,"Hemphill, Joseph",HJ0774,Federalist,2035
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress3.1802,Lancaster,pas_lancaster,42071,"Hemphill, Joseph",HJ0774,Federalist,2231
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress4.1802,Cumberland,pas_cumberland,42041,"Bard, David",BD0120,Democratic-Republican,1845
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress4.1802,Dauphin,pas_dauphin,42043,"Bard, David",BD0120,Democratic-Republican,2027
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress4.1802,Huntingdon,pas_huntingdon,42061,"Bard, David",BD0120,Democratic-Republican,859
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress4.1802,Mifflin,pas_mifflin,42087,"Bard, David",BD0120,Democratic-Republican,1239
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress4.1802,Cumberland,pas_cumberland,42041,"Hanna, John A.",HJ0754,Democratic-Republican,1856
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress4.1802,Dauphin,pas_dauphin,42043,"Hanna, John A.",HJ0754,Democratic-Republican,2049
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress4.1802,Huntingdon,pas_huntingdon,42061,"Hanna, John A.",HJ0754,Democratic-Republican,1110
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress4.1802,Mifflin,pas_mifflin,42087,"Hanna, John A.",HJ0754,Democratic-Republican,1095
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress4.1802,Cumberland,pas_cumberland,42041,"Mitchell, David",MD0181,NA,0
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress4.1802,Dauphin,pas_dauphin,42043,"Mitchell, David",MD0181,NA,0
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress4.1802,Huntingdon,pas_huntingdon,42061,"Mitchell, David",MD0181,NA,0
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress4.1802,Mifflin,pas_mifflin,42087,"Mitchell, David",MD0181,NA,28
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress5.1802,Centre,pas_centre,42027,"Gregg, Andrew",GA0060,Democratic-Republican,835
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress5.1802,Lycoming,pas_lycoming,42081,"Gregg, Andrew",GA0060,Democratic-Republican,677
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress5.1802,Northumberland,pas_northumberland,42097,"Gregg, Andrew",GA0060,Democratic-Republican,2746
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress6.1802,Adams,pas_adams,42001,"Stewart, John",SJ0949,Democratic-Republican,646
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress6.1802,York,pas_york,42133,"Stewart, John",SJ0949,Democratic-Republican,1639
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress6.1802,Adams,pas_adams,42001,"Edie, John",EJ0174,Federalist,946
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress6.1802,York,pas_york,42133,"Edie, John",EJ0174,Federalist,802
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress7.1802,Bedford,pas_bedford,42009,"Rea, John",RJ0310,Democratic-Republican,787
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress7.1802,Franklin,pas_franklin,42055,"Rea, John",RJ0310,Democratic-Republican,1386
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress7.1802,Bedford,pas_bedford,42009,"MacLain, John",MJ0895,Federalist,0
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress7.1802,Franklin,pas_franklin,42055,"MacLain, John",MJ0895,Federalist,147
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress7.1802,Bedford,pas_bedford,42009,"Woods, Henry",WH0059,Federalist,428
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress7.1802,Franklin,pas_franklin,42055,"Woods, Henry",WH0059,Federalist,513
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress8.1802,Armstrong,pas_armstrong,42005,"Findley, William",FW0062,Democratic-Republican,213
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress8.1802,Somerset,pas_somerset,42111,"Findley, William",FW0062,Democratic-Republican,456
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress8.1802,Westmoreland,pas_westmoreland,42129,"Findley, William",FW0062,Democratic-Republican,862
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress8.1802,Armstrong,pas_armstrong,42005,"Painter, Jacob",PJ0481,Democratic-Republican,112
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress8.1802,Somerset,pas_somerset,42111,"Painter, Jacob",PJ0481,Democratic-Republican,443
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress8.1802,Westmoreland,pas_westmoreland,42129,"Painter, Jacob",PJ0481,Democratic-Republican,757
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress9.1802,Fayette,pas_fayette,42051,"Smilie, John",SJ0970,Democratic-Republican,1442
+meae.congressional.congress08.pa.county,congressional,8,PA,county,state,pa.uscongress9.1802,Greene,pas_greene,42059,"Smilie, John",SJ0970,Democratic-Republican,431

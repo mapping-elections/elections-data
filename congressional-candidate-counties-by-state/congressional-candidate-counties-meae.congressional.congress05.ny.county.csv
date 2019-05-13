@@ -1,0 +1,59 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress1.1796,Kings,nys_kings,36047,"Havens, Jonathan N.",HJ0499,Democratic-Republican,78
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress1.1796,Queens,nys_queens,36081,"Havens, Jonathan N.",HJ0499,Democratic-Republican,221
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress1.1796,Suffolk,nys_suffolk,36103,"Havens, Jonathan N.",HJ0499,Democratic-Republican,960
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress1.1796,Kings,nys_kings,36047,"Strong, Selah",SS0176,Federalist,107
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress1.1796,Queens,nys_queens,36081,"Strong, Selah",SS0176,Federalist,304
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress1.1796,Suffolk,nys_suffolk,36103,"Strong, Selah",SS0176,Federalist,237
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress10.1796,Herkimer,nys_herkimer,36043,"Williamson, Charles",WC0053,Democratic-Republican,0
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress10.1796,Montgomery,nys_montgomery,36057,"Williamson, Charles",WC0053,Democratic-Republican,0
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress10.1796,Onondaga,nys_onondaga,36067,"Williamson, Charles",WC0053,Democratic-Republican,0
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress10.1796,Ontario,nys_ontario,36069,"Williamson, Charles",WC0053,Democratic-Republican,40
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress10.1796,Otsego,nys_otsego,36077,"Williamson, Charles",WC0053,Democratic-Republican,0
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress10.1796,Schoharie,nys_schoharie,36095,"Williamson, Charles",WC0053,Democratic-Republican,0
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress10.1796,Tioga,nys_tioga,36107,"Williamson, Charles",WC0053,Democratic-Republican,0
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress10.1796,Herkimer,nys_herkimer,36043,"Cochran, James",CJ0481,Federalist,1086
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress10.1796,Montgomery,nys_montgomery,36057,"Cochran, James",CJ0481,Federalist,1046
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress10.1796,Onondaga,nys_onondaga,36067,"Cochran, James",CJ0481,Federalist,197
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress10.1796,Ontario,nys_ontario,36069,"Cochran, James",CJ0481,Federalist,320
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress10.1796,Otsego,nys_otsego,36077,"Cochran, James",CJ0481,Federalist,152
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress10.1796,Schoharie,nys_schoharie,36095,"Cochran, James",CJ0481,Federalist,23
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress10.1796,Tioga,nys_tioga,36107,"Cochran, James",CJ0481,Federalist,169
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress10.1796,Herkimer,nys_herkimer,36043,"Cooper, William",CW0154,Federalist,1069
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress10.1796,Montgomery,nys_montgomery,36057,"Cooper, William",CW0154,Federalist,289
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress10.1796,Onondaga,nys_onondaga,36067,"Cooper, William",CW0154,Federalist,51
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress10.1796,Ontario,nys_ontario,36069,"Cooper, William",CW0154,Federalist,41
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress10.1796,Otsego,nys_otsego,36077,"Cooper, William",CW0154,Federalist,1481
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress10.1796,Schoharie,nys_schoharie,36095,"Cooper, William",CW0154,Federalist,25
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress10.1796,Tioga,nys_tioga,36107,"Cooper, William",CW0154,Federalist,19
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress2.1796,New York,nys_newyork,36061,"Livingston, Edward",LE0044,Democratic-Republican,2362
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress2.1796,New York,nys_newyork,36061,"Watson, James",WJ0412,Federalist,1812
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress3.1796,Richmond,nys_richmond,36085,"Van Cortlandt, Philip",VP0041,Democratic-Republican,58
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress3.1796,Westchester,nys_westchester,36119,"Van Cortlandt, Philip",VP0041,Democratic-Republican,958
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress3.1796,Richmond,nys_richmond,36085,"Haight, Samuel",HS0136,Federalist,144
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress3.1796,Westchester,nys_westchester,36119,"Haight, Samuel",HS0136,Federalist,859
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress4.1796,Orange,nys_orange,36071,"Elmendorf, Lucas",EL0004,Democratic-Republican,606
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress4.1796,Ulster,nys_ulster,36111,"Elmendorf, Lucas",EL0004,Democratic-Republican,1331
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress4.1796,Orange,nys_orange,36071,"Elmendorf, Conrad Edward",EC0014,Federalist,239
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress4.1796,Ulster,nys_ulster,36111,"Elmendorf, Conrad Edward",EC0014,Federalist,1275
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress5.1796,Dutchess,nys_dutchess,36027,"Bailey, Theodorus",BT0171,Democratic-Republican,1018
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress5.1796,Dutchess,nys_dutchess,36027,"Brooks, David",BD0076,Federalist,1220
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress6.1796,Columbia,nys_columbia,36021,"Van Ness, John P.",VJ0182,Democratic-Republican,758
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress6.1796,Columbia,nys_columbia,36021,"Hosmer, Hezekiah L.",HH0037,Federalist,1036
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress6.1796,Columbia,nys_columbia,36021,NA,Other candidates,NA,16
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress7.1796,Albany,nys_albany,36001,"Swart, Peter",SP0063,Democratic-Republican,0
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress7.1796,Schoharie,nys_schoharie,36095,"Swart, Peter",SP0063,Democratic-Republican,138
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress7.1796,Albany,nys_albany,36001,"Glenn, Henry",GH0039,Federalist,313
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress7.1796,Schoharie,nys_schoharie,36095,"Glenn, Henry",GH0039,Federalist,29
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress8.1796,Clinton,nys_clinton,36019,"Woodworth, John",WJ0439,Democratic-Republican,65
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress8.1796,Rensselaer,nys_rensselaer,36083,"Woodworth, John",WJ0439,Democratic-Republican,1090
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress8.1796,Clinton,nys_clinton,36019,"Van Alen, John E.",VJ0202,Federalist,282
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress8.1796,Rensselaer,nys_rensselaer,36083,"Van Alen, John E.",VJ0202,Federalist,1398
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress9.1796,Saratoga,nys_saratoga,36091,"Fonda, Douw I.",FD0017,Democratic-Republican,209
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress9.1796,Washington,nys_washington,36115,"Fonda, Douw I.",FD0017,Democratic-Republican,0
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress9.1796,Saratoga,nys_saratoga,36091,"Gordon, James",GJ0267,Federalist,479
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress9.1796,Washington,nys_washington,36115,"Gordon, James",GJ0267,Federalist,96
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress9.1796,Saratoga,nys_saratoga,36091,"Russell, Ebenezer",RE0047,Federalist,0
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress9.1796,Washington,nys_washington,36115,"Russell, Ebenezer",RE0047,Federalist,17
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress9.1796,Saratoga,nys_saratoga,36091,"Williams, John",WJ0409,Federalist,234
+meae.congressional.congress05.ny.county,congressional,5,NY,county,state,ny.uscongress9.1796,Washington,nys_washington,36115,"Williams, John",WJ0409,Federalist,1084

@@ -1,0 +1,9 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress03.ga.county,ga.uscongress.1792,Abraham Baldwin,BA0026,At-large,Democratic-Republican,5488,12322,0.445,TRUE,FALSE
+meae.congressional.congress03.ga.county,ga.uscongress.1792,Thomas P. Carnes,CT0042,At-large,Federalist,3632,12322,0.295,TRUE,FALSE
+meae.congressional.congress03.ga.county,ga.uscongress.1792,George Matthews,MG0009,At-large,Federalist,1334,12322,0.108,FALSE,FALSE
+meae.congressional.congress03.ga.county,ga.uscongress.1792,John Milledge,MJ0057,At-large,Democratic-Republican,1002,12322,0.081,FALSE,FALSE
+meae.congressional.congress03.ga.county,ga.uscongress.1792,Francis Willis,WF0022,At-large,Federalist,824,12322,0.067,FALSE,FALSE
+meae.congressional.congress03.ga.county,ga.uscongress.1792,James Jackson,JJ0004,At-large,NA,20,12322,0.002,FALSE,FALSE
+meae.congressional.congress03.ga.county,ga.uscongress.1792,Matthew MacAllister,MM0004,At-large,Federalist,8,12322,0.001,FALSE,FALSE
+meae.congressional.congress03.ga.county,ga.uscongress.1792,scattering,NA,At-large,NA,14,12322,0.001,FALSE,FALSE

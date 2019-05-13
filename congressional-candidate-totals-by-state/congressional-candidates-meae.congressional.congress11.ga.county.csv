@@ -1,0 +1,7 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress11.ga.county,ga.uscongress.1808,William Bibb,BW0000,At-large,Democratic-Republican,12805,56378,0.227,TRUE,FALSE
+meae.congressional.congress11.ga.county,ga.uscongress.1808,George Troup,TG0014,At-large,Democratic-Republican,12532,56378,0.222,TRUE,FALSE
+meae.congressional.congress11.ga.county,ga.uscongress.1808,Howell Cobb,CH0029,At-large,Democratic-Republican,11602,56378,0.206,TRUE,FALSE
+meae.congressional.congress11.ga.county,ga.uscongress.1808,Dennis Smelt,SD0007,At-large,Democratic-Republican,8361,56378,0.148,TRUE,FALSE
+meae.congressional.congress11.ga.county,ga.uscongress.1808,James E. Houston,HJ0052,At-large,Democratic-Republican,6240,56378,0.111,FALSE,FALSE
+meae.congressional.congress11.ga.county,ga.uscongress.1808,John M. Dooley,DJ0047,At-large,Federalist,4838,56378,0.086,FALSE,FALSE

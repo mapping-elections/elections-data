@@ -1,0 +1,16 @@
+meae_id,county_ahcb,county_fips,districts,federalist_vote,federalist_percentage,antifederalist_vote,antifederalist_percentage,demrep_vote,demrep_percentage,chesapeake_vote,chesapeake_percentage,potomac_vote,potomac_percentage,repfac_vote,repfac_percentage,adamsclay_vote,adamsclay_percentage,jacksonian_vote,jacksonian_percentage,anticaucus_vote,anticaucus_percentage,caucus_vote,caucus_percentage,other_vote,other_percentage,county_source
+meae.congressional.congress02.ny.county,nys_kings,36047,1,297,0.771,88,0.229,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress02.ny.county,nys_queens,36081,1,666,0.567,508,0.433,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress02.ny.county,nys_richmond,36085,1,243,0.964,9,0.036,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress02.ny.county,nys_suffolk,36103,1,4,0.006,723,0.994,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress02.ny.county,nys_newyork,36061,2,587,0.982,11,0.018,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress02.ny.county,nys_dutchess,36027,3,471,0.513,447,0.487,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress02.ny.county,nys_orange,36071,4,81,0.131,535,0.864,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.005,county
+meae.congressional.congress02.ny.county,nys_ulster,36111,4,733,0.661,376,0.339,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress02.ny.county,nys_clinton,36019,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress02.ny.county,nys_columbia,36021,5,914,0.517,855,0.483,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress02.ny.county,nys_washington,36115,5,236,0.436,305,0.564,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress02.ny.county,nys_montgomery,36057,6,270,0.429,359,0.571,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress02.ny.county,nys_ontario,36069,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress02.ny.county,nys_westchester,36119,"2,3",356,0.944,21,0.056,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress02.ny.county,nys_albany,36001,"5,6",1757,0.71,716,0.29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county

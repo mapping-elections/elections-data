@@ -1,0 +1,25 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress16.oh.county,oh.uscongress1.1818,Thomas R. Ross,RT0081,1,Democratic-Republican,2810,5775,0.487,TRUE,FALSE
+meae.congressional.congress16.oh.county,oh.uscongress1.1818,John H. Platt,PJ0397,1,NA,1669,5775,0.289,FALSE,FALSE
+meae.congressional.congress16.oh.county,oh.uscongress1.1818,Ethan Stone,SE0090,1,NA,1294,5775,0.224,FALSE,FALSE
+meae.congressional.congress16.oh.county,oh.uscongress1.1818,S. P. Tingle,TS0031,1,NA,2,5775,0,FALSE,FALSE
+meae.congressional.congress16.oh.county,oh.uscongress2.1818,John W. Campbell,CJ0622,2,Democratic-Republican,4717,5074,0.93,TRUE,FALSE
+meae.congressional.congress16.oh.county,oh.uscongress2.1818,James Burin,BJ0928,2,NA,356,5074,0.07,FALSE,FALSE
+meae.congressional.congress16.oh.county,oh.uscongress2.1818,Thomas Morris,MT0090,2,NA,1,5074,0,FALSE,FALSE
+meae.congressional.congress16.oh.county,oh.uscongress3.1818,Henry Brush,BH0091,3,Democratic-Republican,2692,6552,0.411,TRUE,FALSE
+meae.congressional.congress16.oh.county,oh.uscongress3.1818,Levi Barber,BL0052,3,Democratic-Republican,1987,6552,0.303,FALSE,FALSE
+meae.congressional.congress16.oh.county,oh.uscongress3.1818,Edward W. Tupper,TE0067,3,NA,1873,6552,0.286,FALSE,FALSE
+meae.congressional.congress16.oh.county,oh.uscongress4.1818,Samuel Herrick,HS0176,4,Democratic-Republican,3645,6893,0.529,TRUE,FALSE
+meae.congressional.congress16.oh.county,oh.uscongress4.1818,John C. Wright,WJ0569,4,Federalist,3198,6893,0.464,FALSE,FALSE
+meae.congressional.congress16.oh.county,oh.uscongress4.1818,John MacLaughlin,MJ0639,4,NA,49,6893,0.007,FALSE,FALSE
+meae.congressional.congress16.oh.county,oh.uscongress4.1818,William Anderson,AW0039,4,NA,1,6893,0,FALSE,FALSE
+meae.congressional.congress16.oh.county,oh.uscongress5.1818,Philemon Beecher,BP0045,5,Federalist,4525,8776,0.516,TRUE,FALSE
+meae.congressional.congress16.oh.county,oh.uscongress5.1818,Joseph Vance,VJ0083,5,Democratic-Republican,4187,8776,0.477,FALSE,FALSE
+meae.congressional.congress16.oh.county,oh.uscongress5.1818,James Kilbourn,KJ0144,5,NA,48,8776,0.005,FALSE,FALSE
+meae.congressional.congress16.oh.county,oh.uscongress5.1818,Joseph C. Vance,VJ0083,5,NA,13,8776,0.001,FALSE,FALSE
+meae.congressional.congress16.oh.county,oh.uscongress5.1818,George Grove,GG0037,5,NA,1,8776,0,FALSE,FALSE
+meae.congressional.congress16.oh.county,oh.uscongress5.1818,Jacob Kuhn,KJ0094,5,NA,1,8776,0,FALSE,FALSE
+meae.congressional.congress16.oh.county,oh.uscongress5.1818,Joseph Peirce,PJ0386,5,NA,1,8776,0,FALSE,FALSE
+meae.congressional.congress16.oh.county,oh.uscongress6.1818,John Sloane,SJ0866,6,Democratic-Republican,4208,8137,0.517,TRUE,FALSE
+meae.congressional.congress16.oh.county,oh.uscongress6.1818,Peter Hitchcock,HP0039,6,Democratic-Republican,3758,8137,0.462,FALSE,FALSE
+meae.congressional.congress16.oh.county,oh.uscongress6.1818,Benjamin Martin,MB0062,6,NA,171,8137,0.021,FALSE,FALSE

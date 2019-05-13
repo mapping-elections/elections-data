@@ -1,0 +1,6 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress07.ky.county,ky.uscongressnortherndistrict.1801,John Fowler,FJ0047,2,Democratic-Republican,7175,10574,0.679,TRUE,FALSE
+meae.congressional.congress07.ky.county,ky.uscongressnortherndistrict.1801,William Garrard,GW0016,2,NA,2048,10574,0.194,FALSE,FALSE
+meae.congressional.congress07.ky.county,ky.uscongressnortherndistrict.1801,Philemon Thomas,TP0004,2,Democratic-Republican,1351,10574,0.128,FALSE,FALSE
+meae.congressional.congress07.ky.county,ky.uscongresssoutherndistrict.1801,Thomas T. Davis,DT0030,1,Democratic-Republican,8901,11302,0.788,TRUE,FALSE
+meae.congressional.congress07.ky.county,ky.uscongresssoutherndistrict.1801,John Pope,PJ0075,1,Federalist,2401,11302,0.212,FALSE,FALSE

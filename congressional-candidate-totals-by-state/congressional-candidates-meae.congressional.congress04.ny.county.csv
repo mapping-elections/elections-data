@@ -1,0 +1,31 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress04.ny.county,ny.uscongress1.1794,Edward Livingston,LE0044,1,Democratic-Republican,1843,3481,0.529,TRUE,FALSE
+meae.congressional.congress04.ny.county,ny.uscongress1.1794,John Watts,WJ0410,1,Federalist,1638,3481,0.471,FALSE,FALSE
+meae.congressional.congress04.ny.county,ny.uscongress10.1794,William Cooper,CW0154,10,Federalist,2462,4454,0.553,TRUE,FALSE
+meae.congressional.congress04.ny.county,ny.uscongress10.1794,John Winn,WJ0414,10,Democratic-Republican,1417,4454,0.318,FALSE,FALSE
+meae.congressional.congress04.ny.county,ny.uscongress10.1794,James Cochran,CJ0481,10,Federalist,535,4454,0.12,FALSE,FALSE
+meae.congressional.congress04.ny.county,ny.uscongress10.1794,Jonathan Fitch,FJ0179,10,Democratic-Republican,40,4454,0.009,FALSE,FALSE
+meae.congressional.congress04.ny.county,ny.uscongress2.1794,Jonathan Havens,HJ0499,2,Democratic-Republican,815,2114,0.386,TRUE,FALSE
+meae.congressional.congress04.ny.county,ny.uscongress2.1794,Whitehead Cornwell,CW0149,2,Democratic-Republican,554,2114,0.262,FALSE,FALSE
+meae.congressional.congress04.ny.county,ny.uscongress2.1794,Samuel Jones,JS0049,2,Federalist,494,2114,0.234,FALSE,FALSE
+meae.congressional.congress04.ny.county,ny.uscongress2.1794,John Smith,SJ0658,2,Democratic-Republican,251,2114,0.119,FALSE,FALSE
+meae.congressional.congress04.ny.county,ny.uscongress3.1794,Philip Van Cortlandt,VP0041,3,Democratic-Republican,991,1963,0.505,TRUE,FALSE
+meae.congressional.congress04.ny.county,ny.uscongress3.1794,Richard Morris,MR0063,3,Federalist,972,1963,0.495,FALSE,FALSE
+meae.congressional.congress04.ny.county,ny.uscongress4.1794,Theodorus Bailey,BT0171,4,Democratic-Republican,1449,2539,0.571,TRUE,FALSE
+meae.congressional.congress04.ny.county,ny.uscongress4.1794,David Brooks,BD0076,4,Federalist,1090,2539,0.429,FALSE,FALSE
+meae.congressional.congress04.ny.county,ny.uscongress5.1794,John Hathorn,HJ0485,5,Democratic-Republican,1519,2145,0.708,TRUE,FALSE
+meae.congressional.congress04.ny.county,ny.uscongress5.1794,Conrad E. Elmendorf,EC0014,5,Federalist,583,2145,0.272,FALSE,FALSE
+meae.congressional.congress04.ny.county,ny.uscongress5.1794,William Thompson,TW0052,5,Federalist,41,2145,0.019,FALSE,FALSE
+meae.congressional.congress04.ny.county,ny.uscongress5.1794,Peter Gansevoort,GP0027,5,Democratic-Republican,2,2145,0.001,FALSE,FALSE
+meae.congressional.congress04.ny.county,ny.uscongress6.1794,Ezekiel Gilbert,GE0066,6,Federalist,1168,2028,0.576,TRUE,FALSE
+meae.congressional.congress04.ny.county,ny.uscongress6.1794,John Bay,BJ0665,6,Democratic-Republican,441,2028,0.217,FALSE,FALSE
+meae.congressional.congress04.ny.county,ny.uscongress6.1794,Mathew Adgate,AM0007,6,Democratic-Republican,419,2028,0.207,FALSE,FALSE
+meae.congressional.congress04.ny.county,ny.uscongress7.1794,John E. Van Allen,VJ0202,7,Federalist,1109,1407,0.788,TRUE,FALSE
+meae.congressional.congress04.ny.county,ny.uscongress7.1794,Thomas Tredwell,TT0055,7,Democratic-Republican,298,1407,0.212,FALSE,FALSE
+meae.congressional.congress04.ny.county,ny.uscongress8.1794,Henry Glen,GH0039,8,Federalist,677,720,0.94,TRUE,FALSE
+meae.congressional.congress04.ny.county,ny.uscongress8.1794,Abraham Yates,YA0001,8,Democratic-Republican,20,720,0.028,FALSE,FALSE
+meae.congressional.congress04.ny.county,ny.uscongress8.1794,John Taylor,TJ0290,8,Democratic-Republican,19,720,0.026,FALSE,FALSE
+meae.congressional.congress04.ny.county,ny.uscongress8.1794,James Fairlie,FJ0180,8,Democratic-Republican,4,720,0.006,FALSE,FALSE
+meae.congressional.congress04.ny.county,ny.uscongress9.1794,John Williams,WJ0409,9,Democratic-Republican,1297,2681,0.484,TRUE,FALSE
+meae.congressional.congress04.ny.county,ny.uscongress9.1794,Ebenezer Russell,RE0047,9,Federalist,1079,2681,0.402,FALSE,FALSE
+meae.congressional.congress04.ny.county,ny.uscongress9.1794,Alexander Webster,WA0107,9,Democratic-Republican,305,2681,0.114,FALSE,FALSE

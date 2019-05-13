@@ -1,0 +1,14 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress05.md.county,md.uscongress1.1796,George Dent,DG0004,1,Federalist,785,787,0.997,TRUE,FALSE
+meae.congressional.congress05.md.county,md.uscongress1.1796,Philip B. Key,KP0001,1,NA,2,787,0.003,FALSE,FALSE
+meae.congressional.congress05.md.county,md.uscongress2.1796,Richard Sprigg,SR0049,2,Democratic-Republican,1400,1400,1,TRUE,TRUE
+meae.congressional.congress05.md.county,md.uscongress3.1796,William Craik,CW0040,3,Federalist,660,1295,0.51,TRUE,FALSE
+meae.congressional.congress05.md.county,md.uscongress3.1796,Benjamin Edwards,EB0002,3,Federalist,635,1295,0.49,FALSE,FALSE
+meae.congressional.congress05.md.county,md.uscongress4.1796,George Baer,BG0023,4,Federalist,1792,2487,0.721,TRUE,FALSE
+meae.congressional.congress05.md.county,md.uscongress4.1796,Samuel Ringgold,RS0013,4,Democratic-Republican,695,2487,0.279,FALSE,FALSE
+meae.congressional.congress05.md.county,md.uscongress5.1796,Samuel Smith,SS0062,5,Democratic-Republican,337,337,1,TRUE,TRUE
+meae.congressional.congress05.md.county,md.uscongress6.1796,William Mathews,MW0075,6,Federalist,1387,2694,0.515,TRUE,FALSE
+meae.congressional.congress05.md.county,md.uscongress6.1796,Gabriel Christie,CG0044,6,Democratic-Republican,1307,2694,0.485,FALSE,FALSE
+meae.congressional.congress05.md.county,md.uscongress7.1796,William Hindman,HW0097,7,Federalist,1665,2660,0.626,TRUE,FALSE
+meae.congressional.congress05.md.county,md.uscongress7.1796,Robert Wright,WR0038,7,Democratic-Republican,995,2660,0.374,FALSE,FALSE
+meae.congressional.congress05.md.county,md.uscongress8.1796,John Dennis,DJ0122,8,Federalist,903,903,1,TRUE,TRUE

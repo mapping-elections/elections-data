@@ -1,0 +1,64 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress1.1814,Calvert,mds_calvert,24009,"Plater, John R., Jr.",PJ0155,Federalist,0
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress1.1814,Charles,mds_charles,24017,"Plater, John R., Jr.",PJ0155,Federalist,0
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress1.1814,Saint Mary's,mds_stmarys,24037,"Plater, John R., Jr.",PJ0155,Federalist,0
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress1.1814,Calvert,mds_calvert,24009,"Stewart, Philip",SP0013,Federalist,424
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress1.1814,Charles,mds_charles,24017,"Stewart, Philip",SP0013,Federalist,760
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress1.1814,Saint Mary's,mds_stmarys,24037,"Stewart, Philip",SP0013,Federalist,302
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress1.1814,Calvert,mds_calvert,24009,"Digges, Francis",DF0005,NA,0
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress1.1814,Charles,mds_charles,24017,"Digges, Francis",DF0005,NA,1
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress1.1814,Saint Mary's,mds_stmarys,24037,"Digges, Francis",DF0005,NA,2
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress2.1814,Anne Arundel,mds_annearundel,24003,"Kent, Joseph",KJ0034,Democratic-Republican,953
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress2.1814,Prince George's,mds_princegeorges,24033,"Kent, Joseph",KJ0034,Democratic-Republican,493
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress2.1814,Anne Arundel,mds_annearundel,24003,"Herbert, John C.",HJ0191,Federalist,1043
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress2.1814,Prince George's,mds_princegeorges,24033,"Herbert, John C.",HJ0191,Federalist,904
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress2.1814,Anne Arundel,mds_annearundel,24003,"Mercer, John Francis",MJ0200,Federalist,2
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress2.1814,Prince George's,mds_princegeorges,24033,"Mercer, John Francis",MJ0200,Federalist,0
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress3.1814,Frederick,mds_frederick,24021,"Delaplane, Joshua",DJ0149,Federalist,15
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress3.1814,Montgomery,mds_montgomery,24031,"Delaplane, Joshua",DJ0149,Federalist,0
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress3.1814,Frederick,mds_frederick,24021,"Hanson, Alexander Contee",HA0038,Federalist,1665
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress3.1814,Montgomery,mds_montgomery,24031,"Hanson, Alexander Contee",HA0038,Federalist,780
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress4.1814,Allegany,mds_allegany,24001,"Ringold, Samuel",RS0013,Democratic-Republican,431
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress4.1814,Frederick,mds_frederick,24021,"Ringold, Samuel",RS0013,Democratic-Republican,1077
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress4.1814,Washington,mds_washington,24043,"Ringold, Samuel",RS0013,Democratic-Republican,1313
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress4.1814,Allegany,mds_allegany,24001,"Baer, George",BG0023,Federalist,573
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress4.1814,Frederick,mds_frederick,24021,"Baer, George",BG0023,Federalist,1252
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress4.1814,Washington,mds_washington,24043,"Baer, George",BG0023,Federalist,1163
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress4.1814,Allegany,mds_allegany,24001,"Gear, Daniel",GD0052,NA,0
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress4.1814,Frederick,mds_frederick,24021,"Gear, Daniel",GD0052,NA,0
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress4.1814,Washington,mds_washington,24043,"Gear, Daniel",GD0052,NA,1
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress4.1814,Allegany,mds_allegany,24001,"Heyser, William",HW0062,NA,0
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress4.1814,Frederick,mds_frederick,24021,"Heyser, William",HW0062,NA,0
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress4.1814,Washington,mds_washington,24043,"Heyser, William",HW0062,NA,1
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress4.1814,Allegany,mds_allegany,24001,"Montgomery, John",MJ0205,NA,0
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress4.1814,Frederick,mds_frederick,24021,"Montgomery, John",MJ0205,NA,0
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress4.1814,Washington,mds_washington,24043,"Montgomery, John",MJ0205,NA,2
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress5.1814,Baltimore,mds_baltimore,24005,"Moore, Nicholas",MN0021,Democratic-Republican,2018
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress5.1814,Baltimore,mds_baltimore,24005,"Pinkney, William",PW0043,Democratic-Republican,1978
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress5.1814,Baltimore,mds_baltimore,24005,"Howard, John Eager",HJ0159,Federalist,1430
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress5.1814,Baltimore,mds_baltimore,24005,"Worthington, John T. H.",WJ0162,Federalist,95
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress6.1814,Cecil,mds_cecil,24015,"Archer, Stevenson",AS0013,Democratic-Republican,764
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress6.1814,Harford,mds_harford,24025,"Archer, Stevenson",AS0013,Democratic-Republican,1176
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress6.1814,Kent,mds_kent,24029,"Archer, Stevenson",AS0013,Democratic-Republican,504
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress6.1814,Cecil,mds_cecil,24015,"Jarrett, Abraham",JA0018,Federalist,1025
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress6.1814,Harford,mds_harford,24025,"Jarrett, Abraham",JA0018,Federalist,644
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress6.1814,Kent,mds_kent,24029,"Jarrett, Abraham",JA0018,Federalist,601
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress6.1814,Cecil,mds_cecil,24015,"Morford, Thomas G.",MT0060,NA,0
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress6.1814,Harford,mds_harford,24025,"Morford, Thomas G.",MT0060,NA,2
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress6.1814,Kent,mds_kent,24029,"Morford, Thomas G.",MT0060,NA,0
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress6.1814,Harford,mds_harford,24025,NA,Other candidates,NA,1
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress6.1814,Cecil,mds_cecil,24015,"Veazey, Thomas W.",VT0000,NA,1
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress6.1814,Harford,mds_harford,24025,"Veazey, Thomas W.",VT0000,NA,0
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress6.1814,Kent,mds_kent,24029,"Veazey, Thomas W.",VT0000,NA,0
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress7.1814,Caroline,mds_caroline,24011,"Wright, Robert",WR0038,Democratic-Republican,584
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress7.1814,Queen Anne's,mds_queenannes,24035,"Wright, Robert",WR0038,Democratic-Republican,804
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress7.1814,Talbot,mds_talbot,24041,"Wright, Robert",WR0038,Democratic-Republican,697
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress7.1814,Caroline,mds_caroline,24011,"Thomas, Samuel W.",TS0017,Federalist,702
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress7.1814,Queen Anne's,mds_queenannes,24035,"Thomas, Samuel W.",TS0017,Federalist,440
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress7.1814,Talbot,mds_talbot,24041,"Thomas, Samuel W.",TS0017,Federalist,743
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress8.1814,Dorchester,mds_dorchester,24019,"Waggaman, Thomas E.",WT0051,Democratic-Republican,120
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress8.1814,Somerset,mds_somerset,24039,"Waggaman, Thomas E.",WT0051,Democratic-Republican,0
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress8.1814,Worcester,mds_worcester,24047,"Waggaman, Thomas E.",WT0051,Democratic-Republican,0
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress8.1814,Dorchester,mds_dorchester,24019,"Goldsborough, Charles",GC0057,Federalist,1071
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress8.1814,Somerset,mds_somerset,24039,"Goldsborough, Charles",GC0057,Federalist,711
+meae.congressional.congress14.md.county,congressional,14,MD,county,state,md.uscongress8.1814,Worcester,mds_worcester,24047,"Goldsborough, Charles",GC0057,Federalist,1234

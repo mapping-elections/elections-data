@@ -1,0 +1,7 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress05.de.county,congressional,5,DE,county,state,de.uscongress.1796,Kent,des_kent,10001,"Perry, William",PW0014,Democratic-Republican,831
+meae.congressional.congress05.de.county,congressional,5,DE,county,state,de.uscongress.1796,New Castle,des_newcastle,10003,"Perry, William",PW0014,Democratic-Republican,446
+meae.congressional.congress05.de.county,congressional,5,DE,county,state,de.uscongress.1796,Sussex,des_sussex,10005,"Perry, William",PW0014,Democratic-Republican,502
+meae.congressional.congress05.de.county,congressional,5,DE,county,state,de.uscongress.1796,Kent,des_kent,10001,"Bayard, James A.",BJ0078,Federalist,985
+meae.congressional.congress05.de.county,congressional,5,DE,county,state,de.uscongress.1796,New Castle,des_newcastle,10003,"Bayard, James A.",BJ0078,Federalist,404
+meae.congressional.congress05.de.county,congressional,5,DE,county,state,de.uscongress.1796,Sussex,des_sussex,10005,"Bayard, James A.",BJ0078,Federalist,903

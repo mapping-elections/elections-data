@@ -1,0 +1,16 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress07.sc.county,sc.uscongress.beaufort.1800,"John Rutledge, Jr.",RJ0621,2,Federalist,774,1284,0.603,TRUE,FALSE
+meae.congressional.congress07.sc.county,sc.uscongress.beaufort.1800,Charles J. Colcock,CC0123,2,Democratic-Republican,510,1284,0.397,FALSE,FALSE
+meae.congressional.congress07.sc.county,sc.uscongress.camden.1800,Thomas Sumter,ST0266,4,Democratic-Republican,1259,1990,0.633,TRUE,FALSE
+meae.congressional.congress07.sc.county,sc.uscongress.camden.1800,Richard Winn,WR0158,4,Federalist,649,1990,0.326,FALSE,FALSE
+meae.congressional.congress07.sc.county,sc.uscongress.camden.1800,William Bracey,BW0368,4,Federalist,82,1990,0.041,FALSE,FALSE
+meae.congressional.congress07.sc.county,sc.uscongress.charleston.1800,Thomas Lowndes,LT0118,1,Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress07.sc.county,sc.uscongress.charleston.1800,Robert Simons,SR0267,1,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress07.sc.county,sc.uscongress.georgetown.1800,Benjamin Huger,HB0145,3,Federalist,1038,1904,0.545,TRUE,FALSE
+meae.congressional.congress07.sc.county,sc.uscongress.georgetown.1800,Lemuel Benton,BL0075,3,Democratic-Republican,858,1904,0.451,FALSE,FALSE
+meae.congressional.congress07.sc.county,sc.uscongress.georgetown.1800,Tristram Thomas,TT0124,3,NA,8,1904,0.004,FALSE,FALSE
+meae.congressional.congress07.sc.county,sc.uscongress.ninety-six.1800,William Butler,BW0365,5,Democratic-Republican,1736,2718,0.639,TRUE,FALSE
+meae.congressional.congress07.sc.county,sc.uscongress.ninety-six.1800,John Nicholls,NJ0159,5,Federalist,843,2718,0.31,FALSE,FALSE
+meae.congressional.congress07.sc.county,sc.uscongress.ninety-six.1800,Charles Goodwyn,GC0054,5,Federalist,139,2718,0.051,FALSE,FALSE
+meae.congressional.congress07.sc.county,sc.uscongress.washington.1800,Thomas Moore,MT0220,6,Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress07.sc.county,sc.uscongress.washington.1800,William Smith,SW0300,6,Democratic-Republican,NA,0,NA,FALSE,FALSE

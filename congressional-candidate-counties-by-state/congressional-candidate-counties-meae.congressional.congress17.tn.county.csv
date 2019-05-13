@@ -1,0 +1,111 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.1.1821,Carter,tns_carter,47019,"Rhea, John",RJ0595,Democratic-Republican,85
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.1.1821,Greene,tns_greene,47059,"Rhea, John",RJ0595,Democratic-Republican,1036
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.1.1821,Hawkins,tns_hawkins,47073,"Rhea, John",RJ0595,Democratic-Republican,400
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.1.1821,Sullivan,tns_sullivan,47163,"Rhea, John",RJ0595,Democratic-Republican,276
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.1.1821,Washington,tns_washington,47179,"Rhea, John",RJ0595,Democratic-Republican,659
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.1.1821,Carter,tns_carter,47019,"Rogers, John A.",RJ0045,NA,80
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.1.1821,Greene,tns_greene,47059,"Rogers, John A.",RJ0045,NA,121
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.1.1821,Hawkins,tns_hawkins,47073,"Rogers, John A.",RJ0045,NA,924
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.1.1821,Sullivan,tns_sullivan,47163,"Rogers, John A.",RJ0045,NA,43
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.1.1821,Washington,tns_washington,47179,"Rogers, John A.",RJ0045,NA,297
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.1.1821,Carter,tns_carter,47019,"Tipton, John",TJ0594,NA,393
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.1.1821,Greene,tns_greene,47059,"Tipton, John",TJ0594,NA,452
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.1.1821,Hawkins,tns_hawkins,47073,"Tipton, John",TJ0594,NA,57
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.1.1821,Sullivan,tns_sullivan,47163,"Tipton, John",TJ0594,NA,869
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.1.1821,Washington,tns_washington,47179,"Tipton, John",TJ0594,NA,393
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.2.1821,Blount,tns_blount,47009,"Cocke, John",CJ1064,Democratic-Republican,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.2.1821,Claiborne,tns_claiborne,47025,"Cocke, John",CJ1064,Democratic-Republican,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.2.1821,Cocke,tns_cocke,47029,"Cocke, John",CJ1064,Democratic-Republican,8
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.2.1821,Grainger,tns_grainger,47057,"Cocke, John",CJ1064,Democratic-Republican,973
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.2.1821,Jefferson,tns_jefferson,47089,"Cocke, John",CJ1064,Democratic-Republican,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.2.1821,Knox,tns_knox,47093,"Cocke, John",CJ1064,Democratic-Republican,1043
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.2.1821,Monroe,tns_monroe,47123,"Cocke, John",CJ1064,Democratic-Republican,278
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.2.1821,Sevier,tns_sevier,47155,"Cocke, John",CJ1064,Democratic-Republican,477
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.3.1821,Anderson,tns_anderson,47001,"Jones, Francis",JF0010,Democratic-Republican,522
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.3.1821,Bledsoe,tns_bledsoe,47007,"Jones, Francis",JF0010,Democratic-Republican,760
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.3.1821,Campbell,tns_campbell,47013,"Jones, Francis",JF0010,Democratic-Republican,298
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.3.1821,Franklin,tns_franklin,47051,"Jones, Francis",JF0010,Democratic-Republican,1313
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.3.1821,Hamilton,tns_hamilton,47065,"Jones, Francis",JF0010,Democratic-Republican,88
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.3.1821,Marion,tns_marion,47115,"Jones, Francis",JF0010,Democratic-Republican,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.3.1821,McMinn,tns_mcminn,47107,"Jones, Francis",JF0010,Democratic-Republican,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.3.1821,Morgan,tns_morgan,47129,"Jones, Francis",JF0010,Democratic-Republican,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.3.1821,Overton,tns_overton,47133,"Jones, Francis",JF0010,Democratic-Republican,733
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.3.1821,Rhea,tns_rhea,47143,"Jones, Francis",JF0010,Democratic-Republican,580
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.3.1821,Roane,tns_roane,47145,"Jones, Francis",JF0010,Democratic-Republican,1118
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.3.1821,Warren,tns_warren,47177,"Jones, Francis",JF0010,Democratic-Republican,1011
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.3.1821,White,tns_white,47185,"Jones, Francis",JF0010,Democratic-Republican,1164
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.3.1821,Anderson,tns_anderson,47001,"Lidwall, Reuban",LR0012,NA,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.3.1821,Bledsoe,tns_bledsoe,47007,"Lidwall, Reuban",LR0012,NA,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.3.1821,Campbell,tns_campbell,47013,"Lidwall, Reuban",LR0012,NA,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.3.1821,Franklin,tns_franklin,47051,"Lidwall, Reuban",LR0012,NA,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.3.1821,Hamilton,tns_hamilton,47065,"Lidwall, Reuban",LR0012,NA,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.3.1821,Marion,tns_marion,47115,"Lidwall, Reuban",LR0012,NA,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.3.1821,McMinn,tns_mcminn,47107,"Lidwall, Reuban",LR0012,NA,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.3.1821,Morgan,tns_morgan,47129,"Lidwall, Reuban",LR0012,NA,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.3.1821,Overton,tns_overton,47133,"Lidwall, Reuban",LR0012,NA,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.3.1821,Rhea,tns_rhea,47143,"Lidwall, Reuban",LR0012,NA,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.3.1821,Roane,tns_roane,47145,"Lidwall, Reuban",LR0012,NA,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.3.1821,Warren,tns_warren,47177,"Lidwall, Reuban",LR0012,NA,32
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.3.1821,White,tns_white,47185,"Lidwall, Reuban",LR0012,NA,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.4.1821,Jackson,tns_jackson,47087,"Allen, Robert",AR0060,Democratic-Republican,802
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.4.1821,Smith,tns_smith,47159,"Allen, Robert",AR0060,Democratic-Republican,2038
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.4.1821,Sumner,tns_sumner,47165,"Allen, Robert",AR0060,Democratic-Republican,1523
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.4.1821,Wilson,tns_wilson,47189,"Allen, Robert",AR0060,Democratic-Republican,1768
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.4.1821,Jackson,tns_jackson,47087,"Brown, John H.",BJ0013,NA,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.4.1821,Smith,tns_smith,47159,"Brown, John H.",BJ0013,NA,2
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.4.1821,Sumner,tns_sumner,47165,"Brown, John H.",BJ0013,NA,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.4.1821,Wilson,tns_wilson,47189,"Brown, John H.",BJ0013,NA,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.4.1821,Jackson,tns_jackson,47087,"Douglass, H. L.",DH0063,NA,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.4.1821,Smith,tns_smith,47159,"Douglass, H. L.",DH0063,NA,1
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.4.1821,Sumner,tns_sumner,47165,"Douglass, H. L.",DH0063,NA,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.4.1821,Wilson,tns_wilson,47189,"Douglass, H. L.",DH0063,NA,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.5.1821,Bedford,tns_bedford,47003,"Beasley, Fitzgerald",BF0008,NA,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.5.1821,Davidson,tns_davidson,47037,"Beasley, Fitzgerald",BF0008,NA,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.5.1821,Lincoln,tns_lincoln,47103,"Beasley, Fitzgerald",BF0008,NA,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.5.1821,Rutherford,tns_rutherford,47149,"Beasley, Fitzgerald",BF0008,NA,55
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.5.1821,Williamson,tns_williamson,47187,"Beasley, Fitzgerald",BF0008,NA,4
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.5.1821,Bedford,tns_bedford,47003,"Cannon, Newton",CN0037,Democratic-Republican,2398
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.5.1821,Davidson,tns_davidson,47037,"Cannon, Newton",CN0037,Democratic-Republican,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.5.1821,Lincoln,tns_lincoln,47103,"Cannon, Newton",CN0037,Democratic-Republican,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.5.1821,Rutherford,tns_rutherford,47149,"Cannon, Newton",CN0037,Democratic-Republican,2008
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.5.1821,Williamson,tns_williamson,47187,"Cannon, Newton",CN0037,Democratic-Republican,1675
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Dickson,tns_dickson,47043,"Bryan, Henry H.",BH0168,Democratic-Republican,394
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Giles,tns_giles,47055,"Bryan, Henry H.",BH0168,Democratic-Republican,591
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Hardin,tns_hardin,47071,"Bryan, Henry H.",BH0168,Democratic-Republican,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Hickman,tns_hickman,47081,"Bryan, Henry H.",BH0168,Democratic-Republican,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Humphreys,tns_humphreys,47085,"Bryan, Henry H.",BH0168,Democratic-Republican,246
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Lawrence,tns_lawrence,47099,"Bryan, Henry H.",BH0168,Democratic-Republican,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Maury,tns_maury,47119,"Bryan, Henry H.",BH0168,Democratic-Republican,1502
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Montgomery,tns_montgomery,47125,"Bryan, Henry H.",BH0168,Democratic-Republican,860
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Perry,tns_perry,47135,"Bryan, Henry H.",BH0168,Democratic-Republican,75
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Robertson,tns_robertson,47147,"Bryan, Henry H.",BH0168,Democratic-Republican,1052
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Shelby,tns_shelby,47157,"Bryan, Henry H.",BH0168,Democratic-Republican,15
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Stewart,tns_stewart,47161,"Bryan, Henry H.",BH0168,Democratic-Republican,513
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Wayne,tns_wayne,47181,"Bryan, Henry H.",BH0168,Democratic-Republican,125
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Dickson,tns_dickson,47043,"Duvall, Colmore",DC0062,NA,9
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Giles,tns_giles,47055,"Duvall, Colmore",DC0062,NA,62
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Hardin,tns_hardin,47071,"Duvall, Colmore",DC0062,NA,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Hickman,tns_hickman,47081,"Duvall, Colmore",DC0062,NA,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Humphreys,tns_humphreys,47085,"Duvall, Colmore",DC0062,NA,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Lawrence,tns_lawrence,47099,"Duvall, Colmore",DC0062,NA,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Maury,tns_maury,47119,"Duvall, Colmore",DC0062,NA,33
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Montgomery,tns_montgomery,47125,"Duvall, Colmore",DC0062,NA,41
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Perry,tns_perry,47135,"Duvall, Colmore",DC0062,NA,1
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Robertson,tns_robertson,47147,"Duvall, Colmore",DC0062,NA,74
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Shelby,tns_shelby,47157,"Duvall, Colmore",DC0062,NA,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Stewart,tns_stewart,47161,"Duvall, Colmore",DC0062,NA,5
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Wayne,tns_wayne,47181,"Duvall, Colmore",DC0062,NA,33
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Dickson,tns_dickson,47043,"Robertson, E.B.",RE0082,NA,277
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Giles,tns_giles,47055,"Robertson, E.B.",RE0082,NA,744
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Hardin,tns_hardin,47071,"Robertson, E.B.",RE0082,NA,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Hickman,tns_hickman,47081,"Robertson, E.B.",RE0082,NA,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Humphreys,tns_humphreys,47085,"Robertson, E.B.",RE0082,NA,281
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Lawrence,tns_lawrence,47099,"Robertson, E.B.",RE0082,NA,0
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Maury,tns_maury,47119,"Robertson, E.B.",RE0082,NA,702
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Montgomery,tns_montgomery,47125,"Robertson, E.B.",RE0082,NA,114
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Perry,tns_perry,47135,"Robertson, E.B.",RE0082,NA,55
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Robertson,tns_robertson,47147,"Robertson, E.B.",RE0082,NA,145
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Shelby,tns_shelby,47157,"Robertson, E.B.",RE0082,NA,7
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Stewart,tns_stewart,47161,"Robertson, E.B.",RE0082,NA,349
+meae.congressional.congress17.tn.county,congressional,17,TN,county,state,tn.congress.6.1821,Wayne,tns_wayne,47181,"Robertson, E.B.",RE0082,NA,288

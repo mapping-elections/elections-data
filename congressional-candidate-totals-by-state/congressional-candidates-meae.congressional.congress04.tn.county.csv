@@ -1,0 +1,3 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress04.tn.county,tn.uscongress.1796,Andrew Jackson,JA0014,At-large,Democratic-Republican,1113,1125,0.989,TRUE,FALSE
+meae.congressional.congress04.tn.county,tn.uscongress.1796,James Rody,RJ0038,At-large,NA,12,1125,0.011,FALSE,FALSE

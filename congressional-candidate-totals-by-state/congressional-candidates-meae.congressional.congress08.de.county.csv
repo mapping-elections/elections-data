@@ -1,0 +1,3 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress08.de.county,de.uscongress.1802,Caesar A. Rodney,RC0001,At-large,Democratic-Republican,3421,6827,0.501,TRUE,FALSE
+meae.congressional.congress08.de.county,de.uscongress.1802,James A. Bayard,BJ0078,At-large,Federalist,3406,6827,0.499,FALSE,FALSE

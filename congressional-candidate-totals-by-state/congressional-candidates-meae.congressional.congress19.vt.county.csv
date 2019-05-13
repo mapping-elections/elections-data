@@ -1,0 +1,168 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress19.vt.county,vt.uscongress1.2.1824,William C. Bradley,BW0418,1,Adams/Clay,1741,2731,0.637,TRUE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress1.2.1824,Phineas White,WP0105,1,Federalist,980,2731,0.359,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress1.2.1824,Mark Richards,RM0056,1,NA,NA,2731,NA,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress1.2.1824,Orsamus C. Merrill,MO0010,1,Democratic-Republican,NA,2731,NA,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress1.2.1824,Calvin Sheldon,SC0145,1,Democratic-Republican,NA,2731,NA,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress1.2.1824,Samuel Elliot,ES0058,1,Federalist,NA,2731,NA,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress1.2.1824,Richard Skinner,SR0206,1,NA,NA,2731,NA,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress1.2.1824,Francis Bradley,BF0053,1,NA,NA,2731,NA,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress1.2.1824,William Hall,HW0333,1,Federalist,NA,2731,NA,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress1.2.1824,Jonathan Hunt,HJ0949,1,NA,NA,2731,NA,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress1.2.1824,"Stephen Pratt, Jr.",PS0190,1,NA,NA,2731,NA,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress1.2.1824,scattering,NA,1,NA,10,2731,0.004,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,Rollin C. Mallory,MR0206,2,Adams/Clay,3284,3436,0.956,TRUE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,Charles K. Williams,WC0090,2,Democratic-Republican,74,3436,0.022,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,Charles Rich,RC0058,2,Democratic-Republican,32,3436,0.009,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,John Rawson,RJ0520,2,NA,5,3436,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,Linsey Round,RL0031,2,NA,4,3436,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,Amos W. Basman,BA0251,2,NA,2,3436,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,Joel Doolittle,DJ0058,2,NA,2,3436,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,Zidon Edson,EZ0001,2,NA,2,3436,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,Stephen Haight,HS0258,2,NA,2,3436,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,Silas W. Hodgen,HS0255,2,NA,2,3436,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,Chauncey Langdon,LC0074,2,Federalist,2,3436,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,Reuben Monkton,MR0182,2,NA,2,3436,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,Robert Temple,TR0066,2,NA,2,3436,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,Cornelius P. Van Ness,VC0022,2,NA,2,3436,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,Seth Blossom,BS0197,2,NA,1,3436,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,D. A.A. Buck,BD0173,2,NA,1,3436,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,Moses Cotton,CM0096,2,NA,1,3436,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,Christopher Denison,DC0074,2,NA,1,3436,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,"Christopher Denison, Jr.",DC0075,2,NA,1,3436,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,Luther Everts,EL0014,2,NA,1,3436,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,Nathan Fisher,FN0043,2,NA,1,3436,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,John S. Gevierber,GJ0497,2,NA,1,3436,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,Raymond Hotchkiss,HR0107,2,NA,1,3436,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,Samuel Howard,HS0254,2,NA,1,3436,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,Artemas Hyman,HA0227,2,NA,1,3436,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,E. H. Judd,JE0040,2,NA,1,3436,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,John Kellogg,KJ0276,2,NA,1,3436,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,Aaron Leland,LA0135,2,NA,1,3436,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,Chad Phillips,PC0078,2,NA,1,3436,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,Robert Pierpoint,PR0116,2,NA,1,3436,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,Calvin Solace,SC0179,2,NA,1,3436,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,Samuel Swift,SS0254,2,NA,1,3436,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress2.1824,Seth Wallis,WS0219,2,NA,1,3436,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress3.1824,George E. Wales,WG0119,3,Democratic-Republican,2763,3946,0.7,TRUE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress3.1824,Horace Everett,EH0029,3,Federalist,944,3946,0.239,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress3.1824,Elias Keyes,KE0050,3,Democratic-Republican,189,3946,0.048,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress3.1824,Jabez Delano,DJ0445,3,NA,6,3946,0.002,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress3.1824,Titus Hutchinson,HT0218,3,NA,6,3946,0.002,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress3.1824,Edward Ingalls,IE0010,3,NA,4,3946,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress3.1824,Moses Haven,HM0113,3,NA,3,3946,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress3.1824,Aaron Leland,LA0135,3,NA,3,3946,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress3.1824,Phineas T. Wales,WP0063,3,NA,3,3946,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress3.1824,Dudley Chase,CD0206,3,NA,2,3946,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress3.1824,Thomas Emmerson,ET0036,3,NA,2,3946,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress3.1824,William Heaton,HW0226,3,NA,2,3946,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress3.1824,Elihu Luce,LE0070,3,NA,2,3946,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress3.1824,Joel Black,BJ1083,3,NA,1,3946,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress3.1824,John Bridge,BJ1087,3,NA,1,3946,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress3.1824,John Brown,BJ1140,3,NA,1,3946,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress3.1824,Lebbeus Cheese,CL0043,3,NA,1,3946,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress3.1824,Isaac N. Cushman,CI0014,3,NA,1,3946,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress3.1824,Rodolphus Dewey,DR0073,3,NA,1,3946,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress3.1824,Thomas H. Hammond,HT0030,3,NA,1,3946,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress3.1824,Charles Leavent,LC0050,3,NA,1,3946,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress3.1824,Samuel C. Loudand,LS0118,3,NA,1,3946,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress3.1824,Rollin C. Mallory,MR0206,3,NA,1,3946,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress3.1824,William Nutting,NW0048,3,NA,1,3946,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress3.1824,James Parker,PJ0483,3,NA,1,3946,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress3.1824,Jonathan Shead,SJ1123,3,NA,1,3946,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress3.1824,Edward Simons,SE0178,3,NA,1,3946,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress3.1824,William Thayer,TW0173,3,NA,1,3946,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress3.1824,Ebenezer E. Wales,WE0178,3,NA,1,3946,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress3.1824,Phineas White,WP0105,3,NA,1,3946,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Ezra Meech,ME0130,4,Adams/Clay,3095,5672,0.546,TRUE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Benjamin Swift,SB0127,4,Democratic-Republican,1836,5672,0.324,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,"Stephen Royce, Jr.",RS0121,4,Democratic-Republican,409,5672,0.072,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Heman Allen,AH0032,4,Federalist,204,5672,0.036,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Samuel C. Crafts,CS0219,4,Democratic-Republican,34,5672,0.006,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Charles Adams,AC0027,4,NA,7,5672,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Austin Fuller,FA0102,4,NA,6,5672,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,William Felton,FW0111,4,NA,4,5672,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Luther B. Hunt,HL0063,4,NA,4,5672,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Asa Lyon,LA0126,4,Federalist,4,5672,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Israel P. Richardson,RI0035,4,NA,4,5672,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Chauncey Brownall,BC0172,4,NA,3,5672,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Samuel Chamberlain,CS0194,4,NA,3,5672,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Frederick Fuller,FF0016,4,NA,3,5672,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,William P. Richardson,RW0162,4,NA,3,5672,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Asa Aldis,AA0064,4,NA,2,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Jonathan Berry,BJ1139,4,NA,2,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,D. M. Camp,CD0153,4,NA,2,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Moses Davis,DM0044,4,NA,2,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Roger Enos,ER0034,4,NA,2,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Samuel Mead,MS0155,4,NA,2,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Nathaniel Newall,NN0024,4,NA,2,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,William Rhodes,RW0161,4,NA,2,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Timothy Stanley,ST0009,4,NA,2,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Solomon Balch,BS0201,4,NA,1,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Elisha Boundman,BE0152,4,NA,1,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Ephraim Bradley,BE0153,4,NA,1,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Nathan Bryan,BN0082,4,NA,1,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Garrad Burnett,BG0123,4,NA,1,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,J. Burton,BJ1138,4,NA,1,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Rosewell Butler,BR0165,4,NA,1,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Amos B. Cooper,CA0228,4,NA,1,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Zara Cushman,CZ0010,4,NA,1,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,G. O. Dixon,DG0065,4,NA,1,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Noel Dowry,DN0055,4,NA,1,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,E. T. Englesby,EE0033,4,NA,1,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Jeremiah Finch,FJ0375,4,NA,1,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,William A. Griswold,GW0183,4,NA,1,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Benjamin Hinman,HB0113,4,NA,1,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Samuel Hover,HS0273,4,NA,1,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Edward Jones,JE0039,4,NA,1,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Abner Keeler,KA0052,4,NA,1,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,John Kimball,KJ0285,4,NA,1,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Pernuel Leavins,LP0025,4,NA,1,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,William Munson,MW0278,4,NA,1,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Thaddeus Murdock,MT0130,4,NA,1,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Jabez Penniman,PJ0500,4,NA,1,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,George Robinson,RG0006,4,NA,1,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Joseph Scott,SJ1124,4,NA,1,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,John Warner,WJ0787,4,NA,1,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Alfred Wheeler,WA0209,4,NA,1,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Zerah Willoughby,WZ0002,4,NA,1,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,Augustus Young,YA0011,4,NA,1,5672,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress4.1824,scattering,NA,4,NA,6,5672,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,John Mattocks,MJ1397,5,Adams/Clay,2629,5064,0.519,TRUE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,Daniel Arzo A. Buck,BD0173,5,Democratic-Republican,2349,5064,0.464,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,William Cahoon,CW0373,5,Democratic-Republican,23,5064,0.005,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,Benjamin Rolfe,RB0038,5,NA,5,5064,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,William Chamberlain,CW0352,5,NA,4,5064,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,Augustine Clark,CA0227,5,NA,4,5064,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,Jonah Carpenter,CJ0794,5,NA,3,5064,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,Samuel Duncan,DS0084,5,NA,3,5064,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,William Mattocks,MW0275,5,NA,3,5064,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,"Jesse Merrill, 2nd",MJ0885,5,NA,3,5064,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,Samuel Prentiss,PS0139,5,Federalist,3,5064,0.001,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,Nicholas Bayless,BN0078,5,NA,2,5064,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,Andrew Brown,BA0255,5,NA,2,5064,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,Sylvester Holt,HS0267,5,NA,2,5064,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,Abel Keyes,KA0049,5,NA,2,5064,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,Jabez Bigelow,BJ1135,5,NA,1,5064,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,Samuel Chamberlain,CS0194,5,NA,1,5064,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,Ebenezer Coos,CE0148,5,NA,1,5064,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,Benjamin Deming,DB0032,5,NA,1,5064,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,George W. Denison,DG0069,5,NA,1,5064,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,Leonard Everett,EL0012,5,NA,1,5064,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,Walter Harvey,HW0217,5,NA,1,5064,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,Slyvanus Hemingway,HS0257,5,NA,1,5064,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,Dyer Hibbard,HD0163,5,NA,1,5064,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,Josiah Holliston,HJ0986,5,NA,1,5064,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,Daniel Hopkinson,HD0168,5,NA,1,5064,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,Ernie Ile,IE0012,5,NA,1,5064,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,Abeel Lyman,LA0104,5,NA,1,5064,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,James Matus,MJ0884,5,NA,1,5064,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,E. G. MacLaughlin,ME0094,5,NA,1,5064,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,Moulton Morey,MM0105,5,NA,1,5064,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,B. Newcomb,NB0010,5,NA,1,5064,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,Chester Nye,NC0017,5,NA,1,5064,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,John Peck,PJ0719,5,NA,1,5064,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,John Rand,RJ0521,5,NA,1,5064,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,Cornelius P. Van Ness,VC0022,5,NA,1,5064,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,Robert,NA,5,NA,1,5064,0,FALSE,FALSE
+meae.congressional.congress19.vt.county,vt.uscongress5.1824,scattering,NA,5,NA,5,5064,0.001,FALSE,FALSE

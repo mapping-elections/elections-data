@@ -1,0 +1,97 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress2.1790,New York,nys_newyork,36061,"Smith, Melancton",SM0075,Anti-Federalist,11
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress2.1790,Westchester,nys_westchester,36119,"Smith, Melancton",SM0075,Anti-Federalist,0
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress2.1790,New York,nys_newyork,36061,"Laurence, John",LJ0218,Federalist,587
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress2.1790,Westchester,nys_westchester,36119,"Laurence, John",LJ0218,Federalist,104
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress3.1790,Dutchess,nys_dutchess,36027,"Bailey, Theodorus",BT0171,Anti-Federalist,447
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress3.1790,Westchester,nys_westchester,36119,"Bailey, Theodorus",BT0171,Anti-Federalist,21
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress3.1790,Dutchess,nys_dutchess,36027,"Benson, Egbert",BE0171,Federalist,471
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress3.1790,Westchester,nys_westchester,36119,"Benson, Egbert",BE0171,Federalist,252
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress4.1790,Orange,nys_orange,36071,"Schoonmaker, Cornelius C.",SC0076,Anti-Federalist,522
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress4.1790,Ulster,nys_ulster,36111,"Schoonmaker, Cornelius C.",SC0076,Anti-Federalist,376
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress4.1790,Orange,nys_orange,36071,"Tappen, Christopher",TC0039,Anti-Federalist,13
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress4.1790,Ulster,nys_ulster,36111,"Tappen, Christopher",TC0039,Anti-Federalist,0
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress4.1790,Orange,nys_orange,36071,"Hathorn, John",HJ0485,Federalist,61
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress4.1790,Ulster,nys_ulster,36111,"Hathorn, John",HJ0485,Federalist,0
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress4.1790,Orange,nys_orange,36071,"Van Gaasbeck, Peter",VP0015,Federalist,20
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress4.1790,Ulster,nys_ulster,36111,"Van Gaasbeck, Peter",VP0015,Federalist,733
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress4.1790,Orange,nys_orange,36071,"Arnold, William",AW0049,NA,1
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress4.1790,Ulster,nys_ulster,36111,"Arnold, William",AW0049,NA,0
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress4.1790,Orange,nys_orange,36071,"Tappen, Peter",TP0033,NA,1
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress4.1790,Ulster,nys_ulster,36111,"Tappen, Peter",TP0033,NA,0
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress4.1790,Orange,nys_orange,36071,"Thompson, William",TW0052,NA,1
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress4.1790,Ulster,nys_ulster,36111,"Thompson, William",TW0052,NA,0
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress5.1790,Albany,nys_albany,36001,"Livingston, John",LJ0214,Anti-Federalist,58
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress5.1790,Clinton,nys_clinton,36019,"Livingston, John",LJ0214,Anti-Federalist,0
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress5.1790,Columbia,nys_columbia,36021,"Livingston, John",LJ0214,Anti-Federalist,855
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress5.1790,Washington,nys_washington,36115,"Livingston, John",LJ0214,Anti-Federalist,305
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress5.1790,Albany,nys_albany,36001,"Sylvester, Peter",SP0060,Federalist,562
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress5.1790,Clinton,nys_clinton,36019,"Sylvester, Peter",SP0060,Federalist,0
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress5.1790,Columbia,nys_columbia,36021,"Sylvester, Peter",SP0060,Federalist,914
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress5.1790,Washington,nys_washington,36115,"Sylvester, Peter",SP0060,Federalist,236
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress6.1790,Albany,nys_albany,36001,"Van Rensselaer, Jeremiah",VJ0189,Anti-Federalist,658
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress6.1790,Montgomery,nys_montgomery,36057,"Van Rensselaer, Jeremiah",VJ0189,Anti-Federalist,359
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress6.1790,Ontario,nys_ontario,36069,"Van Rensselaer, Jeremiah",VJ0189,Anti-Federalist,0
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress6.1790,Albany,nys_albany,36001,"Gordon, James",GJ0267,Federalist,1195
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress6.1790,Montgomery,nys_montgomery,36057,"Gordon, James",GJ0267,Federalist,270
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongress6.1790,Ontario,nys_ontario,36069,"Gordon, James",GJ0267,Federalist,0
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Kings,nys_kings,36047,"L'Hommedieu, Ezra",LE0003,Anti-Federalist,33
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"L'Hommedieu, Ezra",LE0003,Anti-Federalist,30
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"L'Hommedieu, Ezra",LE0003,Anti-Federalist,30
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"L'Hommedieu, Ezra",LE0003,Anti-Federalist,30
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"L'Hommedieu, Ezra",LE0003,Anti-Federalist,30
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"L'Hommedieu, Ezra",LE0003,Anti-Federalist,30
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"L'Hommedieu, Ezra",LE0003,Anti-Federalist,30
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Richmond,nys_richmond,36085,"L'Hommedieu, Ezra",LE0003,Anti-Federalist,9
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Suffolk,nys_suffolk,36103,"L'Hommedieu, Ezra",LE0003,Anti-Federalist,289
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Suffolk,nys_suffolk,36103,"L'Hommedieu, Ezra",LE0003,Anti-Federalist,289
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Kings,nys_kings,36047,"Ledyard, Isaac",LI0009,Anti-Federalist,29
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"Ledyard, Isaac",LI0009,Anti-Federalist,272
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"Ledyard, Isaac",LI0009,Anti-Federalist,272
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"Ledyard, Isaac",LI0009,Anti-Federalist,272
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"Ledyard, Isaac",LI0009,Anti-Federalist,272
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"Ledyard, Isaac",LI0009,Anti-Federalist,272
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"Ledyard, Isaac",LI0009,Anti-Federalist,272
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Richmond,nys_richmond,36085,"Ledyard, Isaac",LI0009,Anti-Federalist,0
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Suffolk,nys_suffolk,36103,"Ledyard, Isaac",LI0009,Anti-Federalist,0
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Suffolk,nys_suffolk,36103,"Ledyard, Isaac",LI0009,Anti-Federalist,0
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Kings,nys_kings,36047,"Tredwell, Thomas",TT0055,Anti-Federalist,26
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"Tredwell, Thomas",TT0055,Anti-Federalist,206
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"Tredwell, Thomas",TT0055,Anti-Federalist,206
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"Tredwell, Thomas",TT0055,Anti-Federalist,206
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"Tredwell, Thomas",TT0055,Anti-Federalist,206
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"Tredwell, Thomas",TT0055,Anti-Federalist,206
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"Tredwell, Thomas",TT0055,Anti-Federalist,206
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Richmond,nys_richmond,36085,"Tredwell, Thomas",TT0055,Anti-Federalist,0
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Suffolk,nys_suffolk,36103,"Tredwell, Thomas",TT0055,Anti-Federalist,434
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Suffolk,nys_suffolk,36103,"Tredwell, Thomas",TT0055,Anti-Federalist,434
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Kings,nys_kings,36047,"Carman, Stephen",CS0101,Federalist,21
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"Carman, Stephen",CS0101,Federalist,338
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"Carman, Stephen",CS0101,Federalist,338
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"Carman, Stephen",CS0101,Federalist,338
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"Carman, Stephen",CS0101,Federalist,338
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"Carman, Stephen",CS0101,Federalist,338
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"Carman, Stephen",CS0101,Federalist,338
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Richmond,nys_richmond,36085,"Carman, Stephen",CS0101,Federalist,0
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Suffolk,nys_suffolk,36103,"Carman, Stephen",CS0101,Federalist,1
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Suffolk,nys_suffolk,36103,"Carman, Stephen",CS0101,Federalist,1
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Kings,nys_kings,36047,"Peters, Henry",PH0027,Federalist,21
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"Peters, Henry",PH0027,Federalist,268
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"Peters, Henry",PH0027,Federalist,268
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"Peters, Henry",PH0027,Federalist,268
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"Peters, Henry",PH0027,Federalist,268
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"Peters, Henry",PH0027,Federalist,268
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"Peters, Henry",PH0027,Federalist,268
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Richmond,nys_richmond,36085,"Peters, Henry",PH0027,Federalist,77
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Suffolk,nys_suffolk,36103,"Peters, Henry",PH0027,Federalist,3
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Suffolk,nys_suffolk,36103,"Peters, Henry",PH0027,Federalist,3
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Kings,nys_kings,36047,"Vanderbilt, John",VJ0061,Federalist,255
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"Vanderbilt, John",VJ0061,Federalist,60
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"Vanderbilt, John",VJ0061,Federalist,60
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"Vanderbilt, John",VJ0061,Federalist,60
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"Vanderbilt, John",VJ0061,Federalist,60
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"Vanderbilt, John",VJ0061,Federalist,60
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Queens,nys_queens,36081,"Vanderbilt, John",VJ0061,Federalist,60
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Richmond,nys_richmond,36085,"Vanderbilt, John",VJ0061,Federalist,166
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Suffolk,nys_suffolk,36103,"Vanderbilt, John",VJ0061,Federalist,0
+meae.congressional.congress02.ny.county,congressional,2,NY,county,state,ny.uscongressspecial.1791,Suffolk,nys_suffolk,36103,"Vanderbilt, John",VJ0061,Federalist,0

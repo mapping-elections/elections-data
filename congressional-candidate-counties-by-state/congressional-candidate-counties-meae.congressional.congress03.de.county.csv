@@ -1,0 +1,16 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress03.de.county,congressional,3,DE,county,state,de.uscongress.1792,Kent,des_kent,10001,"Patton, John",PJ0032,Anti-Federalist,710
+meae.congressional.congress03.de.county,congressional,3,DE,county,state,de.uscongress.1792,New Castle,des_newcastle,10003,"Patton, John",PJ0032,Anti-Federalist,719
+meae.congressional.congress03.de.county,congressional,3,DE,county,state,de.uscongress.1792,Sussex,des_sussex,10005,"Patton, John",PJ0032,Anti-Federalist,844
+meae.congressional.congress03.de.county,congressional,3,DE,county,state,de.uscongress.1792,Kent,des_kent,10001,"Lattimer, Henry",LH0001,Federalist,905
+meae.congressional.congress03.de.county,congressional,3,DE,county,state,de.uscongress.1792,New Castle,des_newcastle,10003,"Lattimer, Henry",LH0001,Federalist,476
+meae.congressional.congress03.de.county,congressional,3,DE,county,state,de.uscongress.1792,Sussex,des_sussex,10005,"Lattimer, Henry",LH0001,Federalist,862
+meae.congressional.congress03.de.county,congressional,3,DE,county,state,de.uscongress.1792,Kent,des_kent,10001,"Barrett, Andrew",BA0023,NA,195
+meae.congressional.congress03.de.county,congressional,3,DE,county,state,de.uscongress.1792,New Castle,des_newcastle,10003,"Barrett, Andrew",BA0023,NA,0
+meae.congressional.congress03.de.county,congressional,3,DE,county,state,de.uscongress.1792,Sussex,des_sussex,10005,"Barrett, Andrew",BA0023,NA,0
+meae.congressional.congress03.de.county,congressional,3,DE,county,state,de.uscongress.1792,Kent,des_kent,10001,"Many, Francis",MF0000,NA,685
+meae.congressional.congress03.de.county,congressional,3,DE,county,state,de.uscongress.1792,New Castle,des_newcastle,10003,"Many, Francis",MF0000,NA,0
+meae.congressional.congress03.de.county,congressional,3,DE,county,state,de.uscongress.1792,Sussex,des_sussex,10005,"Many, Francis",MF0000,NA,0
+meae.congressional.congress03.de.county,congressional,3,DE,county,state,de.uscongress.1792,Kent,des_kent,10001,"Roche, Edward",RE0089,NA,465
+meae.congressional.congress03.de.county,congressional,3,DE,county,state,de.uscongress.1792,New Castle,des_newcastle,10003,"Roche, Edward",RE0089,NA,0
+meae.congressional.congress03.de.county,congressional,3,DE,county,state,de.uscongress.1792,Sussex,des_sussex,10005,"Roche, Edward",RE0089,NA,0

@@ -1,0 +1,5 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress08.tn.county,tn.congress.1803,William Dickson,DW0184,At-large,Democratic-Republican,9682,32090,0.302,TRUE,FALSE
+meae.congressional.congress08.tn.county,tn.congress.1803,George W. Campbell,CG0108,At-large,Democratic-Republican,9515,32090,0.297,TRUE,FALSE
+meae.congressional.congress08.tn.county,tn.congress.1803,John Rhea,RJ0595,At-large,Democratic-Republican,7382,32090,0.23,TRUE,FALSE
+meae.congressional.congress08.tn.county,tn.congress.1803,John Cocke,CJ1064,At-large,Democratic-Republican,5511,32090,0.172,FALSE,FALSE

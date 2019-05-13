@@ -1,0 +1,159 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.1.1819,Brooke,wvs_brooke,54009,"MacKinley, William",MW0394,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.1.1819,Harrison,wvs_harrison,54033,"MacKinley, William",MW0394,Democratic-Republican,95
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.1.1819,Lewis,wvs_lewis,54041,"MacKinley, William",MW0394,Democratic-Republican,143
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.1.1819,Monongalia,wvs_monongalia,54061,"MacKinley, William",MW0394,Democratic-Republican,16
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.1.1819,Ohio,wvs_ohio,54069,"MacKinley, William",MW0394,Democratic-Republican,175
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.1.1819,Preston,wvs_preston,54077,"MacKinley, William",MW0394,Democratic-Republican,27
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.1.1819,Tyler,wvs_tyler,54095,"MacKinley, William",MW0394,Democratic-Republican,10
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.1.1819,Brooke,wvs_brooke,54009,"Pindall, James",PJ0569,Federalist,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.1.1819,Harrison,wvs_harrison,54033,"Pindall, James",PJ0569,Federalist,617
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.1.1819,Lewis,wvs_lewis,54041,"Pindall, James",PJ0569,Federalist,190
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.1.1819,Monongalia,wvs_monongalia,54061,"Pindall, James",PJ0569,Federalist,349
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.1.1819,Ohio,wvs_ohio,54069,"Pindall, James",PJ0569,Federalist,100
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.1.1819,Preston,wvs_preston,54077,"Pindall, James",PJ0569,Federalist,173
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.1.1819,Tyler,wvs_tyler,54095,"Pindall, James",PJ0569,Federalist,144
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.10.1819,Culpeper,vas_culpeper,51047,"Strother, George F.",SG0190,Democratic-Republican,289
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.10.1819,Fauquier,vas_fauquier,51061,"Strother, George F.",SG0190,Democratic-Republican,292
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.10.1819,Culpeper,vas_culpeper,51047,"Wharton, John",WJ1040,Democratic-Republican,9
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.10.1819,Fauquier,vas_fauquier,51061,"Wharton, John",WJ1040,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.10.1819,Culpeper,vas_culpeper,51047,"Shackleford, John",SJ1433,Federalist,228
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.10.1819,Fauquier,vas_fauquier,51061,"Shackleford, John",SJ1433,Federalist,313
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.11.1819,Louisa,vas_louisa,51109,"Barbour, Philip P.",BP0115,Democratic-Republican,385
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.11.1819,Madison,kys_madison,21151,"Barbour, Philip P.",BP0115,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.11.1819,Madison,vas_madison,51113,"Barbour, Philip P.",BP0115,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.11.1819,Orange,vas_orange,51137,"Barbour, Philip P.",BP0115,Democratic-Republican,393
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.11.1819,Spotsylvania,vas_spotsylvania,51177,"Barbour, Philip P.",BP0115,Democratic-Republican,446
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.12.1819,Caroline,vas_caroline,51033,"Garnett, Robert S.",GR0068,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.12.1819,Essex,vas_essex,51057,"Garnett, Robert S.",GR0068,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.12.1819,King and Queen,vas_kingandqueen,51097,"Garnett, Robert S.",GR0068,Democratic-Republican,207
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.12.1819,King William,vas_kingwilliam,51101,"Garnett, Robert S.",GR0068,Democratic-Republican,180
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.13.1819,Accomack,vas_accomack,51001,"Parker, Severen E.",PS0152,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.13.1819,Elizabeth City,vas_elizabethcity,51055,"Parker, Severen E.",PS0152,Democratic-Republican,154
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.13.1819,Gloucester,vas_gloucester,51073,"Parker, Severen E.",PS0152,Democratic-Republican,232
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.13.1819,James City,vas_jamescity,51095,"Parker, Severen E.",PS0152,Democratic-Republican,111
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.13.1819,Mathews,vas_mathews,51115,"Parker, Severen E.",PS0152,Democratic-Republican,187
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.13.1819,Middlesex,vas_middlesex,51119,"Parker, Severen E.",PS0152,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.13.1819,Northampton,vas_northampton,51131,"Parker, Severen E.",PS0152,Democratic-Republican,71
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.13.1819,Warwick,vas_warwick,51189,"Parker, Severen E.",PS0152,Democratic-Republican,70
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.13.1819,York,vas_york,51199,"Parker, Severen E.",PS0152,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.13.1819,Accomack,vas_accomack,51001,"Drury, John",DJ0062,NA,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.13.1819,Elizabeth City,vas_elizabethcity,51055,"Drury, John",DJ0062,NA,1
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.13.1819,Gloucester,vas_gloucester,51073,"Drury, John",DJ0062,NA,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.13.1819,James City,vas_jamescity,51095,"Drury, John",DJ0062,NA,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.13.1819,Mathews,vas_mathews,51115,"Drury, John",DJ0062,NA,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.13.1819,Middlesex,vas_middlesex,51119,"Drury, John",DJ0062,NA,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.13.1819,Northampton,vas_northampton,51131,"Drury, John",DJ0062,NA,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.13.1819,Warwick,vas_warwick,51189,"Drury, John",DJ0062,NA,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.13.1819,York,vas_york,51199,"Drury, John",DJ0062,NA,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.14.1819,Bedford,vas_bedford,51019,"Burwell, William A.",BW0451,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.14.1819,Franklin,vas_franklin,51067,"Burwell, William A.",BW0451,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.14.1819,Henry,vas_henry,51089,"Burwell, William A.",BW0451,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.14.1819,Patrick,vas_patrick,51141,"Burwell, William A.",BW0451,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.15.1819,Campbell,vas_campbell,51031,"Kerr, John",KJ0364,Democratic-Republican,91
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.15.1819,Halifax,vas_halifax,51083,"Kerr, John",KJ0364,Democratic-Republican,240
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.15.1819,Pittsylvania,vas_pittsylvania,51143,"Kerr, John",KJ0364,Democratic-Republican,140
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.15.1819,Campbell,vas_campbell,51031,"Tucker, George",TG0062,Democratic-Republican,386
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.15.1819,Halifax,vas_halifax,51083,"Tucker, George",TG0062,Democratic-Republican,365
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.15.1819,Pittsylvania,vas_pittsylvania,51143,"Tucker, George",TG0062,Democratic-Republican,470
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.16.1819,Buckingham,vas_buckingham,51029,"Austin, Archibald",AA0056,Democratic-Republican,153
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.16.1819,Charlotte,vas_charlotte,51037,"Austin, Archibald",AA0056,Democratic-Republican,60
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.16.1819,Cumberland,vas_cumberland,51049,"Austin, Archibald",AA0056,Democratic-Republican,33
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.16.1819,Prince Edward,vas_princeedward,51147,"Austin, Archibald",AA0056,Democratic-Republican,7
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.16.1819,Buckingham,vas_buckingham,51029,"Randolph, John",RJ0610,Democratic-Republican,78
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.16.1819,Charlotte,vas_charlotte,51037,"Randolph, John",RJ0610,Democratic-Republican,198
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.16.1819,Cumberland,vas_cumberland,51049,"Randolph, John",RJ0610,Democratic-Republican,109
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.16.1819,Prince Edward,vas_princeedward,51147,"Randolph, John",RJ0610,Democratic-Republican,296
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.17.1819,Amelia,vas_amelia,51007,"Pleasants, James",PJ0579,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.17.1819,Chesterfield,vas_chesterfield,51041,"Pleasants, James",PJ0579,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.17.1819,Goochland,vas_goochland,51075,"Pleasants, James",PJ0579,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.17.1819,Powhatan,vas_powhatan,51145,"Pleasants, James",PJ0579,Democratic-Republican,138
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.18.1819,Brunswick,vas_brunswick,51025,"Alexander, Mark",AM0013,Democratic-Republican,33
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.18.1819,Lunenburg,vas_lunenburg,51111,"Alexander, Mark",AM0013,Democratic-Republican,152
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.18.1819,Mecklenburg,vas_mecklenburg,51117,"Alexander, Mark",AM0013,Democratic-Republican,428
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.18.1819,Brunswick,vas_brunswick,51025,"Fitzpatrick, Thomas",FT0091,Democratic-Republican,179
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.18.1819,Lunenburg,vas_lunenburg,51111,"Fitzpatrick, Thomas",FT0091,Democratic-Republican,90
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.18.1819,Mecklenburg,vas_mecklenburg,51117,"Fitzpatrick, Thomas",FT0091,Democratic-Republican,21
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.18.1819,Brunswick,vas_brunswick,51025,"Wyche, James",WJ1041,Democratic-Republican,112
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.18.1819,Lunenburg,vas_lunenburg,51111,"Wyche, James",WJ1041,Democratic-Republican,75
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.18.1819,Mecklenburg,vas_mecklenburg,51117,"Wyche, James",WJ1041,Democratic-Republican,12
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.19.1819,Dinwiddie,vas_dinwiddie,51053,"Jones, James",JJ0276,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.19.1819,Greensville,vas_greensville,51081,"Jones, James",JJ0276,Democratic-Republican,86
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.19.1819,Nottoway,vas_nottoway,51135,"Jones, James",JJ0276,Democratic-Republican,246
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.19.1819,Petersburg City,NA,NA,"Jones, James",JJ0276,Democratic-Republican,87
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.19.1819,Prince George,vas_princegeorge,51149,"Jones, James",JJ0276,Democratic-Republican,162
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.19.1819,Dinwiddie,vas_dinwiddie,51053,"Pegram, John",PJ0565,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.19.1819,Greensville,vas_greensville,51081,"Pegram, John",PJ0565,Democratic-Republican,105
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.19.1819,Nottoway,vas_nottoway,51135,"Pegram, John",PJ0565,Democratic-Republican,13
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.19.1819,Petersburg City,NA,NA,"Pegram, John",PJ0565,Democratic-Republican,59
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.19.1819,Prince George,vas_princegeorge,51149,"Pegram, John",PJ0565,Democratic-Republican,65
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.2.1819,Berkeley,wvs_berkeley,54003,"Colston, Edward",CE0182,Federalist,198
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.2.1819,Hampshire,wvs_hampshire,54027,"Colston, Edward",CE0182,Federalist,286
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.2.1819,Hardy,wvs_hardy,54031,"Colston, Edward",CE0182,Federalist,55
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.2.1819,Jefferson,kys_jefferson,21111,"Colston, Edward",CE0182,Federalist,105
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.2.1819,Jefferson,wvs_jefferson,54037,"Colston, Edward",CE0182,Federalist,105
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.2.1819,Berkeley,wvs_berkeley,54003,"Van Swearingen, Thomas",VT0017,Federalist,229
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.2.1819,Hampshire,wvs_hampshire,54027,"Van Swearingen, Thomas",VT0017,Federalist,153
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.2.1819,Hardy,wvs_hardy,54031,"Van Swearingen, Thomas",VT0017,Federalist,138
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.2.1819,Jefferson,kys_jefferson,21111,"Van Swearingen, Thomas",VT0017,Federalist,290
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.2.1819,Jefferson,wvs_jefferson,54037,"Van Swearingen, Thomas",VT0017,Federalist,290
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.20.1819,Isle of Wight,vas_isleofwight,51093,"Johnson, James",JJ0282,Democratic-Republican,453
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.20.1819,Southampton,vas_southampton,51175,"Johnson, James",JJ0282,Democratic-Republican,517
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.20.1819,Surry,vas_surry,51181,"Johnson, James",JJ0282,Democratic-Republican,287
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.20.1819,Sussex,vas_sussex,51183,"Johnson, James",JJ0282,Democratic-Republican,302
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.21.1819,Nansemond,vas_nansemond,51123,"Newton, Thomas, Jr.",NT0024,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.21.1819,Norfolk,vas_norfolk,51129,"Newton, Thomas, Jr.",NT0024,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.21.1819,Princess Anne,vas_princessanne,51151,"Newton, Thomas, Jr.",NT0024,Democratic-Republican,281
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.22.1819,Albermarle,vas_albemarle,51003,"Nelson, Hugh",NH0015,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.22.1819,Amherst,vas_amherst,51009,"Nelson, Hugh",NH0015,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.22.1819,Fluvanna,vas_fluvanna,51065,"Nelson, Hugh",NH0015,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.22.1819,Nelson,kys_nelson,21179,"Nelson, Hugh",NH0015,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.22.1819,Nelson,vas_nelson,51125,"Nelson, Hugh",NH0015,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.23.1819,Charles City,vas_charlescity,51036,"Tyler, John",TJ0537,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.23.1819,Hanover,vas_hanover,51085,"Tyler, John",TJ0537,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.23.1819,Henrico,vas_henrico,51087,"Tyler, John",TJ0537,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.23.1819,New Kent,vas_newkent,51127,"Tyler, John",TJ0537,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.23.1819,Richmond City,NA,NA,"Tyler, John",TJ0537,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.3.1819,Frederick,vas_frederick,51069,"Smith, John",SJ1530,Democratic-Republican,350
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.3.1819,Shenandoah,vas_shenandoah,51171,"Smith, John",SJ1530,Democratic-Republican,39
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.3.1819,Frederick,vas_frederick,51069,"Williams, Jared",WJ1022,Democratic-Republican,306
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.3.1819,Shenandoah,vas_shenandoah,51171,"Williams, Jared",WJ1022,Democratic-Republican,533
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.4.1819,Augusta,vas_augusta,51015,"MacCoy, William",MW0392,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.4.1819,Bath,vas_bath,51017,"MacCoy, William",MW0392,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.4.1819,Pendleton,wvs_pendleton,54071,"MacCoy, William",MW0392,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.4.1819,Rockingham,vas_rockingham,51165,"MacCoy, William",MW0392,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.5.1819,Botetourt,vas_botetourt,51023,"Floyd, John",FJ0482,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.5.1819,Giles,vas_giles,51071,"Floyd, John",FJ0482,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.5.1819,Montgomery,vas_montgomery,51121,"Floyd, John",FJ0482,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.5.1819,Rockbridge,vas_rockbridge,51163,"Floyd, John",FJ0482,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.6.1819,Grayson,vas_grayson,51077,"Smyth, Alexander",SA0299,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.6.1819,Lee,vas_lee,51105,"Smyth, Alexander",SA0299,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.6.1819,Russell,vas_russell,51167,"Smyth, Alexander",SA0299,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.6.1819,Scott,vas_scott,51169,"Smyth, Alexander",SA0299,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.6.1819,Tazewell,vas_tazewell,51185,"Smyth, Alexander",SA0299,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.6.1819,Washington,vas_washington,51191,"Smyth, Alexander",SA0299,Democratic-Republican,665
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.6.1819,Wythe,vas_wythe,51197,"Smyth, Alexander",SA0299,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.7.1819,Cabell,wvs_cabell,54011,"Smith, Ballard",SB0133,Democratic-Republican,257
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.7.1819,Greenbrier,wvs_greenbrier,54025,"Smith, Ballard",SB0133,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.7.1819,Kanawha,wvs_kanawha,54039,"Smith, Ballard",SB0133,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.7.1819,Mason,kys_mason,21161,"Smith, Ballard",SB0133,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.7.1819,Mason,wvs_mason,54053,"Smith, Ballard",SB0133,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.7.1819,Monroe,wvs_monroe,54063,"Smith, Ballard",SB0133,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.7.1819,Nicholas,wvs_nicholas,54067,"Smith, Ballard",SB0133,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.7.1819,Randolph,wvs_randolph,54083,"Smith, Ballard",SB0133,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.7.1819,Wood,wvs_wood,54107,"Smith, Ballard",SB0133,Democratic-Republican,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.8.1819,Fairfax,vas_fairfax,51059,"Mercer, Charles F.",MC0088,Federalist,0
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.8.1819,Loudoun,vas_loudoun,51107,"Mercer, Charles F.",MC0088,Federalist,330
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.8.1819,Prince William,vas_princewilliam,51153,"Mercer, Charles F.",MC0088,Federalist,135
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.9.1819,King George,vas_kinggeorge,51099,"Ball, William Lee",BW0447,Democratic-Republican,58
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.9.1819,Lancaster,vas_lancaster,51103,"Ball, William Lee",BW0447,Democratic-Republican,175
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.9.1819,Northumberland,vas_northumberland,51133,"Ball, William Lee",BW0447,Democratic-Republican,160
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.9.1819,Richmond,vas_richmond,51159,"Ball, William Lee",BW0447,Democratic-Republican,116
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.9.1819,Stafford,vas_stafford,51179,"Ball, William Lee",BW0447,Democratic-Republican,103
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.9.1819,Westmoreland,vas_westmoreland,51193,"Ball, William Lee",BW0447,Democratic-Republican,27
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.9.1819,King George,vas_kinggeorge,51099,"Hungerford, John P.",HJ1310,Federalist,91
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.9.1819,Lancaster,vas_lancaster,51103,"Hungerford, John P.",HJ1310,Federalist,13
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.9.1819,Northumberland,vas_northumberland,51133,"Hungerford, John P.",HJ1310,Federalist,104
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.9.1819,Richmond,vas_richmond,51159,"Hungerford, John P.",HJ1310,Federalist,88
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.9.1819,Stafford,vas_stafford,51179,"Hungerford, John P.",HJ1310,Federalist,57
+meae.congressional.congress16.va.county,congressional,16,VA,county,state,va.uscongress.9.1819,Westmoreland,vas_westmoreland,51193,"Hungerford, John P.",HJ1310,Federalist,205

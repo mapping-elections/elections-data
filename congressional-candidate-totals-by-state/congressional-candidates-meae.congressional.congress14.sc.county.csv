@@ -1,0 +1,19 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress14.sc.county,sc.uscongress.charleston.1814,Henry Middleton,MH0114,1,Democratic-Republican,1448,2310,0.627,TRUE,FALSE
+meae.congressional.congress14.sc.county,sc.uscongress.charleston.1814,Thomas Rhett Smith,ST0152,1,Federalist,859,2310,0.372,FALSE,FALSE
+meae.congressional.congress14.sc.county,sc.uscongress.charleston.1814,scattering,NA,1,NA,3,2310,0.001,FALSE,FALSE
+meae.congressional.congress14.sc.county,sc.uscongress.beaufort.1814,William Lowndes,LW0219,2,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress14.sc.county,sc.uscongress.georgetown.1814,Benjamin Huger,HB0145,3,Federalist,1712,3317,0.516,TRUE,FALSE
+meae.congressional.congress14.sc.county,sc.uscongress.georgetown.1814,Theodore Gourdin,GT0086,3,Democratic-Republican,1605,3317,0.484,FALSE,FALSE
+meae.congressional.congress14.sc.county,sc.uscongress.orangeburg.1814,John J. Chappell,CJ1050,4,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress14.sc.county,sc.uscongress.newberry.1814,"William Woodward, Sr.",WW0367,5,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress14.sc.county,sc.uscongress.edgefield.1814,John C. Calhoun,CJ1014,6,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress14.sc.county,sc.uscongress.edgefield.1814,Benjamin C. Yancey,YB0009,6,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress14.sc.county,sc.uscongress.pendleton.1814,John Taylor,TJ0467,7,Democratic-Republican,2970,3940,0.754,TRUE,FALSE
+meae.congressional.congress14.sc.county,sc.uscongress.pendleton.1814,Elias Earle,EE0042,7,Democratic-Republican,949,3940,0.241,FALSE,FALSE
+meae.congressional.congress14.sc.county,sc.uscongress.pendleton.1814,scattering,NA,7,NA,21,3940,0.005,FALSE,FALSE
+meae.congressional.congress14.sc.county,sc.uscongress.chester.1814,Thomas Moore,MT0220,8,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress14.sc.county,sc.uscongress.chester.1814,Bowen,NA,8,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress14.sc.county,sc.uscongress.chester.1814,Samuel Farrow,FS0123,8,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress14.sc.county,sc.uscongress.sumpter.1814,"William Mayrant, Sr.",MW0383,9,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress14.sc.county,sc.uscongress.sumpter.1814,John Kershaw,KJ0375,9,Federalist,NA,0,NA,FALSE,FALSE

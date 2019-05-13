@@ -1,0 +1,11 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress02.nc.county,nc.uscongress1.1791,John Steele,SJ0192,1,Anti-Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress02.nc.county,nc.uscongress1.1791,Joseph MacDowell,MJ0540,1,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.nc.county,nc.uscongress2.1791,Nathaniel Macon,MN0068,2,Anti-Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress02.nc.county,nc.uscongress2.1791,Alexander Mebane,MA0149,2,Anti-Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.nc.county,nc.uscongress3.1791,John Baptist Ashe,AJ0212,3,Anti-Federalist,NA,0,1,TRUE,TRUE
+meae.congressional.congress02.nc.county,nc.uscongress4.1791,Hugh Williamson,WH0019,4,Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress02.nc.county,nc.uscongress4.1791,Charles Johnson,JC0019,4,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.nc.county,nc.uscongress5.1791,William B. Grove,GW0091,5,Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress02.nc.county,nc.uscongress5.1791,Timothy Bloodworth,BT0199,5,Anti-Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.nc.county,nc.uscongress5.1791,Benjamin Smith,SB0058,5,Federalist,NA,0,NA,FALSE,FALSE

@@ -1,0 +1,14 @@
+meae_id,county_ahcb,county_fips,districts,federalist_vote,federalist_percentage,antifederalist_vote,antifederalist_percentage,demrep_vote,demrep_percentage,chesapeake_vote,chesapeake_percentage,potomac_vote,potomac_percentage,repfac_vote,repfac_percentage,adamsclay_vote,adamsclay_percentage,jacksonian_vote,jacksonian_percentage,anticaucus_vote,anticaucus_percentage,caucus_vote,caucus_percentage,other_vote,other_percentage,county_source
+meae.congressional.congress19.vt.county,vts_addison,50001,2,NA,NA,NA,NA,47,0.034,NA,NA,NA,NA,NA,NA,1304,0.954,NA,NA,16,NA,NA,NA,NA,0.012,county
+meae.congressional.congress19.vt.county,vts_bennington,50003,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress19.vt.county,vts_caledonia,50005,5,NA,NA,NA,NA,345,0.194,NA,NA,NA,NA,NA,NA,1406,0.789,NA,NA,30,NA,NA,NA,NA,0.017,county
+meae.congressional.congress19.vt.county,vts_chittenden,50007,4,154,0.079,NA,NA,220,0.113,NA,NA,NA,NA,NA,NA,1535,0.788,NA,NA,38,NA,NA,NA,NA,0.02,county
+meae.congressional.congress19.vt.county,vts_essex,50009,5,NA,NA,NA,NA,84,0.288,NA,NA,NA,NA,NA,NA,204,0.699,NA,NA,4,NA,NA,NA,NA,0.014,county
+meae.congressional.congress19.vt.county,vts_franklin,50011,4,44,0.019,NA,NA,1569,0.693,NA,NA,NA,NA,NA,NA,620,0.274,NA,NA,30,NA,NA,NA,NA,0.013,county
+meae.congressional.congress19.vt.county,vts_grandisle,50013,4,4,0.009,NA,NA,280,0.598,NA,NA,NA,NA,NA,NA,180,0.385,NA,NA,4,NA,NA,NA,NA,0.009,county
+meae.congressional.congress19.vt.county,vts_orange,50017,"3, 4",173,0.078,NA,NA,1746,0.785,NA,NA,NA,NA,NA,NA,284,0.128,NA,NA,20,NA,NA,NA,NA,0.009,county
+meae.congressional.congress19.vt.county,vts_orleans,50019,4,6,0.006,NA,NA,210,0.211,NA,NA,NA,NA,NA,NA,760,0.765,NA,NA,18,NA,NA,NA,NA,0.018,county
+meae.congressional.congress19.vt.county,vts_rutland,50021,"1, 2",2,0.001,NA,NA,59,0.029,NA,NA,NA,NA,NA,NA,1980,0.957,NA,NA,28,NA,NA,NA,NA,0.014,county
+meae.congressional.congress19.vt.county,vts_washington,50023,5,3,0.002,NA,NA,823,0.523,NA,NA,NA,NA,NA,NA,735,0.467,NA,NA,13,NA,NA,NA,NA,0.008,county
+meae.congressional.congress19.vt.county,vts_windham,50025,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress19.vt.county,vts_windsor,50027,3,771,0.246,NA,NA,2326,0.741,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,43,NA,NA,NA,NA,0.014,county

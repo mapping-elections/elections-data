@@ -1,0 +1,3 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress12.de.county,de.uscongress.1810,Henry M. Ridgely,RH0001,At-large,Federalist,3634,7251,0.501,TRUE,FALSE
+meae.congressional.congress12.de.county,de.uscongress.1810,Richard C. Dale,DR0001,At-large,Democratic-Republican,3617,7251,0.499,FALSE,FALSE

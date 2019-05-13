@@ -1,0 +1,4 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress16.ri.county,ri.uscongress.1818,Samuel Eddy,ES0042,At-large,Democratic-Republican,1945,3865,0.503,TRUE,FALSE
+meae.congressional.congress16.ri.county,ri.uscongress.1818,Nathaniel Hazard,HN0066,At-large,Democratic-Republican,1909,3865,0.494,TRUE,FALSE
+meae.congressional.congress16.ri.county,ri.uscongress.1818,scattering,NA,At-large,NA,11,3865,0.003,FALSE,FALSE

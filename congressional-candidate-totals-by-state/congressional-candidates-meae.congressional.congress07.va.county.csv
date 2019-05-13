@@ -1,0 +1,42 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress07.va.county,va.uscongress.1.1801,John Smith,SJ1530,1,Democratic-Republican,783,1321,0.593,TRUE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.1.1801,Philip C. Pendleton,PP0046,1,Federalist,538,1321,0.407,FALSE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.10.1801,Edwin Gray,GE0059,10,Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.10.1801,Nicholas Faulcon,FN0034,10,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.11.1801,"Thomas Newton, Jr.",NT0024,11,Democratic-Republican,905,967,0.936,TRUE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.11.1801,John Niveson,NJ0182,11,Federalist,55,967,0.057,FALSE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.11.1801,Josiah Parker,PJ0725,11,Federalist,7,967,0.007,FALSE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.12.1801,John Stratton,SJ1478,12,Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.12.1801,John Page,PJ0728,12,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.13.1801,John Clopton,CJ1097,13,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.13.1801,Samuel Tyler,TS0114,13,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.14.1801,Samuel J. Cabell,CS0229,14,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress07.va.county,va.uscongress.15.1801,John Dawson,DJ0582,15,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.15.1801,John Mercer,MJ0201,15,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.16.1801,Anthony New,NA0009,16,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.16.1801,Carter Braxton,BC0134,16,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.16.1801,James M. Garnett,GJ0658,16,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.16.1801,Tunstall Banks,BT0259,16,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.16.1801,Andrew Monroe,MA0280,16,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.16.1801,Richard Banks,BR0154,16,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.16.1801,Archibald Petetrie,PA0122,16,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.17.1801,Richard Brent,BR0163,17,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.17.1801,Leven Powell,PL0031,17,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.17.1801,Joseph Lane,LJ0552,17,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.17.1801,Samuel Clapham,CS0236,17,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.18.1801,Philip Rootes Thompson,TP0042,18,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.18.1801,John Blackwell,BJ1448,18,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.19.1801,"John Taliaferro, Jr.",TJ0538,19,Democratic-Republican,710,1127,0.63,TRUE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.19.1801,John Taylor,TJ0589,19,Federalist,417,1127,0.37,FALSE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.2.1801,David Holmes,HD0041,2,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.2.1801,Alexander Sinclair,SA0280,2,Federalist,205,NA,NA,FALSE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.3.1801,George Jackson,JG0032,3,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.3.1801,Jonathan J. Jacobs,JJ0284,3,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.3.1801,Skidmore,NA,3,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.4.1801,Abraham Trigg,TA0080,4,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress07.va.county,va.uscongress.5.1801,John Trigg,TJ0571,5,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress07.va.county,va.uscongress.6.1801,Matthew Clay,CM0108,6,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress07.va.county,va.uscongress.7.1801,John Randolph,RJ0610,7,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.7.1801,Abraham Venable,VA0029,7,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress07.va.county,va.uscongress.8.1801,Thomas Claiborne,CT0181,8,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress07.va.county,va.uscongress.9.1801,William B. Giles,GW0186,9,Democratic-Republican,NA,0,NA,TRUE,TRUE

@@ -1,0 +1,28 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress19.tn.county,tn.congress.1st.1825,John Blair,BJ1418,1,Jacksonian,3613,6961,0.519,TRUE,FALSE
+meae.congressional.congress19.tn.county,tn.congress.1st.1825,John Tipton,TJ0594,1,NA,3348,6961,0.481,FALSE,FALSE
+meae.congressional.congress19.tn.county,tn.congress.2nd.1825,John Cocke,CJ1064,2,Jacksonian,4770,8113,0.588,TRUE,FALSE
+meae.congressional.congress19.tn.county,tn.congress.2nd.1825,Thomas D. Arnold,AT0047,2,NA,3343,8113,0.412,FALSE,FALSE
+meae.congressional.congress19.tn.county,tn.congress.3rd.1825,James C. Mitchell,MJ1383,3,Jacksonian,4332,8125,0.533,TRUE,FALSE
+meae.congressional.congress19.tn.county,tn.congress.3rd.1825,James Standifer,SJ0195,3,Jacksonian,3793,8125,0.467,FALSE,FALSE
+meae.congressional.congress19.tn.county,tn.congress.4th.1825,Jacob C. Isacks,IJ0062,4,Jacksonian,3406,3406,1,TRUE,TRUE
+meae.congressional.congress19.tn.county,tn.congress.5th.1825,Robert Allen,AR0060,5,Jacksonian,NA,0,NA,TRUE,TRUE
+meae.congressional.congress19.tn.county,tn.congress.6th.1825,James K. Polk,PJ0736,6,Jacksonian,3659,10361,0.353,TRUE,FALSE
+meae.congressional.congress19.tn.county,tn.congress.6th.1825,Andrew Erwin,EA0049,6,NA,2742,10361,0.265,FALSE,FALSE
+meae.congressional.congress19.tn.county,tn.congress.6th.1825,Lunsford M. Bramlett,BL0071,6,NA,2347,10361,0.227,FALSE,FALSE
+meae.congressional.congress19.tn.county,tn.congress.6th.1825,James Sandford,SJ1542,6,Jacksonian,1508,10361,0.146,FALSE,FALSE
+meae.congressional.congress19.tn.county,tn.congress.6th.1825,Francis Willis,WF0038,6,NA,105,10361,0.01,FALSE,FALSE
+meae.congressional.congress19.tn.county,tn.congress.7th.1825,Samuel Houston,HS0248,7,Jacksonian,5684,6704,0.848,TRUE,FALSE
+meae.congressional.congress19.tn.county,tn.congress.7th.1825,John Bruce,BJ1424,7,NA,1014,6704,0.151,FALSE,FALSE
+meae.congressional.congress19.tn.county,tn.congress.7th.1825,W. T. Crenshaw,CW0016,7,NA,2,6704,0,FALSE,FALSE
+meae.congressional.congress19.tn.county,tn.congress.7th.1825,Felix Grundy,GF0029,7,NA,1,6704,0,FALSE,FALSE
+meae.congressional.congress19.tn.county,tn.congress.7th.1825,W. Tannehill,TW0007,7,NA,1,6704,0,FALSE,FALSE
+meae.congressional.congress19.tn.county,tn.congress.7th.1825,W. H. Brown,BW0461,7,NA,1,6704,0,FALSE,FALSE
+meae.congressional.congress19.tn.county,tn.congress.7th.1825,Philip Wilson,WP0099,7,NA,1,6704,0,FALSE,FALSE
+meae.congressional.congress19.tn.county,tn.congress.8th.1825,John H. Marable,MJ1391,8,Jacksonian,2177,5632,0.387,TRUE,FALSE
+meae.congressional.congress19.tn.county,tn.congress.8th.1825,James B. Reynolds,RJ0680,8,Jacksonian,1922,5632,0.341,FALSE,FALSE
+meae.congressional.congress19.tn.county,tn.congress.8th.1825,Willie Blount,ZZ0003,8,NA,1533,5632,0.272,FALSE,FALSE
+meae.congressional.congress19.tn.county,tn.congress.9th.1825,Adam R. Alexander,AA0061,9,Jacksonian,2865,6819,0.42,TRUE,FALSE
+meae.congressional.congress19.tn.county,tn.congress.9th.1825,David Crockett,CD0202,9,NA,2595,6819,0.381,FALSE,FALSE
+meae.congressional.congress19.tn.county,tn.congress.9th.1825,James Terrell,TJ0068,9,NA,912,6819,0.134,FALSE,FALSE
+meae.congressional.congress19.tn.county,tn.congress.9th.1825,Thomas H. Persons,PT0133,9,NA,447,6819,0.066,FALSE,FALSE

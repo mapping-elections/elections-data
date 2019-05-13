@@ -1,0 +1,4 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress16.al.county,al.congress.1819,John Crowell,CJ0004,At-large,Democratic-Republican,8181,15384,0.532,TRUE,FALSE
+meae.congressional.congress16.al.county,al.congress.1819,Henry Chambers,CH0000,At-large,Democratic-Republican,7203,15384,0.468,FALSE,FALSE
+meae.congressional.congress16.al.county,al.congress.1819,Ringold,NA,At-large,NA,NA,15384,NA,FALSE,FALSE

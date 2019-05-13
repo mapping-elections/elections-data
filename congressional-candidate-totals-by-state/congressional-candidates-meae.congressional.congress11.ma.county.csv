@@ -1,0 +1,102 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress11.ma.county,ma.uscongress.suffolk.1808,Josiah Quincy,QJ0002,1,Federalist,3004,5082,0.591,TRUE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.suffolk.1808,William Jarvis,JW0027,1,Democratic-Republican,2074,5082,0.408,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.suffolk.1808,William Eustis,EW0031,1,Democratic-Republican,2,5082,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.suffolk.1808,Abraham Bigelow,BA0105,1,Federalist,1,5082,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.suffolk.1808,"Thomas Lewis, Jr.",LT0043,1,NA,1,5082,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.essexsouth.1808,"Benjamin Pickman, Jr.",PB0029,2,Federalist,2754,5279,0.522,TRUE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.essexsouth.1808,Daniel Kilham,KD0021,2,Democratic-Republican,2524,5279,0.478,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.essexsouth.1808,Joseph Storey,SJ0394,2,Democratic-Republican,1,5279,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.essexnorth.1808,Edward St. Loe Livermore,LE0034,3,Federalist,2464,3876,0.636,TRUE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.essexnorth.1808,Thomas Kitteridge,KT0032,3,Democratic-Republican,1395,3876,0.36,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.essexnorth.1808,Richard Pike,PR0060,3,NA,10,3876,0.003,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.essexnorth.1808,Asa Andrews,AA0009,3,NA,2,3876,0.001,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.essexnorth.1808,Enoch Titcomb,TE0040,3,Federalist,2,3876,0.001,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.essexnorth.1808,Edward Little,LE0032,3,NA,1,3876,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.essexnorth.1808,Elijah Parish,PE0023,3,NA,1,3876,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.essexnorth.1808,Benjamin Pickman,PB0029,3,Federalist,1,3876,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.middlesex.1808,Joseph B. Varnum,VJ0024,4,Democratic-Republican,2716,4282,0.634,TRUE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.middlesex.1808,Abraham Bigelow,BA0105,4,Federalist,1564,4282,0.365,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.middlesex.1808,Abel Adams,AA0011,4,NA,1,4282,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.middlesex.1808,Timothy Bigelow,BT0122,4,Federalist,1,4282,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.hampshiresouth.1808,William Ely,EW0034,5,Federalist,2161,3272,0.66,TRUE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.hampshiresouth.1808,Samuel Fowler,FS0045,5,Democratic-Republican,1109,3272,0.339,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.hampshiresouth.1808,Eli P. Ashman,AE0016,5,Federalist,1,3272,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.hampshiresouth.1808,Jonathan Smith,SJ0396,5,Democratic-Republican,1,3272,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.hampshirenorth.1808,Samuel Taggart,TS0046,6,Federalist,2062,3015,0.684,TRUE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.hampshirenorth.1808,Solomon Snead,SS0117,6,Democratic-Republican,949,3015,0.315,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.hampshirenorth.1808,Isaac Abercrombie,AI0011,6,NA,1,3015,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.hampshirenorth.1808,Elijah Barnard,BE0038,6,NA,1,3015,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.hampshirenorth.1808,Benjamin Smith,SB0037,6,Democratic-Republican,1,3015,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.hampshirenorth.1808,Stephen Webster,WS0058,6,NA,1,3015,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.plymouth.1808,"Charles Turner, Jr.",TC0016,7,Democratic-Republican,1873,3719,0.504,TRUE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.plymouth.1808,William Baylies,BW0156,7,Federalist,1828,3719,0.492,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.plymouth.1808,Nahum Mitchell,MN0055,7,Federalist,8,3719,0.002,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.plymouth.1808,Seth Sprague,SS0069,7,Democratic-Republican,4,3719,0.001,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.plymouth.1808,Samuel Niles,NS0034,7,NA,3,3719,0.001,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.plymouth.1808,Joseph Barker,BJ0499,7,Democratic-Republican,1,3719,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.plymouth.1808,William Davis,DW0073,7,Federalist,1,3719,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.plymouth.1808,James Thomas,TJ0147,7,NA,1,3719,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.barnstable.1808,Gideon Gardner,GG0013,8,Democratic-Republican,1703,2932,0.581,TRUE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.barnstable.1808,Wendall Davis,DW0062,8,Federalist,1228,2932,0.419,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.barnstable.1808,Benjamin Allen,AB0007,8,Federalist,1,2932,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.bristol.1808,Laban Wheaton,WL0029,9,Federalist,1969,3465,0.568,TRUE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.bristol.1808,Josiah Dean,DJ0177,9,Democratic-Republican,1481,3465,0.427,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.bristol.1808,"Nathaniel Morton, Jr.",MN0044,9,Democratic-Republican,9,3465,0.003,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.bristol.1808,Nathaniel Morton,MN0018,9,NA,4,3465,0.001,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.bristol.1808,Nicholas Tillingart,TN0022,9,Federalist,2,3465,0.001,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.worcestersouth.1808,Jabez Upham,UJ0005,10,Federalist,1927,3550,0.543,TRUE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.worcestersouth.1808,Edward Bangs,BE0170,10,Democratic-Republican,1575,3550,0.444,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.worcestersouth.1808,John Spurr,SJ0384,10,Democratic-Republican,43,3550,0.012,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.worcestersouth.1808,Estes Howe,HE0037,10,Democratic-Republican,2,3550,0.001,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.worcestersouth.1808,Cheny Reed,RC0048,10,NA,1,3550,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.worcestersouth.1808,Joseph Sumner,SJ0407,10,NA,1,3550,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.worcestersouth.1808,Moses White,WM0026,10,Democratic-Republican,1,3550,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.worcesternorth.1808,William Stedman,SW0095,11,Federalist,2315,3546,0.653,TRUE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.worcesternorth.1808,Moses White,WM0026,11,Democratic-Republican,1145,3546,0.323,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.worcesternorth.1808,Abijah Bigelow,BA0106,11,Federalist,62,3546,0.017,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.worcesternorth.1808,Silas Holman,HS0075,11,Federalist,20,3546,0.006,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.worcesternorth.1808,Samuel Bacon,BS0063,11,NA,2,3546,0.001,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.worcesternorth.1808,Abram Bigelow,BA0105,11,NA,1,3546,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.worcesternorth.1808,Jonas Kendall,KJ0066,11,Federalist,1,3546,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.berkshire.1808,Ezekiel Bacon,BE0033,12,Democratic-Republican,2524,4658,0.542,TRUE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.berkshire.1808,John W. Hulbert,HJ0303,12,Federalist,2131,4658,0.457,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.berkshire.1808,Daniel Dewey,DD0043,12,Federalist,2,4658,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.berkshire.1808,Samuel H. Wheeler,WS0085,12,Democratic-Republican,1,4658,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.norfolk.1808,Ebenezer Seaver,SE0023,13,Democratic-Republican,2300,3983,0.577,TRUE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.norfolk.1808,Edward H. Robbins,RE0018,13,Federalist,1676,3983,0.421,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.norfolk.1808,James Richardson,RJ0147,13,Federalist,3,3983,0.001,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.norfolk.1808,John Q. Adams,AJ0043,13,NA,1,3983,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.norfolk.1808,James Bowdoin,BJ0467,13,Democratic-Republican,1,3983,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.norfolk.1808,William Brewer,BW0141,13,NA,1,3983,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.norfolk.1808,Nathaniel Ruggles,RN0012,13,Federalist,1,3983,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.york.1808,Richard Cutts,CR0035,14,Democratic-Republican,2133,4186,0.51,TRUE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.york.1808,Joseph Leland,LJ0105,14,Federalist,2010,4186,0.48,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.york.1808,Joseph Bartlett,BJ0329,14,Democratic-Republican,25,4186,0.006,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.york.1808,John Woodman,WJ0153,14,Democratic-Republican,10,4186,0.002,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.york.1808,Alexander Rice,RA0016,14,Democratic-Republican,6,4186,0.001,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.york.1808,Daniel Granger,GD0030,14,NA,2,4186,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.cumberland.1808,Ezekiel Whitman,WE0022,15,Federalist,2688,5240,0.513,TRUE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.cumberland.1808,Daniel Ilsley,ID0002,15,Democratic-Republican,2540,5240,0.485,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.cumberland.1808,George Bradbury,BG0016,15,Federalist,3,5240,0.001,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.cumberland.1808,Levi Hubbard,HL0012,15,Democratic-Republican,2,5240,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.cumberland.1808,Isaac Ilsley,II0002,15,NA,2,5240,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.cumberland.1808,Lathrop Lewis,LL0049,15,Federalist,2,5240,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.cumberland.1808,Isaac Adams,AI0013,15,NA,1,5240,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.cumberland.1808,Robert H. Smith,SR0067,15,NA,1,5240,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.cumberland.1808,William Wedgery,WW0129,15,Democratic-Republican,1,5240,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.lincoln.1808,Orchard Cook,CO0004,16,Democratic-Republican,2057,4048,0.508,TRUE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.lincoln.1808,Alden Bradford,BA0108,16,Federalist,1942,4048,0.48,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.lincoln.1808,Barzillia Gannett,GB0014,16,Democratic-Republican,39,4048,0.01,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.lincoln.1808,John Farley,FJ0124,16,NA,4,4048,0.001,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.lincoln.1808,Seth Andrews,AS0041,16,NA,1,4048,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.lincoln.1808,Jeremiah Bailey,BJ0503,16,NA,1,4048,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.lincoln.1808,William King,KW0033,16,Democratic-Republican,1,4048,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.lincoln.1808,"Otis Robbins, Jr.",RO0006,16,NA,1,4048,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.lincoln.1808,Daniel Rose,RD0021,16,NA,1,4048,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.lincoln.1808,Thurston Whiting,WT0006,16,NA,1,4048,0,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.kennebec.1808,Barzillai Gannett,GB0014,17,Democratic-Republican,2479,4906,0.505,TRUE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.kennebec.1808,"Thomas Rice, Jr.",RT0039,17,Federalist,2391,4906,0.487,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.kennebec.1808,Josiah Cashman,CJ0322,17,Democratic-Republican,32,4906,0.007,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.kennebec.1808,John Chandler,CJ0020,17,Democratic-Republican,3,4906,0.001,FALSE,FALSE
+meae.congressional.congress11.ma.county,ma.uscongress.kennebec.1808,William King,KW0033,17,Democratic-Republican,1,4906,0,FALSE,FALSE

@@ -1,0 +1,664 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Bradley, William C.",BW0418,Democratic-Republican,1570
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Bradley, William C.",BW0418,Democratic-Republican,1335
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Bradley, William C.",BW0418,Democratic-Republican,1047
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Bradley, William C.",BW0418,Democratic-Republican,1047
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Bradley, William C.",BW0418,Democratic-Republican,218
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Bradley, William C.",BW0418,Democratic-Republican,904
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Bradley, William C.",BW0418,Democratic-Republican,106
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Bradley, William C.",BW0418,Democratic-Republican,963
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Bradley, William C.",BW0418,Democratic-Republican,2052
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Bradley, William C.",BW0418,Democratic-Republican,426
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Bradley, William C.",BW0418,Democratic-Republican,2567
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Bradley, William C.",BW0418,Democratic-Republican,1403
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Bradley, William C.",BW0418,Democratic-Republican,3406
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Brigham, Paul",BP0101,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Brigham, Paul",BP0101,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Brigham, Paul",BP0101,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Brigham, Paul",BP0101,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Brigham, Paul",BP0101,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Brigham, Paul",BP0101,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Brigham, Paul",BP0101,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Brigham, Paul",BP0101,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Brigham, Paul",BP0101,Democratic-Republican,5
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Brigham, Paul",BP0101,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Brigham, Paul",BP0101,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Brigham, Paul",BP0101,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Brigham, Paul",BP0101,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Butler, Ezra",BE0213,Democratic-Republican,1569
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Butler, Ezra",BE0213,Democratic-Republican,1339
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Butler, Ezra",BE0213,Democratic-Republican,1048
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Butler, Ezra",BE0213,Democratic-Republican,1047
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Butler, Ezra",BE0213,Democratic-Republican,218
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Butler, Ezra",BE0213,Democratic-Republican,904
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Butler, Ezra",BE0213,Democratic-Republican,106
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Butler, Ezra",BE0213,Democratic-Republican,959
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Butler, Ezra",BE0213,Democratic-Republican,2050
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Butler, Ezra",BE0213,Democratic-Republican,426
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Butler, Ezra",BE0213,Democratic-Republican,2571
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Butler, Ezra",BE0213,Democratic-Republican,1404
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Butler, Ezra",BE0213,Democratic-Republican,3407
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Dolittle, Joel",DJ0058,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Dolittle, Joel",DJ0058,Democratic-Republican,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Dolittle, Joel",DJ0058,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Dolittle, Joel",DJ0058,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Dolittle, Joel",DJ0058,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Dolittle, Joel",DJ0058,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Dolittle, Joel",DJ0058,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Dolittle, Joel",DJ0058,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Dolittle, Joel",DJ0058,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Dolittle, Joel",DJ0058,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Dolittle, Joel",DJ0058,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Dolittle, Joel",DJ0058,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Dolittle, Joel",DJ0058,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Fisk, James",FJ0462,Democratic-Republican,1571
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Fisk, James",FJ0462,Democratic-Republican,1335
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Fisk, James",FJ0462,Democratic-Republican,1047
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Fisk, James",FJ0462,Democratic-Republican,1047
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Fisk, James",FJ0462,Democratic-Republican,218
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Fisk, James",FJ0462,Democratic-Republican,904
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Fisk, James",FJ0462,Democratic-Republican,106
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Fisk, James",FJ0462,Democratic-Republican,959
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Fisk, James",FJ0462,Democratic-Republican,2054
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Fisk, James",FJ0462,Democratic-Republican,426
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Fisk, James",FJ0462,Democratic-Republican,2571
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Fisk, James",FJ0462,Democratic-Republican,1401
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Fisk, James",FJ0462,Democratic-Republican,3404
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Galusha, Jonas",GJ0613,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Galusha, Jonas",GJ0613,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Galusha, Jonas",GJ0613,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Galusha, Jonas",GJ0613,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Galusha, Jonas",GJ0613,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Galusha, Jonas",GJ0613,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Galusha, Jonas",GJ0613,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Galusha, Jonas",GJ0613,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Galusha, Jonas",GJ0613,Democratic-Republican,4
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Galusha, Jonas",GJ0613,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Galusha, Jonas",GJ0613,Democratic-Republican,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Galusha, Jonas",GJ0613,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Galusha, Jonas",GJ0613,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Leland, Aaron",LA0135,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Leland, Aaron",LA0135,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Leland, Aaron",LA0135,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Leland, Aaron",LA0135,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Leland, Aaron",LA0135,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Leland, Aaron",LA0135,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Leland, Aaron",LA0135,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Leland, Aaron",LA0135,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Leland, Aaron",LA0135,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Leland, Aaron",LA0135,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Leland, Aaron",LA0135,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Leland, Aaron",LA0135,Democratic-Republican,2
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Leland, Aaron",LA0135,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Rankin, Christopher",RC0058,Democratic-Republican,1560
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Rankin, Christopher",RC0058,Democratic-Republican,1338
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Rankin, Christopher",RC0058,Democratic-Republican,1047
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Rankin, Christopher",RC0058,Democratic-Republican,1046
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Rankin, Christopher",RC0058,Democratic-Republican,218
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Rankin, Christopher",RC0058,Democratic-Republican,904
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Rankin, Christopher",RC0058,Democratic-Republican,106
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Rankin, Christopher",RC0058,Democratic-Republican,963
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Rankin, Christopher",RC0058,Democratic-Republican,2048
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Rankin, Christopher",RC0058,Democratic-Republican,424
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Rankin, Christopher",RC0058,Democratic-Republican,2569
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Rankin, Christopher",RC0058,Democratic-Republican,1402
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Rankin, Christopher",RC0058,Democratic-Republican,3406
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Seymour, Horatio",SH0191,Democratic-Republican,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Seymour, Horatio",SH0191,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Seymour, Horatio",SH0191,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Seymour, Horatio",SH0191,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Seymour, Horatio",SH0191,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Seymour, Horatio",SH0191,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Seymour, Horatio",SH0191,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Seymour, Horatio",SH0191,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Seymour, Horatio",SH0191,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Seymour, Horatio",SH0191,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Seymour, Horatio",SH0191,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Seymour, Horatio",SH0191,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Seymour, Horatio",SH0191,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Skinner, Richard",SR0206,Democratic-Republican,1569
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Skinner, Richard",SR0206,Democratic-Republican,1337
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Skinner, Richard",SR0206,Democratic-Republican,1047
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Skinner, Richard",SR0206,Democratic-Republican,1047
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Skinner, Richard",SR0206,Democratic-Republican,218
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Skinner, Richard",SR0206,Democratic-Republican,905
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Skinner, Richard",SR0206,Democratic-Republican,106
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Skinner, Richard",SR0206,Democratic-Republican,962
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Skinner, Richard",SR0206,Democratic-Republican,2054
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Skinner, Richard",SR0206,Democratic-Republican,426
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Skinner, Richard",SR0206,Democratic-Republican,2568
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Skinner, Richard",SR0206,Democratic-Republican,1403
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Skinner, Richard",SR0206,Democratic-Republican,3405
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Strong, William",SW0343,Democratic-Republican,1571
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Strong, William",SW0343,Democratic-Republican,1335
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Strong, William",SW0343,Democratic-Republican,1043
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Strong, William",SW0343,Democratic-Republican,1047
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Strong, William",SW0343,Democratic-Republican,218
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Strong, William",SW0343,Democratic-Republican,904
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Strong, William",SW0343,Democratic-Republican,106
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Strong, William",SW0343,Democratic-Republican,963
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Strong, William",SW0343,Democratic-Republican,2053
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Strong, William",SW0343,Democratic-Republican,426
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Strong, William",SW0343,Democratic-Republican,2567
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Strong, William",SW0343,Democratic-Republican,1399
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Strong, William",SW0343,Democratic-Republican,3408
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Swan, Benjamin",SB0024,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Swan, Benjamin",SB0024,Democratic-Republican,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Swan, Benjamin",SB0024,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Swan, Benjamin",SB0024,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Swan, Benjamin",SB0024,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Swan, Benjamin",SB0024,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Swan, Benjamin",SB0024,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Swan, Benjamin",SB0024,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Swan, Benjamin",SB0024,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Swan, Benjamin",SB0024,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Swan, Benjamin",SB0024,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Swan, Benjamin",SB0024,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Swan, Benjamin",SB0024,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Tarbox, James",TJ0420,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Tarbox, James",TJ0420,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Tarbox, James",TJ0420,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Tarbox, James",TJ0420,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Tarbox, James",TJ0420,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Tarbox, James",TJ0420,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Tarbox, James",TJ0420,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Tarbox, James",TJ0420,Democratic-Republican,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Tarbox, James",TJ0420,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Tarbox, James",TJ0420,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Tarbox, James",TJ0420,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Tarbox, James",TJ0420,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Tarbox, James",TJ0420,Democratic-Republican,2
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Woodworth, Joseph",WJ0784,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Woodworth, Joseph",WJ0784,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Woodworth, Joseph",WJ0784,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Woodworth, Joseph",WJ0784,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Woodworth, Joseph",WJ0784,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Woodworth, Joseph",WJ0784,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Woodworth, Joseph",WJ0784,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Woodworth, Joseph",WJ0784,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Woodworth, Joseph",WJ0784,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Woodworth, Joseph",WJ0784,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Woodworth, Joseph",WJ0784,Democratic-Republican,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Woodworth, Joseph",WJ0784,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Woodworth, Joseph",WJ0784,Democratic-Republican,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Bayless, Nicholas",BN0078,Federalist,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Bayless, Nicholas",BN0078,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Bayless, Nicholas",BN0078,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Bayless, Nicholas",BN0078,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Bayless, Nicholas",BN0078,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Bayless, Nicholas",BN0078,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Bayless, Nicholas",BN0078,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Bayless, Nicholas",BN0078,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Bayless, Nicholas",BN0078,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Bayless, Nicholas",BN0078,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Bayless, Nicholas",BN0078,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Bayless, Nicholas",BN0078,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Bayless, Nicholas",BN0078,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Chamberlain, William",CW0352,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Chamberlain, William",CW0352,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Chamberlain, William",CW0352,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Chamberlain, William",CW0352,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Chamberlain, William",CW0352,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Chamberlain, William",CW0352,Federalist,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Chamberlain, William",CW0352,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Chamberlain, William",CW0352,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Chamberlain, William",CW0352,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Chamberlain, William",CW0352,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Chamberlain, William",CW0352,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Chamberlain, William",CW0352,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Chamberlain, William",CW0352,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Chipman, Daniel",CD0204,Federalist,1825
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Chipman, Daniel",CD0204,Federalist,1199
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Chipman, Daniel",CD0204,Federalist,1139
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Chipman, Daniel",CD0204,Federalist,1481
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Chipman, Daniel",CD0204,Federalist,249
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Chipman, Daniel",CD0204,Federalist,1511
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Chipman, Daniel",CD0204,Federalist,322
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Chipman, Daniel",CD0204,Federalist,898
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Chipman, Daniel",CD0204,Federalist,1477
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Chipman, Daniel",CD0204,Federalist,575
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Chipman, Daniel",CD0204,Federalist,1988
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Chipman, Daniel",CD0204,Federalist,2971
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Chipman, Daniel",CD0204,Federalist,2159
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Dana, Daniel",DD0041,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Dana, Daniel",DD0041,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Dana, Daniel",DD0041,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Dana, Daniel",DD0041,Federalist,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Dana, Daniel",DD0041,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Dana, Daniel",DD0041,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Dana, Daniel",DD0041,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Dana, Daniel",DD0041,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Dana, Daniel",DD0041,Federalist,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Dana, Daniel",DD0041,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Dana, Daniel",DD0041,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Dana, Daniel",DD0041,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Dana, Daniel",DD0041,Federalist,2
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Hall, William",HW0333,Federalist,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Hall, William",HW0333,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Hall, William",HW0333,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Hall, William",HW0333,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Hall, William",HW0333,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Hall, William",HW0333,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Hall, William",HW0333,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Hall, William",HW0333,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Hall, William",HW0333,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Hall, William",HW0333,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Hall, William",HW0333,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Hall, William",HW0333,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Hall, William",HW0333,Federalist,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Jewitt, Luther",JL0015,Federalist,1822
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Jewitt, Luther",JL0015,Federalist,1202
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Jewitt, Luther",JL0015,Federalist,1132
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Jewitt, Luther",JL0015,Federalist,1482
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Jewitt, Luther",JL0015,Federalist,249
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Jewitt, Luther",JL0015,Federalist,1510
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Jewitt, Luther",JL0015,Federalist,322
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Jewitt, Luther",JL0015,Federalist,897
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Jewitt, Luther",JL0015,Federalist,1476
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Jewitt, Luther",JL0015,Federalist,575
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Jewitt, Luther",JL0015,Federalist,1985
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Jewitt, Luther",JL0015,Federalist,2970
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Jewitt, Luther",JL0015,Federalist,2162
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Langdon, Chauncey",LC0074,Federalist,1823
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Langdon, Chauncey",LC0074,Federalist,1201
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Langdon, Chauncey",LC0074,Federalist,1143
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Langdon, Chauncey",LC0074,Federalist,1482
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Langdon, Chauncey",LC0074,Federalist,249
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Langdon, Chauncey",LC0074,Federalist,1510
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Langdon, Chauncey",LC0074,Federalist,322
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Langdon, Chauncey",LC0074,Federalist,897
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Langdon, Chauncey",LC0074,Federalist,1478
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Langdon, Chauncey",LC0074,Federalist,575
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Langdon, Chauncey",LC0074,Federalist,1990
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Langdon, Chauncey",LC0074,Federalist,2971
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Langdon, Chauncey",LC0074,Federalist,2164
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Lyon, Asa",LA0126,Federalist,1826
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Lyon, Asa",LA0126,Federalist,1201
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Lyon, Asa",LA0126,Federalist,1139
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Lyon, Asa",LA0126,Federalist,1480
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Lyon, Asa",LA0126,Federalist,249
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Lyon, Asa",LA0126,Federalist,1510
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Lyon, Asa",LA0126,Federalist,321
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Lyon, Asa",LA0126,Federalist,897
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Lyon, Asa",LA0126,Federalist,1480
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Lyon, Asa",LA0126,Federalist,575
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Lyon, Asa",LA0126,Federalist,1989
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Lyon, Asa",LA0126,Federalist,2966
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Lyon, Asa",LA0126,Federalist,2163
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Marsh, Charles",MC0079,Federalist,1820
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Marsh, Charles",MC0079,Federalist,1202
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Marsh, Charles",MC0079,Federalist,1140
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Marsh, Charles",MC0079,Federalist,1482
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Marsh, Charles",MC0079,Federalist,249
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Marsh, Charles",MC0079,Federalist,1511
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Marsh, Charles",MC0079,Federalist,322
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Marsh, Charles",MC0079,Federalist,898
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Marsh, Charles",MC0079,Federalist,1479
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Marsh, Charles",MC0079,Federalist,575
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Marsh, Charles",MC0079,Federalist,1984
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Marsh, Charles",MC0079,Federalist,2970
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Marsh, Charles",MC0079,Federalist,2164
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Noyes, John",NJ0168,Federalist,1824
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Noyes, John",NJ0168,Federalist,1202
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Noyes, John",NJ0168,Federalist,1138
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Noyes, John",NJ0168,Federalist,1482
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Noyes, John",NJ0168,Federalist,250
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Noyes, John",NJ0168,Federalist,1509
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Noyes, John",NJ0168,Federalist,322
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Noyes, John",NJ0168,Federalist,897
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Noyes, John",NJ0168,Federalist,1476
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Noyes, John",NJ0168,Federalist,575
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Noyes, John",NJ0168,Federalist,1986
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Noyes, John",NJ0168,Federalist,2967
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Noyes, John",NJ0168,Federalist,2162
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Aaron, Asa",AA0039,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Aaron, Asa",AA0039,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Aaron, Asa",AA0039,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Aaron, Asa",AA0039,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Aaron, Asa",AA0039,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Aaron, Asa",AA0039,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Aaron, Asa",AA0039,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Aaron, Asa",AA0039,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Aaron, Asa",AA0039,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Aaron, Asa",AA0039,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Aaron, Asa",AA0039,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Aaron, Asa",AA0039,NA,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Aaron, Asa",AA0039,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Adams, John",AJ0227,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Adams, John",AJ0227,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Adams, John",AJ0227,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Adams, John",AJ0227,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Adams, John",AJ0227,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Adams, John",AJ0227,NA,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Adams, John",AJ0227,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Adams, John",AJ0227,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Adams, John",AJ0227,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Adams, John",AJ0227,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Adams, John",AJ0227,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Adams, John",AJ0227,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Adams, John",AJ0227,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Barnard, Levi",BL0003,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Barnard, Levi",BL0003,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Barnard, Levi",BL0003,NA,3
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Barnard, Levi",BL0003,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Barnard, Levi",BL0003,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Barnard, Levi",BL0003,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Barnard, Levi",BL0003,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Barnard, Levi",BL0003,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Barnard, Levi",BL0003,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Barnard, Levi",BL0003,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Barnard, Levi",BL0003,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Barnard, Levi",BL0003,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Barnard, Levi",BL0003,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Bliss, Ezra",BE0121,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Bliss, Ezra",BE0121,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Bliss, Ezra",BE0121,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Bliss, Ezra",BE0121,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Bliss, Ezra",BE0121,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Bliss, Ezra",BE0121,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Bliss, Ezra",BE0121,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Bliss, Ezra",BE0121,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Bliss, Ezra",BE0121,NA,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Bliss, Ezra",BE0121,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Bliss, Ezra",BE0121,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Bliss, Ezra",BE0121,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Bliss, Ezra",BE0121,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Butler, Joel",BJ1122,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Butler, Joel",BJ1122,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Butler, Joel",BJ1122,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Butler, Joel",BJ1122,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Butler, Joel",BJ1122,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Butler, Joel",BJ1122,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Butler, Joel",BJ1122,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Butler, Joel",BJ1122,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Butler, Joel",BJ1122,NA,2
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Butler, Joel",BJ1122,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Butler, Joel",BJ1122,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Butler, Joel",BJ1122,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Butler, Joel",BJ1122,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Chandler, John W.",CJ0762,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Chandler, John W.",CJ0762,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Chandler, John W.",CJ0762,NA,2
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Chandler, John W.",CJ0762,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Chandler, John W.",CJ0762,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Chandler, John W.",CJ0762,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Chandler, John W.",CJ0762,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Chandler, John W.",CJ0762,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Chandler, John W.",CJ0762,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Chandler, John W.",CJ0762,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Chandler, John W.",CJ0762,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Chandler, John W.",CJ0762,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Chandler, John W.",CJ0762,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Chandler, William",CW0281,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Chandler, William",CW0281,NA,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Chandler, William",CW0281,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Chandler, William",CW0281,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Chandler, William",CW0281,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Chandler, William",CW0281,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Chandler, William",CW0281,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Chandler, William",CW0281,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Chandler, William",CW0281,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Chandler, William",CW0281,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Chandler, William",CW0281,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Chandler, William",CW0281,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Chandler, William",CW0281,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Chase, Dudley",CD0206,NA,2
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Chase, Dudley",CD0206,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Chase, Dudley",CD0206,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Chase, Dudley",CD0206,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Chase, Dudley",CD0206,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Chase, Dudley",CD0206,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Chase, Dudley",CD0206,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Chase, Dudley",CD0206,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Chase, Dudley",CD0206,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Chase, Dudley",CD0206,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Chase, Dudley",CD0206,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Chase, Dudley",CD0206,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Chase, Dudley",CD0206,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Eaton, Asa",EA0062,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Eaton, Asa",EA0062,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Eaton, Asa",EA0062,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Eaton, Asa",EA0062,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Eaton, Asa",EA0062,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Eaton, Asa",EA0062,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Eaton, Asa",EA0062,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Eaton, Asa",EA0062,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Eaton, Asa",EA0062,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Eaton, Asa",EA0062,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Eaton, Asa",EA0062,NA,2
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Eaton, Asa",EA0062,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Eaton, Asa",EA0062,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Elliot, Samuel",ES0058,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Elliot, Samuel",ES0058,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Elliot, Samuel",ES0058,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Elliot, Samuel",ES0058,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Elliot, Samuel",ES0058,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Elliot, Samuel",ES0058,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Elliot, Samuel",ES0058,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Elliot, Samuel",ES0058,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Elliot, Samuel",ES0058,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Elliot, Samuel",ES0058,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Elliot, Samuel",ES0058,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Elliot, Samuel",ES0058,NA,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Elliot, Samuel",ES0058,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Griswold, William A.",GW0183,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Griswold, William A.",GW0183,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Griswold, William A.",GW0183,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Griswold, William A.",GW0183,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Griswold, William A.",GW0183,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Griswold, William A.",GW0183,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Griswold, William A.",GW0183,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Griswold, William A.",GW0183,NA,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Griswold, William A.",GW0183,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Griswold, William A.",GW0183,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Griswold, William A.",GW0183,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Griswold, William A.",GW0183,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Griswold, William A.",GW0183,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Hendell, Norman",HN0077,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Hendell, Norman",HN0077,NA,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Hendell, Norman",HN0077,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Hendell, Norman",HN0077,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Hendell, Norman",HN0077,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Hendell, Norman",HN0077,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Hendell, Norman",HN0077,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Hendell, Norman",HN0077,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Hendell, Norman",HN0077,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Hendell, Norman",HN0077,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Hendell, Norman",HN0077,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Hendell, Norman",HN0077,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Hendell, Norman",HN0077,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Hutchinson, Titus",HT0218,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Hutchinson, Titus",HT0218,NA,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Hutchinson, Titus",HT0218,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Hutchinson, Titus",HT0218,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Hutchinson, Titus",HT0218,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Hutchinson, Titus",HT0218,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Hutchinson, Titus",HT0218,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Hutchinson, Titus",HT0218,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Hutchinson, Titus",HT0218,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Hutchinson, Titus",HT0218,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Hutchinson, Titus",HT0218,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Hutchinson, Titus",HT0218,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Hutchinson, Titus",HT0218,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Marsh, Daniel",MD0165,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Marsh, Daniel",MD0165,NA,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Marsh, Daniel",MD0165,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Marsh, Daniel",MD0165,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Marsh, Daniel",MD0165,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Marsh, Daniel",MD0165,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Marsh, Daniel",MD0165,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Marsh, Daniel",MD0165,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Marsh, Daniel",MD0165,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Marsh, Daniel",MD0165,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Marsh, Daniel",MD0165,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Marsh, Daniel",MD0165,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Marsh, Daniel",MD0165,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Nichols, Isaac, Jr.",NI0016,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Nichols, Isaac, Jr.",NI0016,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Nichols, Isaac, Jr.",NI0016,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Nichols, Isaac, Jr.",NI0016,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Nichols, Isaac, Jr.",NI0016,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Nichols, Isaac, Jr.",NI0016,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Nichols, Isaac, Jr.",NI0016,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Nichols, Isaac, Jr.",NI0016,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Nichols, Isaac, Jr.",NI0016,NA,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Nichols, Isaac, Jr.",NI0016,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Nichols, Isaac, Jr.",NI0016,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Nichols, Isaac, Jr.",NI0016,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Nichols, Isaac, Jr.",NI0016,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Norton, Daniel",ND0017,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Norton, Daniel",ND0017,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Norton, Daniel",ND0017,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Norton, Daniel",ND0017,NA,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Norton, Daniel",ND0017,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Norton, Daniel",ND0017,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Norton, Daniel",ND0017,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Norton, Daniel",ND0017,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Norton, Daniel",ND0017,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Norton, Daniel",ND0017,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Norton, Daniel",ND0017,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Norton, Daniel",ND0017,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Norton, Daniel",ND0017,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Pearson, Samuel",PS0183,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Pearson, Samuel",PS0183,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Pearson, Samuel",PS0183,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Pearson, Samuel",PS0183,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Pearson, Samuel",PS0183,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Pearson, Samuel",PS0183,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Pearson, Samuel",PS0183,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Pearson, Samuel",PS0183,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Pearson, Samuel",PS0183,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Pearson, Samuel",PS0183,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Pearson, Samuel",PS0183,NA,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Pearson, Samuel",PS0183,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Pearson, Samuel",PS0183,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Robinson, George",RG0006,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Robinson, George",RG0006,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Robinson, George",RG0006,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Robinson, George",RG0006,NA,2
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Robinson, George",RG0006,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Robinson, George",RG0006,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Robinson, George",RG0006,NA,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Robinson, George",RG0006,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Robinson, George",RG0006,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Robinson, George",RG0006,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Robinson, George",RG0006,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Robinson, George",RG0006,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Robinson, George",RG0006,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Robinson, Nathan",RN0000,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Robinson, Nathan",RN0000,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Robinson, Nathan",RN0000,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Robinson, Nathan",RN0000,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Robinson, Nathan",RN0000,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Robinson, Nathan",RN0000,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Robinson, Nathan",RN0000,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Robinson, Nathan",RN0000,NA,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Robinson, Nathan",RN0000,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Robinson, Nathan",RN0000,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Robinson, Nathan",RN0000,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Robinson, Nathan",RN0000,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Robinson, Nathan",RN0000,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Skinner, Benjamin",SB0111,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Skinner, Benjamin",SB0111,NA,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Skinner, Benjamin",SB0111,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Skinner, Benjamin",SB0111,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Skinner, Benjamin",SB0111,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Skinner, Benjamin",SB0111,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Skinner, Benjamin",SB0111,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Skinner, Benjamin",SB0111,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Skinner, Benjamin",SB0111,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Skinner, Benjamin",SB0111,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Skinner, Benjamin",SB0111,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Skinner, Benjamin",SB0111,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Skinner, Benjamin",SB0111,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Skinner, William",SW0371,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Skinner, William",SW0371,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Skinner, William",SW0371,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Skinner, William",SW0371,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Skinner, William",SW0371,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Skinner, William",SW0371,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Skinner, William",SW0371,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Skinner, William",SW0371,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Skinner, William",SW0371,NA,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Skinner, William",SW0371,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Skinner, William",SW0371,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Skinner, William",SW0371,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Skinner, William",SW0371,NA,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Smith, Richard L.",SR0139,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Smith, Richard L.",SR0139,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Smith, Richard L.",SR0139,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Smith, Richard L.",SR0139,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Smith, Richard L.",SR0139,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Smith, Richard L.",SR0139,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Smith, Richard L.",SR0139,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Smith, Richard L.",SR0139,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Smith, Richard L.",SR0139,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Smith, Richard L.",SR0139,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Smith, Richard L.",SR0139,NA,3
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Smith, Richard L.",SR0139,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Smith, Richard L.",SR0139,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Strong, James",SJ1145,NA,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Strong, James",SJ1145,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Strong, James",SJ1145,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Strong, James",SJ1145,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Strong, James",SJ1145,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Strong, James",SJ1145,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Strong, James",SJ1145,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Strong, James",SJ1145,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Strong, James",SJ1145,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Strong, James",SJ1145,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Strong, James",SJ1145,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Strong, James",SJ1145,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Strong, James",SJ1145,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Strong, Richard",SR0138,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Strong, Richard",SR0138,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Strong, Richard",SR0138,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Strong, Richard",SR0138,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Strong, Richard",SR0138,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Strong, Richard",SR0138,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Strong, Richard",SR0138,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Strong, Richard",SR0138,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Strong, Richard",SR0138,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Strong, Richard",SR0138,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Strong, Richard",SR0138,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Strong, Richard",SR0138,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Strong, Richard",SR0138,NA,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Temple, Robert",TR0066,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Temple, Robert",TR0066,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Temple, Robert",TR0066,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Temple, Robert",TR0066,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Temple, Robert",TR0066,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Temple, Robert",TR0066,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Temple, Robert",TR0066,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Temple, Robert",TR0066,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Temple, Robert",TR0066,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Temple, Robert",TR0066,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Temple, Robert",TR0066,NA,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Temple, Robert",TR0066,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Temple, Robert",TR0066,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Whippler, Oliver",WO0021,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Whippler, Oliver",WO0021,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Whippler, Oliver",WO0021,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Whippler, Oliver",WO0021,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Whippler, Oliver",WO0021,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Whippler, Oliver",WO0021,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Whippler, Oliver",WO0021,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Whippler, Oliver",WO0021,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Whippler, Oliver",WO0021,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Whippler, Oliver",WO0021,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Whippler, Oliver",WO0021,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Whippler, Oliver",WO0021,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Whippler, Oliver",WO0021,NA,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Addison,vts_addison,50001,"Whitelaw, James",WJ0968,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Bennington,vts_bennington,50003,"Whitelaw, James",WJ0968,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Caledonia,vts_caledonia,50005,"Whitelaw, James",WJ0968,NA,1
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Chittenden,vts_chittenden,50007,"Whitelaw, James",WJ0968,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Essex,vts_essex,50009,"Whitelaw, James",WJ0968,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Franklin,vts_franklin,50011,"Whitelaw, James",WJ0968,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Grande Isle,vts_grandisle,50013,"Whitelaw, James",WJ0968,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Jefferson,vts_washington,50023,"Whitelaw, James",WJ0968,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orange,vts_orange,50017,"Whitelaw, James",WJ0968,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Orleans,vts_orleans,50019,"Whitelaw, James",WJ0968,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Rutland,vts_rutland,50021,"Whitelaw, James",WJ0968,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windham,vts_windham,50025,"Whitelaw, James",WJ0968,NA,0
+meae.congressional.congress14.vt.county,congressional,14,VT,county,state,vt.uscongress.1814,Windsor,vts_windsor,50027,"Whitelaw, James",WJ0968,NA,0

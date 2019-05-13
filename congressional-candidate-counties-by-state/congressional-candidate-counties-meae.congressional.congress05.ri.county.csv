@@ -1,0 +1,19 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress05.ri.county,congressional,5,RI,county,state,ri.uscongress.secondcongressmen.1796,Bristol,ris_bristol,44001,"Champlin, Christopher G.",CC0006,Federalist,252
+meae.congressional.congress05.ri.county,congressional,5,RI,county,state,ri.uscongress.secondcongressmen.1796,Kent,ris_kent,44003,"Champlin, Christopher G.",CC0006,Federalist,33
+meae.congressional.congress05.ri.county,congressional,5,RI,county,state,ri.uscongress.secondcongressmen.1796,Newport,ris_newport,44005,"Champlin, Christopher G.",CC0006,Federalist,759
+meae.congressional.congress05.ri.county,congressional,5,RI,county,state,ri.uscongress.secondcongressmen.1796,Providence,ris_providence,44007,"Champlin, Christopher G.",CC0006,Federalist,331
+meae.congressional.congress05.ri.county,congressional,5,RI,county,state,ri.uscongress.secondcongressmen.1796,Washington,ris_washington,44009,"Champlin, Christopher G.",CC0006,Federalist,540
+meae.congressional.congress05.ri.county,congressional,5,RI,county,state,ri.uscongress.secondcongressmen.1796,Bristol,ris_bristol,44001,"Greene, William",GW0161,Federalist,1
+meae.congressional.congress05.ri.county,congressional,5,RI,county,state,ri.uscongress.secondcongressmen.1796,Kent,ris_kent,44003,"Greene, William",GW0161,Federalist,577
+meae.congressional.congress05.ri.county,congressional,5,RI,county,state,ri.uscongress.secondcongressmen.1796,Newport,ris_newport,44005,"Greene, William",GW0161,Federalist,48
+meae.congressional.congress05.ri.county,congressional,5,RI,county,state,ri.uscongress.secondcongressmen.1796,Providence,ris_providence,44007,"Greene, William",GW0161,Federalist,980
+meae.congressional.congress05.ri.county,congressional,5,RI,county,state,ri.uscongress.secondcongressmen.1796,Washington,ris_washington,44009,"Greene, William",GW0161,Federalist,195
+meae.congressional.congress05.ri.county,congressional,5,RI,county,state,ri.uscongress.secondcongressmen.1796,Providence,ris_providence,44007,NA,Other candidates,NA,7
+meae.congressional.congress05.ri.county,congressional,5,RI,county,state,ri.uscongress.firstcongressmen.1796,Bristol,ris_bristol,44001,"Bourne, Benjamin",BB0013,Federalist,251
+meae.congressional.congress05.ri.county,congressional,5,RI,county,state,ri.uscongress.firstcongressmen.1796,Kent,ris_kent,44003,"Bourne, Benjamin",BB0013,Federalist,611
+meae.congressional.congress05.ri.county,congressional,5,RI,county,state,ri.uscongress.firstcongressmen.1796,Newport,ris_newport,44005,"Bourne, Benjamin",BB0013,Federalist,789
+meae.congressional.congress05.ri.county,congressional,5,RI,county,state,ri.uscongress.firstcongressmen.1796,Providence,ris_providence,44007,"Bourne, Benjamin",BB0013,Federalist,1322
+meae.congressional.congress05.ri.county,congressional,5,RI,county,state,ri.uscongress.firstcongressmen.1796,Washington,ris_washington,44009,"Bourne, Benjamin",BB0013,Federalist,734
+meae.congressional.congress05.ri.county,congressional,5,RI,county,state,ri.uscongress.firstcongressmen.1796,Newport,ris_newport,44005,NA,Other candidates,NA,1
+meae.congressional.congress05.ri.county,congressional,5,RI,county,state,ri.uscongress.firstcongressmen.1796,Washington,ris_washington,44009,NA,Other candidates,NA,2

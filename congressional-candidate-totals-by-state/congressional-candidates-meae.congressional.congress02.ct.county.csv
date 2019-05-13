@@ -1,0 +1,13 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress02.ct.county,ct.congress.1790,Roger Sherman,SR0003,At-large,Federalist,2969,19890,0.149,TRUE,FALSE
+meae.congressional.congress02.ct.county,ct.congress.1790,Pierpont Edwards,EP0001,At-large,Federalist,2239,19890,0.113,TRUE,FALSE
+meae.congressional.congress02.ct.county,ct.congress.1790,James Hillhouse,HJ0008,At-large,Federalist,2035,19890,0.102,TRUE,FALSE
+meae.congressional.congress02.ct.county,ct.congress.1790,Jonathan Sturges,SJ0011,At-large,Federalist,1730,19890,0.087,TRUE,FALSE
+meae.congressional.congress02.ct.county,ct.congress.1790,Jonathan Trumbull,TJ0010,At-large,Federalist,1720,19890,0.086,TRUE,FALSE
+meae.congressional.congress02.ct.county,ct.congress.1790,Tapping Reeve,RT0001,At-large,Federalist,1672,19890,0.084,FALSE,FALSE
+meae.congressional.congress02.ct.county,ct.congress.1790,Jeremiah Wadsworth,WJ0011,At-large,Federalist,1658,19890,0.083,FALSE,FALSE
+meae.congressional.congress02.ct.county,ct.congress.1790,Amasa Learned,LA0001,At-large,Federalist,1463,19890,0.074,FALSE,FALSE
+meae.congressional.congress02.ct.county,ct.congress.1790,Stephen M. Mitchell,MS0000,At-large,Federalist,1435,19890,0.072,FALSE,FALSE
+meae.congressional.congress02.ct.county,ct.congress.1790,Benjamin Huntington,HB0005,At-large,Federalist,1372,19890,0.069,FALSE,FALSE
+meae.congressional.congress02.ct.county,ct.congress.1790,John Chester,CJ0014,At-large,Federalist,811,19890,0.041,FALSE,FALSE
+meae.congressional.congress02.ct.county,ct.congress.1790,James Davenport,DJ0006,At-large,Federalist,786,19890,0.04,FALSE,FALSE

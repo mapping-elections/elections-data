@@ -1,0 +1,7 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress13.de.county,de.uscongress.1812,Henry M. Ridgely,RH0001,At-large,Federalist,4193,14809,0.283,TRUE,FALSE
+meae.congressional.congress13.de.county,de.uscongress.1812,Thomas Cooper,CT0008,At-large,Federalist,4183,14809,0.282,TRUE,FALSE
+meae.congressional.congress13.de.county,de.uscongress.1812,David Hall,HD0005,At-large,Democratic-Republican,3221,14809,0.218,FALSE,FALSE
+meae.congressional.congress13.de.county,de.uscongress.1812,Richard C. Dale,DR0001,At-large,Democratic-Republican,3210,14809,0.217,FALSE,FALSE
+meae.congressional.congress13.de.county,de.uscongress.1812,Louis McLane,ML0002,At-large,Federalist,1,14809,0,FALSE,FALSE
+meae.congressional.congress13.de.county,de.uscongress.1812,William Clements,CW0335,At-large,Federalist,1,14809,0,FALSE,FALSE

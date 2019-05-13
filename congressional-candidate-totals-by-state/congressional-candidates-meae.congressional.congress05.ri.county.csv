@@ -1,0 +1,6 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress05.ri.county,ri.uscongress.secondcongressmen.1796,Christopher Champlin,CC0006,2,Federalist,1915,3723,0.514,TRUE,FALSE
+meae.congressional.congress05.ri.county,ri.uscongress.secondcongressmen.1796,William Greene,GW0161,2,Federalist,1801,3723,0.484,FALSE,FALSE
+meae.congressional.congress05.ri.county,ri.uscongress.secondcongressmen.1796,scattering,NA,2,NA,7,3723,0.002,FALSE,FALSE
+meae.congressional.congress05.ri.county,ri.uscongress.firstcongressmen.1796,Benjamin Bourne,BB0013,1,Federalist,3707,3710,0.999,TRUE,FALSE
+meae.congressional.congress05.ri.county,ri.uscongress.firstcongressmen.1796,scattering,NA,1,NA,3,3710,0.001,FALSE,FALSE

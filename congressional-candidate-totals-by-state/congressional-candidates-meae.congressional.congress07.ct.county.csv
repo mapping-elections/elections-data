@@ -1,0 +1,19 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress07.ct.county,ct.congress.1800,Samuel W. Dana,DS0003,At-large,Federalist,6273,56645,0.111,TRUE,FALSE
+meae.congressional.congress07.ct.county,ct.congress.1800,Roger Griswold,GR0000,At-large,Federalist,6155,56645,0.109,TRUE,FALSE
+meae.congressional.congress07.ct.county,ct.congress.1800,John C. Smith,SJ0013,At-large,Federalist,6080,56645,0.107,TRUE,FALSE
+meae.congressional.congress07.ct.county,ct.congress.1800,William Edmond,EW0001,At-large,Federalist,5880,56645,0.104,TRUE,FALSE
+meae.congressional.congress07.ct.county,ct.congress.1800,Elizur Goodrich,GE0001,At-large,Federalist,5779,56645,0.102,TRUE,FALSE
+meae.congressional.congress07.ct.county,ct.congress.1800,"John Davenport, Jr.",DJ0022,At-large,Federalist,5250,56645,0.093,TRUE,FALSE
+meae.congressional.congress07.ct.county,ct.congress.1800,Elias Perkins,PE0001,At-large,Federalist,4850,56645,0.086,TRUE,FALSE
+meae.congressional.congress07.ct.county,ct.congress.1800,William Hart,HW0015,At-large,Democratic-Republican,3250,56645,0.057,FALSE,FALSE
+meae.congressional.congress07.ct.county,ct.congress.1800,"Gideon Granger, Jr.",GG0000,At-large,Democratic-Republican,3012,56645,0.053,FALSE,FALSE
+meae.congressional.congress07.ct.county,ct.congress.1800,Sylvester Gilbert,GS0003,At-large,Democratic-Republican,2921,56645,0.052,FALSE,FALSE
+meae.congressional.congress07.ct.county,ct.congress.1800,Calvin Goddard,GC0005,At-large,Federalist,2172,56645,0.038,FALSE,FALSE
+meae.congressional.congress07.ct.county,ct.congress.1800,Benjamin Talmadge,TB0015,At-large,Federalist,1541,56645,0.027,FALSE,FALSE
+meae.congressional.congress07.ct.county,ct.congress.1800,Simeon Baldwin,BS0001,At-large,Federalist,1272,56645,0.022,FALSE,FALSE
+meae.congressional.congress07.ct.county,ct.congress.1800,"Timothy Pitkin, Jr.",PT0001,At-large,Federalist,937,56645,0.017,FALSE,FALSE
+meae.congressional.congress07.ct.county,ct.congress.1800,William Moseley,MW0006,At-large,Federalist,555,56645,0.01,FALSE,FALSE
+meae.congressional.congress07.ct.county,ct.congress.1800,Epaphroditus Champion,CE0020,At-large,Federalist,425,56645,0.008,FALSE,FALSE
+meae.congressional.congress07.ct.county,ct.congress.1800,Chauncey Goodrich,GC0000,At-large,Federalist,235,56645,0.004,FALSE,FALSE
+meae.congressional.congress07.ct.county,ct.congress.1800,Jonathan Brace,BJ0019,At-large,Federalist,58,56645,0.001,FALSE,FALSE

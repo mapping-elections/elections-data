@@ -1,0 +1,6 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress08.ri.county,ri.uscongress.1802,Joseph Stanton,SJ1416,At-large,Democratic-Republican,2657,8695,0.306,TRUE,FALSE
+meae.congressional.congress08.ri.county,ri.uscongress.1802,Nehemiah Knight,KN0024,At-large,Democratic-Republican,2647,8695,0.304,TRUE,FALSE
+meae.congressional.congress08.ri.county,ri.uscongress.1802,Thomas Tillinghast,TT0119,At-large,Federalist,1694,8695,0.195,FALSE,FALSE
+meae.congressional.congress08.ri.county,ri.uscongress.1802,Elisha Potter,PE0102,At-large,Federalist,1683,8695,0.194,FALSE,FALSE
+meae.congressional.congress08.ri.county,ri.uscongress.1802,scattering,NA,At-large,NA,14,8695,0.002,FALSE,FALSE

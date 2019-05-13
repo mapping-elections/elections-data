@@ -1,0 +1,14 @@
+meae_id,county_ahcb,county_fips,districts,federalist_vote,federalist_percentage,antifederalist_vote,antifederalist_percentage,demrep_vote,demrep_percentage,chesapeake_vote,chesapeake_percentage,potomac_vote,potomac_percentage,repfac_vote,repfac_percentage,adamsclay_vote,adamsclay_percentage,jacksonian_vote,jacksonian_percentage,anticaucus_vote,anticaucus_percentage,caucus_vote,caucus_percentage,other_vote,other_percentage,county_source
+meae.congressional.congress08.nj.county,njs_bergen,34003,At-large,NA,NA,NA,NA,2665,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress08.nj.county,njs_burlington,34005,At-large,NA,NA,NA,NA,4129,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress08.nj.county,njs_capemay,34009,At-large,NA,NA,NA,NA,484,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress08.nj.county,njs_cumberland,34011,At-large,49,0.01,NA,NA,5059,0.989,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0.002,county
+meae.congressional.congress08.nj.county,njs_essex,34013,At-large,NA,NA,NA,NA,13788,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress08.nj.county,njs_gloucester,34015,At-large,476,0.072,NA,NA,6142,0.927,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0.001,county
+meae.congressional.congress08.nj.county,njs_hunterdon,34019,At-large,253,0.025,NA,NA,9821,0.962,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,130,0.013,county
+meae.congressional.congress08.nj.county,njs_middlesex,34023,At-large,NA,NA,NA,NA,3892,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress08.nj.county,njs_monmouth,34025,At-large,88,0.02,NA,NA,4404,0.978,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,0.002,county
+meae.congressional.congress08.nj.county,njs_morris,34027,At-large,NA,NA,NA,NA,14686,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress08.nj.county,njs_salem,34033,At-large,NA,NA,NA,NA,5203,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress08.nj.county,njs_somerset,34035,At-large,55,0.013,NA,NA,4220,0.981,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,28,0.007,county
+meae.congressional.congress08.nj.county,njs_sussex,34037,At-large,214,0.024,NA,NA,8561,0.962,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,122,0.014,county

@@ -1,0 +1,22 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress02.vt.county,congressional,2,VT,county,state,vt.uscongress.eastern.1791,Orange,vts_orange,50017,"Niles, Nathaniel",NN0014,Anti-Federalist,0
+meae.congressional.congress02.vt.county,congressional,2,VT,county,state,vt.uscongress.eastern.1791,Windham,vts_windham,50025,"Niles, Nathaniel",NN0014,Anti-Federalist,0
+meae.congressional.congress02.vt.county,congressional,2,VT,county,state,vt.uscongress.eastern.1791,Windsor,vts_windsor,50027,"Niles, Nathaniel",NN0014,Anti-Federalist,0
+meae.congressional.congress02.vt.county,congressional,2,VT,county,state,vt.uscongress.eastern.1791,Orange,vts_orange,50017,"Buck, Daniel",BD0212,Federalist,0
+meae.congressional.congress02.vt.county,congressional,2,VT,county,state,vt.uscongress.eastern.1791,Windham,vts_windham,50025,"Buck, Daniel",BD0212,Federalist,0
+meae.congressional.congress02.vt.county,congressional,2,VT,county,state,vt.uscongress.eastern.1791,Windsor,vts_windsor,50027,"Buck, Daniel",BD0212,Federalist,0
+meae.congressional.congress02.vt.county,congressional,2,VT,county,state,vt.uscongress.eastern.1791,Orange,vts_orange,50017,"Jacob, Stephen",JS0060,NA,0
+meae.congressional.congress02.vt.county,congressional,2,VT,county,state,vt.uscongress.eastern.1791,Windham,vts_windham,50025,"Jacob, Stephen",JS0060,NA,0
+meae.congressional.congress02.vt.county,congressional,2,VT,county,state,vt.uscongress.eastern.1791,Windsor,vts_windsor,50027,"Jacob, Stephen",JS0060,NA,0
+meae.congressional.congress02.vt.county,congressional,2,VT,county,state,vt.uscongress.western.secondballot.1791,Addison,vts_addison,50001,"Smith, Israel",SI0092,Anti-Federalist,0
+meae.congressional.congress02.vt.county,congressional,2,VT,county,state,vt.uscongress.western.secondballot.1791,Bennington,vts_bennington,50003,"Smith, Israel",SI0092,Anti-Federalist,0
+meae.congressional.congress02.vt.county,congressional,2,VT,county,state,vt.uscongress.western.secondballot.1791,Chittenden,vts_chittenden,50007,"Smith, Israel",SI0092,Anti-Federalist,0
+meae.congressional.congress02.vt.county,congressional,2,VT,county,state,vt.uscongress.western.secondballot.1791,Rutland,vts_rutland,50021,"Smith, Israel",SI0092,Anti-Federalist,0
+meae.congressional.congress02.vt.county,congressional,2,VT,county,state,vt.uscongress.western.secondballot.1791,Addison,vts_addison,50001,"Lyon, Matthew",LM0053,Democratic-Republican,0
+meae.congressional.congress02.vt.county,congressional,2,VT,county,state,vt.uscongress.western.secondballot.1791,Bennington,vts_bennington,50003,"Lyon, Matthew",LM0053,Democratic-Republican,0
+meae.congressional.congress02.vt.county,congressional,2,VT,county,state,vt.uscongress.western.secondballot.1791,Chittenden,vts_chittenden,50007,"Lyon, Matthew",LM0053,Democratic-Republican,0
+meae.congressional.congress02.vt.county,congressional,2,VT,county,state,vt.uscongress.western.secondballot.1791,Rutland,vts_rutland,50021,"Lyon, Matthew",LM0053,Democratic-Republican,0
+meae.congressional.congress02.vt.county,congressional,2,VT,county,state,vt.uscongress.western.secondballot.1791,Addison,vts_addison,50001,"Tichenor, Isaac",TI0032,Federalist,0
+meae.congressional.congress02.vt.county,congressional,2,VT,county,state,vt.uscongress.western.secondballot.1791,Bennington,vts_bennington,50003,"Tichenor, Isaac",TI0032,Federalist,0
+meae.congressional.congress02.vt.county,congressional,2,VT,county,state,vt.uscongress.western.secondballot.1791,Chittenden,vts_chittenden,50007,"Tichenor, Isaac",TI0032,Federalist,0
+meae.congressional.congress02.vt.county,congressional,2,VT,county,state,vt.uscongress.western.secondballot.1791,Rutland,vts_rutland,50021,"Tichenor, Isaac",TI0032,Federalist,0

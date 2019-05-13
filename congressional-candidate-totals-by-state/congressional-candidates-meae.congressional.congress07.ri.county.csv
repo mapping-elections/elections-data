@@ -1,0 +1,11 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress07.ri.county,ri.uscongress.1800,Thomas Tillinghast,TT0119,At-large,Democratic-Republican,2506,6231,0.402,TRUE,FALSE
+meae.congressional.congress07.ri.county,ri.uscongress.1800,"Joseph Stanton, Jr.",SJ1416,At-large,Democratic-Republican,1494,6231,0.24,TRUE,FALSE
+meae.congressional.congress07.ri.county,ri.uscongress.1800,"Richard Jackson, Jr.",JR0052,At-large,Federalist,1243,6231,0.199,FALSE,FALSE
+meae.congressional.congress07.ri.county,ri.uscongress.1800,Asher Robbins,RA0121,At-large,Federalist,803,6231,0.129,FALSE,FALSE
+meae.congressional.congress07.ri.county,ri.uscongress.1800,John Brown,BJ1311,At-large,Federalist,138,6231,0.022,FALSE,FALSE
+meae.congressional.congress07.ri.county,ri.uscongress.1800,James Helme,HJ0032,At-large,NA,17,6231,0.003,FALSE,FALSE
+meae.congressional.congress07.ri.county,ri.uscongress.1800,Paul Mumford,MP0122,At-large,NA,14,6231,0.002,FALSE,FALSE
+meae.congressional.congress07.ri.county,ri.uscongress.1800,Joseph Rice,RJ0587,At-large,NA,7,6231,0.001,FALSE,FALSE
+meae.congressional.congress07.ri.county,ri.uscongress.1800,Edward Manton,ME0118,At-large,NA,2,6231,0,FALSE,FALSE
+meae.congressional.congress07.ri.county,ri.uscongress.1800,scattering,NA,At-large,NA,7,6231,0.001,FALSE,FALSE

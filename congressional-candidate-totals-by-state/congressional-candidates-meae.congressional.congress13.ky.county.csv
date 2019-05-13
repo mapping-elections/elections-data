@@ -1,0 +1,17 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress13.ky.county,ky.uscongress1.1812,James Clark,CJ0165,1,Democratic-Republican,4560,4560,1,TRUE,TRUE
+meae.congressional.congress13.ky.county,ky.uscongress2.1812,Henry Clay,CH0035,2,Democratic-Republican,3164,3164,1,TRUE,TRUE
+meae.congressional.congress13.ky.county,ky.uscongress3.1812,Richard M. Johnson,JR0007,3,Democratic-Republican,4048,4048,1,TRUE,TRUE
+meae.congressional.congress13.ky.county,ky.uscongress4.1812,Joseph Desha,DJ0079,4,Democratic-Republican,3830,3830,1,TRUE,TRUE
+meae.congressional.congress13.ky.county,ky.uscongress5.1812,Samuel G. Hopkins,HS0042,5,Democratic-Republican,2341,4762,0.492,TRUE,FALSE
+meae.congressional.congress13.ky.county,ky.uscongress5.1812,Rezin Davidge,DR0004,5,NA,1497,4762,0.314,FALSE,FALSE
+meae.congressional.congress13.ky.county,ky.uscongress5.1812,Matthew Lyon,LM0053,5,Democratic-Republican,924,4762,0.194,FALSE,FALSE
+meae.congressional.congress13.ky.county,ky.uscongress6.1812,Solomon P. Sharpe,SS0045,6,Democratic-Republican,3197,4571,0.699,TRUE,FALSE
+meae.congressional.congress13.ky.county,ky.uscongress6.1812,Anthony Butler,BA0048,6,NA,1374,4571,0.301,FALSE,FALSE
+meae.congressional.congress13.ky.county,ky.uscongress7.1812,Samuel MacKee,MS0028,7,Democratic-Republican,3406,3406,1,TRUE,TRUE
+meae.congressional.congress13.ky.county,ky.uscongress8.1812,John Simpson,SJ0160,8,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress13.ky.county,ky.uscongress8.1812,Stephen Ormsby,OS0002,8,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress13.ky.county,ky.uscongress9.1812,Thomas Montgomery,MT0031,9,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress13.ky.county,ky.uscongress9.1812,Henry James,JH0017,9,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress13.ky.county,ky.uscongress9.1812,Micah Taul,TM0010,9,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress13.ky.county,ky.uscongress10.1812,William P. Duval,DW0027,10,Democratic-Republican,NA,0,NA,TRUE,TRUE

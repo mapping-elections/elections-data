@@ -1,0 +1,4 @@
+meae_id,county_ahcb,county_fips,districts,federalist_vote,federalist_percentage,antifederalist_vote,antifederalist_percentage,demrep_vote,demrep_percentage,chesapeake_vote,chesapeake_percentage,potomac_vote,potomac_percentage,repfac_vote,repfac_percentage,adamsclay_vote,adamsclay_percentage,jacksonian_vote,jacksonian_percentage,anticaucus_vote,anticaucus_percentage,caucus_vote,caucus_percentage,other_vote,other_percentage,county_source
+meae.congressional.congress15.de.county,des_kent,10001,At-large,2333,0.585,NA,NA,1652,0.415,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress15.de.county,des_newcastle,10003,At-large,2149,0.384,NA,NA,3442,0.615,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0.001,county
+meae.congressional.congress15.de.county,des_sussex,10005,At-large,3407,0.635,NA,NA,1961,0.365,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county

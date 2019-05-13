@@ -25,6 +25,7 @@ congress,state,meae_id,map_date
 2,SC,meae.congressional.congress02.sc.county,1790-01-01
 2,VA,meae.congressional.congress02.va.county,1790-01-01
 2,VT,meae.congressional.congress02.vt.county,1791-03-05
+2,NJ,meae.congressional.congress02.nj.county,1790-01-01
 3,CT,meae.congressional.congress03.ct.county,1792-01-01
 3,DE,meae.congressional.congress03.de.county,1792-01-01
 3,GA,meae.congressional.congress03.ga.county,1792-01-01
@@ -187,6 +188,7 @@ congress,state,meae_id,map_date
 12,RI,meae.congressional.congress12.ri.county,1810-01-01
 12,SC,meae.congressional.congress12.sc.county,1810-01-01
 12,TN,meae.congressional.congress12.tn.county,1811-01-01
+12,LA,meae.congressional.congress12.la.county,1810-01-01
 12,VA,meae.congressional.congress12.va.county,1811-01-01
 12,VT,meae.congressional.congress12.vt.county,1810-01-01
 13,CT,meae.congressional.congress13.ct.county,1812-01-01
@@ -207,6 +209,7 @@ congress,state,meae_id,map_date
 13,TN,meae.congressional.congress13.tn.county,1813-01-01
 13,VA,meae.congressional.congress13.va.county,1813-01-01
 13,VT,meae.congressional.congress13.vt.county,1812-01-01
+13,NJ,meae.congressional.congress13.nj.county,1812-01-01
 14,CT,meae.congressional.congress14.ct.county,1814-01-01
 14,DE,meae.congressional.congress14.de.county,1814-01-01
 14,GA,meae.congressional.congress14.ga.county,1814-01-01
@@ -227,7 +230,7 @@ congress,state,meae_id,map_date
 14,VA,meae.congressional.congress14.va.county,1815-01-01
 14,VT,meae.congressional.congress14.vt.county,1814-01-01
 15,CT,meae.congressional.congress15.ct.county,1816-01-01
-15,DE,eae.congressional.congress15.de.county,1816-01-01
+15,DE,meae.congressional.congress15.de.county,1816-01-01
 15,GA,meae.congressional.congress15.ga.county,1816-01-01
 15,IL,meae.congressional.congress15.il.county,1818-12-04
 15,IN,meae.congressional.congress15.in.county,1817-01-01

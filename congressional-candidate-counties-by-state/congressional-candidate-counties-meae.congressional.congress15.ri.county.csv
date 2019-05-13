@@ -1,0 +1,11 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress15.ri.county,congressional,15,RI,county,state,ri.uscongress.1816,Bristol,ris_bristol,44001,"Boss, John L.",BJ0012,Federalist,90
+meae.congressional.congress15.ri.county,congressional,15,RI,county,state,ri.uscongress.1816,Kent,ris_kent,44003,"Boss, John L.",BJ0012,Federalist,397
+meae.congressional.congress15.ri.county,congressional,15,RI,county,state,ri.uscongress.1816,Newport,ris_newport,44005,"Boss, John L.",BJ0012,Federalist,491
+meae.congressional.congress15.ri.county,congressional,15,RI,county,state,ri.uscongress.1816,Providence,ris_providence,44007,"Boss, John L.",BJ0012,Federalist,925
+meae.congressional.congress15.ri.county,congressional,15,RI,county,state,ri.uscongress.1816,Washington,ris_washington,44009,"Boss, John L.",BJ0012,Federalist,336
+meae.congressional.congress15.ri.county,congressional,15,RI,county,state,ri.uscongress.1816,Bristol,ris_bristol,44001,"Mason, James B.",MJ1283,Federalist,90
+meae.congressional.congress15.ri.county,congressional,15,RI,county,state,ri.uscongress.1816,Kent,ris_kent,44003,"Mason, James B.",MJ1283,Federalist,396
+meae.congressional.congress15.ri.county,congressional,15,RI,county,state,ri.uscongress.1816,Newport,ris_newport,44005,"Mason, James B.",MJ1283,Federalist,488
+meae.congressional.congress15.ri.county,congressional,15,RI,county,state,ri.uscongress.1816,Providence,ris_providence,44007,"Mason, James B.",MJ1283,Federalist,921
+meae.congressional.congress15.ri.county,congressional,15,RI,county,state,ri.uscongress.1816,Washington,ris_washington,44009,"Mason, James B.",MJ1283,Federalist,335

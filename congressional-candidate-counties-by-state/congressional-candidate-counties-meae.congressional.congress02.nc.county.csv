@@ -1,0 +1,76 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress1.1791,Rutherford,ncs_rutherford,37161,"Steele, John",SJ0192,Anti-Federalist,70
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress1.1791,Stokes,ncs_stokes,37169,"Steele, John",SJ0192,Anti-Federalist,144
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress1.1791,Surry,ncs_surry,37171,"Steele, John",SJ0192,Anti-Federalist,37
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress1.1791,Rutherford,ncs_rutherford,37161,"MacDowell, Joseph",MJ0540,Federalist,176
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress1.1791,Stokes,ncs_stokes,37169,"MacDowell, Joseph",MJ0540,Federalist,21
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress1.1791,Surry,ncs_surry,37171,"MacDowell, Joseph",MJ0540,Federalist,58
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress2.1791,Caswell,ncs_caswell,37033,"Macon, Nathaniel",MN0068,Anti-Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress2.1791,Chatham,ncs_chatham,37037,"Macon, Nathaniel",MN0068,Anti-Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress2.1791,Franklin,ncs_franklin,37069,"Macon, Nathaniel",MN0068,Anti-Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress2.1791,Granville,ncs_granville,37077,"Macon, Nathaniel",MN0068,Anti-Federalist,131
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress2.1791,Orange,ncs_orange,37135,"Macon, Nathaniel",MN0068,Anti-Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress2.1791,Randolph,ncs_randolph,37151,"Macon, Nathaniel",MN0068,Anti-Federalist,47
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress2.1791,Wake,ncs_wake,37183,"Macon, Nathaniel",MN0068,Anti-Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress2.1791,Warren,ncs_warren,37185,"Macon, Nathaniel",MN0068,Anti-Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress2.1791,Caswell,ncs_caswell,37033,"Mebane, Alexander",MA0149,Anti-Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress2.1791,Chatham,ncs_chatham,37037,"Mebane, Alexander",MA0149,Anti-Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress2.1791,Franklin,ncs_franklin,37069,"Mebane, Alexander",MA0149,Anti-Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress2.1791,Granville,ncs_granville,37077,"Mebane, Alexander",MA0149,Anti-Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress2.1791,Orange,ncs_orange,37135,"Mebane, Alexander",MA0149,Anti-Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress2.1791,Randolph,ncs_randolph,37151,"Mebane, Alexander",MA0149,Anti-Federalist,234
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress2.1791,Wake,ncs_wake,37183,"Mebane, Alexander",MA0149,Anti-Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress2.1791,Warren,ncs_warren,37185,"Mebane, Alexander",MA0149,Anti-Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress3.1791,Craven,ncs_craven,37049,"Ashe, John B.",AJ0212,Anti-Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress3.1791,Dobbs,ncs_dobbs,NA,"Ashe, John B.",AJ0212,Anti-Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress3.1791,Edgecombe,ncs_edgecombe,37065,"Ashe, John B.",AJ0212,Anti-Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress3.1791,Halifax,ncs_halifax,37083,"Ashe, John B.",AJ0212,Anti-Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress3.1791,Jones,ncs_jones,37103,"Ashe, John B.",AJ0212,Anti-Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress3.1791,Martin,ncs_martin,37117,"Ashe, John B.",AJ0212,Anti-Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress3.1791,Nash,ncs_nash,37127,"Ashe, John B.",AJ0212,Anti-Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress3.1791,Northampton,ncs_northampton,37131,"Ashe, John B.",AJ0212,Anti-Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress3.1791,Wayne,ncs_wayne,37191,"Ashe, John B.",AJ0212,Anti-Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress4.1791,Bertie,ncs_bertie,37015,"Johnson, Charles",JC0019,Federalist,217
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress4.1791,Chowan,ncs_chowan,37041,"Johnson, Charles",JC0019,Federalist,234
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress4.1791,Pasquotank,ncs_pasquotank,37139,"Johnson, Charles",JC0019,Federalist,164
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress4.1791,Perquimans,ncs_perquimans,37143,"Johnson, Charles",JC0019,Federalist,106
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress4.1791,Bertie,ncs_bertie,37015,"Williamson, Hugh",WH0019,Federalist,173
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress4.1791,Chowan,ncs_chowan,37041,"Williamson, Hugh",WH0019,Federalist,93
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress4.1791,Pasquotank,ncs_pasquotank,37139,"Williamson, Hugh",WH0019,Federalist,206
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress4.1791,Perquimans,ncs_perquimans,37143,"Williamson, Hugh",WH0019,Federalist,154
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Anson,ncs_anson,37007,"Bloodworth, Timothy",BT0199,Anti-Federalist,43
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Bladen,ncs_bladen,37017,"Bloodworth, Timothy",BT0199,Anti-Federalist,148
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Brunswick,ncs_brunswick,37019,"Bloodworth, Timothy",BT0199,Anti-Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Cumberland,ncs_cumberland,37051,"Bloodworth, Timothy",BT0199,Anti-Federalist,38
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Duplin,ncs_duplin,37061,"Bloodworth, Timothy",BT0199,Anti-Federalist,164
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Johnston,ncs_johnston,37101,"Bloodworth, Timothy",BT0199,Anti-Federalist,1
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Moore,ncs_moore,37125,"Bloodworth, Timothy",BT0199,Anti-Federalist,8
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,New Hanover,ncs_newhanover,37129,"Bloodworth, Timothy",BT0199,Anti-Federalist,137
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Onslow,ncs_onslow,37133,"Bloodworth, Timothy",BT0199,Anti-Federalist,199
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Richmond,ncs_richmond,37153,"Bloodworth, Timothy",BT0199,Anti-Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Robeson,ncs_robeson,37155,"Bloodworth, Timothy",BT0199,Anti-Federalist,17
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Sampson,ncs_sampson,37163,"Bloodworth, Timothy",BT0199,Anti-Federalist,343
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Anson,ncs_anson,37007,"Grove, William B.",GW0091,Federalist,109
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Bladen,ncs_bladen,37017,"Grove, William B.",GW0091,Federalist,116
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Brunswick,ncs_brunswick,37019,"Grove, William B.",GW0091,Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Cumberland,ncs_cumberland,37051,"Grove, William B.",GW0091,Federalist,866
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Duplin,ncs_duplin,37061,"Grove, William B.",GW0091,Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Johnston,ncs_johnston,37101,"Grove, William B.",GW0091,Federalist,69
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Moore,ncs_moore,37125,"Grove, William B.",GW0091,Federalist,342
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,New Hanover,ncs_newhanover,37129,"Grove, William B.",GW0091,Federalist,12
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Onslow,ncs_onslow,37133,"Grove, William B.",GW0091,Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Richmond,ncs_richmond,37153,"Grove, William B.",GW0091,Federalist,185
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Robeson,ncs_robeson,37155,"Grove, William B.",GW0091,Federalist,352
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Sampson,ncs_sampson,37163,"Grove, William B.",GW0091,Federalist,17
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Anson,ncs_anson,37007,"Smith, Benjamin",SB0058,Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Bladen,ncs_bladen,37017,"Smith, Benjamin",SB0058,Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Brunswick,ncs_brunswick,37019,"Smith, Benjamin",SB0058,Federalist,7
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Cumberland,ncs_cumberland,37051,"Smith, Benjamin",SB0058,Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Duplin,ncs_duplin,37061,"Smith, Benjamin",SB0058,Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Johnston,ncs_johnston,37101,"Smith, Benjamin",SB0058,Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Moore,ncs_moore,37125,"Smith, Benjamin",SB0058,Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,New Hanover,ncs_newhanover,37129,"Smith, Benjamin",SB0058,Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Onslow,ncs_onslow,37133,"Smith, Benjamin",SB0058,Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Richmond,ncs_richmond,37153,"Smith, Benjamin",SB0058,Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Robeson,ncs_robeson,37155,"Smith, Benjamin",SB0058,Federalist,0
+meae.congressional.congress02.nc.county,congressional,2,NC,county,state,nc.uscongress5.1791,Sampson,ncs_sampson,37163,"Smith, Benjamin",SB0058,Federalist,0

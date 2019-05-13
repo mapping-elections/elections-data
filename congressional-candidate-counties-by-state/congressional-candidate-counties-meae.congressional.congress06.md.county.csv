@@ -1,0 +1,36 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress1.1798,Calvert,mds_calvert,24009,"Campbell, John",CJ0207,Federalist,192
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress1.1798,Charles,mds_charles,24017,"Campbell, John",CJ0207,Federalist,313
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress1.1798,Saint Mary's,mds_stmarys,24037,"Campbell, John",CJ0207,Federalist,533
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress1.1798,Calvert,mds_calvert,24009,"Dent, George",DG0004,Federalist,447
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress1.1798,Charles,mds_charles,24017,"Dent, George",DG0004,Federalist,625
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress1.1798,Saint Mary's,mds_stmarys,24037,"Dent, George",DG0004,Federalist,169
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress2.1798,Anne Arundel,mds_annearundel,24003,"Sprigg, Richard, Jr.",SR0049,Democratic-Republican,567
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress2.1798,Prince George's,mds_princegeorges,24033,"Sprigg, Richard, Jr.",SR0049,Democratic-Republican,630
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress2.1798,Anne Arundel,mds_annearundel,24003,"Thomas, John Chew",TJ0169,Federalist,993
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress2.1798,Prince George's,mds_princegeorges,24033,"Thomas, John Chew",TJ0169,Federalist,931
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress3.1798,Frederick,mds_frederick,24021,"Craik, William",CW0040,Federalist,579
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress3.1798,Montgomery,mds_montgomery,24031,"Craik, William",CW0040,Federalist,857
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress4.1798,Allegany,mds_allegany,24001,"Heister, Daniel",ZZ0005,Democratic-Republican,59
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress4.1798,Frederick,mds_frederick,24021,"Heister, Daniel",ZZ0005,Democratic-Republican,934
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress4.1798,Washington,mds_washington,24043,"Heister, Daniel",ZZ0005,Democratic-Republican,1345
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress4.1798,Allegany,mds_allegany,24001,"Baer, George",BG0023,Federalist,752
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress4.1798,Frederick,mds_frederick,24021,"Baer, George",BG0023,Federalist,1158
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress4.1798,Washington,mds_washington,24043,"Baer, George",BG0023,Federalist,936
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress5.1798,Baltimore,mds_baltimore,24005,"Smith, Samuel",SS0062,Democratic-Republican,1288
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress5.1798,Baltimore,mds_baltimore,24005,"Winchester, James",WJ0140,Federalist,1010
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress6.1798,Cecil,mds_cecil,24015,"Christie, Gabriel",CG0044,Democratic-Republican,585
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress6.1798,Harford,mds_harford,24025,"Christie, Gabriel",CG0044,Democratic-Republican,1478
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress6.1798,Kent,mds_kent,24029,"Christie, Gabriel",CG0044,Democratic-Republican,449
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress6.1798,Cecil,mds_cecil,24015,"Thomas, Philip",TP0016,Federalist,1017
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress6.1798,Harford,mds_harford,24025,"Thomas, Philip",TP0016,Federalist,281
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress6.1798,Kent,mds_kent,24029,"Thomas, Philip",TP0016,Federalist,658
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress7.1798,Caroline,mds_caroline,24011,"Seney, Joshua",SJ0183,Democratic-Republican,523
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress7.1798,Queen Anne's,mds_queenannes,24035,"Seney, Joshua",SJ0183,Democratic-Republican,930
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress7.1798,Talbot,mds_talbot,24041,"Seney, Joshua",SJ0183,Democratic-Republican,608
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress7.1798,Caroline,mds_caroline,24011,"Hindman, William",HW0097,Federalist,286
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress7.1798,Queen Anne's,mds_queenannes,24035,"Hindman, William",HW0097,Federalist,626
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress7.1798,Talbot,mds_talbot,24041,"Hindman, William",HW0097,Federalist,734
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress8.1798,Dorchester,mds_dorchester,24019,"Dennis, John",DJ0122,Federalist,114
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress8.1798,Somerset,mds_somerset,24039,"Dennis, John",DJ0122,Federalist,85
+meae.congressional.congress06.md.county,congressional,6,MD,county,state,md.uscongress8.1798,Worcester,mds_worcester,24047,"Dennis, John",DJ0122,Federalist,261

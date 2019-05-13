@@ -1,0 +1,12 @@
+meae_id,county_ahcb,county_fips,districts,federalist_vote,federalist_percentage,antifederalist_vote,antifederalist_percentage,demrep_vote,demrep_percentage,chesapeake_vote,chesapeake_percentage,potomac_vote,potomac_percentage,repfac_vote,repfac_percentage,adamsclay_vote,adamsclay_percentage,jacksonian_vote,jacksonian_percentage,anticaucus_vote,anticaucus_percentage,caucus_vote,caucus_percentage,other_vote,other_percentage,county_source
+meae.congressional.congress02.nj.county,njs_bergen,34003,At-large,778,0.629,24,0.019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,435,0.352,county
+meae.congressional.congress02.nj.county,njs_burlington,34005,At-large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress02.nj.county,njs_cumberland,34011,At-large,413,0.631,1,0.002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,241,0.368,county
+meae.congressional.congress02.nj.county,njs_essex,34013,At-large,3142,0.704,1025,0.23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,296,0.066,county
+meae.congressional.congress02.nj.county,njs_gloucester,34015,At-large,1849,0.711,23,0.009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,730,0.281,county
+meae.congressional.congress02.nj.county,njs_hunterdon,34019,At-large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress02.nj.county,njs_middlesex,34023,At-large,1264,0.715,71,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,433,0.245,county
+meae.congressional.congress02.nj.county,njs_monmouth,34025,At-large,1692,0.815,159,0.077,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,224,0.108,county
+meae.congressional.congress02.nj.county,njs_morris,34027,At-large,2045,0.481,1971,0.464,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,232,0.055,county
+meae.congressional.congress02.nj.county,njs_somerset,34035,At-large,1423,0.63,654,0.29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,180,0.08,county
+meae.congressional.congress02.nj.county,njs_sussex,34037,At-large,2238,0.669,276,0.083,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,829,0.248,county

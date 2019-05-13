@@ -1,0 +1,53 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress18.nj.county,nj.uscongress.1822,George Holcombe,HG0047,At-large,Jacksonian,9835,59321,0.166,TRUE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Samuel Swan,SS0156,At-large,Jacksonian,9728,59321,0.164,TRUE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,George Cassedy,CG0110,At-large,Jacksonian,9694,59321,0.163,TRUE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Lewis Condict,CL0013,At-large,Jacksonian,9669,59321,0.163,TRUE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,James Matlack,MJ0888,At-large,Adams/Clay,9643,59321,0.163,TRUE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Daniel Garrison,GD0024,At-large,Jacksonian,9630,59321,0.162,TRUE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Ephraim Bateman,BE0175,At-large,Democratic-Republican,663,59321,0.011,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Robert W. Rutherford,RR0029,At-large,NA,78,59321,0.001,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,James Parker,PJ0264,At-large,Federalist,171,59321,0.003,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Charles Ewing,EC0012,At-large,Republican Faction,58,59321,0.001,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Isaac Southard,SI0113,At-large,NA,15,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,John Rutherford,RJ0608,At-large,NA,14,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Joshua Buck,BJ1168,At-large,NA,9,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Enoch Doughty,DE0080,At-large,NA,7,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Joseph MacIlvaine,MJ0436,At-large,NA,7,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Samuel L. James,JS0038,At-large,NA,7,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Lucius Q.C. Elmer,EL0002,At-large,NA,7,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,"David Thompson, Jr.",TD0046,At-large,NA,6,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Garret D. Wall,WG0048,At-large,Federalist,5,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,John Beatty,BJ0587,At-large,Federalist,5,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Jeptha B. Munn,MJ0423,At-large,NA,5,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,John Dickinson,DJ0475,At-large,NA,4,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Charles Kinsey,KC0008,At-large,NA,5,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,James J. Wilson,WJ0372,At-large,NA,4,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Theodore Frelinghuysen,FT0037,At-large,NA,4,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,John Frelinghuysen,FJ0154,At-large,NA,6,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,James Ludlam,LJ0519,At-large,NA,3,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Hedge Thompson,TH0015,At-large,NA,3,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,John L. Smith,SJ0081,At-large,NA,2,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Ezekiel Stevens,SE0070,At-large,NA,2,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Nathan Leake,LN0005,At-large,NA,2,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,John Clement,CJ0437,At-large,NA,3,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Shamgar Hewit,HS0121,At-large,NA,2,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Thomas T. Kinney,KT0046,At-large,NA,2,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,John A. Boyed,BJ1167,At-large,NA,2,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Joseph Bloomfield,BJ0589,At-large,NA,2,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,John S. Dorsey,DJ0502,At-large,NA,2,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Silas Condict,CS0064,At-large,NA,2,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Samuel J. Read,RS0058,At-large,Federalist,2,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Aaron Leaming,LA0003,At-large,NA,1,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Isaac Andrews,AI0024,At-large,NA,1,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Jeremiah Dubois,DJ0269,At-large,NA,1,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Abraham Briton,BA0258,At-large,NA,1,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Ralph Hunt,HR0109,At-large,NA,1,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Freedom L. Shinn,SF0060,At-large,NA,1,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Merriman Smith,SM0002,At-large,NA,1,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Elias Van Ansdale,VE0022,At-large,NA,1,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Jeremiah Foster,FJ0376,At-large,NA,1,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Robert C. Thompson,TR0044,At-large,NA,1,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,William V. Miller,MW0332,At-large,NA,1,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,Augustus R. Taylor,TA0013,At-large,NA,1,59321,0,FALSE,FALSE
+meae.congressional.congress18.nj.county,nj.uscongress.1822,William T. Anderson,AW0093,At-large,NA,1,59321,0,FALSE,FALSE

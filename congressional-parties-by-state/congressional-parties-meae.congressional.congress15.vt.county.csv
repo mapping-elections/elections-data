@@ -1,0 +1,14 @@
+meae_id,county_ahcb,county_fips,districts,federalist_vote,federalist_percentage,antifederalist_vote,antifederalist_percentage,demrep_vote,demrep_percentage,chesapeake_vote,chesapeake_percentage,potomac_vote,potomac_percentage,repfac_vote,repfac_percentage,adamsclay_vote,adamsclay_percentage,jacksonian_vote,jacksonian_percentage,anticaucus_vote,anticaucus_percentage,caucus_vote,caucus_percentage,other_vote,other_percentage,county_source
+meae.congressional.congress15.vt.county,vts_addison,50001,At-large,8174,0.487,NA,NA,8592,0.512,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,24,0.001,county
+meae.congressional.congress15.vt.county,vts_bennington,50003,At-large,5778,0.443,NA,NA,7265,0.557,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress15.vt.county,vts_caledonia,50005,At-large,5023,0.433,NA,NA,6532,0.563,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,49,0.004,county
+meae.congressional.congress15.vt.county,vts_chittenden,50007,At-large,6786,0.527,NA,NA,6093,0.473,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress15.vt.county,vts_essex,50009,At-large,1122,0.444,NA,NA,1403,0.556,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress15.vt.county,vts_franklin,50011,At-large,6791,0.54,NA,NA,5793,0.46,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress15.vt.county,vts_grandisle,50013,At-large,1549,0.634,NA,NA,894,0.366,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress15.vt.county,vts_orange,50017,At-large,7874,0.387,NA,NA,12473,0.613,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress15.vt.county,vts_orleans,50019,At-large,2838,0.515,NA,NA,2676,0.485,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,county
+meae.congressional.congress15.vt.county,vts_rutland,50021,At-large,8796,0.368,NA,NA,15067,0.631,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,22,0.001,county
+meae.congressional.congress15.vt.county,vts_washington,50023,At-large,4946,0.456,NA,NA,5904,0.544,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,county
+meae.congressional.congress15.vt.county,vts_windham,50025,At-large,15522,0.634,NA,NA,8947,0.365,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,0,county
+meae.congressional.congress15.vt.county,vts_windsor,50027,At-large,8817,0.312,NA,NA,19426,0.687,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,0,county

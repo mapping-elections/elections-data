@@ -1,0 +1,128 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress04.ma.county,ma.uscongress.eastern.1.1794,Henry Dearborn,DH0026,12,Democratic-Republican,464,906,0.512,TRUE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.eastern.1.1794,Jonathan Bowman,BJ0314,12,Federalist,260,906,0.287,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.eastern.1.1794,Daniel Coney,CD0053,12,Federalist,51,906,0.056,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.eastern.1.1794,Isaac Parker,PI0010,12,Federalist,50,906,0.055,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.eastern.1.1794,Matthew Campbell,CM0040,12,NA,38,906,0.042,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.eastern.1.1794,David Sylvester,SD0077,12,NA,15,906,0.017,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.eastern.1.1794,David Murray,MD0031,12,NA,14,906,0.015,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.eastern.1.1794,John Fowley,FJ0164,12,NA,12,906,0.013,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.eastern.1.1794,Thomas Rice,RT0039,12,NA,2,906,0.002,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.eastern.2.ballot2.1795,Peleg Wadsworth,WP0012,13,Federalist,607,1167,0.52,TRUE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.eastern.2.ballot2.1795,William Wedgery,WW0129,13,Democratic-Republican,399,1167,0.342,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.eastern.2.ballot2.1795,William Martin,MW0097,13,NA,69,1167,0.059,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.eastern.2.ballot2.1795,Josiah Thacher,TJ0159,13,NA,53,1167,0.045,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.eastern.2.ballot2.1795,Stephen Longfellow,LS0011,13,Federalist,20,1167,0.017,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.eastern.2.ballot2.1795,John Hubbard,HJ0350,13,NA,12,1167,0.01,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.eastern.2.ballot2.1795,Salmon Chase,CS0085,13,NA,3,1167,0.003,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.eastern.2.ballot2.1795,Samuel Thompson,TS0036,13,NA,2,1167,0.002,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.eastern.2.ballot2.1795,Daniel Davis,DD0013,13,NA,1,1167,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.eastern.2.ballot2.1795,Samuel Freeman,FS0018,13,NA,1,1167,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.eastern.3.ballot2.1795,George Thacher,TG0012,14,Federalist,307,449,0.684,TRUE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.eastern.3.ballot2.1795,Nathaniel Wells,WN0011,14,Federalist,92,449,0.205,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.eastern.3.ballot2.1795,Joseph Tucker,TJ0157,14,NA,29,449,0.065,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.eastern.3.ballot2.1795,Josiah Peirce,PJ0210,14,NA,15,449,0.033,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.eastern.3.ballot2.1795,Ichabod Goodwin,GI0004,14,NA,5,449,0.011,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.eastern.3.ballot2.1795,Elijah Hays,HE0047,14,NA,1,449,0.002,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.1.1794,Fisher Ames,AF0004,8,Federalist,2178,3857,0.565,TRUE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.1.1794,Charles Jarvis,JC0015,8,Democratic-Republican,1668,3857,0.432,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.1.1794,William Heath,HW0171,8,NA,4,3857,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.1.1794,John Coffin Jones,JJ0099,8,NA,2,3857,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.1.1794,"Benjamin Austin, Jr.",AB0013,8,NA,2,3857,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.1.1794,James Bowdoin,BJ0467,8,NA,1,3857,0,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.1.1794,Samuel Jarvis,JS0005,8,NA,1,3857,0,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.1.1794,John Jarvis,JJ0059,8,NA,1,3857,0,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.2.ballot3.1795,Joseph B. Varnum,VJ0024,9,Democratic-Republican,1509,2995,0.504,TRUE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.2.ballot3.1795,"Samuel Dexter, Jr.",DS0053,9,Federalist,1429,2995,0.477,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.2.ballot3.1795,Nathaniel Gorham,GN0007,9,NA,50,2995,0.017,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.2.ballot3.1795,Ebenezer Bridge,BE0139,9,NA,3,2995,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.2.ballot3.1795,Edward Barns,BE0040,9,NA,1,2995,0,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.2.ballot3.1795,Elijah Brigham,BE0103,9,NA,1,2995,0,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.2.ballot3.1795,Benjamin Brown,BB0166,9,NA,1,2995,0,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.2.ballot3.1795,James Winthrop,WJ0341,9,NA,1,2995,0,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.3.1794,Benjamin Goodhue,GB0015,10,Federalist,367,698,0.526,TRUE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.3.1794,Samuel Holten,HS0071,10,Federalist,171,698,0.245,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.3.1794,Loammi Baldwin,BL0023,10,Federalist,92,698,0.132,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.3.1794,John Brooks,BJ0505,10,Federalist,30,698,0.043,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.3.1794,Edward Pulling,PE0039,10,NA,16,698,0.023,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.3.1794,Azor Orne,OA0008,10,NA,12,698,0.017,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.3.1794,"Elias Haskel Derby, Jr.",DE0011,10,Federalist,8,698,0.011,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.3.1794,John Cabot,CJ0287,10,NA,1,698,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.3.1794,Samuel Sewall,SS0068,10,Federalist,1,698,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.4.ballot3.1795,Theophilus Bradbury,BT0080,11,Federalist,753,837,0.9,TRUE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.4.ballot3.1795,John Mycall,MJ0303,11,NA,25,837,0.03,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.4.ballot3.1795,Joseph Wingate,WJ0380,11,NA,25,837,0.03,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.4.ballot3.1795,Stephen Cross,CS0088,11,NA,8,837,0.01,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.4.ballot3.1795,William Pearson,PW0088,11,NA,8,837,0.01,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.4.ballot3.1795,Epes Sargent,SE0065,11,NA,7,837,0.008,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.4.ballot3.1795,Thomas Kitteridge,KT0032,11,NA,6,837,0.007,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.4.ballot3.1795,Daniel Killam,KD0021,11,NA,2,837,0.002,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.4.ballot3.1795,Timothy Dexter,DT0019,11,NA,1,837,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.4.ballot3.1795,Nehemiah Flanders,FN0033,11,NA,1,837,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.middle.4.ballot3.1795,Joseph Marquand,MJ0307,11,NA,1,837,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.southern.1.1794,"Nathaniel Freeman, Jr.",FN0017,5,Federalist,1034,1512,0.684,TRUE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.southern.1.1794,"Peleg Coffin, Jr.",CP0027,5,Democratic-Republican,475,1512,0.314,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.southern.1.1794,Lewis Gorham,GL0022,5,NA,2,1512,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.southern.1.1794,Richard Childs,CR0079,5,NA,1,1512,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.southern.2.1794,John Reed,RJ0226,6,Federalist,650,1006,0.646,TRUE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.southern.2.1794,George Partridge,PG0027,6,Democratic-Republican,222,1006,0.221,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.southern.2.1794,John Davis,DJ0181,6,NA,88,1006,0.087,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.southern.2.1794,David Barnes,BD0069,6,NA,16,1006,0.016,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.southern.2.1794,Edward H. Robbins,RE0018,6,NA,12,1006,0.012,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.southern.2.1794,Isaac Thompson,TI0012,6,NA,8,1006,0.008,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.southern.2.1794,Andrew Croswell,CA0084,6,NA,4,1006,0.004,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.southern.2.1794,Nathaniel Goodwin,GN0009,6,NA,2,1006,0.002,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.southern.2.1794,Daniel Howard,HD0040,6,NA,1,1006,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.southern.2.1794,Benjamin Lincoln,LB0025,6,Federalist,1,1006,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.southern.2.1794,Israel Nickells,NI0010,6,NA,1,1006,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.southern.2.1794,Cotton Tufts,TC0017,6,NA,1,1006,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.southern.3.ballot4.1795,George Leonard,LG0029,7,Federalist,606,859,0.705,TRUE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.southern.3.ballot4.1795,Elisha May,ME0023,7,Federalist,131,859,0.153,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.southern.3.ballot4.1795,Phanuel Bishop,BP0031,7,Democratic-Republican,57,859,0.066,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.southern.3.ballot4.1795,John Smith,SJ0398,7,NA,31,859,0.036,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.southern.3.ballot4.1795,Laban Wheaton,WL0029,7,NA,15,859,0.017,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.southern.3.ballot4.1795,Josiah Dean,DJ0177,7,NA,6,859,0.007,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.southern.3.ballot4.1795,Rolan Green,GR0030,7,NA,5,859,0.006,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.southern.3.ballot4.1795,John Ellis,EJ0107,7,NA,2,859,0.002,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.southern.3.ballot4.1795,Seth Bullard,BS0035,7,NA,1,859,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.southern.3.ballot4.1795,Stephen Bullock,BS0112,7,NA,1,859,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.southern.3.ballot4.1795,Abel Burt,BA0090,7,NA,1,859,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.southern.3.ballot4.1795,Asahel Carpenter,CA0085,7,NA,1,859,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.southern.3.ballot4.1795,David Cobb,CD0056,7,NA,1,859,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.southern.3.ballot4.1795,Thomas Lee,LT0044,7,NA,1,859,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.1.1794,Theodore Sedgwick,ST0102,1,Federalist,731,1403,0.521,TRUE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.1.1794,Tompson J. Skinner,ST0101,1,Democratic-Republican,639,1403,0.455,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.1.1794,John Bacon,BJ0484,1,NA,28,1403,0.02,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.1.1794,Samuel Lyman,LS0018,1,Federalist,4,1403,0.003,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.1.1794,"William Hale, Jr.",HW0087,1,NA,1,1403,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.2.1794,William Lyman,LW0055,2,Democratic-Republican,774,1523,0.508,TRUE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.2.1794,William Shepard,SW0150,2,Federalist,713,1523,0.468,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.2.1794,John Williams,WJ0343,2,NA,22,1523,0.014,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.2.1794,Samuel Fowler,FS0045,2,NA,7,1523,0.005,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.2.1794,Samuel Lyman,LS0018,2,Federalist,3,1523,0.002,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.2.1794,Samuel Henshaw,HS0048,2,NA,2,1523,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.2.1794,Samuel Hinkly,HS0102,2,NA,1,1523,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.2.1794,Timothy Robinson,RT0032,2,NA,1,1523,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.3.1794,Samuel Lyman,LS0018,3,Federalist,677,1203,0.563,TRUE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.3.1794,Daniel Bigelow,BD0045,3,Democratic-Republican,357,1203,0.297,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.3.1794,"Ebenezer Mattoon, Jr.",ME0042,3,Federalist,66,1203,0.055,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.3.1794,Abner Morgan,MA0071,3,NA,40,1203,0.033,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.3.1794,Martin Kinsley,KM0013,3,NA,27,1203,0.022,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.3.1794,Simeon Strong,SS0125,3,NA,17,1203,0.014,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.3.1794,Thomas Dwight,DT0078,3,Federalist,7,1203,0.006,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.3.1794,Jonathan Grout,GJ0158,3,NA,6,1203,0.005,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.3.1794,Samuel Bigelow,BS0032,3,NA,1,1203,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.3.1794,Moses Bliss,BM0028,3,NA,1,1203,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.3.1794,Joshua Green,GJ0215,3,NA,1,1203,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.3.1794,Moses Hale,HM0040,3,NA,1,1203,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.3.1794,Ebenezer Howe,HE0049,3,NA,1,1203,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.3.1794,Jonathan Wood,WJ0427,3,NA,1,1203,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.4.1794,Dwight Foster,FD0007,4,Federalist,634,1230,0.515,TRUE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.4.1794,Levi Lincoln,LL0038,4,Democratic-Republican,575,1230,0.467,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.4.1794,Timothy Fuller,FT0028,4,NA,8,1230,0.007,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.4.1794,Moses Gill,GM0022,4,NA,7,1230,0.006,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.4.1794,Nathaniel Paine,PN0020,4,NA,2,1230,0.002,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.4.1794,Samuel Flagg,FS0020,4,NA,1,1230,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.4.1794,David Henshaw,HD0036,4,NA,1,1230,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.4.1794,Jonah How,HJ0412,4,NA,1,1230,0.001,FALSE,FALSE
+meae.congressional.congress04.ma.county,ma.uscongress.western.4.1794,Salem Towne,TS0032,4,NA,1,1230,0.001,FALSE,FALSE

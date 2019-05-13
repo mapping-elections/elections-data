@@ -1,0 +1,15 @@
+meae_id,county_ahcb,county_fips,districts,federalist_vote,federalist_percentage,antifederalist_vote,antifederalist_percentage,demrep_vote,demrep_percentage,chesapeake_vote,chesapeake_percentage,potomac_vote,potomac_percentage,repfac_vote,repfac_percentage,adamsclay_vote,adamsclay_percentage,jacksonian_vote,jacksonian_percentage,anticaucus_vote,anticaucus_percentage,caucus_vote,caucus_percentage,other_vote,other_percentage,county_source
+meae.congressional.congress04.sc.county,scs_ninetysixdist,NA,5,1389,0.583,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,992,0.417,county
+meae.congressional.congress04.sc.county,city_charleston,NA,1,588,0.874,NA,NA,85,0.126,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress04.sc.county,scs_christchurchparish,NA,1,35,0.875,NA,NA,5,0.125,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress04.sc.county,scs_standrewparish,NA,1,27,0.9311,NA,NA,2,0.0689,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress04.sc.county,scs_stbartholomewparish,NA,1,231,0.967,NA,NA,8,0.033,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress04.sc.county,scs_stgeorgedorchesterparish,NA,1,83,0.865,NA,NA,13,0.135,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress04.sc.county,scs_stjamesgoosecreekparish,NA,1,22,0.786,NA,NA,6,0.214,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress04.sc.county,scs_stjamessanteeparish,NA,1,66,0.786,NA,NA,18,0.214,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress04.sc.county,scs_stjohnberkeleyparish,NA,1,30,0.909,NA,NA,3,0.091,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress04.sc.county,scs_stjohncolletonparish,NA,1,50,1,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress04.sc.county,scs_stpaulparish,NA,1,38,0.809,NA,NA,9,0.191,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress04.sc.county,scs_ststephenparish,NA,1,7,1,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress04.sc.county,scs_stthomasstdennisparish,NA,1,25,1,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress04.sc.county,scs_stpaulparish,NA,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district

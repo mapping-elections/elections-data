@@ -1,0 +1,9 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress13.ga.county,ga.uscongress.1812,William Bibb,BW0000,At-large,Democratic-Republican,11881,65690,0.181,TRUE,FALSE
+meae.congressional.congress13.ga.county,ga.uscongress.1812,George M. Troup,TG0014,At-large,Democratic-Republican,11026,65690,0.168,TRUE,FALSE
+meae.congressional.congress13.ga.county,ga.uscongress.1812,William Barnett,BW0037,At-large,Democratic-Republican,10466,65690,0.159,TRUE,FALSE
+meae.congressional.congress13.ga.county,ga.uscongress.1812,Thomas Telfair,TT0002,At-large,Democratic-Republican,10461,65690,0.159,TRUE,FALSE
+meae.congressional.congress13.ga.county,ga.uscongress.1812,Bolling Hall,HB0018,At-large,Democratic-Republican,9925,65690,0.151,TRUE,FALSE
+meae.congressional.congress13.ga.county,ga.uscongress.1812,John Forsyth,FJ0021,At-large,Democratic-Republican,9185,65690,0.14,TRUE,FALSE
+meae.congressional.congress13.ga.county,ga.uscongress.1812,George Dent,DG0001,At-large,Federalist,2699,65690,0.041,FALSE,FALSE
+meae.congressional.congress13.ga.county,ga.uscongress.1812,Thomas Carr,CT0026,At-large,NA,47,65690,0.001,FALSE,FALSE

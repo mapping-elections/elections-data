@@ -1,0 +1,9 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress18.in.county,in.usrepresentative.1st.1822,William Prince,PW0025,1,Democratic-Republican,4156,7228,0.575,TRUE,FALSE
+meae.congressional.congress18.in.county,in.usrepresentative.1st.1822,Charles Dewey,DC0012,1,NA,3072,7228,0.425,FALSE,FALSE
+meae.congressional.congress18.in.county,in.usrepresentative.2nd.1822,Jonathan Jennings,JJ0041,2,Jacksonian,3971,6580,0.603,TRUE,FALSE
+meae.congressional.congress18.in.county,in.usrepresentative.2nd.1822,James Scott,SJ0145,2,NA,2598,6580,0.395,FALSE,FALSE
+meae.congressional.congress18.in.county,in.usrepresentative.2nd.1822,David H. Maxwell,MD0022,2,NA,11,6580,0.002,FALSE,FALSE
+meae.congressional.congress18.in.county,in.usrepresentative.3rd.1822,John Test,TJ0114,3,Jacksonian,3178,6841,0.465,TRUE,FALSE
+meae.congressional.congress18.in.county,in.usrepresentative.3rd.1822,Samuel C. Vance,VS0001,3,NA,2238,6841,0.327,FALSE,FALSE
+meae.congressional.congress18.in.county,in.usrepresentative.3rd.1822,Ezra Ferris,FE0008,3,NA,1425,6841,0.208,FALSE,FALSE

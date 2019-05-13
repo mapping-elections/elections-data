@@ -1,0 +1,22 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress02.ny.county,ny.uscongress2.1790,John Laurence,LJ0218,2,Federalist,691,702,0.984,TRUE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongress2.1790,Melancton Smith,SM0075,2,Anti-Federalist,11,702,0.016,FALSE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongress3.1790,Egbert Benson,BE0171,3,Federalist,723,1191,0.607,TRUE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongress3.1790,Theodorus Bailey,BT0171,3,Anti-Federalist,468,1191,0.393,FALSE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongress4.1790,Cornelius C. Schoonmaker,SC0076,4,Anti-Federalist,898,1728,0.52,TRUE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongress4.1790,Peter Van Gaesbeck,VP0015,4,Federalist,753,1728,0.436,FALSE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongress4.1790,John Hathorn,HJ0485,4,Federalist,61,1728,0.035,FALSE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongress4.1790,Christopher Tappen,TC0039,4,Anti-Federalist,13,1728,0.008,FALSE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongress4.1790,William Arnold,AW0049,4,NA,1,1728,0.001,FALSE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongress4.1790,P. Tappen,TP0033,4,NA,1,1728,0.001,FALSE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongress4.1790,W. Thompson,TW0052,4,NA,1,1728,0.001,FALSE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongress5.1790,Peter Sylvester,SP0060,5,Federalist,1712,2930,0.584,TRUE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongress5.1790,John Livingston,LJ0214,5,Anti-Federalist,1218,2930,0.416,FALSE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongress6.1790,James Gordon,GJ0267,6,Federalist,1465,2482,0.59,TRUE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongress6.1790,Jeremiah Van Rensselaer,VJ0189,6,Anti-Federalist,1017,2482,0.41,FALSE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongressspecial.1791,Thomas Tredwell,TT0055,1,Anti-Federalist,666,2538,0.262,TRUE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongressspecial.1791,John Vanderbilt,VJ0061,1,Federalist,481,2538,0.19,FALSE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongressspecial.1791,Henry Peters,PH0027,1,Federalist,369,2538,0.145,FALSE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongressspecial.1791,Ezra L'Hommedieu,LE0003,1,Anti-Federalist,361,2538,0.142,FALSE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongressspecial.1791,Stephen Carman,CS0101,1,Federalist,360,2538,0.142,FALSE,FALSE
+meae.congressional.congress02.ny.county,ny.uscongressspecial.1791,Isaac Ledyard,LI0009,1,Anti-Federalist,301,2538,0.119,FALSE,FALSE

@@ -1,0 +1,115 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress03.ma.county,NA,"Lyman, Samuel",LS0018,At-large,Federalist,5754,58071,0.099,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Cobb, David",CD0056,At-large,Federalist,4553,58071,0.078,TRUE,FALSE
+meae.congressional.congress03.ma.county,NA,"Holten, Samuel",HS0071,At-large,Anti-Federalist,4544,58071,0.078,TRUE,FALSE
+meae.congressional.congress03.ma.county,NA,"Foster, Dwight",FD0007,At-large,Federalist,3640,58071,0.063,TRUE,FALSE
+meae.congressional.congress03.ma.county,NA,"Lyman, William",LW0055,At-large,Anti-Federalist,3283,58071,0.057,TRUE,FALSE
+meae.congressional.congress03.ma.county,NA,"Austin, Benjamin, Jr.",AB0013,At-large,NA,3004,58071,0.052,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Sedgwick, Theodore",ST0102,At-large,Federalist,2922,58071,0.05,TRUE,FALSE
+meae.congressional.congress03.ma.county,NA,"Goodhue, Benjamin",GB0015,At-large,Federalist,2785,58071,0.048,TRUE,FALSE
+meae.congressional.congress03.ma.county,NA,"Ward, Artemas",WA0043,At-large,Federalist,2728,58071,0.047,TRUE,FALSE
+meae.congressional.congress03.ma.county,NA,"Wadsworth, Peleg",WP0012,At-large,Federalist,2558,58071,0.044,TRUE,FALSE
+meae.congressional.congress03.ma.county,NA,"Davis, Daniel",DD0013,At-large,NA,1854,58071,0.032,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Ames, Fisher",AF0004,At-large,Federalist,1772,58071,0.031,TRUE,FALSE
+meae.congressional.congress03.ma.county,NA,"Dexter, Samuel",DS0053,At-large,Federalist,1756,58071,0.03,TRUE,FALSE
+meae.congressional.congress03.ma.county,NA,"Bourne, Shearjashub",BS0036,At-large,Federalist,1585,58071,0.027,TRUE,FALSE
+meae.congressional.congress03.ma.county,NA,"Thacher, George",TG0012,At-large,Federalist,1319,58071,0.023,TRUE,FALSE
+meae.congressional.congress03.ma.county,NA,"Davis, John",DJ0181,At-large,Federalist,1231,58071,0.021,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Skinner, Thompson J.",ST0101,At-large,Anti-Federalist,1154,58071,0.02,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Dearborn, Henry",DH0026,At-large,Anti-Federalist,1110,58071,0.019,TRUE,FALSE
+meae.congressional.congress03.ma.county,NA,"Coffin, Peleg, Jr.",CP0027,At-large,Federalist,1059,58071,0.018,TRUE,FALSE
+meae.congressional.congress03.ma.county,NA,"Grout, Jonathan",GJ0158,At-large,Anti-Federalist,1054,58071,0.018,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Jarvis, Charles",JC0015,At-large,Anti-Federalist,893,58071,0.015,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Wells, Nathaniel",WN0011,At-large,Federalist,808,58071,0.014,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Lithgow, William, Jr.",LW0054,At-large,NA,765,58071,0.013,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Varnum, Joseph B.",VJ0024,At-large,NA,743,58071,0.013,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Leonard, George",LG0029,At-large,Federalist,691,58071,0.012,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Heath, William",HW0171,At-large,NA,634,58071,0.011,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Gerry, Elbridge",GE0049,At-large,Anti-Federalist,532,58071,0.009,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Warren, James",WJ0248,At-large,NA,468,58071,0.008,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Bacon, John",BJ0484,At-large,NA,307,58071,0.005,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Bishop, Phanuel",BP0031,At-large,NA,249,58071,0.004,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Jones, John Coffin",JJ0099,At-large,NA,229,58071,0.004,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Jordan, Tristram",JT0039,At-large,NA,158,58071,0.003,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Sullivan, James",SJ0366,At-large,NA,126,58071,0.002,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Phillips, Samuel",PS0029,At-large,NA,125,58071,0.002,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Eustis, William",EW0031,At-large,NA,98,58071,0.002,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Lincoln, Levi",LL0038,At-large,NA,94,58071,0.002,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Parsons, Theophilus",PT0090,At-large,Federalist,93,58071,0.002,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Bowdoin, James, Jr.",BJ0467,At-large,NA,90,58071,0.002,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Kinsley, Martin",KM0013,At-large,NA,89,58071,0.002,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Gorham, Nathaniel",GN0007,At-large,NA,83,58071,0.001,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Bridge, Ebenezer",BE0139,At-large,NA,82,58071,0.001,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Campbell, Alexander",CA0083,At-large,NA,62,58071,0.001,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Paine, Nathaniel",PN0020,At-large,NA,61,58071,0.001,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Paine, Timothy",PT0071,At-large,NA,61,58071,0.001,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Dwight, Elijah",DE0016,At-large,NA,58,58071,0.001,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Homer, Joseph",HJ0390,At-large,NA,53,58071,0.001,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Gill, Moses",GM0022,At-large,NA,51,58071,0.001,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Orne, Azor",OA0008,At-large,NA,47,58071,0.001,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Henshaw, Samuel",HS0048,At-large,NA,46,58071,0.001,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Dane, Nathan",DN0011,At-large,Federalist,43,58071,0.001,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Bigelow, Daniel",BD0045,At-large,NA,40,58071,0.001,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Jones, Thomas",JT0041,At-large,NA,39,58071,0.001,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Robbins, Edward H.",RE0018,At-large,NA,39,58071,0.001,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Bidwell, Barnabus",BB0057,At-large,NA,35,58071,0.001,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Davin, Henry",DH0016,At-large,NA,29,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Rice, Thomas",RT0039,At-large,NA,21,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Russell, Thomas",RT0060,At-large,NA,21,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Lincoln, Benjamin",LB0025,At-large,Federalist,20,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Wendell, Oliver",WO0023,At-large,NA,20,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Lowell, John",LJ0103,At-large,Federalist,19,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Hunt, Ebenezer",HE0035,At-large,NA,18,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Jarvis, John",JJ0059,At-large,NA,16,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Williams, William",WW0126,At-large,NA,16,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Sergeant, Paul Dudley",SP0040,At-large,NA,15,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Sewall, Henry",SH0030,At-large,NA,14,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Brigham, Elijah",BE0103,At-large,NA,13,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Wilder, Abel",WA0042,At-large,NA,13,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Wales, Ebenezer",WE0053,At-large,NA,13,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Newhall, Timothy",NT0001,At-large,NA,12,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Stearns, Josiah",SJ0359,At-large,NA,12,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Coffin, John",CJ0313,At-large,NA,11,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Brooks, John",BJ0505,At-large,Federalist,9,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Edwards, Timothy",ET0013,At-large,NA,8,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Cross, Stephen",CS0088,At-large,NA,7,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Dana, Francis",DF0019,At-large,Federalist,7,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Dalton, Tristram",DT0022,At-large,NA,7,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Higginson, Stephen",HS0074,At-large,Federalist,7,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Mycall, John",MJ0303,At-large,NA,7,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Sewall, Dummer",SD0057,At-large,NA,7,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Brooks, Eleazer",BE0031,At-large,NA,5,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Cony, Daniel",CD0042,At-large,NA,5,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Grant, Benjamin",GB0023,At-large,NA,5,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Partridge, George",PG0027,At-large,NA,5,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Holms, Aaron",HA0109,At-large,NA,4,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Strong, Caleb",SC0023,At-large,Federalist,4,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"White, Micah",WM0017,At-large,NA,4,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Gardiner, John",GJ0180,At-large,NA,3,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Pratt, John",PJ0233,At-large,NA,3,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Williams, John C.",WJ0343,At-large,NA,3,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Whiting, William",WW0090,At-large,NA,3,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Brown, Samuel",BS0111,At-large,NA,2,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Danber, Simeon",DS0031,At-large,NA,2,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Howard, Daniel",HD0040,At-large,NA,2,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Strong, Simeon",SS0125,At-large,NA,2,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Bishop, Nathaniel",BN0011,At-large,NA,1,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Bidwell, William",BW0167,At-large,NA,1,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Derby, Haskell",DH0014,At-large,NA,1,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Devens, Richard",DR0028,At-large,NA,1,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Davis, Thomas",DT0096,At-large,NA,1,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Goodwin, Nathaniel",GN0009,At-large,NA,1,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Heywood, Benjamin",HB0067,At-large,NA,1,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Jarvis, L.",JL0007,At-large,NA,1,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Jarvis, Samuel",JS0005,At-large,NA,1,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Parsons, Ebenezer",PE0031,At-large,NA,1,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Pullen, Edward",PE0033,At-large,NA,1,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Slocum, Holder",SH0032,At-large,NA,1,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Shepard, William",SW0150,At-large,NA,1,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Spooner, Walter",SW0151,At-large,NA,1,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Thomas, Harleman",TH0008,At-large,NA,1,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Thompson, Isaac",TI0012,At-large,NA,1,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Varnum, Parker",VP0021,At-large,NA,1,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Whitman, Benjamin",WB0026,At-large,NA,1,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Winthrop, James",WJ0341,At-large,NA,1,58071,0,FALSE,FALSE
+meae.congressional.congress03.ma.county,NA,"Wood, Moses",WM0029,At-large,NA,1,58071,0,FALSE,FALSE

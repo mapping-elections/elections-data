@@ -1,0 +1,7 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress10.oh.county,oh.us.houseofrepresentatives.1806,Jeremiah Morrow,MJ0625,At-large,Democratic-Republican,6735,9108,0.739,TRUE,FALSE
+meae.congressional.congress10.oh.county,oh.us.houseofrepresentatives.1806,James Pritchard,PJ0360,At-large,Republican Faction,2364,9108,0.26,FALSE,FALSE
+meae.congressional.congress10.oh.county,oh.us.houseofrepresentatives.1806,Chapman Arthur,AC0008,At-large,NA,1,9108,0,FALSE,FALSE
+meae.congressional.congress10.oh.county,oh.us.houseofrepresentatives.1806,Jacob Burnett,BJ0912,At-large,NA,6,9108,0.001,FALSE,FALSE
+meae.congressional.congress10.oh.county,oh.us.houseofrepresentatives.1806,Michael Fame,FM0007,At-large,NA,1,9108,0,FALSE,FALSE
+meae.congressional.congress10.oh.county,oh.us.houseofrepresentatives.1806,W. Donham,DW0066,At-large,NA,1,9108,0,FALSE,FALSE

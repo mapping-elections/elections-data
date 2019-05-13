@@ -1,0 +1,12 @@
+meae_id,county_ahcb,county_fips,districts,federalist_vote,federalist_percentage,antifederalist_vote,antifederalist_percentage,demrep_vote,demrep_percentage,chesapeake_vote,chesapeake_percentage,potomac_vote,potomac_percentage,repfac_vote,repfac_percentage,adamsclay_vote,adamsclay_percentage,jacksonian_vote,jacksonian_percentage,anticaucus_vote,anticaucus_percentage,caucus_vote,caucus_percentage,other_vote,other_percentage,county_source
+meae.congressional.congress07.vt.county,vts_addison,50001,1,NA,0.354,NA,NA,NA,0.646,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress07.vt.county,vts_bennington,50003,1,NA,0.354,NA,NA,NA,0.646,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress07.vt.county,vts_caledonia,50005,2,345,0.869,NA,NA,52,0.131,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress07.vt.county,vts_chittenden,50007,1,NA,0.354,NA,NA,NA,0.646,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress07.vt.county,vts_essex,50009,2,34,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress07.vt.county,vts_franklin,50011,1,NA,0.354,NA,NA,NA,0.646,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress07.vt.county,vts_orange,50017,2,437,0.799,NA,NA,110,0.201,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress07.vt.county,vts_orleans,50019,1,NA,0.354,NA,NA,NA,0.646,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress07.vt.county,vts_rutland,50021,1,NA,0.354,NA,NA,NA,0.646,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,district
+meae.congressional.congress07.vt.county,vts_windham,50025,2,724,0.778,NA,NA,207,0.222,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress07.vt.county,vts_windsor,50027,2,579,0.635,NA,NA,333,0.365,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county

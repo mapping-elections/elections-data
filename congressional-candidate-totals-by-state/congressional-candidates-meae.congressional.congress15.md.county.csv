@@ -1,0 +1,28 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress15.md.county,md.uscongress1.1816,Philip Stewart,SP0013,1,Federalist,1092,1102,0.991,TRUE,FALSE
+meae.congressional.congress15.md.county,md.uscongress1.1816,Francis Digges,DF0005,1,NA,4,1102,0.004,FALSE,FALSE
+meae.congressional.congress15.md.county,md.uscongress1.1816,Leonard B. Gardiner,GL0006,1,NA,4,1102,0.004,FALSE,FALSE
+meae.congressional.congress15.md.county,md.uscongress1.1816,Clement Dorsey,DC0019,1,Federalist,1,1102,0.001,FALSE,FALSE
+meae.congressional.congress15.md.county,md.uscongress1.1816,William Thomas,TW0029,1,NA,1,1102,0.001,FALSE,FALSE
+meae.congressional.congress15.md.county,md.uscongress2.1816,John C. Herbert,HJ0191,2,Federalist,1602,3163,0.506,TRUE,FALSE
+meae.congressional.congress15.md.county,md.uscongress2.1816,Joshua Barney,BJ0327,2,Democratic-Republican,1556,3163,0.492,FALSE,FALSE
+meae.congressional.congress15.md.county,md.uscongress2.1816,Joseph Kent,KJ0034,2,NA,5,3163,0.002,FALSE,FALSE
+meae.congressional.congress15.md.county,md.uscongress3.1816,George Peter,PG0031,3,Federalist,1888,4106,0.46,TRUE,FALSE
+meae.congressional.congress15.md.county,md.uscongress3.1816,Charles Kilgour,KC0002,3,Federalist,1249,4106,0.304,FALSE,FALSE
+meae.congressional.congress15.md.county,md.uscongress3.1816,Nicholas Snethen,SN0051,3,Democratic-Republican,969,4106,0.236,FALSE,FALSE
+meae.congressional.congress15.md.county,md.uscongress4.1816,Samuel Ringgold,RS0013,4,Democratic-Republican,3460,6451,0.536,TRUE,FALSE
+meae.congressional.congress15.md.county,md.uscongress4.1816,Matthew Van Lear,VM0007,4,Federalist,2985,6451,0.463,FALSE,FALSE
+meae.congressional.congress15.md.county,md.uscongress4.1816,Benjamin Galloway,GB0005,4,NA,4,6451,0.001,FALSE,FALSE
+meae.congressional.congress15.md.county,md.uscongress4.1816,John Nelson,NJ0035,4,NA,1,6451,0,FALSE,FALSE
+meae.congressional.congress15.md.county,md.uscongress4.1816,Mathem Vanke,VM0001,4,NA,1,6451,0,FALSE,FALSE
+meae.congressional.congress15.md.county,md.uscongress5.1816,Samuel Smith,SS0062,5,Democratic-Republican,5326,12637,0.421,TRUE,FALSE
+meae.congressional.congress15.md.county,md.uscongress5.1816,Peter Little,LP0015,5,Democratic-Republican,3974,12637,0.314,TRUE,FALSE
+meae.congressional.congress15.md.county,md.uscongress5.1816,Tobias Stansbury,ST0095,5,Democratic-Republican,3337,12637,0.264,FALSE,FALSE
+meae.congressional.congress15.md.county,md.uscongress6.1816,Philip Reed,RP0009,6,Federalist,2282,4431,0.515,TRUE,FALSE
+meae.congressional.congress15.md.county,md.uscongress6.1816,Stevenson Archer,AS0013,6,Democratic-Republican,2149,4431,0.485,FALSE,FALSE
+meae.congressional.congress15.md.county,md.uscongress7.1816,Thomas Culbreth,CT0095,7,Democratic-Republican,1879,3698,0.508,TRUE,FALSE
+meae.congressional.congress15.md.county,md.uscongress7.1816,William Potter,PW0046,7,Federalist,1818,3698,0.492,FALSE,FALSE
+meae.congressional.congress15.md.county,md.uscongress7.1816,Thomas Emory,ET0007,7,NA,1,3698,0,FALSE,FALSE
+meae.congressional.congress15.md.county,md.uscongress8.1816,Thomas Bayly,BT0056,8,Federalist,2539,4914,0.517,TRUE,FALSE
+meae.congressional.congress15.md.county,md.uscongress8.1816,Ephraim K. Wilson,WE0025,8,Federalist,2289,4914,0.466,FALSE,FALSE
+meae.congressional.congress15.md.county,md.uscongress8.1816,Thomas Williams,WT0027,8,Democratic-Republican,86,4914,0.018,FALSE,FALSE

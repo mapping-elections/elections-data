@@ -1,0 +1,7 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress11.de.county,congressional,11,DE,county,state,de.uscongress.1808,Kent,des_kent,10001,"Haslet, Joseph",HJ0024,Democratic-Republican,600
+meae.congressional.congress11.de.county,congressional,11,DE,county,state,de.uscongress.1808,New Castle,des_newcastle,10003,"Haslet, Joseph",HJ0024,Democratic-Republican,1575
+meae.congressional.congress11.de.county,congressional,11,DE,county,state,de.uscongress.1808,Sussex,des_sussex,10005,"Haslet, Joseph",HJ0024,Democratic-Republican,662
+meae.congressional.congress11.de.county,congressional,11,DE,county,state,de.uscongress.1808,Kent,des_kent,10001,"Van Dyke, Nicholas",VN0010,Federalist,1030
+meae.congressional.congress11.de.county,congressional,11,DE,county,state,de.uscongress.1808,New Castle,des_newcastle,10003,"Van Dyke, Nicholas",VN0010,Federalist,888
+meae.congressional.congress11.de.county,congressional,11,DE,county,state,de.uscongress.1808,Sussex,des_sussex,10005,"Van Dyke, Nicholas",VN0010,Federalist,1324

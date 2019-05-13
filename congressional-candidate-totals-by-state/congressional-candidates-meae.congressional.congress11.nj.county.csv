@@ -1,0 +1,16 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress11.nj.county,nj.uscongress.1808,Henry Southard,SH0055,At-large,Democratic-Republican,18705,199810,0.094,TRUE,FALSE
+meae.congressional.congress11.nj.county,nj.uscongress.1808,Adam Boyd,BA0122,At-large,Democratic-Republican,18691,199810,0.094,TRUE,FALSE
+meae.congressional.congress11.nj.county,nj.uscongress.1808,William Helms,HW0205,At-large,Democratic-Republican,18684,199810,0.094,TRUE,FALSE
+meae.congressional.congress11.nj.county,nj.uscongress.1808,Thomas Newbold,NT0008,At-large,Democratic-Republican,18657,199810,0.093,TRUE,FALSE
+meae.congressional.congress11.nj.county,nj.uscongress.1808,James Cox,CJ0405,At-large,Democratic-Republican,18649,199810,0.093,TRUE,FALSE
+meae.congressional.congress11.nj.county,nj.uscongress.1808,Jacob Hufty,HJ0423,At-large,Democratic-Republican,18586,199810,0.093,TRUE,FALSE
+meae.congressional.congress11.nj.county,nj.uscongress.1808,Aaron Ogden,OA0025,At-large,Federalist,14609,199810,0.073,FALSE,FALSE
+meae.congressional.congress11.nj.county,nj.uscongress.1808,John Neilson,NJ0051,At-large,Federalist,14673,199810,0.073,FALSE,FALSE
+meae.congressional.congress11.nj.county,nj.uscongress.1808,John Beatty,BJ0587,At-large,Federalist,14702,199810,0.074,FALSE,FALSE
+meae.congressional.congress11.nj.county,nj.uscongress.1808,William Coxe,CW0104,At-large,Federalist,14677,199810,0.073,FALSE,FALSE
+meae.congressional.congress11.nj.county,nj.uscongress.1808,William Campfield,CW0098,At-large,Federalist,14677,199810,0.073,FALSE,FALSE
+meae.congressional.congress11.nj.county,nj.uscongress.1808,Samuel W. Harrison,HS0123,At-large,Federalist,14496,199810,0.073,FALSE,FALSE
+meae.congressional.congress11.nj.county,nj.uscongress.1808,James Sloan,SJ0553,At-large,NA,2,199810,0,FALSE,FALSE
+meae.congressional.congress11.nj.county,nj.uscongress.1808,Richard Stockton,SR0121,At-large,Federalist,1,199810,0,FALSE,FALSE
+meae.congressional.congress11.nj.county,nj.uscongress.1808,John Lambert,LJ0153,At-large,NA,1,199810,0,FALSE,FALSE

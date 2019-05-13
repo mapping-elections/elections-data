@@ -1,0 +1,15 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress06.md.county,md.uscongress1.1798,George Dent,DG0004,1,Federalist,1241,2279,0.545,TRUE,FALSE
+meae.congressional.congress06.md.county,md.uscongress1.1798,John Campbell,CJ0207,1,Federalist,1038,2279,0.455,FALSE,FALSE
+meae.congressional.congress06.md.county,md.uscongress2.1798,John Chew Thomas,TJ0169,2,Federalist,1924,3121,0.616,TRUE,FALSE
+meae.congressional.congress06.md.county,md.uscongress2.1798,"Richard Sprigg, Jr.",SR0049,2,Democratic-Republican,1197,3121,0.384,FALSE,FALSE
+meae.congressional.congress06.md.county,md.uscongress3.1798,William Craik,CW0040,3,Federalist,1436,1436,1,TRUE,TRUE
+meae.congressional.congress06.md.county,md.uscongress4.1798,George Baer,BG0023,4,Federalist,2846,5184,0.549,TRUE,FALSE
+meae.congressional.congress06.md.county,md.uscongress4.1798,Daniel Heister,ZZ0005,4,Democratic-Republican,2338,5184,0.451,FALSE,FALSE
+meae.congressional.congress06.md.county,md.uscongress5.1798,Samuel Smith,SS0062,5,Democratic-Republican,2610,4521,0.577,TRUE,FALSE
+meae.congressional.congress06.md.county,md.uscongress5.1798,James Winchester,WJ0140,5,Federalist,1911,4521,0.423,FALSE,FALSE
+meae.congressional.congress06.md.county,md.uscongress6.1798,Gabriel Christie,CG0044,6,Democratic-Republican,2512,4468,0.562,TRUE,FALSE
+meae.congressional.congress06.md.county,md.uscongress6.1798,Philip Thomas,TP0016,6,Federalist,1956,4468,0.438,FALSE,FALSE
+meae.congressional.congress06.md.county,md.uscongress7.1798,Joshua Seney,SJ0183,7,Democratic-Republican,2061,3707,0.556,TRUE,FALSE
+meae.congressional.congress06.md.county,md.uscongress7.1798,William Hindman,HW0097,7,Federalist,1646,3707,0.444,FALSE,FALSE
+meae.congressional.congress06.md.county,md.uscongress8.1798,John Dennis,DJ0122,8,Federalist,460,460,1,TRUE,TRUE

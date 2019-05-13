@@ -1,0 +1,23 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress06.ny.county,ny.uscongress1.1798,Jonathan N. Havens,HJ0499,1,Democratic-Republican,1758,3260,0.539,TRUE,FALSE
+meae.congressional.congress06.ny.county,ny.uscongress1.1798,Richard Thorn,TR0047,1,Federalist,1502,3260,0.461,FALSE,FALSE
+meae.congressional.congress06.ny.county,ny.uscongress10.1798,William Cooper,CW0154,10,Federalist,2038,3903,0.522,TRUE,FALSE
+meae.congressional.congress06.ny.county,ny.uscongress10.1798,Moss Kent,KM0021,10,Democratic-Republican,1865,3903,0.478,FALSE,FALSE
+meae.congressional.congress06.ny.county,ny.uscongress2.1798,Edward Livingston,LE0044,2,Democratic-Republican,1734,3293,0.527,TRUE,FALSE
+meae.congressional.congress06.ny.county,ny.uscongress2.1798,Philip Livingston,LP0034,2,Federalist,1559,3293,0.473,FALSE,FALSE
+meae.congressional.congress06.ny.county,ny.uscongress3.1798,Pierre Van Cortlandt,VP0039,3,Democratic-Republican,1673,2169,0.771,TRUE,FALSE
+meae.congressional.congress06.ny.county,ny.uscongress3.1798,Mordecai Hale,HM0045,3,Federalist,496,2169,0.229,FALSE,FALSE
+meae.congressional.congress06.ny.county,ny.uscongress4.1798,Lucas Elmendorf,EL0004,4,Democratic-Republican,2765,4294,0.644,TRUE,FALSE
+meae.congressional.congress06.ny.county,ny.uscongress4.1798,Jonathan Hasbrouck,HJ0509,4,Federalist,1482,4294,0.345,FALSE,FALSE
+meae.congressional.congress06.ny.county,ny.uscongress4.1798,John Hathorn,HJ0485,4,Democratic-Republican,47,4294,0.011,FALSE,FALSE
+meae.congressional.congress06.ny.county,ny.uscongress5.1798,Theodorous Bailey,BT0171,5,Democratic-Republican,1502,2694,0.558,TRUE,FALSE
+meae.congressional.congress06.ny.county,ny.uscongress5.1798,David Brooks,BD0076,5,Federalist,1192,2694,0.442,FALSE,FALSE
+meae.congressional.congress06.ny.county,ny.uscongress6.1798,John Bird,BJ0683,6,Federalist,2809,4754,0.591,TRUE,FALSE
+meae.congressional.congress06.ny.county,ny.uscongress6.1798,Elisha Jenkins,JE0013,6,Democratic-Republican,1945,4754,0.409,FALSE,FALSE
+meae.congressional.congress06.ny.county,ny.uscongress7.1798,John Thompson,TJ0297,7,Democratic-Republican,2197,4185,0.525,TRUE,FALSE
+meae.congressional.congress06.ny.county,ny.uscongress7.1798,John Williams,WJ0409,7,Federalist,1569,4185,0.375,FALSE,FALSE
+meae.congressional.congress06.ny.county,ny.uscongress7.1798,Jellis A. Fonda,FJ0176,7,Federalist,419,4185,0.1,FALSE,FALSE
+meae.congressional.congress06.ny.county,ny.uscongress8.1798,Henry Glen,GH0039,8,Federalist,2643,2652,0.997,TRUE,FALSE
+meae.congressional.congress06.ny.county,ny.uscongress8.1798,scattering,NA,8,NA,9,2652,0.003,FALSE,FALSE
+meae.congressional.congress06.ny.county,ny.uscongress9.1798,Jonas Platt,PJ0297,9,Federalist,2880,5628,0.512,TRUE,FALSE
+meae.congressional.congress06.ny.county,ny.uscongress9.1798,Peter Smith,SP0070,9,Democratic-Republican,2748,5628,0.488,FALSE,FALSE

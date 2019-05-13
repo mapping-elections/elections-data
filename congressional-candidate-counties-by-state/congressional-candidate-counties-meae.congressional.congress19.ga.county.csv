@@ -1,0 +1,677 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Appling,gas_appling,13001,"Carey, George",CG0025,Crawford,28
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Baldwin,gas_baldwin,13009,"Carey, George",CG0025,Crawford,226
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bibb,gas_bibb,13021,"Carey, George",CG0025,Crawford,53
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bryan,gas_bryan,13029,"Carey, George",CG0025,Crawford,133
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bulloch,gas_bulloch,13031,"Carey, George",CG0025,Crawford,78
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Burke,gas_burke,13033,"Carey, George",CG0025,Crawford,50
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Camden,gas_camden,13039,"Carey, George",CG0025,Crawford,130
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Chatham,gas_chatham,13051,"Carey, George",CG0025,Crawford,570
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Clarke,gas_clarke,13059,"Carey, George",CG0025,Crawford,166
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Columbia,gas_columbia,13073,"Carey, George",CG0025,Crawford,234
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Crawford,gas_crawford,13079,"Carey, George",CG0025,Crawford,68
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,De Kalb,gas_dekalb,13089,"Carey, George",CG0025,Crawford,108
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Decatur,gas_decatur,13087,"Carey, George",CG0025,Crawford,23
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Dooly,gas_dooly,13093,"Carey, George",CG0025,Crawford,55
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Early,gas_early,13099,"Carey, George",CG0025,Crawford,46
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Effingham,gas_effingham,13103,"Carey, George",CG0025,Crawford,124
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Elbert,gas_elbert,13105,"Carey, George",CG0025,Crawford,105
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Fayette,gas_fayette,13113,"Carey, George",CG0025,Crawford,29
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Franklin,gas_franklin,13119,"Carey, George",CG0025,Crawford,15
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Glynn,gas_glynn,13127,"Carey, George",CG0025,Crawford,72
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Greene,gas_greene,13133,"Carey, George",CG0025,Crawford,375
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Gwinnett,gas_gwinnett,13135,"Carey, George",CG0025,Crawford,49
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Habersham,gas_habersham,13137,"Carey, George",CG0025,Crawford,73
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Hall,gas_hall,13139,"Carey, George",CG0025,Crawford,52
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Hancock,gas_hancock,13141,"Carey, George",CG0025,Crawford,291
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Henry,gas_henry,13151,"Carey, George",CG0025,Crawford,147
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Houston,gas_houston,13153,"Carey, George",CG0025,Crawford,32
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Irwin,gas_irwin,13155,"Carey, George",CG0025,Crawford,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jackson,gas_jackson,13157,"Carey, George",CG0025,Crawford,282
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jasper,gas_jasper,13159,"Carey, George",CG0025,Crawford,311
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jefferson,gas_jefferson,13163,"Carey, George",CG0025,Crawford,69
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jones,gas_jones,13169,"Carey, George",CG0025,Crawford,722
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Laurens,gas_laurens,13175,"Carey, George",CG0025,Crawford,142
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Liberty,gas_liberty,13179,"Carey, George",CG0025,Crawford,77
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Lincoln,gas_lincoln,13181,"Carey, George",CG0025,Crawford,73
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Madison,gas_madison,13195,"Carey, George",CG0025,Crawford,71
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,McIntosh,gas_mcintosh,13191,"Carey, George",CG0025,Crawford,215
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Monroe,gas_monroe,13207,"Carey, George",CG0025,Crawford,447
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Montgomery,gas_montgomery,13209,"Carey, George",CG0025,Crawford,59
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Morgan,gas_morgan,13211,"Carey, George",CG0025,Crawford,607
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Newton,gas_newton,13217,"Carey, George",CG0025,Crawford,339
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Oglethorpe,gas_oglethorpe,13221,"Carey, George",CG0025,Crawford,627
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Pike,gas_pike,13231,"Carey, George",CG0025,Crawford,40
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Pulaski,gas_pulaski,13235,"Carey, George",CG0025,Crawford,39
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Putnam,gas_putnam,13237,"Carey, George",CG0025,Crawford,241
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Richmond,gas_richmond,13245,"Carey, George",CG0025,Crawford,335
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Screven,gas_screven,13251,"Carey, George",CG0025,Crawford,77
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Tattnall,gas_tattnall,13267,"Carey, George",CG0025,Crawford,128
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Telfair,gas_telfair,13271,"Carey, George",CG0025,Crawford,75
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Twiggs,gas_twiggs,13289,"Carey, George",CG0025,Crawford,59
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Walton,gas_walton,13297,"Carey, George",CG0025,Crawford,94
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Warren,gas_warren,13301,"Carey, George",CG0025,Crawford,337
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Washington,gas_washington,13303,"Carey, George",CG0025,Crawford,46
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wayne,gas_wayne,13305,"Carey, George",CG0025,Crawford,139
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wilkes,gas_wilkes,13317,"Carey, George",CG0025,Crawford,613
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wilkinson,gas_wilkinson,13319,"Carey, George",CG0025,Crawford,76
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Appling,gas_appling,13001,"Cuthbert, Alfred",CA0020,Crawford,31
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Baldwin,gas_baldwin,13009,"Cuthbert, Alfred",CA0020,Crawford,217
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bibb,gas_bibb,13021,"Cuthbert, Alfred",CA0020,Crawford,46
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bryan,gas_bryan,13029,"Cuthbert, Alfred",CA0020,Crawford,137
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bulloch,gas_bulloch,13031,"Cuthbert, Alfred",CA0020,Crawford,136
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Burke,gas_burke,13033,"Cuthbert, Alfred",CA0020,Crawford,56
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Camden,gas_camden,13039,"Cuthbert, Alfred",CA0020,Crawford,175
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Chatham,gas_chatham,13051,"Cuthbert, Alfred",CA0020,Crawford,595
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Clarke,gas_clarke,13059,"Cuthbert, Alfred",CA0020,Crawford,154
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Columbia,gas_columbia,13073,"Cuthbert, Alfred",CA0020,Crawford,208
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Crawford,gas_crawford,13079,"Cuthbert, Alfred",CA0020,Crawford,64
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,De Kalb,gas_dekalb,13089,"Cuthbert, Alfred",CA0020,Crawford,142
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Decatur,gas_decatur,13087,"Cuthbert, Alfred",CA0020,Crawford,26
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Dooly,gas_dooly,13093,"Cuthbert, Alfred",CA0020,Crawford,65
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Early,gas_early,13099,"Cuthbert, Alfred",CA0020,Crawford,45
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Effingham,gas_effingham,13103,"Cuthbert, Alfred",CA0020,Crawford,125
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Elbert,gas_elbert,13105,"Cuthbert, Alfred",CA0020,Crawford,92
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Fayette,gas_fayette,13113,"Cuthbert, Alfred",CA0020,Crawford,89
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Franklin,gas_franklin,13119,"Cuthbert, Alfred",CA0020,Crawford,15
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Glynn,gas_glynn,13127,"Cuthbert, Alfred",CA0020,Crawford,85
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Greene,gas_greene,13133,"Cuthbert, Alfred",CA0020,Crawford,355
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Gwinnett,gas_gwinnett,13135,"Cuthbert, Alfred",CA0020,Crawford,77
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Habersham,gas_habersham,13137,"Cuthbert, Alfred",CA0020,Crawford,152
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Hall,gas_hall,13139,"Cuthbert, Alfred",CA0020,Crawford,65
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Hancock,gas_hancock,13141,"Cuthbert, Alfred",CA0020,Crawford,181
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Henry,gas_henry,13151,"Cuthbert, Alfred",CA0020,Crawford,144
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Houston,gas_houston,13153,"Cuthbert, Alfred",CA0020,Crawford,36
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Irwin,gas_irwin,13155,"Cuthbert, Alfred",CA0020,Crawford,11
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jackson,gas_jackson,13157,"Cuthbert, Alfred",CA0020,Crawford,273
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jasper,gas_jasper,13159,"Cuthbert, Alfred",CA0020,Crawford,324
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jefferson,gas_jefferson,13163,"Cuthbert, Alfred",CA0020,Crawford,70
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jones,gas_jones,13169,"Cuthbert, Alfred",CA0020,Crawford,730
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Laurens,gas_laurens,13175,"Cuthbert, Alfred",CA0020,Crawford,117
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Liberty,gas_liberty,13179,"Cuthbert, Alfred",CA0020,Crawford,115
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Lincoln,gas_lincoln,13181,"Cuthbert, Alfred",CA0020,Crawford,49
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Madison,gas_madison,13195,"Cuthbert, Alfred",CA0020,Crawford,70
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,McIntosh,gas_mcintosh,13191,"Cuthbert, Alfred",CA0020,Crawford,211
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Monroe,gas_monroe,13207,"Cuthbert, Alfred",CA0020,Crawford,443
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Montgomery,gas_montgomery,13209,"Cuthbert, Alfred",CA0020,Crawford,58
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Morgan,gas_morgan,13211,"Cuthbert, Alfred",CA0020,Crawford,607
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Newton,gas_newton,13217,"Cuthbert, Alfred",CA0020,Crawford,339
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Oglethorpe,gas_oglethorpe,13221,"Cuthbert, Alfred",CA0020,Crawford,627
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Pike,gas_pike,13231,"Cuthbert, Alfred",CA0020,Crawford,46
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Pulaski,gas_pulaski,13235,"Cuthbert, Alfred",CA0020,Crawford,43
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Putnam,gas_putnam,13237,"Cuthbert, Alfred",CA0020,Crawford,271
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Richmond,gas_richmond,13245,"Cuthbert, Alfred",CA0020,Crawford,341
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Screven,gas_screven,13251,"Cuthbert, Alfred",CA0020,Crawford,104
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Tattnall,gas_tattnall,13267,"Cuthbert, Alfred",CA0020,Crawford,117
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Telfair,gas_telfair,13271,"Cuthbert, Alfred",CA0020,Crawford,123
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Twiggs,gas_twiggs,13289,"Cuthbert, Alfred",CA0020,Crawford,66
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Walton,gas_walton,13297,"Cuthbert, Alfred",CA0020,Crawford,90
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Warren,gas_warren,13301,"Cuthbert, Alfred",CA0020,Crawford,321
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Washington,gas_washington,13303,"Cuthbert, Alfred",CA0020,Crawford,40
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wayne,gas_wayne,13305,"Cuthbert, Alfred",CA0020,Crawford,139
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wilkes,gas_wilkes,13317,"Cuthbert, Alfred",CA0020,Crawford,608
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wilkinson,gas_wilkinson,13319,"Cuthbert, Alfred",CA0020,Crawford,84
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Appling,gas_appling,13001,"Forsyth, John",FJ0021,Crawford,38
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Baldwin,gas_baldwin,13009,"Forsyth, John",FJ0021,Crawford,223
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bibb,gas_bibb,13021,"Forsyth, John",FJ0021,Crawford,49
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bryan,gas_bryan,13029,"Forsyth, John",FJ0021,Crawford,135
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bulloch,gas_bulloch,13031,"Forsyth, John",FJ0021,Crawford,89
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Burke,gas_burke,13033,"Forsyth, John",FJ0021,Crawford,55
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Camden,gas_camden,13039,"Forsyth, John",FJ0021,Crawford,175
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Chatham,gas_chatham,13051,"Forsyth, John",FJ0021,Crawford,588
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Clarke,gas_clarke,13059,"Forsyth, John",FJ0021,Crawford,182
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Columbia,gas_columbia,13073,"Forsyth, John",FJ0021,Crawford,218
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Crawford,gas_crawford,13079,"Forsyth, John",FJ0021,Crawford,66
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,De Kalb,gas_dekalb,13089,"Forsyth, John",FJ0021,Crawford,110
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Decatur,gas_decatur,13087,"Forsyth, John",FJ0021,Crawford,24
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Dooly,gas_dooly,13093,"Forsyth, John",FJ0021,Crawford,64
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Early,gas_early,13099,"Forsyth, John",FJ0021,Crawford,46
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Effingham,gas_effingham,13103,"Forsyth, John",FJ0021,Crawford,125
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Elbert,gas_elbert,13105,"Forsyth, John",FJ0021,Crawford,138
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Fayette,gas_fayette,13113,"Forsyth, John",FJ0021,Crawford,39
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Franklin,gas_franklin,13119,"Forsyth, John",FJ0021,Crawford,15
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Glynn,gas_glynn,13127,"Forsyth, John",FJ0021,Crawford,73
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Greene,gas_greene,13133,"Forsyth, John",FJ0021,Crawford,376
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Gwinnett,gas_gwinnett,13135,"Forsyth, John",FJ0021,Crawford,271
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Habersham,gas_habersham,13137,"Forsyth, John",FJ0021,Crawford,86
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Hall,gas_hall,13139,"Forsyth, John",FJ0021,Crawford,67
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Hancock,gas_hancock,13141,"Forsyth, John",FJ0021,Crawford,265
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Henry,gas_henry,13151,"Forsyth, John",FJ0021,Crawford,144
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Houston,gas_houston,13153,"Forsyth, John",FJ0021,Crawford,31
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Irwin,gas_irwin,13155,"Forsyth, John",FJ0021,Crawford,12
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jackson,gas_jackson,13157,"Forsyth, John",FJ0021,Crawford,279
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jasper,gas_jasper,13159,"Forsyth, John",FJ0021,Crawford,322
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jefferson,gas_jefferson,13163,"Forsyth, John",FJ0021,Crawford,73
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jones,gas_jones,13169,"Forsyth, John",FJ0021,Crawford,722
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Laurens,gas_laurens,13175,"Forsyth, John",FJ0021,Crawford,143
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Liberty,gas_liberty,13179,"Forsyth, John",FJ0021,Crawford,97
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Lincoln,gas_lincoln,13181,"Forsyth, John",FJ0021,Crawford,92
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Madison,gas_madison,13195,"Forsyth, John",FJ0021,Crawford,74
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,McIntosh,gas_mcintosh,13191,"Forsyth, John",FJ0021,Crawford,214
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Monroe,gas_monroe,13207,"Forsyth, John",FJ0021,Crawford,460
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Montgomery,gas_montgomery,13209,"Forsyth, John",FJ0021,Crawford,57
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Morgan,gas_morgan,13211,"Forsyth, John",FJ0021,Crawford,619
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Newton,gas_newton,13217,"Forsyth, John",FJ0021,Crawford,334
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Oglethorpe,gas_oglethorpe,13221,"Forsyth, John",FJ0021,Crawford,628
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Pike,gas_pike,13231,"Forsyth, John",FJ0021,Crawford,46
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Pulaski,gas_pulaski,13235,"Forsyth, John",FJ0021,Crawford,44
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Putnam,gas_putnam,13237,"Forsyth, John",FJ0021,Crawford,271
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Richmond,gas_richmond,13245,"Forsyth, John",FJ0021,Crawford,344
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Screven,gas_screven,13251,"Forsyth, John",FJ0021,Crawford,104
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Tattnall,gas_tattnall,13267,"Forsyth, John",FJ0021,Crawford,131
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Telfair,gas_telfair,13271,"Forsyth, John",FJ0021,Crawford,90
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Twiggs,gas_twiggs,13289,"Forsyth, John",FJ0021,Crawford,66
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Walton,gas_walton,13297,"Forsyth, John",FJ0021,Crawford,100
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Warren,gas_warren,13301,"Forsyth, John",FJ0021,Crawford,335
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Washington,gas_washington,13303,"Forsyth, John",FJ0021,Crawford,49
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wayne,gas_wayne,13305,"Forsyth, John",FJ0021,Crawford,139
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wilkes,gas_wilkes,13317,"Forsyth, John",FJ0021,Crawford,597
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wilkinson,gas_wilkinson,13319,"Forsyth, John",FJ0021,Crawford,85
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Appling,gas_appling,13001,"Haynes, Charles E.",HC0011,Crawford,31
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Baldwin,gas_baldwin,13009,"Haynes, Charles E.",HC0011,Crawford,215
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bibb,gas_bibb,13021,"Haynes, Charles E.",HC0011,Crawford,45
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bryan,gas_bryan,13029,"Haynes, Charles E.",HC0011,Crawford,65
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bulloch,gas_bulloch,13031,"Haynes, Charles E.",HC0011,Crawford,76
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Burke,gas_burke,13033,"Haynes, Charles E.",HC0011,Crawford,49
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Camden,gas_camden,13039,"Haynes, Charles E.",HC0011,Crawford,38
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Chatham,gas_chatham,13051,"Haynes, Charles E.",HC0011,Crawford,558
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Clarke,gas_clarke,13059,"Haynes, Charles E.",HC0011,Crawford,160
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Columbia,gas_columbia,13073,"Haynes, Charles E.",HC0011,Crawford,213
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Crawford,gas_crawford,13079,"Haynes, Charles E.",HC0011,Crawford,106
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,De Kalb,gas_dekalb,13089,"Haynes, Charles E.",HC0011,Crawford,105
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Decatur,gas_decatur,13087,"Haynes, Charles E.",HC0011,Crawford,1
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Dooly,gas_dooly,13093,"Haynes, Charles E.",HC0011,Crawford,52
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Early,gas_early,13099,"Haynes, Charles E.",HC0011,Crawford,46
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Effingham,gas_effingham,13103,"Haynes, Charles E.",HC0011,Crawford,125
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Elbert,gas_elbert,13105,"Haynes, Charles E.",HC0011,Crawford,92
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Fayette,gas_fayette,13113,"Haynes, Charles E.",HC0011,Crawford,40
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Franklin,gas_franklin,13119,"Haynes, Charles E.",HC0011,Crawford,12
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Glynn,gas_glynn,13127,"Haynes, Charles E.",HC0011,Crawford,4
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Greene,gas_greene,13133,"Haynes, Charles E.",HC0011,Crawford,319
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Gwinnett,gas_gwinnett,13135,"Haynes, Charles E.",HC0011,Crawford,42
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Habersham,gas_habersham,13137,"Haynes, Charles E.",HC0011,Crawford,32
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Hall,gas_hall,13139,"Haynes, Charles E.",HC0011,Crawford,55
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Hancock,gas_hancock,13141,"Haynes, Charles E.",HC0011,Crawford,394
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Henry,gas_henry,13151,"Haynes, Charles E.",HC0011,Crawford,133
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Houston,gas_houston,13153,"Haynes, Charles E.",HC0011,Crawford,64
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Irwin,gas_irwin,13155,"Haynes, Charles E.",HC0011,Crawford,2
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jackson,gas_jackson,13157,"Haynes, Charles E.",HC0011,Crawford,232
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jasper,gas_jasper,13159,"Haynes, Charles E.",HC0011,Crawford,335
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jefferson,gas_jefferson,13163,"Haynes, Charles E.",HC0011,Crawford,54
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jones,gas_jones,13169,"Haynes, Charles E.",HC0011,Crawford,711
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Laurens,gas_laurens,13175,"Haynes, Charles E.",HC0011,Crawford,108
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Liberty,gas_liberty,13179,"Haynes, Charles E.",HC0011,Crawford,57
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Lincoln,gas_lincoln,13181,"Haynes, Charles E.",HC0011,Crawford,50
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Madison,gas_madison,13195,"Haynes, Charles E.",HC0011,Crawford,65
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,McIntosh,gas_mcintosh,13191,"Haynes, Charles E.",HC0011,Crawford,77
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Monroe,gas_monroe,13207,"Haynes, Charles E.",HC0011,Crawford,507
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Montgomery,gas_montgomery,13209,"Haynes, Charles E.",HC0011,Crawford,56
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Morgan,gas_morgan,13211,"Haynes, Charles E.",HC0011,Crawford,598
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Newton,gas_newton,13217,"Haynes, Charles E.",HC0011,Crawford,330
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Oglethorpe,gas_oglethorpe,13221,"Haynes, Charles E.",HC0011,Crawford,619
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Pike,gas_pike,13231,"Haynes, Charles E.",HC0011,Crawford,23
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Pulaski,gas_pulaski,13235,"Haynes, Charles E.",HC0011,Crawford,40
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Putnam,gas_putnam,13237,"Haynes, Charles E.",HC0011,Crawford,249
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Richmond,gas_richmond,13245,"Haynes, Charles E.",HC0011,Crawford,318
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Screven,gas_screven,13251,"Haynes, Charles E.",HC0011,Crawford,69
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Tattnall,gas_tattnall,13267,"Haynes, Charles E.",HC0011,Crawford,89
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Telfair,gas_telfair,13271,"Haynes, Charles E.",HC0011,Crawford,73
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Twiggs,gas_twiggs,13289,"Haynes, Charles E.",HC0011,Crawford,60
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Walton,gas_walton,13297,"Haynes, Charles E.",HC0011,Crawford,86
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Warren,gas_warren,13301,"Haynes, Charles E.",HC0011,Crawford,333
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Washington,gas_washington,13303,"Haynes, Charles E.",HC0011,Crawford,45
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wayne,gas_wayne,13305,"Haynes, Charles E.",HC0011,Crawford,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wilkes,gas_wilkes,13317,"Haynes, Charles E.",HC0011,Crawford,597
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wilkinson,gas_wilkinson,13319,"Haynes, Charles E.",HC0011,Crawford,26
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Appling,gas_appling,13001,"Meriwether, James",MJ0094,Crawford,38
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Baldwin,gas_baldwin,13009,"Meriwether, James",MJ0094,Crawford,212
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bibb,gas_bibb,13021,"Meriwether, James",MJ0094,Crawford,39
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bryan,gas_bryan,13029,"Meriwether, James",MJ0094,Crawford,68
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bulloch,gas_bulloch,13031,"Meriwether, James",MJ0094,Crawford,73
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Burke,gas_burke,13033,"Meriwether, James",MJ0094,Crawford,34
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Camden,gas_camden,13039,"Meriwether, James",MJ0094,Crawford,109
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Chatham,gas_chatham,13051,"Meriwether, James",MJ0094,Crawford,584
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Clarke,gas_clarke,13059,"Meriwether, James",MJ0094,Crawford,335
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Columbia,gas_columbia,13073,"Meriwether, James",MJ0094,Crawford,204
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Crawford,gas_crawford,13079,"Meriwether, James",MJ0094,Crawford,53
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,De Kalb,gas_dekalb,13089,"Meriwether, James",MJ0094,Crawford,166
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Decatur,gas_decatur,13087,"Meriwether, James",MJ0094,Crawford,21
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Dooly,gas_dooly,13093,"Meriwether, James",MJ0094,Crawford,33
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Early,gas_early,13099,"Meriwether, James",MJ0094,Crawford,45
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Effingham,gas_effingham,13103,"Meriwether, James",MJ0094,Crawford,125
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Elbert,gas_elbert,13105,"Meriwether, James",MJ0094,Crawford,91
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Fayette,gas_fayette,13113,"Meriwether, James",MJ0094,Crawford,27
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Franklin,gas_franklin,13119,"Meriwether, James",MJ0094,Crawford,13
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Glynn,gas_glynn,13127,"Meriwether, James",MJ0094,Crawford,63
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Greene,gas_greene,13133,"Meriwether, James",MJ0094,Crawford,371
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Gwinnett,gas_gwinnett,13135,"Meriwether, James",MJ0094,Crawford,101
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Habersham,gas_habersham,13137,"Meriwether, James",MJ0094,Crawford,138
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Hall,gas_hall,13139,"Meriwether, James",MJ0094,Crawford,61
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Hancock,gas_hancock,13141,"Meriwether, James",MJ0094,Crawford,162
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Henry,gas_henry,13151,"Meriwether, James",MJ0094,Crawford,140
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Houston,gas_houston,13153,"Meriwether, James",MJ0094,Crawford,39
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Irwin,gas_irwin,13155,"Meriwether, James",MJ0094,Crawford,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jackson,gas_jackson,13157,"Meriwether, James",MJ0094,Crawford,306
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jasper,gas_jasper,13159,"Meriwether, James",MJ0094,Crawford,315
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jefferson,gas_jefferson,13163,"Meriwether, James",MJ0094,Crawford,74
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jones,gas_jones,13169,"Meriwether, James",MJ0094,Crawford,713
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Laurens,gas_laurens,13175,"Meriwether, James",MJ0094,Crawford,114
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Liberty,gas_liberty,13179,"Meriwether, James",MJ0094,Crawford,76
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Lincoln,gas_lincoln,13181,"Meriwether, James",MJ0094,Crawford,40
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Madison,gas_madison,13195,"Meriwether, James",MJ0094,Crawford,73
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,McIntosh,gas_mcintosh,13191,"Meriwether, James",MJ0094,Crawford,147
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Monroe,gas_monroe,13207,"Meriwether, James",MJ0094,Crawford,432
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Montgomery,gas_montgomery,13209,"Meriwether, James",MJ0094,Crawford,48
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Morgan,gas_morgan,13211,"Meriwether, James",MJ0094,Crawford,601
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Newton,gas_newton,13217,"Meriwether, James",MJ0094,Crawford,330
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Oglethorpe,gas_oglethorpe,13221,"Meriwether, James",MJ0094,Crawford,623
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Pike,gas_pike,13231,"Meriwether, James",MJ0094,Crawford,41
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Pulaski,gas_pulaski,13235,"Meriwether, James",MJ0094,Crawford,39
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Putnam,gas_putnam,13237,"Meriwether, James",MJ0094,Crawford,261
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Richmond,gas_richmond,13245,"Meriwether, James",MJ0094,Crawford,316
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Screven,gas_screven,13251,"Meriwether, James",MJ0094,Crawford,75
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Tattnall,gas_tattnall,13267,"Meriwether, James",MJ0094,Crawford,119
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Telfair,gas_telfair,13271,"Meriwether, James",MJ0094,Crawford,72
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Twiggs,gas_twiggs,13289,"Meriwether, James",MJ0094,Crawford,59
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Walton,gas_walton,13297,"Meriwether, James",MJ0094,Crawford,91
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Warren,gas_warren,13301,"Meriwether, James",MJ0094,Crawford,320
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Washington,gas_washington,13303,"Meriwether, James",MJ0094,Crawford,40
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wayne,gas_wayne,13305,"Meriwether, James",MJ0094,Crawford,138
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wilkes,gas_wilkes,13317,"Meriwether, James",MJ0094,Crawford,604
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wilkinson,gas_wilkinson,13319,"Meriwether, James",MJ0094,Crawford,79
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Appling,gas_appling,13001,"Tattnall, Edward F.",TE0021,Crawford,38
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Baldwin,gas_baldwin,13009,"Tattnall, Edward F.",TE0021,Crawford,228
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bibb,gas_bibb,13021,"Tattnall, Edward F.",TE0021,Crawford,60
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bryan,gas_bryan,13029,"Tattnall, Edward F.",TE0021,Crawford,136
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bulloch,gas_bulloch,13031,"Tattnall, Edward F.",TE0021,Crawford,134
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Burke,gas_burke,13033,"Tattnall, Edward F.",TE0021,Crawford,67
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Camden,gas_camden,13039,"Tattnall, Edward F.",TE0021,Crawford,202
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Chatham,gas_chatham,13051,"Tattnall, Edward F.",TE0021,Crawford,624
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Clarke,gas_clarke,13059,"Tattnall, Edward F.",TE0021,Crawford,155
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Columbia,gas_columbia,13073,"Tattnall, Edward F.",TE0021,Crawford,213
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Crawford,gas_crawford,13079,"Tattnall, Edward F.",TE0021,Crawford,55
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,De Kalb,gas_dekalb,13089,"Tattnall, Edward F.",TE0021,Crawford,109
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Decatur,gas_decatur,13087,"Tattnall, Edward F.",TE0021,Crawford,25
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Dooly,gas_dooly,13093,"Tattnall, Edward F.",TE0021,Crawford,64
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Early,gas_early,13099,"Tattnall, Edward F.",TE0021,Crawford,45
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Effingham,gas_effingham,13103,"Tattnall, Edward F.",TE0021,Crawford,125
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Elbert,gas_elbert,13105,"Tattnall, Edward F.",TE0021,Crawford,103
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Fayette,gas_fayette,13113,"Tattnall, Edward F.",TE0021,Crawford,37
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Franklin,gas_franklin,13119,"Tattnall, Edward F.",TE0021,Crawford,14
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Glynn,gas_glynn,13127,"Tattnall, Edward F.",TE0021,Crawford,91
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Greene,gas_greene,13133,"Tattnall, Edward F.",TE0021,Crawford,378
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Gwinnett,gas_gwinnett,13135,"Tattnall, Edward F.",TE0021,Crawford,45
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Habersham,gas_habersham,13137,"Tattnall, Edward F.",TE0021,Crawford,81
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Hall,gas_hall,13139,"Tattnall, Edward F.",TE0021,Crawford,65
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Hancock,gas_hancock,13141,"Tattnall, Edward F.",TE0021,Crawford,197
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Henry,gas_henry,13151,"Tattnall, Edward F.",TE0021,Crawford,146
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Houston,gas_houston,13153,"Tattnall, Edward F.",TE0021,Crawford,38
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Irwin,gas_irwin,13155,"Tattnall, Edward F.",TE0021,Crawford,12
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jackson,gas_jackson,13157,"Tattnall, Edward F.",TE0021,Crawford,277
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jasper,gas_jasper,13159,"Tattnall, Edward F.",TE0021,Crawford,336
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jefferson,gas_jefferson,13163,"Tattnall, Edward F.",TE0021,Crawford,71
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jones,gas_jones,13169,"Tattnall, Edward F.",TE0021,Crawford,730
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Laurens,gas_laurens,13175,"Tattnall, Edward F.",TE0021,Crawford,139
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Liberty,gas_liberty,13179,"Tattnall, Edward F.",TE0021,Crawford,95
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Lincoln,gas_lincoln,13181,"Tattnall, Edward F.",TE0021,Crawford,144
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Madison,gas_madison,13195,"Tattnall, Edward F.",TE0021,Crawford,72
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,McIntosh,gas_mcintosh,13191,"Tattnall, Edward F.",TE0021,Crawford,217
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Monroe,gas_monroe,13207,"Tattnall, Edward F.",TE0021,Crawford,448
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Montgomery,gas_montgomery,13209,"Tattnall, Edward F.",TE0021,Crawford,55
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Morgan,gas_morgan,13211,"Tattnall, Edward F.",TE0021,Crawford,612
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Newton,gas_newton,13217,"Tattnall, Edward F.",TE0021,Crawford,331
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Oglethorpe,gas_oglethorpe,13221,"Tattnall, Edward F.",TE0021,Crawford,628
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Pike,gas_pike,13231,"Tattnall, Edward F.",TE0021,Crawford,48
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Pulaski,gas_pulaski,13235,"Tattnall, Edward F.",TE0021,Crawford,44
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Putnam,gas_putnam,13237,"Tattnall, Edward F.",TE0021,Crawford,269
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Richmond,gas_richmond,13245,"Tattnall, Edward F.",TE0021,Crawford,353
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Screven,gas_screven,13251,"Tattnall, Edward F.",TE0021,Crawford,104
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Tattnall,gas_tattnall,13267,"Tattnall, Edward F.",TE0021,Crawford,131
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Telfair,gas_telfair,13271,"Tattnall, Edward F.",TE0021,Crawford,106
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Twiggs,gas_twiggs,13289,"Tattnall, Edward F.",TE0021,Crawford,67
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Walton,gas_walton,13297,"Tattnall, Edward F.",TE0021,Crawford,80
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Warren,gas_warren,13301,"Tattnall, Edward F.",TE0021,Crawford,324
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Washington,gas_washington,13303,"Tattnall, Edward F.",TE0021,Crawford,49
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wayne,gas_wayne,13305,"Tattnall, Edward F.",TE0021,Crawford,139
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wilkes,gas_wilkes,13317,"Tattnall, Edward F.",TE0021,Crawford,614
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wilkinson,gas_wilkinson,13319,"Tattnall, Edward F.",TE0021,Crawford,79
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Appling,gas_appling,13001,"Thompson, Wiley",TW0008,Crawford,38
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Baldwin,gas_baldwin,13009,"Thompson, Wiley",TW0008,Crawford,209
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bibb,gas_bibb,13021,"Thompson, Wiley",TW0008,Crawford,55
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bryan,gas_bryan,13029,"Thompson, Wiley",TW0008,Crawford,132
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bulloch,gas_bulloch,13031,"Thompson, Wiley",TW0008,Crawford,92
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Burke,gas_burke,13033,"Thompson, Wiley",TW0008,Crawford,46
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Camden,gas_camden,13039,"Thompson, Wiley",TW0008,Crawford,146
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Chatham,gas_chatham,13051,"Thompson, Wiley",TW0008,Crawford,576
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Clarke,gas_clarke,13059,"Thompson, Wiley",TW0008,Crawford,165
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Columbia,gas_columbia,13073,"Thompson, Wiley",TW0008,Crawford,208
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Crawford,gas_crawford,13079,"Thompson, Wiley",TW0008,Crawford,55
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,De Kalb,gas_dekalb,13089,"Thompson, Wiley",TW0008,Crawford,166
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Decatur,gas_decatur,13087,"Thompson, Wiley",TW0008,Crawford,24
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Dooly,gas_dooly,13093,"Thompson, Wiley",TW0008,Crawford,52
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Early,gas_early,13099,"Thompson, Wiley",TW0008,Crawford,44
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Effingham,gas_effingham,13103,"Thompson, Wiley",TW0008,Crawford,125
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Elbert,gas_elbert,13105,"Thompson, Wiley",TW0008,Crawford,654
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Fayette,gas_fayette,13113,"Thompson, Wiley",TW0008,Crawford,48
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Franklin,gas_franklin,13119,"Thompson, Wiley",TW0008,Crawford,15
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Glynn,gas_glynn,13127,"Thompson, Wiley",TW0008,Crawford,54
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Greene,gas_greene,13133,"Thompson, Wiley",TW0008,Crawford,362
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Gwinnett,gas_gwinnett,13135,"Thompson, Wiley",TW0008,Crawford,324
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Habersham,gas_habersham,13137,"Thompson, Wiley",TW0008,Crawford,131
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Hall,gas_hall,13139,"Thompson, Wiley",TW0008,Crawford,71
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Hancock,gas_hancock,13141,"Thompson, Wiley",TW0008,Crawford,160
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Henry,gas_henry,13151,"Thompson, Wiley",TW0008,Crawford,155
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Houston,gas_houston,13153,"Thompson, Wiley",TW0008,Crawford,38
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Irwin,gas_irwin,13155,"Thompson, Wiley",TW0008,Crawford,12
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jackson,gas_jackson,13157,"Thompson, Wiley",TW0008,Crawford,306
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jasper,gas_jasper,13159,"Thompson, Wiley",TW0008,Crawford,330
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jefferson,gas_jefferson,13163,"Thompson, Wiley",TW0008,Crawford,57
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jones,gas_jones,13169,"Thompson, Wiley",TW0008,Crawford,731
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Laurens,gas_laurens,13175,"Thompson, Wiley",TW0008,Crawford,115
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Liberty,gas_liberty,13179,"Thompson, Wiley",TW0008,Crawford,69
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Lincoln,gas_lincoln,13181,"Thompson, Wiley",TW0008,Crawford,56
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Madison,gas_madison,13195,"Thompson, Wiley",TW0008,Crawford,83
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,McIntosh,gas_mcintosh,13191,"Thompson, Wiley",TW0008,Crawford,213
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Monroe,gas_monroe,13207,"Thompson, Wiley",TW0008,Crawford,448
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Montgomery,gas_montgomery,13209,"Thompson, Wiley",TW0008,Crawford,58
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Morgan,gas_morgan,13211,"Thompson, Wiley",TW0008,Crawford,610
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Newton,gas_newton,13217,"Thompson, Wiley",TW0008,Crawford,246
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Oglethorpe,gas_oglethorpe,13221,"Thompson, Wiley",TW0008,Crawford,631
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Pike,gas_pike,13231,"Thompson, Wiley",TW0008,Crawford,46
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Pulaski,gas_pulaski,13235,"Thompson, Wiley",TW0008,Crawford,39
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Putnam,gas_putnam,13237,"Thompson, Wiley",TW0008,Crawford,264
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Richmond,gas_richmond,13245,"Thompson, Wiley",TW0008,Crawford,328
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Screven,gas_screven,13251,"Thompson, Wiley",TW0008,Crawford,72
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Tattnall,gas_tattnall,13267,"Thompson, Wiley",TW0008,Crawford,121
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Telfair,gas_telfair,13271,"Thompson, Wiley",TW0008,Crawford,97
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Twiggs,gas_twiggs,13289,"Thompson, Wiley",TW0008,Crawford,62
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Walton,gas_walton,13297,"Thompson, Wiley",TW0008,Crawford,111
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Warren,gas_warren,13301,"Thompson, Wiley",TW0008,Crawford,340
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Washington,gas_washington,13303,"Thompson, Wiley",TW0008,Crawford,43
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wayne,gas_wayne,13305,"Thompson, Wiley",TW0008,Crawford,139
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wilkes,gas_wilkes,13317,"Thompson, Wiley",TW0008,Crawford,583
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wilkinson,gas_wilkinson,13319,"Thompson, Wiley",TW0008,Crawford,88
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Appling,gas_appling,13001,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Baldwin,gas_baldwin,13009,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bibb,gas_bibb,13021,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bryan,gas_bryan,13029,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bulloch,gas_bulloch,13031,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Burke,gas_burke,13033,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Camden,gas_camden,13039,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Chatham,gas_chatham,13051,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Clarke,gas_clarke,13059,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Columbia,gas_columbia,13073,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Crawford,gas_crawford,13079,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,De Kalb,gas_dekalb,13089,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Decatur,gas_decatur,13087,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Dooly,gas_dooly,13093,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Early,gas_early,13099,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Effingham,gas_effingham,13103,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Elbert,gas_elbert,13105,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Fayette,gas_fayette,13113,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Franklin,gas_franklin,13119,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Glynn,gas_glynn,13127,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Greene,gas_greene,13133,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Gwinnett,gas_gwinnett,13135,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Habersham,gas_habersham,13137,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Hall,gas_hall,13139,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Hancock,gas_hancock,13141,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Henry,gas_henry,13151,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Houston,gas_houston,13153,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Irwin,gas_irwin,13155,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jackson,gas_jackson,13157,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jasper,gas_jasper,13159,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jefferson,gas_jefferson,13163,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jones,gas_jones,13169,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Laurens,gas_laurens,13175,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Liberty,gas_liberty,13179,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Lincoln,gas_lincoln,13181,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Madison,gas_madison,13195,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,McIntosh,gas_mcintosh,13191,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Monroe,gas_monroe,13207,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Montgomery,gas_montgomery,13209,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Morgan,gas_morgan,13211,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Newton,gas_newton,13217,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Oglethorpe,gas_oglethorpe,13221,"Campbell, Duncan G.",CD0013,Jackson,210
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Pike,gas_pike,13231,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Pulaski,gas_pulaski,13235,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Putnam,gas_putnam,13237,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Richmond,gas_richmond,13245,"Campbell, Duncan G.",CD0013,Jackson,42
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Screven,gas_screven,13251,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Tattnall,gas_tattnall,13267,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Telfair,gas_telfair,13271,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Twiggs,gas_twiggs,13289,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Walton,gas_walton,13297,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Warren,gas_warren,13301,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Washington,gas_washington,13303,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wayne,gas_wayne,13305,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wilkes,gas_wilkes,13317,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wilkinson,gas_wilkinson,13319,"Campbell, Duncan G.",CD0013,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Appling,gas_appling,13001,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Baldwin,gas_baldwin,13009,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bibb,gas_bibb,13021,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bryan,gas_bryan,13029,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bulloch,gas_bulloch,13031,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Burke,gas_burke,13033,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Camden,gas_camden,13039,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Chatham,gas_chatham,13051,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Clarke,gas_clarke,13059,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Columbia,gas_columbia,13073,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Crawford,gas_crawford,13079,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,De Kalb,gas_dekalb,13089,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Decatur,gas_decatur,13087,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Dooly,gas_dooly,13093,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Early,gas_early,13099,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Effingham,gas_effingham,13103,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Elbert,gas_elbert,13105,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Fayette,gas_fayette,13113,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Franklin,gas_franklin,13119,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Glynn,gas_glynn,13127,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Greene,gas_greene,13133,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Gwinnett,gas_gwinnett,13135,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Habersham,gas_habersham,13137,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Hall,gas_hall,13139,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Hancock,gas_hancock,13141,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Henry,gas_henry,13151,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Houston,gas_houston,13153,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Irwin,gas_irwin,13155,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jackson,gas_jackson,13157,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jasper,gas_jasper,13159,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jefferson,gas_jefferson,13163,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jones,gas_jones,13169,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Laurens,gas_laurens,13175,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Liberty,gas_liberty,13179,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Lincoln,gas_lincoln,13181,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Madison,gas_madison,13195,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,McIntosh,gas_mcintosh,13191,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Monroe,gas_monroe,13207,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Montgomery,gas_montgomery,13209,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Morgan,gas_morgan,13211,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Newton,gas_newton,13217,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Oglethorpe,gas_oglethorpe,13221,"MacDonald, Charles J.",MC0010,Jackson,177
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Pike,gas_pike,13231,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Pulaski,gas_pulaski,13235,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Putnam,gas_putnam,13237,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Richmond,gas_richmond,13245,"MacDonald, Charles J.",MC0010,Jackson,7
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Screven,gas_screven,13251,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Tattnall,gas_tattnall,13267,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Telfair,gas_telfair,13271,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Twiggs,gas_twiggs,13289,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Walton,gas_walton,13297,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Warren,gas_warren,13301,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Washington,gas_washington,13303,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wayne,gas_wayne,13305,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wilkes,gas_wilkes,13317,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wilkinson,gas_wilkinson,13319,"MacDonald, Charles J.",MC0010,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Appling,gas_appling,13001,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Baldwin,gas_baldwin,13009,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bibb,gas_bibb,13021,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bryan,gas_bryan,13029,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bulloch,gas_bulloch,13031,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Burke,gas_burke,13033,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Camden,gas_camden,13039,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Chatham,gas_chatham,13051,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Clarke,gas_clarke,13059,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Columbia,gas_columbia,13073,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Crawford,gas_crawford,13079,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,De Kalb,gas_dekalb,13089,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Decatur,gas_decatur,13087,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Dooly,gas_dooly,13093,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Early,gas_early,13099,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Effingham,gas_effingham,13103,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Elbert,gas_elbert,13105,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Fayette,gas_fayette,13113,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Franklin,gas_franklin,13119,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Glynn,gas_glynn,13127,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Greene,gas_greene,13133,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Gwinnett,gas_gwinnett,13135,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Habersham,gas_habersham,13137,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Hall,gas_hall,13139,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Hancock,gas_hancock,13141,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Henry,gas_henry,13151,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Houston,gas_houston,13153,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Irwin,gas_irwin,13155,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jackson,gas_jackson,13157,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jasper,gas_jasper,13159,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jefferson,gas_jefferson,13163,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jones,gas_jones,13169,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Laurens,gas_laurens,13175,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Liberty,gas_liberty,13179,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Lincoln,gas_lincoln,13181,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Madison,gas_madison,13195,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,McIntosh,gas_mcintosh,13191,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Monroe,gas_monroe,13207,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Montgomery,gas_montgomery,13209,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Morgan,gas_morgan,13211,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Newton,gas_newton,13217,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Oglethorpe,gas_oglethorpe,13221,"Rockwell, Samuel",RS0004,Jackson,180
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Pike,gas_pike,13231,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Pulaski,gas_pulaski,13235,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Putnam,gas_putnam,13237,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Richmond,gas_richmond,13245,"Rockwell, Samuel",RS0004,Jackson,16
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Screven,gas_screven,13251,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Tattnall,gas_tattnall,13267,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Telfair,gas_telfair,13271,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Twiggs,gas_twiggs,13289,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Walton,gas_walton,13297,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Warren,gas_warren,13301,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Washington,gas_washington,13303,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wayne,gas_wayne,13305,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wilkes,gas_wilkes,13317,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wilkinson,gas_wilkinson,13319,"Rockwell, Samuel",RS0004,Jackson,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Appling,gas_appling,13001,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Baldwin,gas_baldwin,13009,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bibb,gas_bibb,13021,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bryan,gas_bryan,13029,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bulloch,gas_bulloch,13031,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Burke,gas_burke,13033,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Camden,gas_camden,13039,"Abbott, Joel",AJ0029,NA,2
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Chatham,gas_chatham,13051,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Clarke,gas_clarke,13059,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Columbia,gas_columbia,13073,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Crawford,gas_crawford,13079,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,De Kalb,gas_dekalb,13089,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Decatur,gas_decatur,13087,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Dooly,gas_dooly,13093,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Early,gas_early,13099,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Effingham,gas_effingham,13103,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Elbert,gas_elbert,13105,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Fayette,gas_fayette,13113,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Franklin,gas_franklin,13119,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Glynn,gas_glynn,13127,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Greene,gas_greene,13133,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Gwinnett,gas_gwinnett,13135,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Habersham,gas_habersham,13137,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Hall,gas_hall,13139,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Hancock,gas_hancock,13141,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Henry,gas_henry,13151,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Houston,gas_houston,13153,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Irwin,gas_irwin,13155,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jackson,gas_jackson,13157,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jasper,gas_jasper,13159,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jefferson,gas_jefferson,13163,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jones,gas_jones,13169,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Laurens,gas_laurens,13175,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Liberty,gas_liberty,13179,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Lincoln,gas_lincoln,13181,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Madison,gas_madison,13195,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,McIntosh,gas_mcintosh,13191,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Monroe,gas_monroe,13207,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Montgomery,gas_montgomery,13209,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Morgan,gas_morgan,13211,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Newton,gas_newton,13217,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Oglethorpe,gas_oglethorpe,13221,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Pike,gas_pike,13231,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Pulaski,gas_pulaski,13235,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Putnam,gas_putnam,13237,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Richmond,gas_richmond,13245,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Screven,gas_screven,13251,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Tattnall,gas_tattnall,13267,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Telfair,gas_telfair,13271,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Twiggs,gas_twiggs,13289,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Walton,gas_walton,13297,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Warren,gas_warren,13301,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Washington,gas_washington,13303,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wayne,gas_wayne,13305,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wilkes,gas_wilkes,13317,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wilkinson,gas_wilkinson,13319,"Abbott, Joel",AJ0029,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Appling,gas_appling,13001,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Baldwin,gas_baldwin,13009,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bibb,gas_bibb,13021,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bryan,gas_bryan,13029,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bulloch,gas_bulloch,13031,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Burke,gas_burke,13033,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Camden,gas_camden,13039,"Cobb, Thomas W.",CT0041,NA,2
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Chatham,gas_chatham,13051,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Clarke,gas_clarke,13059,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Columbia,gas_columbia,13073,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Crawford,gas_crawford,13079,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,De Kalb,gas_dekalb,13089,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Decatur,gas_decatur,13087,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Dooly,gas_dooly,13093,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Early,gas_early,13099,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Effingham,gas_effingham,13103,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Elbert,gas_elbert,13105,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Fayette,gas_fayette,13113,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Franklin,gas_franklin,13119,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Glynn,gas_glynn,13127,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Greene,gas_greene,13133,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Gwinnett,gas_gwinnett,13135,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Habersham,gas_habersham,13137,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Hall,gas_hall,13139,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Hancock,gas_hancock,13141,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Henry,gas_henry,13151,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Houston,gas_houston,13153,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Irwin,gas_irwin,13155,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jackson,gas_jackson,13157,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jasper,gas_jasper,13159,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jefferson,gas_jefferson,13163,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Jones,gas_jones,13169,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Laurens,gas_laurens,13175,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Liberty,gas_liberty,13179,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Lincoln,gas_lincoln,13181,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Madison,gas_madison,13195,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,McIntosh,gas_mcintosh,13191,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Monroe,gas_monroe,13207,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Montgomery,gas_montgomery,13209,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Morgan,gas_morgan,13211,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Newton,gas_newton,13217,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Oglethorpe,gas_oglethorpe,13221,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Pike,gas_pike,13231,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Pulaski,gas_pulaski,13235,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Putnam,gas_putnam,13237,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Richmond,gas_richmond,13245,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Screven,gas_screven,13251,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Tattnall,gas_tattnall,13267,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Telfair,gas_telfair,13271,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Twiggs,gas_twiggs,13289,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Walton,gas_walton,13297,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Warren,gas_warren,13301,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Washington,gas_washington,13303,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wayne,gas_wayne,13305,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wilkes,gas_wilkes,13317,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wilkinson,gas_wilkinson,13319,"Cobb, Thomas W.",CT0041,NA,0
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Bryan,gas_bryan,13029,NA,NA,NA,81
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Camden,gas_camden,13039,NA,NA,NA,116
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,McIntosh,gas_mcintosh,13191,NA,NA,NA,209
+meae.congressional.congress19.ga.county,congressional,19,GA,county,state,ga.uscongress.1824,Wayne,gas_wayne,13305,NA,NA,NA,135

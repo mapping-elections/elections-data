@@ -1,0 +1,3 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress17.la.county,la.uscongress.1820,Josiah S. Johnston,JJ0073,At-large,Democratic-Republican,2339,4599,0.509,TRUE,FALSE
+meae.congressional.congress17.la.county,la.uscongress.1820,Edward Livingston,LE0044,At-large,Democratic-Republican,2260,4599,0.491,FALSE,FALSE

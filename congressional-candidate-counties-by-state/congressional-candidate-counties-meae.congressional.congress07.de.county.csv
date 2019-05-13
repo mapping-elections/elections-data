@@ -1,0 +1,7 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress07.de.county,congressional,7,DE,county,state,de.uscongress.1800,Kent,des_kent,10001,"Patton, John",PJ0032,Democratic-Republican,720
+meae.congressional.congress07.de.county,congressional,7,DE,county,state,de.uscongress.1800,New Castle,des_newcastle,10003,"Patton, John",PJ0032,Democratic-Republican,1247
+meae.congressional.congress07.de.county,congressional,7,DE,county,state,de.uscongress.1800,Sussex,des_sussex,10005,"Patton, John",PJ0032,Democratic-Republican,373
+meae.congressional.congress07.de.county,congressional,7,DE,county,state,de.uscongress.1800,Kent,des_kent,10001,"Bayard, James A.",BJ0078,Federalist,811
+meae.congressional.congress07.de.county,congressional,7,DE,county,state,de.uscongress.1800,New Castle,des_newcastle,10003,"Bayard, James A.",BJ0078,Federalist,900
+meae.congressional.congress07.de.county,congressional,7,DE,county,state,de.uscongress.1800,Sussex,des_sussex,10005,"Bayard, James A.",BJ0078,Federalist,963

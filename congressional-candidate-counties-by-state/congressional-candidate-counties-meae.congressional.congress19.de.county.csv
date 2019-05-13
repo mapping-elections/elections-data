@@ -1,0 +1,7 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress19.de.county,congressional,19,DE,county,state,de.uscongress.1824,Kent,des_kent,10001,"Naudain, Arnold S.",NA0005,Democratic-Republican,1194
+meae.congressional.congress19.de.county,congressional,19,DE,county,state,de.uscongress.1824,New Castle,des_newcastle,10003,"Naudain, Arnold S.",NA0005,Democratic-Republican,1269
+meae.congressional.congress19.de.county,congressional,19,DE,county,state,de.uscongress.1824,Sussex,des_sussex,10005,"Naudain, Arnold S.",NA0005,Democratic-Republican,700
+meae.congressional.congress19.de.county,congressional,19,DE,county,state,de.uscongress.1824,Kent,des_kent,10001,"MacLane, Louis",ML0002,Federalist,1107
+meae.congressional.congress19.de.county,congressional,19,DE,county,state,de.uscongress.1824,New Castle,des_newcastle,10003,"MacLane, Louis",ML0002,Federalist,844
+meae.congressional.congress19.de.county,congressional,19,DE,county,state,de.uscongress.1824,Sussex,des_sussex,10005,"MacLane, Louis",ML0002,Federalist,1436

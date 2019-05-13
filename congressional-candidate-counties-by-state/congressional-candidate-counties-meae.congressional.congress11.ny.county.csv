@@ -1,0 +1,654 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress1.1808,Kings,nys_kings,36047,"Coe, Benjamin",CB0069,Democratic-Republican,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress1.1808,Queens,nys_queens,36081,"Coe, Benjamin",CB0069,Democratic-Republican,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress1.1808,Suffolk,nys_suffolk,36103,"Coe, Benjamin",CB0069,Democratic-Republican,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress1.1808,Kings,nys_kings,36047,"Gilbert, William W.",GW0078,Democratic-Republican,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress1.1808,Queens,nys_queens,36081,"Gilbert, William W.",GW0078,Democratic-Republican,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress1.1808,Suffolk,nys_suffolk,36103,"Gilbert, William W.",GW0078,Democratic-Republican,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress1.1808,Kings,nys_kings,36047,"Sage, Ebenezer",SE0063,Democratic-Republican,397
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress1.1808,Queens,nys_queens,36081,"Sage, Ebenezer",SE0063,Democratic-Republican,111
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress1.1808,Suffolk,nys_suffolk,36103,"Sage, Ebenezer",SE0063,Democratic-Republican,1137
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress1.1808,Kings,nys_kings,36047,"Seaman, John W.",SJ0684,Democratic-Republican,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress1.1808,Queens,nys_queens,36081,"Seaman, John W.",SJ0684,Democratic-Republican,680
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress1.1808,Suffolk,nys_suffolk,36103,"Seaman, John W.",SJ0684,Democratic-Republican,294
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress1.1808,Kings,nys_kings,36047,"Blydenburgh, Benjamin B.",BB0047,Federalist,387
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress1.1808,Queens,nys_queens,36081,"Blydenburgh, Benjamin B.",BB0047,Federalist,875
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress1.1808,Suffolk,nys_suffolk,36103,"Blydenburgh, Benjamin B.",BB0047,Federalist,365
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress1.1808,Kings,nys_kings,36047,"Carle, Israel",CI0017,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress1.1808,Queens,nys_queens,36081,"Carle, Israel",CI0017,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress1.1808,Suffolk,nys_suffolk,36103,"Carle, Israel",CI0017,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress1.1808,Kings,nys_kings,36047,"Seaman, Benjamin W.",SB0074,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress1.1808,Queens,nys_queens,36081,"Seaman, Benjamin W.",SB0074,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress1.1808,Suffolk,nys_suffolk,36103,"Seaman, Benjamin W.",SB0074,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress1.1808,Kings,nys_kings,36047,"Strong, Selah",SS0176,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress1.1808,Queens,nys_queens,36081,"Strong, Selah",SS0176,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress1.1808,Suffolk,nys_suffolk,36103,"Strong, Selah",SS0176,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress1.1808,Kings,nys_kings,36047,"Taber, Amos",TA0039,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress1.1808,Queens,nys_queens,36081,"Taber, Amos",TA0039,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress1.1808,Suffolk,nys_suffolk,36103,"Taber, Amos",TA0039,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Herkimer,nys_herkimer,36043,"Nicholson, John",NJ0071,Democratic-Republican,1062
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Jefferson,nys_jefferson,36045,"Nicholson, John",NJ0071,Democratic-Republican,624
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Lewis,nys_lewis,36049,"Nicholson, John",NJ0071,Democratic-Republican,439
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Saint Lawrence,nys_stlawrence,36089,"Nicholson, John",NJ0071,Democratic-Republican,227
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Herkimer,nys_herkimer,36043,"Gold, Thomas R.",GT0056,Federalist,5
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Jefferson,nys_jefferson,36045,"Gold, Thomas R.",GT0056,Federalist,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Lewis,nys_lewis,36049,"Gold, Thomas R.",GT0056,Federalist,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Saint Lawrence,nys_stlawrence,36089,"Gold, Thomas R.",GT0056,Federalist,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Herkimer,nys_herkimer,36043,"Kent, Moss",KM0021,Federalist,910
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Jefferson,nys_jefferson,36045,"Kent, Moss",KM0021,Federalist,600
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Lewis,nys_lewis,36049,"Kent, Moss",KM0021,Federalist,258
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Saint Lawrence,nys_stlawrence,36089,"Kent, Moss",KM0021,Federalist,251
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Herkimer,nys_herkimer,36043,"Andrus, David I.",AD0014,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Jefferson,nys_jefferson,36045,"Andrus, David I.",AD0014,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Lewis,nys_lewis,36049,"Andrus, David I.",AD0014,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Saint Lawrence,nys_stlawrence,36089,"Andrus, David I.",AD0014,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Herkimer,nys_herkimer,36043,"Atwater, Russell",AR0025,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Jefferson,nys_jefferson,36045,"Atwater, Russell",AR0025,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Lewis,nys_lewis,36049,"Atwater, Russell",AR0025,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Saint Lawrence,nys_stlawrence,36089,"Atwater, Russell",AR0025,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Herkimer,nys_herkimer,36043,"Barnes, Judah",BJ0561,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Jefferson,nys_jefferson,36045,"Barnes, Judah",BJ0561,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Lewis,nys_lewis,36049,"Barnes, Judah",BJ0561,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Saint Lawrence,nys_stlawrence,36089,"Barnes, Judah",BJ0561,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Herkimer,nys_herkimer,36043,"Barstow, Andrew A.",BA0135,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Jefferson,nys_jefferson,36045,"Barstow, Andrew A.",BA0135,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Lewis,nys_lewis,36049,"Barstow, Andrew A.",BA0135,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Saint Lawrence,nys_stlawrence,36089,"Barstow, Andrew A.",BA0135,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Herkimer,nys_herkimer,36043,"Bloodgood, Francis A.",BF0030,NA,2
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Jefferson,nys_jefferson,36045,"Bloodgood, Francis A.",BF0030,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Lewis,nys_lewis,36049,"Bloodgood, Francis A.",BF0030,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Saint Lawrence,nys_stlawrence,36089,"Bloodgood, Francis A.",BF0030,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Herkimer,nys_herkimer,36043,"Budlong, Aaron",BA0139,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Jefferson,nys_jefferson,36045,"Budlong, Aaron",BA0139,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Lewis,nys_lewis,36049,"Budlong, Aaron",BA0139,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Saint Lawrence,nys_stlawrence,36089,"Budlong, Aaron",BA0139,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Herkimer,nys_herkimer,36043,"Ford, Simeon",FS0078,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Jefferson,nys_jefferson,36045,"Ford, Simeon",FS0078,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Lewis,nys_lewis,36049,"Ford, Simeon",FS0078,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Saint Lawrence,nys_stlawrence,36089,"Ford, Simeon",FS0078,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Herkimer,nys_herkimer,36043,"Forman, Samuel",FS0076,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Jefferson,nys_jefferson,36045,"Forman, Samuel",FS0076,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Lewis,nys_lewis,36049,"Forman, Samuel",FS0076,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Saint Lawrence,nys_stlawrence,36089,"Forman, Samuel",FS0076,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Herkimer,nys_herkimer,36043,"Halsey, Silas",HS0138,NA,2
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Jefferson,nys_jefferson,36045,"Halsey, Silas",HS0138,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Lewis,nys_lewis,36049,"Halsey, Silas",HS0138,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Saint Lawrence,nys_stlawrence,36089,"Halsey, Silas",HS0138,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Herkimer,nys_herkimer,36043,"Hatheway, Joshua",HJ0548,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Jefferson,nys_jefferson,36045,"Hatheway, Joshua",HJ0548,NA,40
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Lewis,nys_lewis,36049,"Hatheway, Joshua",HJ0548,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Saint Lawrence,nys_stlawrence,36089,"Hatheway, Joshua",HJ0548,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Herkimer,nys_herkimer,36043,"Henderson, Hugh",HH0072,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Jefferson,nys_jefferson,36045,"Henderson, Hugh",HH0072,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Lewis,nys_lewis,36049,"Henderson, Hugh",HH0072,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Saint Lawrence,nys_stlawrence,36089,"Henderson, Hugh",HH0072,NA,5
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Herkimer,nys_herkimer,36043,"Henry, Francis",HF0029,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Jefferson,nys_jefferson,36045,"Henry, Francis",HF0029,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Lewis,nys_lewis,36049,"Henry, Francis",HF0029,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Saint Lawrence,nys_stlawrence,36089,"Henry, Francis",HF0029,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Herkimer,nys_herkimer,36043,"Hinds, Corlis",HC0066,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Jefferson,nys_jefferson,36045,"Hinds, Corlis",HC0066,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Lewis,nys_lewis,36049,"Hinds, Corlis",HC0066,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Saint Lawrence,nys_stlawrence,36089,"Hinds, Corlis",HC0066,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Herkimer,nys_herkimer,36043,"Hopkins, Roswell",HR0129,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Jefferson,nys_jefferson,36045,"Hopkins, Roswell",HR0129,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Lewis,nys_lewis,36049,"Hopkins, Roswell",HR0129,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Saint Lawrence,nys_stlawrence,36089,"Hopkins, Roswell",HR0129,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Herkimer,nys_herkimer,36043,"MacNeil, Henry",MH0068,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Jefferson,nys_jefferson,36045,"MacNeil, Henry",MH0068,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Lewis,nys_lewis,36049,"MacNeil, Henry",MH0068,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Saint Lawrence,nys_stlawrence,36089,"MacNeil, Henry",MH0068,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Herkimer,nys_herkimer,36043,"Manley, Thomas",MT0082,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Jefferson,nys_jefferson,36045,"Manley, Thomas",MT0082,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Lewis,nys_lewis,36049,"Manley, Thomas",MT0082,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Saint Lawrence,nys_stlawrence,36089,"Manley, Thomas",MT0082,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Herkimer,nys_herkimer,36043,"Martin, Walter",MW0212,NA,2
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Jefferson,nys_jefferson,36045,"Martin, Walter",MW0212,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Lewis,nys_lewis,36049,"Martin, Walter",MW0212,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Saint Lawrence,nys_stlawrence,36089,"Martin, Walter",MW0212,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Herkimer,nys_herkimer,36043,"Meesick, Peter",MP0041,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Jefferson,nys_jefferson,36045,"Meesick, Peter",MP0041,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Lewis,nys_lewis,36049,"Meesick, Peter",MP0041,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Saint Lawrence,nys_stlawrence,36089,"Meesick, Peter",MP0041,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Herkimer,nys_herkimer,36043,"Mills, John",MJ0482,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Jefferson,nys_jefferson,36045,"Mills, John",MJ0482,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Lewis,nys_lewis,36049,"Mills, John",MJ0482,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Saint Lawrence,nys_stlawrence,36089,"Mills, John",MJ0482,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Herkimer,nys_herkimer,36043,"Munson, Lyman",ML0049,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Jefferson,nys_jefferson,36045,"Munson, Lyman",ML0049,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Lewis,nys_lewis,36049,"Munson, Lyman",ML0049,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Saint Lawrence,nys_stlawrence,36089,"Munson, Lyman",ML0049,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Herkimer,nys_herkimer,36043,"Mynderse, Wilhelmus",MW0216,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Jefferson,nys_jefferson,36045,"Mynderse, Wilhelmus",MW0216,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Lewis,nys_lewis,36049,"Mynderse, Wilhelmus",MW0216,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Saint Lawrence,nys_stlawrence,36089,"Mynderse, Wilhelmus",MW0216,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Herkimer,nys_herkimer,36043,"Petrie, John H.",PJ0306,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Jefferson,nys_jefferson,36045,"Petrie, John H.",PJ0306,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Lewis,nys_lewis,36049,"Petrie, John H.",PJ0306,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Saint Lawrence,nys_stlawrence,36089,"Petrie, John H.",PJ0306,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Herkimer,nys_herkimer,36043,"Rich, Luther",RL0003,NA,2
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Jefferson,nys_jefferson,36045,"Rich, Luther",RL0003,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Lewis,nys_lewis,36049,"Rich, Luther",RL0003,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Saint Lawrence,nys_stlawrence,36089,"Rich, Luther",RL0003,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Herkimer,nys_herkimer,36043,"Smalley, Sylvanus",SS0193,NA,2
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Jefferson,nys_jefferson,36045,"Smalley, Sylvanus",SS0193,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Lewis,nys_lewis,36049,"Smalley, Sylvanus",SS0193,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Saint Lawrence,nys_stlawrence,36089,"Smalley, Sylvanus",SS0193,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Herkimer,nys_herkimer,36043,"Stebins, Thomas",ST0039,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Jefferson,nys_jefferson,36045,"Stebins, Thomas",ST0039,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Lewis,nys_lewis,36049,"Stebins, Thomas",ST0039,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Saint Lawrence,nys_stlawrence,36089,"Stebins, Thomas",ST0039,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Herkimer,nys_herkimer,36043,"Weston, Isaac",WI0027,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Jefferson,nys_jefferson,36045,"Weston, Isaac",WI0027,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Lewis,nys_lewis,36049,"Weston, Isaac",WI0027,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Saint Lawrence,nys_stlawrence,36089,"Weston, Isaac",WI0027,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Herkimer,nys_herkimer,36043,"Whitney, Francis",WF0014,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Jefferson,nys_jefferson,36045,"Whitney, Francis",WF0014,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Lewis,nys_lewis,36049,"Whitney, Francis",WF0014,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Saint Lawrence,nys_stlawrence,36089,"Whitney, Francis",WF0014,NA,2
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Herkimer,nys_herkimer,36043,"Wright, Samuel",WS0122,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Jefferson,nys_jefferson,36045,"Wright, Samuel",WS0122,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Lewis,nys_lewis,36049,"Wright, Samuel",WS0122,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress10.1808,Saint Lawrence,nys_stlawrence,36089,"Wright, Samuel",WS0122,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Madison,nys_madison,36053,"Hatheway, Joshua",HJ0548,Democratic-Republican,1103
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Oneida,nys_oneida,36065,"Hatheway, Joshua",HJ0548,Democratic-Republican,1856
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Madison,nys_madison,36053,"Gold, Thomas R.",GT0056,Federalist,1246
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Oneida,nys_oneida,36065,"Gold, Thomas R.",GT0056,Federalist,2575
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Madison,nys_madison,36053,"Bloodgood, Francis A.",BF0030,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Oneida,nys_oneida,36065,"Bloodgood, Francis A.",BF0030,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Madison,nys_madison,36053,"Brown, Oliver",BO0001,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Oneida,nys_oneida,36065,"Brown, Oliver",BO0001,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Madison,nys_madison,36053,"Bulkley, John W.",BJ0726,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Oneida,nys_oneida,36065,"Bulkley, John W.",BJ0726,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Madison,nys_madison,36053,"Cleveland, Erastus",CE0102,NA,4
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Oneida,nys_oneida,36065,"Cleveland, Erastus",CE0102,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Madison,nys_madison,36053,"DeAugelis, Pascal C.J.",DP0015,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Oneida,nys_oneida,36065,"DeAugelis, Pascal C.J.",DP0015,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Madison,nys_madison,36053,"Forman, Samuel",FS0076,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Oneida,nys_oneida,36065,"Forman, Samuel",FS0076,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Madison,nys_madison,36053,"Fox, Jarvis",FJ0240,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Oneida,nys_oneida,36065,"Fox, Jarvis",FJ0240,NA,2
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Madison,nys_madison,36053,"Hale, Thomas",HT0192,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Oneida,nys_oneida,36065,"Hale, Thomas",HT0192,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Madison,nys_madison,36053,"Halsey, Silas",HS0138,NA,4
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Oneida,nys_oneida,36065,"Halsey, Silas",HS0138,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Madison,nys_madison,36053,"Hamilton, Thomas H.",HT0065,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Oneida,nys_oneida,36065,"Hamilton, Thomas H.",HT0065,NA,2
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Madison,nys_madison,36053,"Henry, Francis",HF0029,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Oneida,nys_oneida,36065,"Henry, Francis",HF0029,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Madison,nys_madison,36053,"Hopkins, Roswell",HR0129,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Oneida,nys_oneida,36065,"Hopkins, Roswell",HR0129,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Madison,nys_madison,36053,"Huntington, Henry",HH0042,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Oneida,nys_oneida,36065,"Huntington, Henry",HH0042,NA,2
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Madison,nys_madison,36053,"MacNeil, Henry",MH0068,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Oneida,nys_oneida,36065,"MacNeil, Henry",MH0068,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Madison,nys_madison,36053,"Marsh, Samuel",MS0105,NA,4
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Oneida,nys_oneida,36065,"Marsh, Samuel",MS0105,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Madison,nys_madison,36053,"Martin, Walter",MW0212,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Oneida,nys_oneida,36065,"Martin, Walter",MW0212,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Madison,nys_madison,36053,"Mott, Joseph",MJ0411,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Oneida,nys_oneida,36065,"Mott, Joseph",MJ0411,NA,2
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Madison,nys_madison,36053,"Mynderse, Wilhelmus",MW0216,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Oneida,nys_oneida,36065,"Mynderse, Wilhelmus",MW0216,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Madison,nys_madison,36053,"Pike, Jarvis K.",PJ0269,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Oneida,nys_oneida,36065,"Pike, Jarvis K.",PJ0269,NA,2
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Madison,nys_madison,36053,"Rich, Luther",RL0003,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Oneida,nys_oneida,36065,"Rich, Luther",RL0003,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Madison,nys_madison,36053,"Sage, Nathan",SN0093,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Oneida,nys_oneida,36065,"Sage, Nathan",SN0093,NA,2
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Madison,nys_madison,36053,"Smalley, Sylvanus",SS0193,NA,4
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Oneida,nys_oneida,36065,"Smalley, Sylvanus",SS0193,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Madison,nys_madison,36053,"Van Horne, David",VD0021,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Oneida,nys_oneida,36065,"Van Horne, David",VD0021,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Madison,nys_madison,36053,"Whipple, William",WW0163,NA,4
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Oneida,nys_oneida,36065,"Whipple, William",WW0163,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Madison,nys_madison,36053,"Wright, Benjamin",WB0052,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress11.1808,Oneida,nys_oneida,36065,"Wright, Benjamin",WB0052,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress12.1808,Delaware,nys_delaware,36025,"Root, Erastus",RE0049,Democratic-Republican,552
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress12.1808,Otsego,nys_otsego,36077,"Root, Erastus",RE0049,Democratic-Republican,1653
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress12.1808,Delaware,nys_delaware,36025,"Foote, Ebenezer",FE0035,Federalist,134
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress12.1808,Otsego,nys_otsego,36077,"Foote, Ebenezer",FE0035,Federalist,485
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress12.1808,Delaware,nys_delaware,36025,"North, Gabriel",NG0009,Federalist,549
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress12.1808,Otsego,nys_otsego,36077,"North, Gabriel",NG0009,Federalist,1085
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress12.1808,Delaware,nys_delaware,36025,"Emmons, Asa",EA0055,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress12.1808,Otsego,nys_otsego,36077,"Emmons, Asa",EA0055,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress12.1808,Delaware,nys_delaware,36025,"Hayes, Isaac",HI0059,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress12.1808,Otsego,nys_otsego,36077,"Hayes, Isaac",HI0059,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress12.1808,Delaware,nys_delaware,36025,"Henry, Francis",HF0029,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress12.1808,Otsego,nys_otsego,36077,"Henry, Francis",HF0029,NA,4
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress12.1808,Delaware,nys_delaware,36025,"Lowther, Henry",LH0015,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress12.1808,Otsego,nys_otsego,36077,"Lowther, Henry",LH0015,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress12.1808,Delaware,nys_delaware,36025,"Mason, Charles",MC0038,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress12.1808,Otsego,nys_otsego,36077,"Mason, Charles",MC0038,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress12.1808,Delaware,nys_delaware,36025,"North, Robert",NR0007,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress12.1808,Otsego,nys_otsego,36077,"North, Robert",NR0007,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress12.1808,Delaware,nys_delaware,36025,"Rich, Luther",RL0003,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress12.1808,Otsego,nys_otsego,36077,"Rich, Luther",RL0003,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress12.1808,Delaware,nys_delaware,36025,"Root, John",RJ0338,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress12.1808,Otsego,nys_otsego,36077,"Root, John",RJ0338,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress12.1808,Delaware,nys_delaware,36025,"Slack, William",SW0217,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress12.1808,Otsego,nys_otsego,36077,"Slack, William",SW0217,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Broome,nys_broome,36007,"Tracey, Uri",TU0001,Democratic-Republican,316
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Chenango,nys_chenango,36017,"Tracey, Uri",TU0001,Democratic-Republican,1386
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Onondaga,nys_onondaga,36067,"Tracey, Uri",TU0001,Democratic-Republican,1527
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Broome,nys_broome,36007,"Foote, Isaac, Jr.",FI0013,Federalist,353
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Chenango,nys_chenango,36017,"Foote, Isaac, Jr.",FI0013,Federalist,303
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Onondaga,nys_onondaga,36067,"Foote, Isaac, Jr.",FI0013,Federalist,285
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Broome,nys_broome,36007,"Gold, Thomas R.",GT0056,Federalist,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Chenango,nys_chenango,36017,"Gold, Thomas R.",GT0056,Federalist,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Onondaga,nys_onondaga,36067,"Gold, Thomas R.",GT0056,Federalist,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Broome,nys_broome,36007,"Matthews, Vincent",MV0004,Federalist,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Chenango,nys_chenango,36017,"Matthews, Vincent",MV0004,Federalist,5
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Onondaga,nys_onondaga,36067,"Matthews, Vincent",MV0004,Federalist,489
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Broome,nys_broome,36007,"Andrews, Elnathan",AE0020,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Chenango,nys_chenango,36017,"Andrews, Elnathan",AE0020,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Onondaga,nys_onondaga,36067,"Andrews, Elnathan",AE0020,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Broome,nys_broome,36007,"Burguine, Patience",BP0060,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Chenango,nys_chenango,36017,"Burguine, Patience",BP0060,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Onondaga,nys_onondaga,36067,"Burguine, Patience",BP0060,NA,4
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Broome,nys_broome,36007,"Butler, Thomas",BT0114,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Chenango,nys_chenango,36017,"Butler, Thomas",BT0114,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Onondaga,nys_onondaga,36067,"Butler, Thomas",BT0114,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Broome,nys_broome,36007,"Carpenter, Moses",CM0026,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Chenango,nys_chenango,36017,"Carpenter, Moses",CM0026,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Onondaga,nys_onondaga,36067,"Carpenter, Moses",CM0026,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Broome,nys_broome,36007,"Dana, Eleazer",DE0041,NA,2
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Chenango,nys_chenango,36017,"Dana, Eleazer",DE0041,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Onondaga,nys_onondaga,36067,"Dana, Eleazer",DE0041,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Broome,nys_broome,36007,"Depuy, Jacobus",DJ0308,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Chenango,nys_chenango,36017,"Depuy, Jacobus",DJ0308,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Onondaga,nys_onondaga,36067,"Depuy, Jacobus",DJ0308,NA,5
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Broome,nys_broome,36007,"Foote, Ebenezer",FE0035,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Chenango,nys_chenango,36017,"Foote, Ebenezer",FE0035,NA,2
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Onondaga,nys_onondaga,36067,"Foote, Ebenezer",FE0035,NA,2
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Broome,nys_broome,36007,"Forman, Joshua",FJ0205,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Chenango,nys_chenango,36017,"Forman, Joshua",FJ0205,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Onondaga,nys_onondaga,36067,"Forman, Joshua",FJ0205,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Broome,nys_broome,36007,"German, Obadiah",GO0001,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Chenango,nys_chenango,36017,"German, Obadiah",GO0001,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Onondaga,nys_onondaga,36067,"German, Obadiah",GO0001,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Broome,nys_broome,36007,"German, Uri",GU0001,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Chenango,nys_chenango,36017,"German, Uri",GU0001,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Onondaga,nys_onondaga,36067,"German, Uri",GU0001,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Broome,nys_broome,36007,"Hatheway, Joshua",HJ0548,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Chenango,nys_chenango,36017,"Hatheway, Joshua",HJ0548,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Onondaga,nys_onondaga,36067,"Hatheway, Joshua",HJ0548,NA,2
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Broome,nys_broome,36007,"Hitchcock, David",HD0112,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Chenango,nys_chenango,36017,"Hitchcock, David",HD0112,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Onondaga,nys_onondaga,36067,"Hitchcock, David",HD0112,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Broome,nys_broome,36007,"Hopper, Jasper",HJ0554,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Chenango,nys_chenango,36017,"Hopper, Jasper",HJ0554,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Onondaga,nys_onondaga,36067,"Hopper, Jasper",HJ0554,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Broome,nys_broome,36007,"Merrill, Mead",MM0032,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Chenango,nys_chenango,36017,"Merrill, Mead",MM0032,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Onondaga,nys_onondaga,36067,"Merrill, Mead",MM0032,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Broome,nys_broome,36007,"Minor, Asahel",MA0127,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Chenango,nys_chenango,36017,"Minor, Asahel",MA0127,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Onondaga,nys_onondaga,36067,"Minor, Asahel",MA0127,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Broome,nys_broome,36007,"Mooney, Barnet",MB0046,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Chenango,nys_chenango,36017,"Mooney, Barnet",MB0046,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Onondaga,nys_onondaga,36067,"Mooney, Barnet",MB0046,NA,5
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Broome,nys_broome,36007,"Olmstead, Daniel",OD0015,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Chenango,nys_chenango,36017,"Olmstead, Daniel",OD0015,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Onondaga,nys_onondaga,36067,"Olmstead, Daniel",OD0015,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Broome,nys_broome,36007,"Seymour, Samuel",SS0097,NA,2
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Chenango,nys_chenango,36017,"Seymour, Samuel",SS0097,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Onondaga,nys_onondaga,36067,"Seymour, Samuel",SS0097,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Broome,nys_broome,36007,"Toole, Isaac",TI0007,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Chenango,nys_chenango,36017,"Toole, Isaac",TI0007,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress13.1808,Onondaga,nys_onondaga,36067,"Toole, Isaac",TI0007,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Cayuga,nys_cayuga,36011,"Carpenter, Matthew",CM0029,Democratic-Republican,635
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Seneca,nys_seneca,36099,"Carpenter, Matthew",CM0029,Democratic-Republican,219
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Steuben,nys_steuben,36101,"Carpenter, Matthew",CM0029,Democratic-Republican,47
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Tioga,nys_tioga,36107,"Carpenter, Matthew",CM0029,Democratic-Republican,77
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Cayuga,nys_cayuga,36011,"Glover, Joseph",GJ0292,Democratic-Republican,325
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Seneca,nys_seneca,36099,"Glover, Joseph",GJ0292,Democratic-Republican,175
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Steuben,nys_steuben,36101,"Glover, Joseph",GJ0292,Democratic-Republican,149
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Tioga,nys_tioga,36107,"Glover, Joseph",GJ0292,Democratic-Republican,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Cayuga,nys_cayuga,36011,"Harris, John",HJ0541,Democratic-Republican,663
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Seneca,nys_seneca,36099,"Harris, John",HJ0541,Democratic-Republican,416
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Steuben,nys_steuben,36101,"Harris, John",HJ0541,Democratic-Republican,34
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Tioga,nys_tioga,36107,"Harris, John",HJ0541,Democratic-Republican,50
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Cayuga,nys_cayuga,36011,"Matthews, Vincent",MV0004,Federalist,692
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Seneca,nys_seneca,36099,"Matthews, Vincent",MV0004,Federalist,244
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Steuben,nys_steuben,36101,"Matthews, Vincent",MV0004,Federalist,416
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Tioga,nys_tioga,36107,"Matthews, Vincent",MV0004,Federalist,525
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Cayuga,nys_cayuga,36011,"Baker, Caleb",BC0064,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Seneca,nys_seneca,36099,"Baker, Caleb",BC0064,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Steuben,nys_steuben,36101,"Baker, Caleb",BC0064,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Tioga,nys_tioga,36107,"Baker, Caleb",BC0064,NA,6
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Cayuga,nys_cayuga,36011,"Carpenter, Uri",CU0001,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Seneca,nys_seneca,36099,"Carpenter, Uri",CU0001,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Steuben,nys_steuben,36101,"Carpenter, Uri",CU0001,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Tioga,nys_tioga,36107,"Carpenter, Uri",CU0001,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Cayuga,nys_cayuga,36011,"Coryell, Emanuel",CE0103,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Seneca,nys_seneca,36099,"Coryell, Emanuel",CE0103,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Steuben,nys_steuben,36101,"Coryell, Emanuel",CE0103,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Tioga,nys_tioga,36107,"Coryell, Emanuel",CE0103,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Cayuga,nys_cayuga,36011,"Dobbin, Hugh W.",DH0035,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Seneca,nys_seneca,36099,"Dobbin, Hugh W.",DH0035,NA,5
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Steuben,nys_steuben,36101,"Dobbin, Hugh W.",DH0035,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Tioga,nys_tioga,36107,"Dobbin, Hugh W.",DH0035,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Cayuga,nys_cayuga,36011,"Halsey, Silas",HS0138,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Seneca,nys_seneca,36099,"Halsey, Silas",HS0138,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Steuben,nys_steuben,36101,"Halsey, Silas",HS0138,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Tioga,nys_tioga,36107,"Halsey, Silas",HS0138,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Cayuga,nys_cayuga,36011,"Harris, Israel",HI0013,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Seneca,nys_seneca,36099,"Harris, Israel",HI0013,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Steuben,nys_steuben,36101,"Harris, Israel",HI0013,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Tioga,nys_tioga,36107,"Harris, Israel",HI0013,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Cayuga,nys_cayuga,36011,"Hornell, George",HG0050,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Seneca,nys_seneca,36099,"Hornell, George",HG0050,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Steuben,nys_steuben,36101,"Hornell, George",HG0050,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Tioga,nys_tioga,36107,"Hornell, George",HG0050,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Cayuga,nys_cayuga,36011,"MacCall, James",MJ0507,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Seneca,nys_seneca,36099,"MacCall, James",MJ0507,NA,4
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Steuben,nys_steuben,36101,"MacCall, James",MJ0507,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Tioga,nys_tioga,36107,"MacCall, James",MJ0507,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Cayuga,nys_cayuga,36011,"Sayre, John",SJ0715,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Seneca,nys_seneca,36099,"Sayre, John",SJ0715,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Steuben,nys_steuben,36101,"Sayre, John",SJ0715,NA,2
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Tioga,nys_tioga,36107,"Sayre, John",SJ0715,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Cayuga,nys_cayuga,36011,"Smith, Hemlock",SH0059,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Seneca,nys_seneca,36099,"Smith, Hemlock",SH0059,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Steuben,nys_steuben,36101,"Smith, Hemlock",SH0059,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Tioga,nys_tioga,36107,"Smith, Hemlock",SH0059,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Cayuga,nys_cayuga,36011,"Smith, William",SW0244,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Seneca,nys_seneca,36099,"Smith, William",SW0244,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Steuben,nys_steuben,36101,"Smith, William",SW0244,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Tioga,nys_tioga,36107,"Smith, William",SW0244,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Cayuga,nys_cayuga,36011,"Townsend, Henry A.",TH0024,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Seneca,nys_seneca,36099,"Townsend, Henry A.",TH0024,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Steuben,nys_steuben,36101,"Townsend, Henry A.",TH0024,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Tioga,nys_tioga,36107,"Townsend, Henry A.",TH0024,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Cayuga,nys_cayuga,36011,"Willoughby, Josiah",WJ0841,NA,9
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Seneca,nys_seneca,36099,"Willoughby, Josiah",WJ0841,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Steuben,nys_steuben,36101,"Willoughby, Josiah",WJ0841,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress14.1808,Tioga,nys_tioga,36107,"Willoughby, Josiah",WJ0841,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress15.1808,Allegany,nys_allegany,36003,"Porter, Peter B.",PP0008,Democratic-Republican,160
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress15.1808,Genesee,nys_genesee,36037,"Porter, Peter B.",PP0008,Democratic-Republican,655
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress15.1808,Niagara,nys_niagara,36063,"Porter, Peter B.",PP0008,Democratic-Republican,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress15.1808,Ontario,nys_ontario,36069,"Porter, Peter B.",PP0008,Democratic-Republican,2249
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress15.1808,Allegany,nys_allegany,36003,"Howell, Nathaniel W.",HN0037,Federalist,75
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress15.1808,Genesee,nys_genesee,36037,"Howell, Nathaniel W.",HN0037,Federalist,191
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress15.1808,Niagara,nys_niagara,36063,"Howell, Nathaniel W.",HN0037,Federalist,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress15.1808,Ontario,nys_ontario,36069,"Howell, Nathaniel W.",HN0037,Federalist,1789
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress15.1808,Allegany,nys_allegany,36003,"Loomis, Jerome",LJ0325,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress15.1808,Genesee,nys_genesee,36037,"Loomis, Jerome",LJ0325,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress15.1808,Niagara,nys_niagara,36063,"Loomis, Jerome",LJ0325,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress15.1808,Ontario,nys_ontario,36069,"Loomis, Jerome",LJ0325,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress15.1808,Allegany,nys_allegany,36003,"MacCracken, David",MD0107,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress15.1808,Genesee,nys_genesee,36037,"MacCracken, David",MD0107,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress15.1808,Niagara,nys_niagara,36063,"MacCracken, David",MD0107,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress15.1808,Ontario,nys_ontario,36069,"MacCracken, David",MD0107,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress15.1808,Allegany,nys_allegany,36003,"Porter, David B.",PD0059,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress15.1808,Genesee,nys_genesee,36037,"Porter, David B.",PD0059,NA,2
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress15.1808,Niagara,nys_niagara,36063,"Porter, David B.",PD0059,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress15.1808,Ontario,nys_ontario,36069,"Porter, David B.",PD0059,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress15.1808,Allegany,nys_allegany,36003,"Rumsey, William",RW0096,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress15.1808,Genesee,nys_genesee,36037,"Rumsey, William",RW0096,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress15.1808,Niagara,nys_niagara,36063,"Rumsey, William",RW0096,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress15.1808,Ontario,nys_ontario,36069,"Rumsey, William",RW0096,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,New York,nys_newyork,36061,"Coe, Benjamin",CB0069,Democratic-Republican,4
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Richmond,nys_richmond,36085,"Coe, Benjamin",CB0069,Democratic-Republican,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Rockland,nys_rockland,36087,"Coe, Benjamin",CB0069,Democratic-Republican,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,New York,nys_newyork,36061,"Denning, William",DW0080,Democratic-Republican,5534
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Richmond,nys_richmond,36085,"Denning, William",DW0080,Democratic-Republican,296
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Rockland,nys_rockland,36087,"Denning, William",DW0080,Democratic-Republican,373
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,New York,nys_newyork,36061,"Mumford, Gordon S.",MG0050,Democratic-Republican,5516
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Richmond,nys_richmond,36085,"Mumford, Gordon S.",MG0050,Democratic-Republican,297
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Rockland,nys_rockland,36087,"Mumford, Gordon S.",MG0050,Democratic-Republican,372
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,New York,nys_newyork,36061,"Gardenier, Barent",GB0026,Federalist,4353
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Richmond,nys_richmond,36085,"Gardenier, Barent",GB0026,Federalist,283
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Rockland,nys_rockland,36087,"Gardenier, Barent",GB0026,Federalist,24
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,New York,nys_newyork,36061,"Henderson, William",HW0220,Federalist,4362
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Richmond,nys_richmond,36085,"Henderson, William",HW0220,Federalist,282
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Rockland,nys_rockland,36087,"Henderson, William",HW0220,Federalist,23
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,New York,nys_newyork,36061,"Jay, John",JJ0123,Federalist,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Richmond,nys_richmond,36085,"Jay, John",JJ0123,Federalist,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Rockland,nys_rockland,36087,"Jay, John",JJ0123,Federalist,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,New York,nys_newyork,36061,"King, Rufus",KR0003,Federalist,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Richmond,nys_richmond,36085,"King, Rufus",KR0003,Federalist,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Rockland,nys_rockland,36087,"King, Rufus",KR0003,Federalist,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,New York,nys_newyork,36061,"Cheetham, James",CJ0371,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Richmond,nys_richmond,36085,"Cheetham, James",CJ0371,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Rockland,nys_rockland,36087,"Cheetham, James",CJ0371,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,New York,nys_newyork,36061,"Crane, Timothy B.",CT0053,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Richmond,nys_richmond,36085,"Crane, Timothy B.",CT0053,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Rockland,nys_rockland,36087,"Crane, Timothy B.",CT0053,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,New York,nys_newyork,36061,"Gosman, George",GG0058,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Richmond,nys_richmond,36085,"Gosman, George",GG0058,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Rockland,nys_rockland,36087,"Gosman, George",GG0058,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,New York,nys_newyork,36061,"Ireland, William H.",IW0007,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Richmond,nys_richmond,36085,"Ireland, William H.",IW0007,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Rockland,nys_rockland,36087,"Ireland, William H.",IW0007,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,New York,nys_newyork,36061,"Jones, Samuel",JS0049,NA,2
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Richmond,nys_richmond,36085,"Jones, Samuel",JS0049,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Rockland,nys_rockland,36087,"Jones, Samuel",JS0049,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,New York,nys_newyork,36061,"Jumal, Stephen",JS0017,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Richmond,nys_richmond,36085,"Jumal, Stephen",JS0017,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Rockland,nys_rockland,36087,"Jumal, Stephen",JS0017,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,New York,nys_newyork,36061,"Lawrence, Jonathan, Jr.",LJ0324,NA,2
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Richmond,nys_richmond,36085,"Lawrence, Jonathan, Jr.",LJ0324,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Rockland,nys_rockland,36087,"Lawrence, Jonathan, Jr.",LJ0324,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,New York,nys_newyork,36061,"Morris, James",MJ0473,NA,2
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Richmond,nys_richmond,36085,"Morris, James",MJ0473,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Rockland,nys_rockland,36087,"Morris, James",MJ0473,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,New York,nys_newyork,36061,NA,NA,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,New York,nys_newyork,36061,"Nixon, Thomas",NT0012,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Richmond,nys_richmond,36085,"Nixon, Thomas",NT0012,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Rockland,nys_rockland,36087,"Nixon, Thomas",NT0012,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,New York,nys_newyork,36061,"Seaman, John W.",SJ0684,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Richmond,nys_richmond,36085,"Seaman, John W.",SJ0684,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Rockland,nys_rockland,36087,"Seaman, John W.",SJ0684,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,New York,nys_newyork,36061,"Shanewolf, Frederick",SF0017,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Richmond,nys_richmond,36085,"Shanewolf, Frederick",SF0017,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Rockland,nys_rockland,36087,"Shanewolf, Frederick",SF0017,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,New York,nys_newyork,36061,"Sidell, John",SJ0600,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Richmond,nys_richmond,36085,"Sidell, John",SJ0600,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Rockland,nys_rockland,36087,"Sidell, John",SJ0600,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,New York,nys_newyork,36061,"Townsend, James",TJ0196,NA,4
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Richmond,nys_richmond,36085,"Townsend, James",TJ0196,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Rockland,nys_rockland,36087,"Townsend, James",TJ0196,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,New York,nys_newyork,36061,"Walker, Richard L.",WR0010,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Richmond,nys_richmond,36085,"Walker, Richard L.",WR0010,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Rockland,nys_rockland,36087,"Walker, Richard L.",WR0010,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,New York,nys_newyork,36061,"Wolcott, Oliver",WO0010,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Richmond,nys_richmond,36085,"Wolcott, Oliver",WO0010,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress2.1808,Rockland,nys_rockland,36087,"Wolcott, Oliver",WO0010,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Orange,nys_orange,36071,"Fisk, Jonathan",FJ0199,Democratic-Republican,1321
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Westchester,nys_westchester,36119,"Fisk, Jonathan",FJ0199,Democratic-Republican,1101
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Orange,nys_orange,36071,"Hatfield, Richard",HR0118,Federalist,855
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Westchester,nys_westchester,36119,"Hatfield, Richard",HR0118,Federalist,1268
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Orange,nys_orange,36071,"Bodle, William",BW0189,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Westchester,nys_westchester,36119,"Bodle, William",BW0189,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Orange,nys_orange,36071,"Coe, Benjamin",CB0069,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Westchester,nys_westchester,36119,"Coe, Benjamin",CB0069,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Orange,nys_orange,36071,"Cooley, Jonathan",CJ0475,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Westchester,nys_westchester,36119,"Cooley, Jonathan",CJ0475,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Orange,nys_orange,36071,"Ely, Edward",EE0021,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Westchester,nys_westchester,36119,"Ely, Edward",EE0021,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Orange,nys_orange,36071,"Ferris, Benjamin",FB0031,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Westchester,nys_westchester,36119,"Ferris, Benjamin",FB0031,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Orange,nys_orange,36071,"Fisch, David G.",FD0043,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Westchester,nys_westchester,36119,"Fisch, David G.",FD0043,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Orange,nys_orange,36071,"Gilbert, William W.",GW0078,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Westchester,nys_westchester,36119,"Gilbert, William W.",GW0078,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Orange,nys_orange,36071,"Jones, Samuel",JS0049,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Westchester,nys_westchester,36119,"Jones, Samuel",JS0049,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Orange,nys_orange,36071,"Miller, Abraham",MA0118,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Westchester,nys_westchester,36119,"Miller, Abraham",MA0118,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Orange,nys_orange,36071,"Morris, James",MJ0473,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Westchester,nys_westchester,36119,"Morris, James",MJ0473,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Orange,nys_orange,36071,"Orsburn, Osias",OO0000,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Westchester,nys_westchester,36119,"Orsburn, Osias",OO0000,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Orange,nys_orange,36071,"Ten Broeck, Samuel",TS0137,NA,4
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Westchester,nys_westchester,36119,"Ten Broeck, Samuel",TS0137,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Orange,nys_orange,36071,"Van Cortlandt, Philip",VP0041,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Westchester,nys_westchester,36119,"Van Cortlandt, Philip",VP0041,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Orange,nys_orange,36071,"Webbers, Isaac",WI0026,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Westchester,nys_westchester,36119,"Webbers, Isaac",WI0026,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Orange,nys_orange,36071,"White, Nathan H.",WN0003,NA,35
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Westchester,nys_westchester,36119,"White, Nathan H.",WN0003,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Orange,nys_orange,36071,"Wilkin, James W.",WJ0459,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress3.1808,Westchester,nys_westchester,36119,"Wilkin, James W.",WJ0459,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress4.1808,Dutchess,nys_dutchess,36027,"Johnson, Robert",JR0030,Democratic-Republican,556
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress4.1808,Dutchess,nys_dutchess,36027,"Emott, James",EJ0125,Federalist,1606
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress4.1808,Dutchess,nys_dutchess,36027,"Denton, Joel",DJ0220,NA,2
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress4.1808,Dutchess,nys_dutchess,36027,"Emott, William",EW0063,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress4.1808,Dutchess,nys_dutchess,36027,"Horton, Joshua",HJ0581,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress4.1808,Dutchess,nys_dutchess,36027,"Lewis, Morgan",LM0044,Democratic-Republican,14
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress4.1808,Dutchess,nys_dutchess,36027,"Livingston, Edward P.",LE0052,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress4.1808,Dutchess,nys_dutchess,36027,"Rudd, Theron",RT0074,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress4.1808,Dutchess,nys_dutchess,36027,"Tandy, Napper",TN0012,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress4.1808,Dutchess,nys_dutchess,36027,"Van Kueren, Hezekiah",VH0022,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress4.1808,Dutchess,nys_dutchess,36027,"Verplanck, Daniel C.",VD0005,Democratic-Republican,12
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress5.1808,Greene,nys_greene,36039,"Dill, John",DJ0311,Democratic-Republican,781
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress5.1808,Ulster,nys_ulster,36111,"Dill, John",DJ0311,Democratic-Republican,1278
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress5.1808,Greene,nys_greene,36039,"Gardenier, Barent",GB0043,Federalist,1177
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress5.1808,Ulster,nys_ulster,36111,"Gardenier, Barent",GB0043,Federalist,1500
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress5.1808,Greene,nys_greene,36039,"Abeel, Garret",AG0024,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress5.1808,Ulster,nys_ulster,36111,"Abeel, Garret",AG0024,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress5.1808,Greene,nys_greene,36039,"Backus, Andrew",BA0128,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress5.1808,Ulster,nys_ulster,36111,"Backus, Andrew",BA0128,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress5.1808,Greene,nys_greene,36039,"Cantine, Moses I.",CM0030,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress5.1808,Ulster,nys_ulster,36111,"Cantine, Moses I.",CM0030,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress5.1808,Greene,nys_greene,36039,"Cook, Thomas B.",CT0159,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress5.1808,Ulster,nys_ulster,36111,"Cook, Thomas B.",CT0159,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress5.1808,Greene,nys_greene,36039,"Elmendorf, Petrus",EP0021,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress5.1808,Ulster,nys_ulster,36111,"Elmendorf, Petrus",EP0021,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress5.1808,Greene,nys_greene,36039,"Hyatt, Joshua",HJ0520,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress5.1808,Ulster,nys_ulster,36111,"Hyatt, Joshua",HJ0520,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress5.1808,Greene,nys_greene,36039,"Masbrouck, Joseph",MJ0456,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress5.1808,Ulster,nys_ulster,36111,"Masbrouck, Joseph",MJ0456,NA,9
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress5.1808,Greene,nys_greene,36039,"Ten Broeck, Samuel",TS0137,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress5.1808,Ulster,nys_ulster,36111,"Ten Broeck, Samuel",TS0137,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Columbia,nys_columbia,36021,"Hodgeboom, James L.",HJ0519,Democratic-Republican,1769
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Rensselaer,nys_rensselaer,36083,"Hodgeboom, James L.",HJ0519,Democratic-Republican,1824
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Washington,nys_washington,36115,"Hodgeboom, James L.",HJ0519,Democratic-Republican,2310
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Columbia,nys_columbia,36021,"Van Alen, James I.",VJ0201,Democratic-Republican,1788
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Rensselaer,nys_rensselaer,36083,"Van Alen, James I.",VJ0201,Democratic-Republican,1824
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Washington,nys_washington,36115,"Van Alen, James I.",VJ0201,Democratic-Republican,2310
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Columbia,nys_columbia,36021,"Knickerbocker, Herman",KH0029,Federalist,2348
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Rensselaer,nys_rensselaer,36083,"Knickerbocker, Herman",KH0029,Federalist,2407
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Washington,nys_washington,36115,"Knickerbocker, Herman",KH0029,Federalist,1716
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Columbia,nys_columbia,36021,"Livingston, Robert LeRoy",LR0024,Federalist,2372
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Rensselaer,nys_rensselaer,36083,"Livingston, Robert LeRoy",LR0024,Federalist,2339
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Washington,nys_washington,36115,"Livingston, Robert LeRoy",LR0024,Federalist,1721
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Columbia,nys_columbia,36021,"Fitch, Asa",FA0038,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Rensselaer,nys_rensselaer,36083,"Fitch, Asa",FA0038,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Washington,nys_washington,36115,"Fitch, Asa",FA0038,NA,7
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Columbia,nys_columbia,36021,"Gorslin, William",GW0093,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Rensselaer,nys_rensselaer,36083,"Gorslin, William",GW0093,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Washington,nys_washington,36115,"Gorslin, William",GW0093,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Columbia,nys_columbia,36021,"Graham, Samuel",GS0060,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Rensselaer,nys_rensselaer,36083,"Graham, Samuel",GS0060,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Washington,nys_washington,36115,"Graham, Samuel",GS0060,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Columbia,nys_columbia,36021,"Green, Clark",GC0026,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Rensselaer,nys_rensselaer,36083,"Green, Clark",GC0026,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Washington,nys_washington,36115,"Green, Clark",GC0026,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Columbia,nys_columbia,36021,"Hopkins, David",HD0052,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Rensselaer,nys_rensselaer,36083,"Hopkins, David",HD0052,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Washington,nys_washington,36115,"Hopkins, David",HD0052,NA,2
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Columbia,nys_columbia,36021,"Hyatt, James",HJ0465,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Rensselaer,nys_rensselaer,36083,"Hyatt, James",HJ0465,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Washington,nys_washington,36115,"Hyatt, James",HJ0465,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Columbia,nys_columbia,36021,"Livingston, Edward P.",LE0052,NA,2
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Rensselaer,nys_rensselaer,36083,"Livingston, Edward P.",LE0052,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Washington,nys_washington,36115,"Livingston, Edward P.",LE0052,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Columbia,nys_columbia,36021,"MacKown, James",MJ0448,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Rensselaer,nys_rensselaer,36083,"MacKown, James",MJ0448,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Washington,nys_washington,36115,"MacKown, James",MJ0448,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Columbia,nys_columbia,36021,"Magee, James",MJ0455,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Rensselaer,nys_rensselaer,36083,"Magee, James",MJ0455,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Washington,nys_washington,36115,"Magee, James",MJ0455,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Columbia,nys_columbia,36021,"Main, James",MJ0362,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Rensselaer,nys_rensselaer,36083,"Main, James",MJ0362,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Washington,nys_washington,36115,"Main, James",MJ0362,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Columbia,nys_columbia,36021,"Sargent, Isaac",SI0060,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Rensselaer,nys_rensselaer,36083,"Sargent, Isaac",SI0060,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Washington,nys_washington,36115,"Sargent, Isaac",SI0060,NA,2
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Columbia,nys_columbia,36021,"Stebbins, Gaius",SG0053,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Rensselaer,nys_rensselaer,36083,"Stebbins, Gaius",SG0053,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Washington,nys_washington,36115,"Stebbins, Gaius",SG0053,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Columbia,nys_columbia,36021,"Ten Broeck, Samuel",TS0137,NA,2
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Rensselaer,nys_rensselaer,36083,"Ten Broeck, Samuel",TS0137,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Washington,nys_washington,36115,"Ten Broeck, Samuel",TS0137,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Columbia,nys_columbia,36021,"Thompson, John",TJ0232,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Rensselaer,nys_rensselaer,36083,"Thompson, John",TJ0232,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Washington,nys_washington,36115,"Thompson, John",TJ0232,NA,7
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Columbia,nys_columbia,36021,"Van Alen, Jacob R.",Other candidates,NA,2
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Rensselaer,nys_rensselaer,36083,"Van Alen, Jacob R.",Other candidates,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Washington,nys_washington,36115,"Van Alen, Jacob R.",Other candidates,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Columbia,nys_columbia,36021,"Wilson, Nathan",WN0089,Democratic-Republican,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Rensselaer,nys_rensselaer,36083,"Wilson, Nathan",WN0089,Democratic-Republican,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress6.1808,Washington,nys_washington,36115,"Wilson, Nathan",WN0089,Democratic-Republican,15
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress7.1808,Albany,nys_albany,36001,"Merchant, George",MG0051,Democratic-Republican,1437
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress7.1808,Albany,nys_albany,36001,"Glenn, Henry",GH0039,Federalist,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress7.1808,Albany,nys_albany,36001,"Van Rensselaer, Killian K.",VK0000,Federalist,2685
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress7.1808,Albany,nys_albany,36001,"Lush, Stephen",LS0053,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Clinton,nys_clinton,36019,"Thompson, John",TJ0297,Democratic-Republican,514
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Essex,nys_essex,36031,"Thompson, John",TJ0297,Democratic-Republican,458
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Saratoga,nys_saratoga,36091,"Thompson, John",TJ0297,Democratic-Republican,1516
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Clinton,nys_clinton,36019,"Bailey, William",BW0188,Federalist,422
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Essex,nys_essex,36031,"Bailey, William",BW0188,Federalist,118
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Saratoga,nys_saratoga,36091,"Bailey, William",BW0188,Federalist,765
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Clinton,nys_clinton,36019,"Hopkins, David",HD0052,Federalist,5
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Essex,nys_essex,36031,"Hopkins, David",HD0052,Federalist,2
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Saratoga,nys_saratoga,36091,"Hopkins, David",HD0052,Federalist,2
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Clinton,nys_clinton,36019,"Clinton, George",CG0080,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Essex,nys_essex,36031,"Clinton, George",CG0080,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Saratoga,nys_saratoga,36091,"Clinton, George",CG0080,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Clinton,nys_clinton,36019,"Hitchcock, David",HD0109,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Essex,nys_essex,36031,"Hitchcock, David",HD0109,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Saratoga,nys_saratoga,36091,"Hitchcock, David",HD0109,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Clinton,nys_clinton,36019,"MacComber, John",MJ0454,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Essex,nys_essex,36031,"MacComber, John",MJ0454,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Saratoga,nys_saratoga,36091,"MacComber, John",MJ0454,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Clinton,nys_clinton,36019,"Mann, Alban",MA0126,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Essex,nys_essex,36031,"Mann, Alban",MA0126,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Saratoga,nys_saratoga,36091,"Mann, Alban",MA0126,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Clinton,nys_clinton,36019,"Newcomb, Kinner",NK0000,Democratic-Republican,10
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Essex,nys_essex,36031,"Newcomb, Kinner",NK0000,Democratic-Republican,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Saratoga,nys_saratoga,36091,"Newcomb, Kinner",NK0000,Democratic-Republican,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Clinton,nys_clinton,36019,"Pond, Benjamin",PB0058,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Essex,nys_essex,36031,"Pond, Benjamin",PB0058,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Saratoga,nys_saratoga,36091,"Pond, Benjamin",PB0058,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Clinton,nys_clinton,36019,"Sailly, Peter",SP0076,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Essex,nys_essex,36031,"Sailly, Peter",SP0076,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Saratoga,nys_saratoga,36091,"Sailly, Peter",SP0076,NA,2
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Clinton,nys_clinton,36019,"Sargent, Isaac",SI0060,Democratic-Republican,11
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Essex,nys_essex,36031,"Sargent, Isaac",SI0060,Democratic-Republican,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Saratoga,nys_saratoga,36091,"Sargent, Isaac",SI0060,Democratic-Republican,4
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Clinton,nys_clinton,36019,"Thompson, David",TD0064,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Essex,nys_essex,36031,"Thompson, David",TD0064,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Saratoga,nys_saratoga,36091,"Thompson, David",TD0064,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Clinton,nys_clinton,36019,"Thompson, Levi",TL0020,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Essex,nys_essex,36031,"Thompson, Levi",TL0020,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Saratoga,nys_saratoga,36091,"Thompson, Levi",TL0020,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Clinton,nys_clinton,36019,"Thorn, Stephen",TS0058,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Essex,nys_essex,36031,"Thorn, Stephen",TS0058,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Saratoga,nys_saratoga,36091,"Thorn, Stephen",TS0058,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Clinton,nys_clinton,36019,"Trimble, John",TJ0227,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Essex,nys_essex,36031,"Trimble, John",TJ0227,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Saratoga,nys_saratoga,36091,"Trimble, John",TJ0227,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Clinton,nys_clinton,36019,"Wilder, William",WW0145,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Essex,nys_essex,36031,"Wilder, William",WW0145,NA,4
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Saratoga,nys_saratoga,36091,"Wilder, William",WW0145,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Clinton,nys_clinton,36019,"Wilson, Nathan",WN0089,Democratic-Republican,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Essex,nys_essex,36031,"Wilson, Nathan",WN0089,Democratic-Republican,33
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress8.1808,Saratoga,nys_saratoga,36091,"Wilson, Nathan",WN0089,Democratic-Republican,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress9.1808,Montgomery,nys_montgomery,36057,"Herkimer, John",HJ0524,Democratic-Republican,1512
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress9.1808,Schoharie,nys_schoharie,36095,"Herkimer, John",HJ0524,Democratic-Republican,604
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress9.1808,Montgomery,nys_montgomery,36057,"Sammons, Thomas",ST0168,Federalist,2643
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress9.1808,Schoharie,nys_schoharie,36095,"Sammons, Thomas",ST0168,Federalist,999
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress9.1808,Montgomery,nys_montgomery,36057,"Dodge, Richard",DR0029,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress9.1808,Schoharie,nys_schoharie,36095,"Dodge, Richard",DR0029,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress9.1808,Montgomery,nys_montgomery,36057,"Harper, Samuel",HS0142,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress9.1808,Schoharie,nys_schoharie,36095,"Harper, Samuel",HS0142,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress9.1808,Montgomery,nys_montgomery,36057,"MacCarthy, John",MJ0497,NA,3
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress9.1808,Schoharie,nys_schoharie,36095,"MacCarthy, John",MJ0497,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress9.1808,Montgomery,nys_montgomery,36057,"Sammons, David",SD0106,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress9.1808,Schoharie,nys_schoharie,36095,"Sammons, David",SD0106,NA,0
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress9.1808,Montgomery,nys_montgomery,36057,"Yates, Henry Frey",YH0011,NA,1
+meae.congressional.congress11.ny.county,congressional,11,NY,county,state,ny.uscongress9.1808,Schoharie,nys_schoharie,36095,"Yates, Henry Frey",YH0011,NA,0

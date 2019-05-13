@@ -1,0 +1,26 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress03.nc.county,nc.uscongress1.1793,Joseph MacDowell,MJ0540,1,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress03.nc.county,nc.uscongress10.1793,Benjamin Williams,WB0039,10,Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress03.nc.county,nc.uscongress10.1793,William MacLure,MW0227,10,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress03.nc.county,nc.uscongress2.1793,Matthew Locke,LM0052,2,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress03.nc.county,nc.uscongress2.1793,Alexander,NA,2,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress03.nc.county,nc.uscongress2.1793,Montford Stokes,SM0089,2,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress03.nc.county,nc.uscongress3.1793,Joseph Winston,WJ0494,3,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress03.nc.county,nc.uscongress3.1793,Jesse Franklin,FJ0228,3,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress03.nc.county,nc.uscongress3.1793,John Williams,WJ0495,3,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress03.nc.county,nc.uscongress3.1793,James Martin,MJ0541,3,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress03.nc.county,nc.uscongress3.1793,Clarke,NA,3,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress03.nc.county,nc.uscongress4.1793,Alexander Mebane,MA0149,4,Democratic-Republican,852,1901,0.448,TRUE,FALSE
+meae.congressional.congress03.nc.county,nc.uscongress4.1793,Stephen Moore,MS0117,4,Federalist,741,1901,0.39,FALSE,FALSE
+meae.congressional.congress03.nc.county,nc.uscongress4.1793,Ambrose Ramsay,RA0038,4,Federalist,308,1901,0.162,FALSE,FALSE
+meae.congressional.congress03.nc.county,nc.uscongress5.1793,Nathaniel Macon,MN0068,5,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress03.nc.county,nc.uscongress6.1793,James Gillespie,GJ0328,6,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress03.nc.county,nc.uscongress6.1793,William Henry Hill,HW0233,6,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress03.nc.county,nc.uscongress6.1793,Benjamin Smith,SB0058,6,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress03.nc.county,nc.uscongress7.1793,William B. Grove,GW0091,7,Federalist,NA,0,NA,TRUE,TRUE
+meae.congressional.congress03.nc.county,nc.uscongress8.1793,William J. Dawson,DW0108,8,Federalist,1583,2483,0.638,TRUE,FALSE
+meae.congressional.congress03.nc.county,nc.uscongress8.1793,Stephen Cabarrus,CS0145,8,Democratic-Republican,896,2483,0.361,FALSE,FALSE
+meae.congressional.congress03.nc.county,nc.uscongress8.1793,William Cumming,CW0228,8,Federalist,4,2483,0.002,FALSE,FALSE
+meae.congressional.congress03.nc.county,nc.uscongress9.1793,Thomas Blount,BT0194,9,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress03.nc.county,nc.uscongress9.1793,John B. Ashe,AJ0212,9,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress03.nc.county,nc.uscongress9.1793,John Leigh,LJ0259,9,Federalist,NA,0,NA,FALSE,FALSE

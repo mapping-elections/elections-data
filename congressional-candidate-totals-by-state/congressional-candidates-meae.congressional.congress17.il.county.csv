@@ -1,0 +1,7 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress17.il.county,il.uscongress.1820,Daniel P. Cook,CD0015,At-large,Democratic-Republican,5322,7684,0.693,TRUE,FALSE
+meae.congressional.congress17.il.county,il.uscongress.1820,Elias K. Kane,KE0009,At-large,Republican Faction,2358,7684,0.307,FALSE,FALSE
+meae.congressional.congress17.il.county,il.uscongress.1820,John MacLean,MJ0101,At-large,NA,1,7684,0,FALSE,FALSE
+meae.congressional.congress17.il.county,il.uscongress.1820,John Cook,CJ0056,At-large,NA,1,7684,0,FALSE,FALSE
+meae.congressional.congress17.il.county,il.uscongress.1820,P. Copph,CP0066,At-large,NA,1,7684,0,FALSE,FALSE
+meae.congressional.congress17.il.county,il.uscongress.1820,D. Kain,KD0057,At-large,NA,1,7684,0,FALSE,FALSE

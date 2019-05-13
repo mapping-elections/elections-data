@@ -1,0 +1,1201 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Bacon, Daniel",BD0250,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Bacon, Daniel",BD0250,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Bacon, Daniel",BD0250,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Bacon, Daniel",BD0250,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Bacon, Daniel",BD0250,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Bacon, Daniel",BD0250,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Bacon, Daniel",BD0250,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Bacon, Daniel",BD0250,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Badger, Edmund",BE0262,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Badger, Edmund",BE0262,Democratic-Republican,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Badger, Edmund",BE0262,Democratic-Republican,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Badger, Edmund",BE0262,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Badger, Edmund",BE0262,Democratic-Republican,2
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Badger, Edmund",BE0262,Democratic-Republican,2
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Badger, Edmund",BE0262,Democratic-Republican,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Badger, Edmund",BE0262,Democratic-Republican,4
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Baldwin, John",BJ1555,Adams/Clay,483
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Baldwin, John",BJ1555,Adams/Clay,510
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Baldwin, John",BJ1555,Adams/Clay,434
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Baldwin, John",BJ1555,Adams/Clay,251
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Baldwin, John",BJ1555,Adams/Clay,655
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Baldwin, John",BJ1555,Adams/Clay,717
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Baldwin, John",BJ1555,Adams/Clay,203
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Baldwin, John",BJ1555,Adams/Clay,400
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Barber, Noyes",BN0014,Adams/Clay,764
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Barber, Noyes",BN0014,Adams/Clay,800
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Barber, Noyes",BN0014,Adams/Clay,457
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Barber, Noyes",BN0014,Adams/Clay,304
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Barber, Noyes",BN0014,Adams/Clay,611
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Barber, Noyes",BN0014,Adams/Clay,806
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Barber, Noyes",BN0014,Adams/Clay,299
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Barber, Noyes",BN0014,Adams/Clay,360
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Beers, Seth P.",BS0029,Democratic-Republican,2
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Beers, Seth P.",BS0029,Democratic-Republican,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Beers, Seth P.",BS0029,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Beers, Seth P.",BS0029,Democratic-Republican,2
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Beers, Seth P.",BS0029,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Beers, Seth P.",BS0029,Democratic-Republican,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Beers, Seth P.",BS0029,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Beers, Seth P.",BS0029,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Boardman, Homer",BH0223,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Boardman, Homer",BH0223,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Boardman, Homer",BH0223,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Boardman, Homer",BH0223,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Boardman, Homer",BH0223,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Boardman, Homer",BH0223,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Boardman, Homer",BH0223,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Boardman, Homer",BH0223,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Brigham, Elisha",BE0257,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Brigham, Elisha",BE0257,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Brigham, Elisha",BE0257,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Brigham, Elisha",BE0257,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Brigham, Elisha",BE0257,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Brigham, Elisha",BE0257,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Brigham, Elisha",BE0257,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Brigham, Elisha",BE0257,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Bristol, William",BW0017,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Bristol, William",BW0017,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Bristol, William",BW0017,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Bristol, William",BW0017,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Bristol, William",BW0017,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Bristol, William",BW0017,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Bristol, William",BW0017,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Bristol, William",BW0017,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Burrows, Daniel",BD0248,Democratic-Republican,353
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Burrows, Daniel",BD0248,Democratic-Republican,374
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Burrows, Daniel",BD0248,Democratic-Republican,198
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Burrows, Daniel",BD0248,Democratic-Republican,156
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Burrows, Daniel",BD0248,Democratic-Republican,172
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Burrows, Daniel",BD0248,Democratic-Republican,316
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Burrows, Daniel",BD0248,Democratic-Republican,175
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Burrows, Daniel",BD0248,Democratic-Republican,41
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Burrows, Enoch",BE0023,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Burrows, Enoch",BE0023,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Burrows, Enoch",BE0023,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Burrows, Enoch",BE0023,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Burrows, Enoch",BE0023,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Burrows, Enoch",BE0023,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Burrows, Enoch",BE0023,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Burrows, Enoch",BE0023,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Channing, Henry",CH0110,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Channing, Henry",CH0110,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Channing, Henry",CH0110,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Channing, Henry",CH0110,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Channing, Henry",CH0110,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Channing, Henry",CH0110,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Channing, Henry",CH0110,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Channing, Henry",CH0110,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Church, Samuel",CS0269,Democratic-Republican,65
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Church, Samuel",CS0269,Democratic-Republican,37
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Church, Samuel",CS0269,Democratic-Republican,46
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Church, Samuel",CS0269,Democratic-Republican,4
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Church, Samuel",CS0269,Democratic-Republican,6
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Church, Samuel",CS0269,Democratic-Republican,10
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Church, Samuel",CS0269,Democratic-Republican,54
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Church, Samuel",CS0269,Democratic-Republican,83
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Day, Thomas",DT0007,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Day, Thomas",DT0007,Democratic-Republican,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Day, Thomas",DT0007,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Day, Thomas",DT0007,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Day, Thomas",DT0007,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Day, Thomas",DT0007,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Day, Thomas",DT0007,Democratic-Republican,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Day, Thomas",DT0007,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Edwards, Henry W.",EH0001,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Edwards, Henry W.",EH0001,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Edwards, Henry W.",EH0001,Democratic-Republican,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Edwards, Henry W.",EH0001,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Edwards, Henry W.",EH0001,Democratic-Republican,7
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Edwards, Henry W.",EH0001,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Edwards, Henry W.",EH0001,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Edwards, Henry W.",EH0001,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Eells, Cushing",EC0000,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Eells, Cushing",EC0000,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Eells, Cushing",EC0000,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Eells, Cushing",EC0000,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Eells, Cushing",EC0000,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Eells, Cushing",EC0000,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Eells, Cushing",EC0000,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Eells, Cushing",EC0000,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Fairchild, Robert",FR0000,Democratic-Republican,68
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Fairchild, Robert",FR0000,Democratic-Republican,29
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Fairchild, Robert",FR0000,Democratic-Republican,14
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Fairchild, Robert",FR0000,Democratic-Republican,3
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Fairchild, Robert",FR0000,Democratic-Republican,4
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Fairchild, Robert",FR0000,Democratic-Republican,13
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Fairchild, Robert",FR0000,Democratic-Republican,9
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Fairchild, Robert",FR0000,Democratic-Republican,80
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Foot, Samuel A.",FS0001,Democratic-Republican,66
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Foot, Samuel A.",FS0001,Democratic-Republican,84
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Foot, Samuel A.",FS0001,Democratic-Republican,44
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Foot, Samuel A.",FS0001,Democratic-Republican,49
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Foot, Samuel A.",FS0001,Democratic-Republican,160
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Foot, Samuel A.",FS0001,Democratic-Republican,114
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Foot, Samuel A.",FS0001,Democratic-Republican,9
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Foot, Samuel A.",FS0001,Democratic-Republican,48
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Goddard, Calvin",GC0005,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Goddard, Calvin",GC0005,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Goddard, Calvin",GC0005,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Goddard, Calvin",GC0005,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Goddard, Calvin",GC0005,Democratic-Republican,3
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Goddard, Calvin",GC0005,Democratic-Republican,2
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Goddard, Calvin",GC0005,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Goddard, Calvin",GC0005,Democratic-Republican,31
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Hallam, John",HJ1267,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Hallam, John",HJ1267,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Hallam, John",HJ1267,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Hallam, John",HJ1267,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Hallam, John",HJ1267,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Hallam, John",HJ1267,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Hallam, John",HJ1267,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Hallam, John",HJ1267,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Hitchcock, Rufus",HR0000,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Hitchcock, Rufus",HR0000,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Hitchcock, Rufus",HR0000,Democratic-Republican,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Hitchcock, Rufus",HR0000,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Hitchcock, Rufus",HR0000,Democratic-Republican,2
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Hitchcock, Rufus",HR0000,Democratic-Republican,35
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Hitchcock, Rufus",HR0000,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Hitchcock, Rufus",HR0000,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Hotchkiss, Minor",HM0131,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Hotchkiss, Minor",HM0131,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Hotchkiss, Minor",HM0131,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Hotchkiss, Minor",HM0131,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Hotchkiss, Minor",HM0131,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Hotchkiss, Minor",HM0131,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Hotchkiss, Minor",HM0131,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Hotchkiss, Minor",HM0131,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Huntington, Roger",HR0009,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Huntington, Roger",HR0009,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Huntington, Roger",HR0009,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Huntington, Roger",HR0009,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Huntington, Roger",HR0009,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Huntington, Roger",HR0009,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Huntington, Roger",HR0009,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Huntington, Roger",HR0009,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Ingersoll, Ralph I.",IR0000,Adams/Clay,832
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Ingersoll, Ralph I.",IR0000,Adams/Clay,923
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Ingersoll, Ralph I.",IR0000,Adams/Clay,687
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Ingersoll, Ralph I.",IR0000,Adams/Clay,415
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Ingersoll, Ralph I.",IR0000,Adams/Clay,714
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Ingersoll, Ralph I.",IR0000,Adams/Clay,1101
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Ingersoll, Ralph I.",IR0000,Adams/Clay,380
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Ingersoll, Ralph I.",IR0000,Adams/Clay,493
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Johnson, Nathan",JN0022,Democratic-Republican,11
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Johnson, Nathan",JN0022,Democratic-Republican,7
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Johnson, Nathan",JN0022,Democratic-Republican,7
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Johnson, Nathan",JN0022,Democratic-Republican,22
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Johnson, Nathan",JN0022,Democratic-Republican,7
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Johnson, Nathan",JN0022,Democratic-Republican,8
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Johnson, Nathan",JN0022,Democratic-Republican,2
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Johnson, Nathan",JN0022,Democratic-Republican,5
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Judson, Andrew T.",JA0055,Democratic-Republican,3
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Judson, Andrew T.",JA0055,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Judson, Andrew T.",JA0055,Democratic-Republican,3
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Judson, Andrew T.",JA0055,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Judson, Andrew T.",JA0055,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Judson, Andrew T.",JA0055,Democratic-Republican,3
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Judson, Andrew T.",JA0055,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Judson, Andrew T.",JA0055,Democratic-Republican,6
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Kibbe, Walter B.",KW0062,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Kibbe, Walter B.",KW0062,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Kibbe, Walter B.",KW0062,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Kibbe, Walter B.",KW0062,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Kibbe, Walter B.",KW0062,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Kibbe, Walter B.",KW0062,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Kibbe, Walter B.",KW0062,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Kibbe, Walter B.",KW0062,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Kimberly, Daniel",KD0070,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Kimberly, Daniel",KD0070,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Kimberly, Daniel",KD0070,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Kimberly, Daniel",KD0070,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Kimberly, Daniel",KD0070,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Kimberly, Daniel",KD0070,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Kimberly, Daniel",KD0070,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Kimberly, Daniel",KD0070,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Kimberly, Dennis",KD0044,Democratic-Republican,38
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Kimberly, Dennis",KD0044,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Kimberly, Dennis",KD0044,Democratic-Republican,26
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Kimberly, Dennis",KD0044,Democratic-Republican,35
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Kimberly, Dennis",KD0044,Democratic-Republican,159
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Kimberly, Dennis",KD0044,Democratic-Republican,20
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Kimberly, Dennis",KD0044,Democratic-Republican,17
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Kimberly, Dennis",KD0044,Democratic-Republican,47
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Lanman, James",LJ0005,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Lanman, James",LJ0005,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Lanman, James",LJ0005,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Lanman, James",LJ0005,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Lanman, James",LJ0005,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Lanman, James",LJ0005,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Lanman, James",LJ0005,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Lanman, James",LJ0005,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Law, Lyman",LL0001,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Law, Lyman",LL0001,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Law, Lyman",LL0001,Democratic-Republican,28
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Law, Lyman",LL0001,Democratic-Republican,8
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Law, Lyman",LL0001,Democratic-Republican,141
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Law, Lyman",LL0001,Democratic-Republican,14
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Law, Lyman",LL0001,Democratic-Republican,17
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Law, Lyman",LL0001,Democratic-Republican,107
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Loomis, Luther",LL0006,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Loomis, Luther",LL0006,Democratic-Republican,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Loomis, Luther",LL0006,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Loomis, Luther",LL0006,Democratic-Republican,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Loomis, Luther",LL0006,Democratic-Republican,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Loomis, Luther",LL0006,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Loomis, Luther",LL0006,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Loomis, Luther",LL0006,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Marshall, Seth",MS0220,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Marshall, Seth",MS0220,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Marshall, Seth",MS0220,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Marshall, Seth",MS0220,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Marshall, Seth",MS0220,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Marshall, Seth",MS0220,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Marshall, Seth",MS0220,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Marshall, Seth",MS0220,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Merwin, Orange",MO0000,Adams/Clay,838
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Merwin, Orange",MO0000,Adams/Clay,952
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Merwin, Orange",MO0000,Adams/Clay,686
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Merwin, Orange",MO0000,Adams/Clay,442
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Merwin, Orange",MO0000,Adams/Clay,814
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Merwin, Orange",MO0000,Adams/Clay,1033
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Merwin, Orange",MO0000,Adams/Clay,284
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Merwin, Orange",MO0000,Adams/Clay,469
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Minor, Phinehas",MP0086,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Minor, Phinehas",MP0086,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Minor, Phinehas",MP0086,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Minor, Phinehas",MP0086,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Minor, Phinehas",MP0086,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Minor, Phinehas",MP0086,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Minor, Phinehas",MP0086,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Minor, Phinehas",MP0086,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Minor, Simeon H.",MS0223,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Minor, Simeon H.",MS0223,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Minor, Simeon H.",MS0223,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Minor, Simeon H.",MS0223,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Minor, Simeon H.",MS0223,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Minor, Simeon H.",MS0223,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Minor, Simeon H.",MS0223,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Minor, Simeon H.",MS0223,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Perkins, Elias",PE0001,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Perkins, Elias",PE0001,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Perkins, Elias",PE0001,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Perkins, Elias",PE0001,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Perkins, Elias",PE0001,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Perkins, Elias",PE0001,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Perkins, Elias",PE0001,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Perkins, Elias",PE0001,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Perkins, Thomas S.",PT0160,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Perkins, Thomas S.",PT0160,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Perkins, Thomas S.",PT0160,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Perkins, Thomas S.",PT0160,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Perkins, Thomas S.",PT0160,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Perkins, Thomas S.",PT0160,Democratic-Republican,32
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Perkins, Thomas S.",PT0160,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Perkins, Thomas S.",PT0160,Democratic-Republican,2
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Peters, John T.",PJ0003,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Peters, John T.",PJ0003,Democratic-Republican,56
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Peters, John T.",PJ0003,Democratic-Republican,3
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Peters, John T.",PJ0003,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Peters, John T.",PJ0003,Democratic-Republican,2
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Peters, John T.",PJ0003,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Peters, John T.",PJ0003,Democratic-Republican,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Peters, John T.",PJ0003,Democratic-Republican,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Phelps, Elisha",PE0012,Adams/Clay,898
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Phelps, Elisha",PE0012,Adams/Clay,953
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Phelps, Elisha",PE0012,Adams/Clay,704
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Phelps, Elisha",PE0012,Adams/Clay,472
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Phelps, Elisha",PE0012,Adams/Clay,843
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Phelps, Elisha",PE0012,Adams/Clay,1123
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Phelps, Elisha",PE0012,Adams/Clay,380
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Phelps, Elisha",PE0012,Adams/Clay,561
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Plant, David",PD0008,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Plant, David",PD0008,Democratic-Republican,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Plant, David",PD0008,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Plant, David",PD0008,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Plant, David",PD0008,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Plant, David",PD0008,Democratic-Republican,2
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Plant, David",PD0008,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Plant, David",PD0008,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Rider, Hiram",RH0089,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Rider, Hiram",RH0089,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Rider, Hiram",RH0089,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Rider, Hiram",RH0089,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Rider, Hiram",RH0089,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Rider, Hiram",RH0089,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Rider, Hiram",RH0089,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Rider, Hiram",RH0089,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Russ, John",RJ0004,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Russ, John",RJ0004,Democratic-Republican,4
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Russ, John",RJ0004,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Russ, John",RJ0004,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Russ, John",RJ0004,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Russ, John",RJ0004,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Russ, John",RJ0004,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Russ, John",RJ0004,Democratic-Republican,14
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Smith, Perry",SP0149,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Smith, Perry",SP0149,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Smith, Perry",SP0149,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Smith, Perry",SP0149,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Smith, Perry",SP0149,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Smith, Perry",SP0149,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Smith, Perry",SP0149,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Smith, Perry",SP0149,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Sterling, Ansel",SA0013,Democratic-Republican,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Sterling, Ansel",SA0013,Democratic-Republican,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Sterling, Ansel",SA0013,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Sterling, Ansel",SA0013,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Sterling, Ansel",SA0013,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Sterling, Ansel",SA0013,Democratic-Republican,46
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Sterling, Ansel",SA0013,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Sterling, Ansel",SA0013,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Stoddard, Ebenezer",SE0220,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Stoddard, Ebenezer",SE0220,Democratic-Republican,20
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Stoddard, Ebenezer",SE0220,Democratic-Republican,21
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Stoddard, Ebenezer",SE0220,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Stoddard, Ebenezer",SE0220,Democratic-Republican,3
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Stoddard, Ebenezer",SE0220,Democratic-Republican,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Stoddard, Ebenezer",SE0220,Democratic-Republican,7
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Stoddard, Ebenezer",SE0220,Democratic-Republican,7
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Tomlinson, Gideon",TG0001,Democratic-Republican,887
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Tomlinson, Gideon",TG0001,Democratic-Republican,1125
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Tomlinson, Gideon",TG0001,Democratic-Republican,693
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Tomlinson, Gideon",TG0001,Democratic-Republican,470
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Tomlinson, Gideon",TG0001,Democratic-Republican,978
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Tomlinson, Gideon",TG0001,Democratic-Republican,1163
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Tomlinson, Gideon",TG0001,Democratic-Republican,407
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Tomlinson, Gideon",TG0001,Democratic-Republican,540
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Tracy, Elias",TE0091,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Tracy, Elias",TE0091,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Tracy, Elias",TE0091,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Tracy, Elias",TE0091,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Tracy, Elias",TE0091,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Tracy, Elias",TE0091,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Tracy, Elias",TE0091,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Tracy, Elias",TE0091,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Tracy, Elisha",TE0007,Democratic-Republican,122
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Tracy, Elisha",TE0007,Democratic-Republican,114
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Tracy, Elisha",TE0007,Democratic-Republican,219
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Tracy, Elisha",TE0007,Democratic-Republican,195
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Tracy, Elisha",TE0007,Democratic-Republican,208
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Tracy, Elisha",TE0007,Democratic-Republican,314
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Tracy, Elisha",TE0007,Democratic-Republican,93
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Tracy, Elisha",TE0007,Democratic-Republican,226
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Warren, Moses",WM0010,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Warren, Moses",WM0010,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Warren, Moses",WM0010,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Warren, Moses",WM0010,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Warren, Moses",WM0010,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Warren, Moses",WM0010,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Warren, Moses",WM0010,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Warren, Moses",WM0010,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Welch, John",WJ0024,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Welch, John",WJ0024,Democratic-Republican,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Welch, John",WJ0024,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Welch, John",WJ0024,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Welch, John",WJ0024,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Welch, John",WJ0024,Democratic-Republican,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Welch, John",WJ0024,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Welch, John",WJ0024,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Wells, Sylvester",WS0011,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Wells, Sylvester",WS0011,Democratic-Republican,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Wells, Sylvester",WS0011,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Wells, Sylvester",WS0011,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Wells, Sylvester",WS0011,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Wells, Sylvester",WS0011,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Wells, Sylvester",WS0011,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Wells, Sylvester",WS0011,Democratic-Republican,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Willey, Calvin",WC0000,Democratic-Republican,113
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Willey, Calvin",WC0000,Democratic-Republican,133
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Willey, Calvin",WC0000,Democratic-Republican,64
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Willey, Calvin",WC0000,Democratic-Republican,71
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Willey, Calvin",WC0000,Democratic-Republican,164
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Willey, Calvin",WC0000,Democratic-Republican,104
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Willey, Calvin",WC0000,Democratic-Republican,56
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Willey, Calvin",WC0000,Democratic-Republican,206
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Bacon, Asa, Jr.",BA0002,Federalist,38
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Bacon, Asa, Jr.",BA0002,Federalist,43
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Bacon, Asa, Jr.",BA0002,Federalist,54
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Bacon, Asa, Jr.",BA0002,Federalist,24
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Bacon, Asa, Jr.",BA0002,Federalist,144
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Bacon, Asa, Jr.",BA0002,Federalist,24
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Bacon, Asa, Jr.",BA0002,Federalist,18
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Bacon, Asa, Jr.",BA0002,Federalist,62
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Baldwin, Simeon",BS0001,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Baldwin, Simeon",BS0001,Federalist,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Baldwin, Simeon",BS0001,Federalist,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Baldwin, Simeon",BS0001,Federalist,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Baldwin, Simeon",BS0001,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Baldwin, Simeon",BS0001,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Baldwin, Simeon",BS0001,Federalist,9
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Baldwin, Simeon",BS0001,Federalist,8
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Barnes, Jonathan",BJ0028,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Barnes, Jonathan",BJ0028,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Barnes, Jonathan",BJ0028,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Barnes, Jonathan",BJ0028,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Barnes, Jonathan",BJ0028,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Barnes, Jonathan",BJ0028,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Barnes, Jonathan",BJ0028,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Barnes, Jonathan",BJ0028,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Benedict, Noah B.",BN0004,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Benedict, Noah B.",BN0004,Federalist,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Benedict, Noah B.",BN0004,Federalist,2
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Benedict, Noah B.",BN0004,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Benedict, Noah B.",BN0004,Federalist,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Benedict, Noah B.",BN0004,Federalist,2
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Benedict, Noah B.",BN0004,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Benedict, Noah B.",BN0004,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Champion, Epaphorditus",CE0020,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Champion, Epaphorditus",CE0020,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Champion, Epaphorditus",CE0020,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Champion, Epaphorditus",CE0020,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Champion, Epaphorditus",CE0020,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Champion, Epaphorditus",CE0020,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Champion, Epaphorditus",CE0020,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Champion, Epaphorditus",CE0020,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Chandler, Theophilus B.",CT0216,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Chandler, Theophilus B.",CT0216,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Chandler, Theophilus B.",CT0216,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Chandler, Theophilus B.",CT0216,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Chandler, Theophilus B.",CT0216,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Chandler, Theophilus B.",CT0216,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Chandler, Theophilus B.",CT0216,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Chandler, Theophilus B.",CT0216,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Chapin, Oliver",CO0023,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Chapin, Oliver",CO0023,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Chapin, Oliver",CO0023,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Chapin, Oliver",CO0023,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Chapin, Oliver",CO0023,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Chapin, Oliver",CO0023,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Chapin, Oliver",CO0023,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Chapin, Oliver",CO0023,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Daggett, David",DD0000,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Daggett, David",DD0000,Federalist,5
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Daggett, David",DD0000,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Daggett, David",DD0000,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Daggett, David",DD0000,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Daggett, David",DD0000,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Daggett, David",DD0000,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Daggett, David",DD0000,Federalist,4
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Dana, Samuel W.",DS0003,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Dana, Samuel W.",DS0003,Federalist,22
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Dana, Samuel W.",DS0003,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Dana, Samuel W.",DS0003,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Dana, Samuel W.",DS0003,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Dana, Samuel W.",DS0003,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Dana, Samuel W.",DS0003,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Dana, Samuel W.",DS0003,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Dennison, Charles",DC0000,Federalist,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Dennison, Charles",DC0000,Federalist,13
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Dennison, Charles",DC0000,Federalist,26
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Dennison, Charles",DC0000,Federalist,2
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Dennison, Charles",DC0000,Federalist,24
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Dennison, Charles",DC0000,Federalist,3
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Dennison, Charles",DC0000,Federalist,10
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Dennison, Charles",DC0000,Federalist,13
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Eaton, Joseph",EJ0009,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Eaton, Joseph",EJ0009,Federalist,2
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Eaton, Joseph",EJ0009,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Eaton, Joseph",EJ0009,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Eaton, Joseph",EJ0009,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Eaton, Joseph",EJ0009,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Eaton, Joseph",EJ0009,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Eaton, Joseph",EJ0009,Federalist,3
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Edwards, Jonathan W.",EJ0007,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Edwards, Jonathan W.",EJ0007,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Edwards, Jonathan W.",EJ0007,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Edwards, Jonathan W.",EJ0007,Federalist,2
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Edwards, Jonathan W.",EJ0007,Federalist,3
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Edwards, Jonathan W.",EJ0007,Federalist,17
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Edwards, Jonathan W.",EJ0007,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Edwards, Jonathan W.",EJ0007,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Ellsworth, Henry L.",EH0032,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Ellsworth, Henry L.",EH0032,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Ellsworth, Henry L.",EH0032,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Ellsworth, Henry L.",EH0032,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Ellsworth, Henry L.",EH0032,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Ellsworth, Henry L.",EH0032,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Ellsworth, Henry L.",EH0032,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Ellsworth, Henry L.",EH0032,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Frost, Daniel",FD0076,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Frost, Daniel",FD0076,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Frost, Daniel",FD0076,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Frost, Daniel",FD0076,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Frost, Daniel",FD0076,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Frost, Daniel",FD0076,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Frost, Daniel",FD0076,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Frost, Daniel",FD0076,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Gilbert, Sylvester",GS0003,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Gilbert, Sylvester",GS0003,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Gilbert, Sylvester",GS0003,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Gilbert, Sylvester",GS0003,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Gilbert, Sylvester",GS0003,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Gilbert, Sylvester",GS0003,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Gilbert, Sylvester",GS0003,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Gilbert, Sylvester",GS0003,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Goodrich, Elizur",GE0001,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Goodrich, Elizur",GE0001,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Goodrich, Elizur",GE0001,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Goodrich, Elizur",GE0001,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Goodrich, Elizur",GE0001,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Goodrich, Elizur",GE0001,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Goodrich, Elizur",GE0001,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Goodrich, Elizur",GE0001,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Gould, James",GJ0008,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Gould, James",GJ0008,Federalist,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Gould, James",GJ0008,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Gould, James",GJ0008,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Gould, James",GJ0008,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Gould, James",GJ0008,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Gould, James",GJ0008,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Gould, James",GJ0008,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Griffin, Josiah",GJ0640,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Griffin, Josiah",GJ0640,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Griffin, Josiah",GJ0640,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Griffin, Josiah",GJ0640,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Griffin, Josiah",GJ0640,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Griffin, Josiah",GJ0640,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Griffin, Josiah",GJ0640,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Griffin, Josiah",GJ0640,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Griswold, Matthew",GM0000,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Griswold, Matthew",GM0000,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Griswold, Matthew",GM0000,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Griswold, Matthew",GM0000,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Griswold, Matthew",GM0000,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Griswold, Matthew",GM0000,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Griswold, Matthew",GM0000,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Griswold, Matthew",GM0000,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Gurley, Jacob B.",GJ0012,Federalist,35
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Gurley, Jacob B.",GJ0012,Federalist,87
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Gurley, Jacob B.",GJ0012,Federalist,16
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Gurley, Jacob B.",GJ0012,Federalist,2
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Gurley, Jacob B.",GJ0012,Federalist,2
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Gurley, Jacob B.",GJ0012,Federalist,11
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Gurley, Jacob B.",GJ0012,Federalist,40
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Gurley, Jacob B.",GJ0012,Federalist,4
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Hall, John",HJ0022,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Hall, John",HJ0022,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Hall, John",HJ0022,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Hall, John",HJ0022,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Hall, John",HJ0022,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Hall, John",HJ0022,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Hall, John",HJ0022,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Hall, John",HJ0022,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Holkins, Joel",HJ1266,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Holkins, Joel",HJ1266,Federalist,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Holkins, Joel",HJ1266,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Holkins, Joel",HJ1266,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Holkins, Joel",HJ1266,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Holkins, Joel",HJ1266,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Holkins, Joel",HJ1266,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Holkins, Joel",HJ1266,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Holmes, Uriel",HU0000,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Holmes, Uriel",HU0000,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Holmes, Uriel",HU0000,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Holmes, Uriel",HU0000,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Holmes, Uriel",HU0000,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Holmes, Uriel",HU0000,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Holmes, Uriel",HU0000,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Holmes, Uriel",HU0000,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Hubbard, Elijah",HE0013,Federalist,11
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Hubbard, Elijah",HE0013,Federalist,4
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Hubbard, Elijah",HE0013,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Hubbard, Elijah",HE0013,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Hubbard, Elijah",HE0013,Federalist,2
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Hubbard, Elijah",HE0013,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Hubbard, Elijah",HE0013,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Hubbard, Elijah",HE0013,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Hungerford, William",HW0332,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Hungerford, William",HW0332,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Hungerford, William",HW0332,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Hungerford, William",HW0332,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Hungerford, William",HW0332,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Hungerford, William",HW0332,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Hungerford, William",HW0332,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Hungerford, William",HW0332,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Huntington, Jabez H.",HJ1258,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Huntington, Jabez H.",HJ1258,Federalist,2
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Huntington, Jabez H.",HJ1258,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Huntington, Jabez H.",HJ1258,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Huntington, Jabez H.",HJ1258,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Huntington, Jabez H.",HJ1258,Federalist,5
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Huntington, Jabez H.",HJ1258,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Huntington, Jabez H.",HJ1258,Federalist,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Isham, Jirah",IJ0016,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Isham, Jirah",IJ0016,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Isham, Jirah",IJ0016,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Isham, Jirah",IJ0016,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Isham, Jirah",IJ0016,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Isham, Jirah",IJ0016,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Isham, Jirah",IJ0016,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Isham, Jirah",IJ0016,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Larned, George",LG0089,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Larned, George",LG0089,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Larned, George",LG0089,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Larned, George",LG0089,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Larned, George",LG0089,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Larned, George",LG0089,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Larned, George",LG0089,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Larned, George",LG0089,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Moseley, Jonathan O.",MJ0022,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Moseley, Jonathan O.",MJ0022,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Moseley, Jonathan O.",MJ0022,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Moseley, Jonathan O.",MJ0022,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Moseley, Jonathan O.",MJ0022,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Moseley, Jonathan O.",MJ0022,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Moseley, Jonathan O.",MJ0022,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Moseley, Jonathan O.",MJ0022,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Nichols, John",NJ0209,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Nichols, John",NJ0209,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Nichols, John",NJ0209,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Nichols, John",NJ0209,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Nichols, John",NJ0209,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Nichols, John",NJ0209,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Nichols, John",NJ0209,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Nichols, John",NJ0209,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Palmer, William",PW0250,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Palmer, William",PW0250,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Palmer, William",PW0250,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Palmer, William",PW0250,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Palmer, William",PW0250,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Palmer, William",PW0250,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Palmer, William",PW0250,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Palmer, William",PW0250,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Perkins, Enoch",PE0010,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Perkins, Enoch",PE0010,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Perkins, Enoch",PE0010,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Perkins, Enoch",PE0010,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Perkins, Enoch",PE0010,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Perkins, Enoch",PE0010,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Perkins, Enoch",PE0010,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Perkins, Enoch",PE0010,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Pettibone, Augustus",PA0183,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Pettibone, Augustus",PA0183,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Pettibone, Augustus",PA0183,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Pettibone, Augustus",PA0183,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Pettibone, Augustus",PA0183,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Pettibone, Augustus",PA0183,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Pettibone, Augustus",PA0183,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Pettibone, Augustus",PA0183,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Phelps, Epaphras L.",PE0168,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Phelps, Epaphras L.",PE0168,Federalist,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Phelps, Epaphras L.",PE0168,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Phelps, Epaphras L.",PE0168,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Phelps, Epaphras L.",PE0168,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Phelps, Epaphras L.",PE0168,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Phelps, Epaphras L.",PE0168,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Phelps, Epaphras L.",PE0168,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Pitkin, Timothy, Jr.",PT0001,Federalist,58
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Pitkin, Timothy, Jr.",PT0001,Federalist,495
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Pitkin, Timothy, Jr.",PT0001,Federalist,136
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Pitkin, Timothy, Jr.",PT0001,Federalist,60
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Pitkin, Timothy, Jr.",PT0001,Federalist,197
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Pitkin, Timothy, Jr.",PT0001,Federalist,102
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Pitkin, Timothy, Jr.",PT0001,Federalist,146
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Pitkin, Timothy, Jr.",PT0001,Federalist,119
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Sherman, Roger M.",SR0005,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Sherman, Roger M.",SR0005,Federalist,64
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Sherman, Roger M.",SR0005,Federalist,48
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Sherman, Roger M.",SR0005,Federalist,2
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Sherman, Roger M.",SR0005,Federalist,12
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Sherman, Roger M.",SR0005,Federalist,16
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Sherman, Roger M.",SR0005,Federalist,29
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Sherman, Roger M.",SR0005,Federalist,22
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Sherwood, Samuel B.",SS0000,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Sherwood, Samuel B.",SS0000,Federalist,27
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Sherwood, Samuel B.",SS0000,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Sherwood, Samuel B.",SS0000,Federalist,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Sherwood, Samuel B.",SS0000,Federalist,3
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Sherwood, Samuel B.",SS0000,Federalist,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Sherwood, Samuel B.",SS0000,Federalist,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Sherwood, Samuel B.",SS0000,Federalist,4
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Smith, Nathan",SN0016,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Smith, Nathan",SN0016,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Smith, Nathan",SN0016,Federalist,2
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Smith, Nathan",SN0016,Federalist,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Smith, Nathan",SN0016,Federalist,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Smith, Nathan",SN0016,Federalist,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Smith, Nathan",SN0016,Federalist,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Smith, Nathan",SN0016,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Staples, Seth P.",SS0021,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Staples, Seth P.",SS0021,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Staples, Seth P.",SS0021,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Staples, Seth P.",SS0021,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Staples, Seth P.",SS0021,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Staples, Seth P.",SS0021,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Staples, Seth P.",SS0021,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Staples, Seth P.",SS0021,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Stearns, Elisha",SE0218,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Stearns, Elisha",SE0218,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Stearns, Elisha",SE0218,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Stearns, Elisha",SE0218,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Stearns, Elisha",SE0218,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Stearns, Elisha",SE0218,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Stearns, Elisha",SE0218,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Stearns, Elisha",SE0218,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Sterling, Elisha",SE0001,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Sterling, Elisha",SE0001,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Sterling, Elisha",SE0001,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Sterling, Elisha",SE0001,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Sterling, Elisha",SE0001,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Sterling, Elisha",SE0001,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Sterling, Elisha",SE0001,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Sterling, Elisha",SE0001,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Tallmadge, Benjamin",TB0015,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Tallmadge, Benjamin",TB0015,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Tallmadge, Benjamin",TB0015,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Tallmadge, Benjamin",TB0015,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Tallmadge, Benjamin",TB0015,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Tallmadge, Benjamin",TB0015,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Tallmadge, Benjamin",TB0015,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Tallmadge, Benjamin",TB0015,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Tomlinson, Daniel",TD0014,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Tomlinson, Daniel",TD0014,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Tomlinson, Daniel",TD0014,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Tomlinson, Daniel",TD0014,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Tomlinson, Daniel",TD0014,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Tomlinson, Daniel",TD0014,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Tomlinson, Daniel",TD0014,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Tomlinson, Daniel",TD0014,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Willey, Asa",WA0004,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Willey, Asa",WA0004,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Willey, Asa",WA0004,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Willey, Asa",WA0004,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Willey, Asa",WA0004,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Willey, Asa",WA0004,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Willey, Asa",WA0004,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Willey, Asa",WA0004,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Williams, Thomas",WT0172,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Williams, Thomas",WT0172,Federalist,8
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Williams, Thomas",WT0172,Federalist,13
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Williams, Thomas",WT0172,Federalist,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Williams, Thomas",WT0172,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Williams, Thomas",WT0172,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Williams, Thomas",WT0172,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Williams, Thomas",WT0172,Federalist,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Williams, Thomas S.",WT0003,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Williams, Thomas S.",WT0003,Federalist,55
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Williams, Thomas S.",WT0003,Federalist,41
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Williams, Thomas S.",WT0003,Federalist,6
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Williams, Thomas S.",WT0003,Federalist,8
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Williams, Thomas S.",WT0003,Federalist,14
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Williams, Thomas S.",WT0003,Federalist,12
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Williams, Thomas S.",WT0003,Federalist,13
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Williams, William T.",WW0015,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Williams, William T.",WW0015,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Williams, William T.",WW0015,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Williams, William T.",WW0015,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Williams, William T.",WW0015,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Williams, William T.",WW0015,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Williams, William T.",WW0015,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Williams, William T.",WW0015,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Wolcott, Frederick",WF0018,Federalist,14
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Wolcott, Frederick",WF0018,Federalist,34
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Wolcott, Frederick",WF0018,Federalist,2
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Wolcott, Frederick",WF0018,Federalist,2
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Wolcott, Frederick",WF0018,Federalist,2
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Wolcott, Frederick",WF0018,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Wolcott, Frederick",WF0018,Federalist,20
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Wolcott, Frederick",WF0018,Federalist,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Baker, William D.",BW0482,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Baker, William D.",BW0482,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Baker, William D.",BW0482,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Baker, William D.",BW0482,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Baker, William D.",BW0482,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Baker, William D.",BW0482,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Baker, William D.",BW0482,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Baker, William D.",BW0482,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Bissell, Clark",BC0189,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Bissell, Clark",BC0189,NA,50
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Bissell, Clark",BC0189,NA,36
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Bissell, Clark",BC0189,NA,2
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Bissell, Clark",BC0189,NA,7
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Bissell, Clark",BC0189,NA,5
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Bissell, Clark",BC0189,NA,29
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Bissell, Clark",BC0189,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Brown, Asa",BA0314,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Brown, Asa",BA0314,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Brown, Asa",BA0314,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Brown, Asa",BA0314,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Brown, Asa",BA0314,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Brown, Asa",BA0314,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Brown, Asa",BA0314,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Brown, Asa",BA0314,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Burrows, David",BD0245,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Burrows, David",BD0245,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Burrows, David",BD0245,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Burrows, David",BD0245,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Burrows, David",BD0245,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Burrows, David",BD0245,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Burrows, David",BD0245,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Burrows, David",BD0245,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Carpenter, Simon",CS0273,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Carpenter, Simon",CS0273,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Carpenter, Simon",CS0273,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Carpenter, Simon",CS0273,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Carpenter, Simon",CS0273,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Carpenter, Simon",CS0273,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Carpenter, Simon",CS0273,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Carpenter, Simon",CS0273,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Chapman, Isaac",CI0066,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Chapman, Isaac",CI0066,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Chapman, Isaac",CI0066,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Chapman, Isaac",CI0066,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Chapman, Isaac",CI0066,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Chapman, Isaac",CI0066,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Chapman, Isaac",CI0066,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Chapman, Isaac",CI0066,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Childs, Samuel",CS0276,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Childs, Samuel",CS0276,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Childs, Samuel",CS0276,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Childs, Samuel",CS0276,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Childs, Samuel",CS0276,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Childs, Samuel",CS0276,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Childs, Samuel",CS0276,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Childs, Samuel",CS0276,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Church, Law",CL0078,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Church, Law",CL0078,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Church, Law",CL0078,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Church, Law",CL0078,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Church, Law",CL0078,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Church, Law",CL0078,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Church, Law",CL0078,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Church, Law",CL0078,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Cleaveland, William L.",CW0390,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Cleaveland, William L.",CW0390,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Cleaveland, William L.",CW0390,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Cleaveland, William L.",CW0390,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Cleaveland, William L.",CW0390,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Cleaveland, William L.",CW0390,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Cleaveland, William L.",CW0390,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Cleaveland, William L.",CW0390,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Clillun, John W.",CJ1111,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Clillun, John W.",CJ1111,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Clillun, John W.",CJ1111,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Clillun, John W.",CJ1111,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Clillun, John W.",CJ1111,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Clillun, John W.",CJ1111,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Clillun, John W.",CJ1111,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Clillun, John W.",CJ1111,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Cone, Joseph W.",CJ1104,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Cone, Joseph W.",CJ1104,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Cone, Joseph W.",CJ1104,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Cone, Joseph W.",CJ1104,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Cone, Joseph W.",CJ1104,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Cone, Joseph W.",CJ1104,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Cone, Joseph W.",CJ1104,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Cone, Joseph W.",CJ1104,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Crook, Walter",CW0394,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Crook, Walter",CW0394,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Crook, Walter",CW0394,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Crook, Walter",CW0394,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Crook, Walter",CW0394,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Crook, Walter",CW0394,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Crook, Walter",CW0394,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Crook, Walter",CW0394,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Dodd, James",DJ0648,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Dodd, James",DJ0648,NA,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Dodd, James",DJ0648,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Dodd, James",DJ0648,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Dodd, James",DJ0648,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Dodd, James",DJ0648,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Dodd, James",DJ0648,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Dodd, James",DJ0648,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Edwards, Walter W.",EW0080,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Edwards, Walter W.",EW0080,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Edwards, Walter W.",EW0080,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Edwards, Walter W.",EW0080,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Edwards, Walter W.",EW0080,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Edwards, Walter W.",EW0080,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Edwards, Walter W.",EW0080,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Edwards, Walter W.",EW0080,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Ellsworth, William W.",EW0092,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Ellsworth, William W.",EW0092,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Ellsworth, William W.",EW0092,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Ellsworth, William W.",EW0092,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Ellsworth, William W.",EW0092,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Ellsworth, William W.",EW0092,NA,4
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Ellsworth, William W.",EW0092,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Ellsworth, William W.",EW0092,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Foot, Nathan A.",FN0054,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Foot, Nathan A.",FN0054,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Foot, Nathan A.",FN0054,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Foot, Nathan A.",FN0054,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Foot, Nathan A.",FN0054,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Foot, Nathan A.",FN0054,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Foot, Nathan A.",FN0054,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Foot, Nathan A.",FN0054,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Foy, Nathaniel",FN0052,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Foy, Nathaniel",FN0052,NA,5
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Foy, Nathaniel",FN0052,NA,10
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Foy, Nathaniel",FN0052,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Foy, Nathaniel",FN0052,NA,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Foy, Nathaniel",FN0052,NA,3
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Foy, Nathaniel",FN0052,NA,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Foy, Nathaniel",FN0052,NA,7
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Hall, George",HG0176,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Hall, George",HG0176,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Hall, George",HG0176,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Hall, George",HG0176,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Hall, George",HG0176,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Hall, George",HG0176,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Hall, George",HG0176,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Hall, George",HG0176,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Hitchcock, Jonathan J.",HJ1287,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Hitchcock, Jonathan J.",HJ1287,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Hitchcock, Jonathan J.",HJ1287,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Hitchcock, Jonathan J.",HJ1287,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Hitchcock, Jonathan J.",HJ1287,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Hitchcock, Jonathan J.",HJ1287,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Hitchcock, Jonathan J.",HJ1287,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Hitchcock, Jonathan J.",HJ1287,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Holmes, Ozias",HO0041,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Holmes, Ozias",HO0041,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Holmes, Ozias",HO0041,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Holmes, Ozias",HO0041,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Holmes, Ozias",HO0041,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Holmes, Ozias",HO0041,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Holmes, Ozias",HO0041,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Holmes, Ozias",HO0041,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Huntington, Charles P.",HC0160,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Huntington, Charles P.",HC0160,NA,3
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Huntington, Charles P.",HC0160,NA,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Huntington, Charles P.",HC0160,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Huntington, Charles P.",HC0160,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Huntington, Charles P.",HC0160,NA,4
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Huntington, Charles P.",HC0160,NA,13
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Huntington, Charles P.",HC0160,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Johnson, Stephen",JS0061,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Johnson, Stephen",JS0061,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Johnson, Stephen",JS0061,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Johnson, Stephen",JS0061,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Johnson, Stephen",JS0061,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Johnson, Stephen",JS0061,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Johnson, Stephen",JS0061,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Johnson, Stephen",JS0061,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Kimball, Dennis",KD0065,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Kimball, Dennis",KD0065,NA,2
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Kimball, Dennis",KD0065,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Kimball, Dennis",KD0065,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Kimball, Dennis",KD0065,NA,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Kimball, Dennis",KD0065,NA,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Kimball, Dennis",KD0065,NA,8
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Kimball, Dennis",KD0065,NA,7
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Kimberly, James",KJ0319,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Kimberly, James",KJ0319,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Kimberly, James",KJ0319,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Kimberly, James",KJ0319,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Kimberly, James",KJ0319,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Kimberly, James",KJ0319,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Kimberly, James",KJ0319,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Kimberly, James",KJ0319,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Kingsbury, Dennis",KD0064,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Kingsbury, Dennis",KD0064,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Kingsbury, Dennis",KD0064,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Kingsbury, Dennis",KD0064,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Kingsbury, Dennis",KD0064,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Kingsbury, Dennis",KD0064,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Kingsbury, Dennis",KD0064,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Kingsbury, Dennis",KD0064,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Learned, Ebenezer",LE0109,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Learned, Ebenezer",LE0109,NA,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Learned, Ebenezer",LE0109,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Learned, Ebenezer",LE0109,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Learned, Ebenezer",LE0109,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Learned, Ebenezer",LE0109,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Learned, Ebenezer",LE0109,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Learned, Ebenezer",LE0109,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Leonard, William",LW0213,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Leonard, William",LW0213,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Leonard, William",LW0213,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Leonard, William",LW0213,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Leonard, William",LW0213,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Leonard, William",LW0213,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Leonard, William",LW0213,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Leonard, William",LW0213,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Lewis, George O.",LG0088,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Lewis, George O.",LG0088,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Lewis, George O.",LG0088,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Lewis, George O.",LG0088,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Lewis, George O.",LG0088,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Lewis, George O.",LG0088,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Lewis, George O.",LG0088,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Lewis, George O.",LG0088,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Loring, Charles",LC0077,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Loring, Charles",LC0077,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Loring, Charles",LC0077,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Loring, Charles",LC0077,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Loring, Charles",LC0077,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Loring, Charles",LC0077,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Loring, Charles",LC0077,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Loring, Charles",LC0077,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Lyman, Henry",LH0083,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Lyman, Henry",LH0083,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Lyman, Henry",LH0083,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Lyman, Henry",LH0083,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Lyman, Henry",LH0083,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Lyman, Henry",LH0083,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Lyman, Henry",LH0083,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Lyman, Henry",LH0083,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Merrick, Joseph",MJ1173,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Merrick, Joseph",MJ1173,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Merrick, Joseph",MJ1173,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Merrick, Joseph",MJ1173,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Merrick, Joseph",MJ1173,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Merrick, Joseph",MJ1173,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Merrick, Joseph",MJ1173,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Merrick, Joseph",MJ1173,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Merwin, Oliver",MO0016,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Merwin, Oliver",MO0016,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Merwin, Oliver",MO0016,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Merwin, Oliver",MO0016,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Merwin, Oliver",MO0016,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Merwin, Oliver",MO0016,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Merwin, Oliver",MO0016,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Merwin, Oliver",MO0016,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Monson, Burnet",MB0080,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Monson, Burnet",MB0080,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Monson, Burnet",MB0080,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Monson, Burnet",MB0080,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Monson, Burnet",MB0080,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Monson, Burnet",MB0080,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Monson, Burnet",MB0080,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Monson, Burnet",MB0080,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Moore, Clark",MC0102,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Moore, Clark",MC0102,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Moore, Clark",MC0102,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Moore, Clark",MC0102,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Moore, Clark",MC0102,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Moore, Clark",MC0102,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Moore, Clark",MC0102,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Moore, Clark",MC0102,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Phelps, Charles B.",PC0098,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Phelps, Charles B.",PC0098,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Phelps, Charles B.",PC0098,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Phelps, Charles B.",PC0098,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Phelps, Charles B.",PC0098,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Phelps, Charles B.",PC0098,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Phelps, Charles B.",PC0098,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Phelps, Charles B.",PC0098,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Phillips, Ebenezer",PE0157,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Phillips, Ebenezer",PE0157,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Phillips, Ebenezer",PE0157,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Phillips, Ebenezer",PE0157,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Phillips, Ebenezer",PE0157,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Phillips, Ebenezer",PE0157,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Phillips, Ebenezer",PE0157,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Phillips, Ebenezer",PE0157,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Pict, Charles",PC0093,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Pict, Charles",PC0093,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Pict, Charles",PC0093,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Pict, Charles",PC0093,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Pict, Charles",PC0093,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Pict, Charles",PC0093,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Pict, Charles",PC0093,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Pict, Charles",PC0093,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Sherman, Minot",SM0129,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Sherman, Minot",SM0129,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Sherman, Minot",SM0129,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Sherman, Minot",SM0129,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Sherman, Minot",SM0129,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Sherman, Minot",SM0129,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Sherman, Minot",SM0129,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Sherman, Minot",SM0129,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Smith, John Cotton",SJ0013,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Smith, John Cotton",SJ0013,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Smith, John Cotton",SJ0013,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Smith, John Cotton",SJ0013,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Smith, John Cotton",SJ0013,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Smith, John Cotton",SJ0013,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Smith, John Cotton",SJ0013,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Smith, John Cotton",SJ0013,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Stanley, George W.",SG0001,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Stanley, George W.",SG0001,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Stanley, George W.",SG0001,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Stanley, George W.",SG0001,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Stanley, George W.",SG0001,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Stanley, George W.",SG0001,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Stanley, George W.",SG0001,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Stanley, George W.",SG0001,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Stannard, George",SG0196,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Stannard, George",SG0196,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Stannard, George",SG0196,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Stannard, George",SG0196,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Stannard, George",SG0196,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Stannard, George",SG0196,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Stannard, George",SG0196,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Stannard, George",SG0196,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Storrs, William L.",SW0445,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Storrs, William L.",SW0445,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Storrs, William L.",SW0445,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Storrs, William L.",SW0445,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Storrs, William L.",SW0445,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Storrs, William L.",SW0445,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Storrs, William L.",SW0445,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Storrs, William L.",SW0445,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Strong, Henry",SH0167,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Strong, Henry",SH0167,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Strong, Henry",SH0167,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Strong, Henry",SH0167,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Strong, Henry",SH0167,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Strong, Henry",SH0167,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Strong, Henry",SH0167,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Strong, Henry",SH0167,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Sturges, Samuel B.",SS0345,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Sturges, Samuel B.",SS0345,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Sturges, Samuel B.",SS0345,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Sturges, Samuel B.",SS0345,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Sturges, Samuel B.",SS0345,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Sturges, Samuel B.",SS0345,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Sturges, Samuel B.",SS0345,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Sturges, Samuel B.",SS0345,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Taintor, Charles",TC0068,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Taintor, Charles",TC0068,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Taintor, Charles",TC0068,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Taintor, Charles",TC0068,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Taintor, Charles",TC0068,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Taintor, Charles",TC0068,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Taintor, Charles",TC0068,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Taintor, Charles",TC0068,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Tillman, Comfort D.",TC0067,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Tillman, Comfort D.",TC0067,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Tillman, Comfort D.",TC0067,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Tillman, Comfort D.",TC0067,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Tillman, Comfort D.",TC0067,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Tillman, Comfort D.",TC0067,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Tillman, Comfort D.",TC0067,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Tillman, Comfort D.",TC0067,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Torduk, Lodowick",TL0033,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Torduk, Lodowick",TL0033,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Torduk, Lodowick",TL0033,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Torduk, Lodowick",TL0033,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Torduk, Lodowick",TL0033,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Torduk, Lodowick",TL0033,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Torduk, Lodowick",TL0033,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Torduk, Lodowick",TL0033,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Trumbull, Joseph",TJ0540,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Trumbull, Joseph",TJ0540,NA,9
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Trumbull, Joseph",TJ0540,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Trumbull, Joseph",TJ0540,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Trumbull, Joseph",TJ0540,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Trumbull, Joseph",TJ0540,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Trumbull, Joseph",TJ0540,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Trumbull, Joseph",TJ0540,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Ward, Ichabod",WI0063,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Ward, Ichabod",WI0063,NA,6
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Ward, Ichabod",WI0063,NA,2
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Ward, Ichabod",WI0063,NA,3
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Ward, Ichabod",WI0063,NA,2
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Ward, Ichabod",WI0063,NA,3
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Ward, Ichabod",WI0063,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Ward, Ichabod",WI0063,NA,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Fairfield,cts_fairfield,9001,"Whitman, Samuel",WS0250,NA,5
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Hartford,cts_hartford,9003,"Whitman, Samuel",WS0250,NA,10
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Litchfield,cts_litchfield,9005,"Whitman, Samuel",WS0250,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Middlesex,cts_middlesex,9007,"Whitman, Samuel",WS0250,NA,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New Haven,cts_newhaven,9009,"Whitman, Samuel",WS0250,NA,0
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,New London,cts_newlondon,9011,"Whitman, Samuel",WS0250,NA,22
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Tolland,cts_tolland,9013,"Whitman, Samuel",WS0250,NA,1
+meae.congressional.congress19.ct.county,congressional,19,CT,county,state,ct.uscongress.1825,Windham,cts_windham,9015,"Whitman, Samuel",WS0250,NA,3

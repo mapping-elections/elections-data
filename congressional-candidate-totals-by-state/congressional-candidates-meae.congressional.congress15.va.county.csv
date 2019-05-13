@@ -1,0 +1,43 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress15.va.county,va.uscongress.1.1817,James Pindall,PJ0569,1,Federalist,NA,0,NA,TRUE,TRUE
+meae.congressional.congress15.va.county,va.uscongress.10.1817,George F. Strother,SG0190,10,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.10.1817,John Shackleford,SJ1433,10,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.11.1817,Philip P. Barbour,BP0115,11,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress15.va.county,va.uscongress.12.1817,Robert Garnett,GR0068,12,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.12.1817,Edwin Upshaw,UE0002,12,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.12.1817,William H. Roane,RW0213,12,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.13.1817,Burwell Bassett,BB0099,13,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.13.1817,John Eyre,EJ0307,13,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.13.1817,M.S. Pitts,PM0026,13,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.14.1817,William A. Burwell,BW0451,14,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress15.va.county,va.uscongress.15.1817,William I. Lewis,LW0154,15,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress15.va.county,va.uscongress.16.1817,Archibald Austin,AA0056,16,Democratic-Republican,710,1154,0.615,TRUE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.16.1817,John Randolph,RJ0610,16,Democratic-Republican,444,1154,0.385,FALSE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.17.1817,James Pleasants,PJ0579,17,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress15.va.county,va.uscongress.18.1817,Thomas M. Nelson,NT0029,18,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress15.va.county,va.uscongress.19.1817,Peterson Goodwyn,GP0075,19,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress15.va.county,va.uscongress.2.1817,Edward Colston,CE0182,2,Federalist,687,1123,0.612,TRUE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.2.1817,Daniel Morgan,MD0090,2,Democratic-Republican,347,1123,0.309,FALSE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.2.1817,Robert Bailey,BR0183,2,Democratic-Republican,89,1123,0.079,FALSE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.20.1817,James Johnson,JJ0282,20,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress15.va.county,va.uscongress.21.1817,Thomas Newton,NT0024,21,Democratic-Republican,603,645,0.935,TRUE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.21.1817,Littleton W. Tazewell,TL0030,21,Democratic-Republican,42,645,0.065,FALSE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.22.1817,Hugh Nelson,NH0015,22,Democratic-Republican,871,1198,0.727,TRUE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.22.1817,Thomas W. Maury,MT0182,22,Democratic-Republican,327,1198,0.273,FALSE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.23.1817,John Tyler,TJ0537,23,Democratic-Republican,746,1389,0.537,TRUE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.23.1817,Andrew Stevenson,SA0291,23,Democratic-Republican,643,1389,0.463,FALSE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.3.1817,Henry Saint George Tucker,TH0063,3,Democratic-Republican,903,1331,0.678,TRUE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.3.1817,William Carson,CW0371,3,Democratic-Republican,428,1331,0.322,FALSE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.4.1817,William MacCoy,MW0392,4,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress15.va.county,va.uscongress.5.1817,John Floyd,FJ0482,5,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.5.1817,Elijah MacClannahan,ME0144,5,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.6.1817,Alexander Smyth,SA0299,6,Democratic-Republican,1443,2154,0.67,TRUE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.6.1817,Benjamin Estill,EB0023,6,Federalist,711,2154,0.33,FALSE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.7.1817,Ballard Smith,SB0133,7,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.7.1817,John Gray,GJ0669,7,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.8.1817,Charles F. Mercer,MC0088,8,Federalist,782,1488,0.526,TRUE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.8.1817,Armistead T. Mason,MA0249,8,Democratic-Republican,706,1488,0.474,FALSE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.8.1817,scattering,NA,8,NA,NA,1488,NA,FALSE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.9.1817,William Lee Ball,BW0447,9,Democratic-Republican,555,1245,0.446,TRUE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.9.1817,John P. Hungerford,HJ1310,9,Federalist,509,1245,0.409,FALSE,FALSE
+meae.congressional.congress15.va.county,va.uscongress.9.1817,Henry Lee Jr.,LH0065,9,Federalist,181,1245,0.145,FALSE,FALSE

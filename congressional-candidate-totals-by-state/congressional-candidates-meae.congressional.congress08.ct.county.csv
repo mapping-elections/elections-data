@@ -1,0 +1,19 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress08.ct.county,ct.congress.1802,John C. Smith,SJ0013,At-large,Federalist,8743,55605,0.157,TRUE,FALSE
+meae.congressional.congress08.ct.county,ct.congress.1802,Benjamin Talmadge,TB0015,At-large,Federalist,7370,55605,0.133,TRUE,FALSE
+meae.congressional.congress08.ct.county,ct.congress.1802,Samuel W. Dana,DS0003,At-large,Federalist,7232,55605,0.13,TRUE,FALSE
+meae.congressional.congress08.ct.county,ct.congress.1802,Elias Perkins,PE0001,At-large,Federalist,6997,55605,0.126,TRUE,FALSE
+meae.congressional.congress08.ct.county,ct.congress.1802,Calvin Goddard,GC0005,At-large,Federalist,6942,55605,0.125,TRUE,FALSE
+meae.congressional.congress08.ct.county,ct.congress.1802,Roger Griswold,GR0000,At-large,Federalist,6601,55605,0.119,TRUE,FALSE
+meae.congressional.congress08.ct.county,ct.congress.1802,"John Davenport, Jr.",DJ0022,At-large,Federalist,5390,55605,0.097,TRUE,FALSE
+meae.congressional.congress08.ct.county,ct.congress.1802,Simeon Baldwin,BS0001,At-large,Federalist,4033,55605,0.073,FALSE,FALSE
+meae.congressional.congress08.ct.county,ct.congress.1802,"Timothy Pitkin, Jr.",PT0001,At-large,Federalist,806,55605,0.014,FALSE,FALSE
+meae.congressional.congress08.ct.county,ct.congress.1802,William Hart,HW0015,At-large,Federalist,319,55605,0.006,FALSE,FALSE
+meae.congressional.congress08.ct.county,ct.congress.1802,Jonathan O. Mosely,MJ0022,At-large,Federalist,257,55605,0.005,FALSE,FALSE
+meae.congressional.congress08.ct.county,ct.congress.1802,Epaphroditus Champion,CE0020,At-large,Federalist,225,55605,0.004,FALSE,FALSE
+meae.congressional.congress08.ct.county,ct.congress.1802,Nathaniel Rosseter,RN0001,At-large,Federalist,158,55605,0.003,FALSE,FALSE
+meae.congressional.congress08.ct.county,ct.congress.1802,Sylvester Gilbert,GS0003,At-large,Federalist,150,55605,0.003,FALSE,FALSE
+meae.congressional.congress08.ct.county,ct.congress.1802,Lewis B. Sturges,SL0001,At-large,Federalist,126,55605,0.002,FALSE,FALSE
+meae.congressional.congress08.ct.county,ct.congress.1802,John Caldwell,CJ0040,At-large,Federalist,99,55605,0.002,FALSE,FALSE
+meae.congressional.congress08.ct.county,ct.congress.1802,Samuel B. Sherwood,SS0000,At-large,Federalist,93,55605,0.002,FALSE,FALSE
+meae.congressional.congress08.ct.county,ct.congress.1802,Theodore Dwight,DT0000,At-large,Federalist,64,55605,0.001,FALSE,FALSE

@@ -1,0 +1,23 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress13.sc.county,sc.uscongress.charleston.1812,Langdon Cheves,CL0067,1,Democratic-Republican,1581,2420,0.653,TRUE,FALSE
+meae.congressional.congress13.sc.county,sc.uscongress.charleston.1812,John Rutledge,RJ0621,1,Federalist,839,2420,0.347,FALSE,FALSE
+meae.congressional.congress13.sc.county,sc.uscongress.beaufort.1812,William Lowndes,LW0219,2,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress13.sc.county,sc.uscongress.beaufort.1812,Stephen Elliot,ES0048,2,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress13.sc.county,sc.uscongress.beaufort.1812,scattering,NA,2,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress13.sc.county,sc.uscongress.beaufort.1812,Richard Yeadon,YR0006,2,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress13.sc.county,sc.uscongress.georgetown.1812,Theodore Gourdine,GT0086,3,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress13.sc.county,sc.uscongress.georgetown.1812,James Ervin,EJ0276,3,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress13.sc.county,sc.uscongress.georgetown.1812,Benjamin Huger,HB0145,3,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress13.sc.county,sc.uscongress.georgetown.1812,scattering,NA,3,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress13.sc.county,sc.uscongress.orangeburg.1812,John J. Chappell,CJ1050,4,Democratic-Republican,1579,2503,0.631,TRUE,FALSE
+meae.congressional.congress13.sc.county,sc.uscongress.orangeburg.1812,Edmund Bacon,BE0206,4,Democratic-Republican,739,2503,0.295,FALSE,FALSE
+meae.congressional.congress13.sc.county,sc.uscongress.orangeburg.1812,John Bynum,BJ1373,4,Democratic-Republican,185,2503,0.074,FALSE,FALSE
+meae.congressional.congress13.sc.county,sc.uscongress.newberry.1812,David R. Evans,ED0029,5,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress13.sc.county,sc.uscongress.edgefield.1812,John C. Calhoun,CJ1014,6,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress13.sc.county,sc.uscongress.pendleton.1812,Elias Earle,EE0042,7,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress13.sc.county,sc.uscongress.pendleton.1812,William Hunter,HW0353,7,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress13.sc.county,sc.uscongress.chester.1812,Samuel Farrow,FS0123,8,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress13.sc.county,sc.uscongress.chester.1812,James Duff,DJ0560,8,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress13.sc.county,sc.uscongress.sumter.1812,John Kershaw,KJ0375,9,Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress13.sc.county,sc.uscongress.sumter.1812,William Mayrant,MW0383,9,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress13.sc.county,sc.uscongress.sumter.1812,Charles Richardson,RC0055,9,Democratic-Republican,NA,0,NA,FALSE,FALSE

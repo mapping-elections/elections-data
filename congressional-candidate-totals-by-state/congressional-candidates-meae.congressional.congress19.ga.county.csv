@@ -1,0 +1,14 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress19.ga.county,ga.uscongress.1824,Wiley Thompson,TW0008,At-large,Republican Faction,11543,69686,0.166,TRUE,FALSE
+meae.congressional.congress19.ga.county,ga.uscongress.1824,John Forsyth,FJ0021,At-large,Republican Faction,10219,69686,0.147,TRUE,FALSE
+meae.congressional.congress19.ga.county,ga.uscongress.1824,E. F. Tattnall,TE0021,At-large,Republican Faction,10049,69686,0.144,TRUE,FALSE
+meae.congressional.congress19.ga.county,ga.uscongress.1824,Alfred Cuthbert,CA0020,At-large,Republican Faction,9950,69686,0.143,TRUE,FALSE
+meae.congressional.congress19.ga.county,ga.uscongress.1824,George Cary,CG0025,At-large,Republican Faction,9672,69686,0.139,TRUE,FALSE
+meae.congressional.congress19.ga.county,ga.uscongress.1824,James Meriwether,MJ0094,At-large,Republican Faction,9371,69686,0.134,TRUE,FALSE
+meae.congressional.congress19.ga.county,ga.uscongress.1824,Charles Haynes,HC0011,At-large,Republican Faction,8882,69686,0.127,TRUE,FALSE
+meae.congressional.congress19.ga.county,ga.uscongress.1824,Duncan G. Campbell,CD0013,At-large,Jacksonian,NA,69686,NA,FALSE,FALSE
+meae.congressional.congress19.ga.county,ga.uscongress.1824,Samuel Rockwell,RS0004,At-large,Jacksonian,NA,69686,NA,FALSE,FALSE
+meae.congressional.congress19.ga.county,ga.uscongress.1824,Charles J. MacDonald,MC0010,At-large,Jacksonian,NA,69686,NA,FALSE,FALSE
+meae.congressional.congress19.ga.county,ga.uscongress.1824,Longstreet,NA,At-large,NA,NA,69686,NA,FALSE,FALSE
+meae.congressional.congress19.ga.county,ga.uscongress.1824,Thomas Cobb,CT0041,At-large,NA,NA,69686,NA,FALSE,FALSE
+meae.congressional.congress19.ga.county,ga.uscongress.1824,Joel Abbott,AJ0029,At-large,NA,NA,69686,NA,FALSE,FALSE

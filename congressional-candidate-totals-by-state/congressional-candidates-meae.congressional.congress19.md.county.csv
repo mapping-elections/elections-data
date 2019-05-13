@@ -1,0 +1,25 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress19.md.county,md.uscongress1.1824,Clement Dorsey,DC0019,1,Adams/Clay,1824,3301,0.553,TRUE,FALSE
+meae.congressional.congress19.md.county,md.uscongress1.1824,Raphael Neale,NR0018,1,Federalist,1476,3301,0.447,FALSE,FALSE
+meae.congressional.congress19.md.county,md.uscongress1.1824,Nicholas Williams,WN0002,1,NA,1,3301,0,FALSE,FALSE
+meae.congressional.congress19.md.county,md.uscongress2.1824,Joseph Kent,KJ0034,2,Democratic-Republican,1908,3649,0.523,TRUE,FALSE
+meae.congressional.congress19.md.county,md.uscongress2.1824,John C. Weems,WJ0206,2,Federalist,1741,3649,0.477,FALSE,FALSE
+meae.congressional.congress19.md.county,md.uscongress3.1824,George Peter,PG0031,3,Jacksonian,1602,4276,0.375,TRUE,FALSE
+meae.congressional.congress19.md.county,md.uscongress3.1824,George C. Washington,WG0023,3,Federalist,1448,4276,0.339,FALSE,FALSE
+meae.congressional.congress19.md.county,md.uscongress3.1824,Henry R. Warfield,WH0013,3,Federalist,1226,4276,0.287,FALSE,FALSE
+meae.congressional.congress19.md.county,md.uscongress4.1824,Thomas C. Worthington,WT0053,4,Democratic-Republican,4321,7826,0.552,TRUE,FALSE
+meae.congressional.congress19.md.county,md.uscongress4.1824,John Lee,LJ0093,4,Federalist,3491,7826,0.446,FALSE,FALSE
+meae.congressional.congress19.md.county,md.uscongress4.1824,Upton Bruce,BU0002,4,NA,13,7826,0.002,FALSE,FALSE
+meae.congressional.congress19.md.county,md.uscongress4.1824,Alexander Neill,NA0013,4,NA,1,7826,0,FALSE,FALSE
+meae.congressional.congress19.md.county,md.uscongress5.1824,Peter Little,LP0015,5,Adams/Clay,9686,20547,0.471,TRUE,FALSE
+meae.congressional.congress19.md.county,md.uscongress5.1824,John Barney,BJ0397,5,Adams/Clay,5515,20547,0.268,TRUE,FALSE
+meae.congressional.congress19.md.county,md.uscongress5.1824,Isaac MacKim,MI0017,5,Democratic-Republican,5346,20547,0.26,FALSE,FALSE
+meae.congressional.congress19.md.county,md.uscongress6.1824,George E. Mitchell,MG0025,6,Jacksonian,2854,5295,0.539,TRUE,FALSE
+meae.congressional.congress19.md.county,md.uscongress6.1824,Philip Reed,RP0009,6,Federalist,2433,5295,0.459,FALSE,FALSE
+meae.congressional.congress19.md.county,md.uscongress6.1824,John A. Robertson,RJ0050,6,NA,8,5295,0.002,FALSE,FALSE
+meae.congressional.congress19.md.county,md.uscongress6.1824,Joseph Mitchell,MJ0297,6,NA,NA,5295,NA,FALSE,FALSE
+meae.congressional.congress19.md.county,md.uscongress6.1824,William A. Robertson,RW0020,6,NA,NA,5295,NA,FALSE,FALSE
+meae.congressional.congress19.md.county,md.uscongress7.1824,John Leeds Kerr,KJ0030,7,Federalist,1950,3874,0.503,TRUE,FALSE
+meae.congressional.congress19.md.county,md.uscongress7.1824,Thomas Emory,ET0007,7,Democratic-Republican,1924,3874,0.497,FALSE,FALSE
+meae.congressional.congress19.md.county,md.uscongress8.1824,Robert N. Martin,MR0053,8,Adams/Clay,3088,5946,0.519,TRUE,FALSE
+meae.congressional.congress19.md.county,md.uscongress8.1824,John Spence,SJ0312,8,Democratic-Republican,2858,5946,0.481,FALSE,FALSE

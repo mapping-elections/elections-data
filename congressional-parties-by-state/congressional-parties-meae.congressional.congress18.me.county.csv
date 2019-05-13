@@ -1,0 +1,10 @@
+meae_id,county_ahcb,county_fips,districts,federalist_vote,federalist_percentage,antifederalist_vote,antifederalist_percentage,demrep_vote,demrep_percentage,chesapeake_vote,chesapeake_percentage,potomac_vote,potomac_percentage,repfac_vote,repfac_percentage,adamsclay_vote,adamsclay_percentage,jacksonian_vote,jacksonian_percentage,anticaucus_vote,anticaucus_percentage,caucus_vote,caucus_percentage,other_vote,other_percentage,county_source
+meae.congressional.congress18.me.county,mes_cumberland,23005,"2, 5",2168,0.471,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,366,0.079,NA,NA,NA,NA,NA,NA,37,0.008,county
+meae.congressional.congress18.me.county,mes_hancock,23009,6,321,0.191,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1333,0.794,NA,NA,NA,NA,NA,NA,25,0.015,county
+meae.congressional.congress18.me.county,mes_kennebec,23011,"4, 5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2555,1,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress18.me.county,mes_lincoln,23015,"3, 4, 5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2087,0.655,NA,NA,NA,NA,NA,NA,87,0.027,county
+meae.congressional.congress18.me.county,mes_oxford,23017,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1969,0.994,NA,NA,NA,NA,NA,NA,12,0.006,county
+meae.congressional.congress18.me.county,mes_penobscot,23019,7,664,0.396,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0.004,NA,NA,NA,NA,NA,NA,205,0.122,county
+meae.congressional.congress18.me.county,mes_somerset,23025,7,1307,0.613,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,18,0.008,NA,NA,NA,NA,NA,NA,666,0.312,county
+meae.congressional.congress18.me.county,mes_washington,23029,6,164,0.179,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,738,0.805,NA,NA,NA,NA,NA,NA,15,0.016,county
+meae.congressional.congress18.me.county,mes_york,23031,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3994,1,NA,NA,NA,NA,NA,NA,NA,NA,county

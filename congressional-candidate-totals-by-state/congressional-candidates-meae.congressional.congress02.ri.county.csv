@@ -1,0 +1,7 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress02.ri.county,ri.uscongress2.1790,Benjamin Bourne,BB0013,At-large,Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress02.ri.county,ri.uscongress2.1790,Paul Mumford,MP0122,At-large,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.ri.county,ri.uscongress2.1790,James Sheldon,SJ0042,At-large,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.ri.county,ri.uscongress2.1790,Job Comstock,CJ0038,At-large,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.ri.county,ri.uscongress2.1790,Stephen Arnold,AS0002,At-large,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.ri.county,ri.uscongress2.1790,Peleg Arnold,AP0028,At-large,NA,NA,0,NA,FALSE,FALSE

@@ -1,0 +1,46 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress10.va.county,va.uscongress.1.1807,John G. Jackson,JJ0287,1,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.1.1807,Noah Linsley,LN0023,1,Federalist,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.10.1807,John Dawson,DJ0582,10,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.10.1807,John Mercer,MJ0201,10,Republican Faction,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.11.1807,James M. Garnett,GJ0658,11,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.11.1807,Larkin Smith,SL0067,11,Democratic-Republican,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.12.1807,Burwell Bassett,BB0099,12,Democratic-Republican,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress10.va.county,va.uscongress.13.1807,William A. Burwell,BW0451,13,Democratic-Republican,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress10.va.county,va.uscongress.14.1807,Matthew Clay,CM0108,14,Democratic-Republican,2017,2027,0.995,TRUE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.14.1807,scattering,NA,14,NA,10,2027,0.005,FALSE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.15.1807,John Randolph,RJ0610,15,Republican Faction,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress10.va.county,va.uscongress.16.1807,John W. Eppes,EJ0283,16,Democratic-Republican,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress10.va.county,va.uscongress.17.1807,John Claiborne,CJ1099,17,Democratic-Republican,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress10.va.county,va.uscongress.18.1807,Peterson Goodwyn,GP0075,18,Democratic-Republican,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress10.va.county,va.uscongress.19.1807,Edwin Gray,GE0059,19,Republican Faction,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress10.va.county,va.uscongress.2.1807,John Morrow,MJ1223,2,Democratic-Republican,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress10.va.county,va.uscongress.20.1807,Thomas Newton Jr.,NT0024,20,Democratic-Republican,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress10.va.county,va.uscongress.21.1807,Wilson C. Nicholas,NW0043,21,Democratic-Republican,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress10.va.county,va.uscongress.22.1807,John Clopton,CJ1097,22,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.22.1807,Peyton Randolph,RP0059,22,Republican Faction,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.3.1807,John Smith,SJ1530,3,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.3.1807,James Singleton,SJ1557,3,Federalist,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.4.1807,David Holmes,HD0041,4,Democratic-Republican,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress10.va.county,va.uscongress.5.1807,Alexander Wilson,WA0179,5,Democratic-Republican,1093,1916,0.57,TRUE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.5.1807,Oliver Towles,TO0001,5,Democratic-Republican,449,1916,0.234,FALSE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.5.1807,Robert Bailey,BR0183,5,Republican Faction,369,1916,0.193,FALSE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.5.1807,scattering,NA,5,NA,5,1916,0.003,FALSE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.6.1807,Abraham Trigg,TA0080,6,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.6.1807,Daniel Sheffey,SD0212,6,Republican Faction,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.7.1807,"Joseph Lewis, Jr.",LJ0458,7,Federalist,665,1205,0.552,TRUE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.7.1807,John Littlejohn,LJ0556,7,Democratic-Republican,540,1205,0.448,FALSE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.8.1807,Walter Jones,JW0100,8,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.8.1807,Richard Barnes,BR0184,8,Federalist,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.8.1807,Rawl M. Downman,DR0080,8,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.8.1807,William Yerby,YW0012,8,Democratic-Republican,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.8.1807,James Ball,BJ1460,8,Federalist,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.8.1807,James Towles,TJ0581,8,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.8.1807,W. Shearman,SW0357,8,Democratic-Republican,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.8.1807,William Kirk,KW0091,8,Federalist,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.8.1807,William Breye,BW0452,8,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.8.1807,James MacClearson,MJ1222,8,Democratic-Republican,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.8.1807,William Gibson,GW0127,8,Federalist,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.8.1807,Joseph Shearman,SJ1408,8,Federalist,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.9.1807,John Love,LJ0561,9,Democratic-Republican,794,1312,0.605,TRUE,FALSE
+meae.congressional.congress10.va.county,va.uscongress.9.1807,Philip R. Thompson,TP0042,9,Democratic-Republican,518,1312,0.395,FALSE,FALSE

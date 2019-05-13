@@ -1,0 +1,7 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress01.nh.county,nh.uscongress.1789,Benjamin West,WB0027,At-large,Federalist,2733,8238,0.332,TRUE,FALSE
+meae.congressional.congress01.nh.county,nh.uscongress.1789,Samuel Livermore,LS0047,At-large,Federalist,2116,8238,0.257,TRUE,FALSE
+meae.congressional.congress01.nh.county,nh.uscongress.1789,Nicholas Gilman,GN0015,At-large,Federalist,1619,8238,0.197,TRUE,FALSE
+meae.congressional.congress01.nh.county,nh.uscongress.1789,Abiel Foster,FA0029,At-large,Federalist,1612,8238,0.196,FALSE,FALSE
+meae.congressional.congress01.nh.county,nh.uscongress.1789,John Sullivan,SJ0462,At-large,Federalist,154,8238,0.019,FALSE,FALSE
+meae.congressional.congress01.nh.county,nh.uscongress.1789,Paine Wingate,WP0051,At-large,Federalist,4,8238,0,FALSE,FALSE

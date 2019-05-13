@@ -1,0 +1,392 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Bulloch,gas_bulloch,13031,"Bryan, Joseph",BJ0111,Democratic-Republican,110
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Burke,gas_burke,13033,"Bryan, Joseph",BJ0111,Democratic-Republican,304
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Camden,gas_camden,13039,"Bryan, Joseph",BJ0111,Democratic-Republican,185
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Chatham,gas_chatham,13051,"Bryan, Joseph",BJ0111,Democratic-Republican,150
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Clark,gas_clarke,13059,"Bryan, Joseph",BJ0111,Democratic-Republican,651
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Columbia,gas_columbia,13073,"Bryan, Joseph",BJ0111,Democratic-Republican,549
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Effingham,gas_effingham,13103,"Bryan, Joseph",BJ0111,Democratic-Republican,109
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Elbert,gas_elbert,13105,"Bryan, Joseph",BJ0111,Democratic-Republican,670
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Franklin,gas_franklin,13119,"Bryan, Joseph",BJ0111,Democratic-Republican,453
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Glynn,gas_glynn,13127,"Bryan, Joseph",BJ0111,Democratic-Republican,64
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Greene,gas_greene,13133,"Bryan, Joseph",BJ0111,Democratic-Republican,167
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Hancock,gas_hancock,13141,"Bryan, Joseph",BJ0111,Democratic-Republican,571
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Jackson,gas_jackson,13157,"Bryan, Joseph",BJ0111,Democratic-Republican,544
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Jefferson,gas_jefferson,13163,"Bryan, Joseph",BJ0111,Democratic-Republican,473
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Liberty,gas_liberty,13179,"Bryan, Joseph",BJ0111,Democratic-Republican,115
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Lincoln,gas_lincoln,13181,"Bryan, Joseph",BJ0111,Democratic-Republican,277
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,McIntosh,gas_mcintosh,13191,"Bryan, Joseph",BJ0111,Democratic-Republican,3
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Montgomery,gas_montgomery,13209,"Bryan, Joseph",BJ0111,Democratic-Republican,288
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Oglethorpe,gas_oglethorpe,13221,"Bryan, Joseph",BJ0111,Democratic-Republican,673
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Richmond,gas_richmond,13245,"Bryan, Joseph",BJ0111,Democratic-Republican,231
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Scriven,gas_screven,13251,"Bryan, Joseph",BJ0111,Democratic-Republican,229
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Tattnall,gas_tattnall,13267,"Bryan, Joseph",BJ0111,Democratic-Republican,111
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Walton,gas_walton,13297,"Bryan, Joseph",BJ0111,Democratic-Republican,86
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Warren,gas_warren,13301,"Bryan, Joseph",BJ0111,Democratic-Republican,725
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Washington,gas_washington,13303,"Bryan, Joseph",BJ0111,Democratic-Republican,712
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Wilkes,gas_wilkes,13317,"Bryan, Joseph",BJ0111,Democratic-Republican,667
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Bulloch,gas_bulloch,13031,"Carr, Thomas, Jr.",CT0026,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Burke,gas_burke,13033,"Carr, Thomas, Jr.",CT0026,NA,3
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Camden,gas_camden,13039,"Carr, Thomas, Jr.",CT0026,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Chatham,gas_chatham,13051,"Carr, Thomas, Jr.",CT0026,NA,13
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Clark,gas_clarke,13059,"Carr, Thomas, Jr.",CT0026,NA,357
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Columbia,gas_columbia,13073,"Carr, Thomas, Jr.",CT0026,NA,219
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Effingham,gas_effingham,13103,"Carr, Thomas, Jr.",CT0026,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Elbert,gas_elbert,13105,"Carr, Thomas, Jr.",CT0026,NA,16
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Franklin,gas_franklin,13119,"Carr, Thomas, Jr.",CT0026,NA,130
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Glynn,gas_glynn,13127,"Carr, Thomas, Jr.",CT0026,NA,41
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Greene,gas_greene,13133,"Carr, Thomas, Jr.",CT0026,NA,115
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Hancock,gas_hancock,13141,"Carr, Thomas, Jr.",CT0026,NA,268
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Jackson,gas_jackson,13157,"Carr, Thomas, Jr.",CT0026,NA,463
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Jefferson,gas_jefferson,13163,"Carr, Thomas, Jr.",CT0026,NA,108
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Liberty,gas_liberty,13179,"Carr, Thomas, Jr.",CT0026,NA,6
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Lincoln,gas_lincoln,13181,"Carr, Thomas, Jr.",CT0026,NA,71
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,McIntosh,gas_mcintosh,13191,"Carr, Thomas, Jr.",CT0026,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Montgomery,gas_montgomery,13209,"Carr, Thomas, Jr.",CT0026,NA,17
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Oglethorpe,gas_oglethorpe,13221,"Carr, Thomas, Jr.",CT0026,NA,32
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Richmond,gas_richmond,13245,"Carr, Thomas, Jr.",CT0026,NA,113
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Scriven,gas_screven,13251,"Carr, Thomas, Jr.",CT0026,NA,87
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Tattnall,gas_tattnall,13267,"Carr, Thomas, Jr.",CT0026,NA,26
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Walton,gas_walton,13297,"Carr, Thomas, Jr.",CT0026,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Warren,gas_warren,13301,"Carr, Thomas, Jr.",CT0026,NA,381
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Washington,gas_washington,13303,"Carr, Thomas, Jr.",CT0026,NA,14
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Wilkes,gas_wilkes,13317,"Carr, Thomas, Jr.",CT0026,NA,326
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Bulloch,gas_bulloch,13031,"Charleton, Thomas U.P.",CT0031,Democratic-Republican,58
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Burke,gas_burke,13033,"Charleton, Thomas U.P.",CT0031,Democratic-Republican,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Camden,gas_camden,13039,"Charleton, Thomas U.P.",CT0031,Democratic-Republican,26
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Chatham,gas_chatham,13051,"Charleton, Thomas U.P.",CT0031,Democratic-Republican,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Clark,gas_clarke,13059,"Charleton, Thomas U.P.",CT0031,Democratic-Republican,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Columbia,gas_columbia,13073,"Charleton, Thomas U.P.",CT0031,Democratic-Republican,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Effingham,gas_effingham,13103,"Charleton, Thomas U.P.",CT0031,Democratic-Republican,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Elbert,gas_elbert,13105,"Charleton, Thomas U.P.",CT0031,Democratic-Republican,1
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Franklin,gas_franklin,13119,"Charleton, Thomas U.P.",CT0031,Democratic-Republican,21
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Glynn,gas_glynn,13127,"Charleton, Thomas U.P.",CT0031,Democratic-Republican,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Greene,gas_greene,13133,"Charleton, Thomas U.P.",CT0031,Democratic-Republican,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Hancock,gas_hancock,13141,"Charleton, Thomas U.P.",CT0031,Democratic-Republican,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Jackson,gas_jackson,13157,"Charleton, Thomas U.P.",CT0031,Democratic-Republican,1
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Jefferson,gas_jefferson,13163,"Charleton, Thomas U.P.",CT0031,Democratic-Republican,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Liberty,gas_liberty,13179,"Charleton, Thomas U.P.",CT0031,Democratic-Republican,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Lincoln,gas_lincoln,13181,"Charleton, Thomas U.P.",CT0031,Democratic-Republican,10
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,McIntosh,gas_mcintosh,13191,"Charleton, Thomas U.P.",CT0031,Democratic-Republican,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Montgomery,gas_montgomery,13209,"Charleton, Thomas U.P.",CT0031,Democratic-Republican,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Oglethorpe,gas_oglethorpe,13221,"Charleton, Thomas U.P.",CT0031,Democratic-Republican,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Richmond,gas_richmond,13245,"Charleton, Thomas U.P.",CT0031,Democratic-Republican,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Scriven,gas_screven,13251,"Charleton, Thomas U.P.",CT0031,Democratic-Republican,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Tattnall,gas_tattnall,13267,"Charleton, Thomas U.P.",CT0031,Democratic-Republican,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Walton,gas_walton,13297,"Charleton, Thomas U.P.",CT0031,Democratic-Republican,86
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Warren,gas_warren,13301,"Charleton, Thomas U.P.",CT0031,Democratic-Republican,71
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Washington,gas_washington,13303,"Charleton, Thomas U.P.",CT0031,Democratic-Republican,2
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Wilkes,gas_wilkes,13317,"Charleton, Thomas U.P.",CT0031,Democratic-Republican,41
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Bulloch,gas_bulloch,13031,"Clark, Elijah",CE0024,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Burke,gas_burke,13033,"Clark, Elijah",CE0024,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Camden,gas_camden,13039,"Clark, Elijah",CE0024,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Chatham,gas_chatham,13051,"Clark, Elijah",CE0024,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Clark,gas_clarke,13059,"Clark, Elijah",CE0024,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Columbia,gas_columbia,13073,"Clark, Elijah",CE0024,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Effingham,gas_effingham,13103,"Clark, Elijah",CE0024,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Elbert,gas_elbert,13105,"Clark, Elijah",CE0024,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Franklin,gas_franklin,13119,"Clark, Elijah",CE0024,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Glynn,gas_glynn,13127,"Clark, Elijah",CE0024,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Greene,gas_greene,13133,"Clark, Elijah",CE0024,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Hancock,gas_hancock,13141,"Clark, Elijah",CE0024,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Jackson,gas_jackson,13157,"Clark, Elijah",CE0024,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Jefferson,gas_jefferson,13163,"Clark, Elijah",CE0024,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Liberty,gas_liberty,13179,"Clark, Elijah",CE0024,NA,1
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Lincoln,gas_lincoln,13181,"Clark, Elijah",CE0024,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,McIntosh,gas_mcintosh,13191,"Clark, Elijah",CE0024,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Montgomery,gas_montgomery,13209,"Clark, Elijah",CE0024,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Oglethorpe,gas_oglethorpe,13221,"Clark, Elijah",CE0024,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Richmond,gas_richmond,13245,"Clark, Elijah",CE0024,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Scriven,gas_screven,13251,"Clark, Elijah",CE0024,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Tattnall,gas_tattnall,13267,"Clark, Elijah",CE0024,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Walton,gas_walton,13297,"Clark, Elijah",CE0024,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Warren,gas_warren,13301,"Clark, Elijah",CE0024,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Washington,gas_washington,13303,"Clark, Elijah",CE0024,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Wilkes,gas_wilkes,13317,"Clark, Elijah",CE0024,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Bulloch,gas_bulloch,13031,"Early, Peter",EP0004,Democratic-Republican,114
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Burke,gas_burke,13033,"Early, Peter",EP0004,Democratic-Republican,318
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Camden,gas_camden,13039,"Early, Peter",EP0004,Democratic-Republican,188
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Chatham,gas_chatham,13051,"Early, Peter",EP0004,Democratic-Republican,135
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Clark,gas_clarke,13059,"Early, Peter",EP0004,Democratic-Republican,704
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Columbia,gas_columbia,13073,"Early, Peter",EP0004,Democratic-Republican,540
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Effingham,gas_effingham,13103,"Early, Peter",EP0004,Democratic-Republican,117
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Elbert,gas_elbert,13105,"Early, Peter",EP0004,Democratic-Republican,379
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Franklin,gas_franklin,13119,"Early, Peter",EP0004,Democratic-Republican,496
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Glynn,gas_glynn,13127,"Early, Peter",EP0004,Democratic-Republican,64
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Greene,gas_greene,13133,"Early, Peter",EP0004,Democratic-Republican,1083
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Hancock,gas_hancock,13141,"Early, Peter",EP0004,Democratic-Republican,503
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Jackson,gas_jackson,13157,"Early, Peter",EP0004,Democratic-Republican,731
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Jefferson,gas_jefferson,13163,"Early, Peter",EP0004,Democratic-Republican,339
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Liberty,gas_liberty,13179,"Early, Peter",EP0004,Democratic-Republican,117
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Lincoln,gas_lincoln,13181,"Early, Peter",EP0004,Democratic-Republican,390
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,McIntosh,gas_mcintosh,13191,"Early, Peter",EP0004,Democratic-Republican,1
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Montgomery,gas_montgomery,13209,"Early, Peter",EP0004,Democratic-Republican,290
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Oglethorpe,gas_oglethorpe,13221,"Early, Peter",EP0004,Democratic-Republican,794
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Richmond,gas_richmond,13245,"Early, Peter",EP0004,Democratic-Republican,303
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Scriven,gas_screven,13251,"Early, Peter",EP0004,Democratic-Republican,229
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Tattnall,gas_tattnall,13267,"Early, Peter",EP0004,Democratic-Republican,61
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Walton,gas_walton,13297,"Early, Peter",EP0004,Democratic-Republican,86
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Warren,gas_warren,13301,"Early, Peter",EP0004,Democratic-Republican,656
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Washington,gas_washington,13303,"Early, Peter",EP0004,Democratic-Republican,658
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Wilkes,gas_wilkes,13317,"Early, Peter",EP0004,Democratic-Republican,1073
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Bulloch,gas_bulloch,13031,"Harris, Charles",HC0003,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Burke,gas_burke,13033,"Harris, Charles",HC0003,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Camden,gas_camden,13039,"Harris, Charles",HC0003,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Chatham,gas_chatham,13051,"Harris, Charles",HC0003,NA,1
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Clark,gas_clarke,13059,"Harris, Charles",HC0003,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Columbia,gas_columbia,13073,"Harris, Charles",HC0003,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Effingham,gas_effingham,13103,"Harris, Charles",HC0003,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Elbert,gas_elbert,13105,"Harris, Charles",HC0003,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Franklin,gas_franklin,13119,"Harris, Charles",HC0003,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Glynn,gas_glynn,13127,"Harris, Charles",HC0003,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Greene,gas_greene,13133,"Harris, Charles",HC0003,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Hancock,gas_hancock,13141,"Harris, Charles",HC0003,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Jackson,gas_jackson,13157,"Harris, Charles",HC0003,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Jefferson,gas_jefferson,13163,"Harris, Charles",HC0003,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Liberty,gas_liberty,13179,"Harris, Charles",HC0003,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Lincoln,gas_lincoln,13181,"Harris, Charles",HC0003,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,McIntosh,gas_mcintosh,13191,"Harris, Charles",HC0003,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Montgomery,gas_montgomery,13209,"Harris, Charles",HC0003,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Oglethorpe,gas_oglethorpe,13221,"Harris, Charles",HC0003,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Richmond,gas_richmond,13245,"Harris, Charles",HC0003,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Scriven,gas_screven,13251,"Harris, Charles",HC0003,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Tattnall,gas_tattnall,13267,"Harris, Charles",HC0003,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Walton,gas_walton,13297,"Harris, Charles",HC0003,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Warren,gas_warren,13301,"Harris, Charles",HC0003,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Washington,gas_washington,13303,"Harris, Charles",HC0003,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Wilkes,gas_wilkes,13317,"Harris, Charles",HC0003,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Bulloch,gas_bulloch,13031,"Irwin, Jared",IJ0023,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Burke,gas_burke,13033,"Irwin, Jared",IJ0023,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Camden,gas_camden,13039,"Irwin, Jared",IJ0023,NA,5
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Chatham,gas_chatham,13051,"Irwin, Jared",IJ0023,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Clark,gas_clarke,13059,"Irwin, Jared",IJ0023,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Columbia,gas_columbia,13073,"Irwin, Jared",IJ0023,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Effingham,gas_effingham,13103,"Irwin, Jared",IJ0023,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Elbert,gas_elbert,13105,"Irwin, Jared",IJ0023,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Franklin,gas_franklin,13119,"Irwin, Jared",IJ0023,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Glynn,gas_glynn,13127,"Irwin, Jared",IJ0023,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Greene,gas_greene,13133,"Irwin, Jared",IJ0023,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Hancock,gas_hancock,13141,"Irwin, Jared",IJ0023,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Jackson,gas_jackson,13157,"Irwin, Jared",IJ0023,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Jefferson,gas_jefferson,13163,"Irwin, Jared",IJ0023,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Liberty,gas_liberty,13179,"Irwin, Jared",IJ0023,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Lincoln,gas_lincoln,13181,"Irwin, Jared",IJ0023,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,McIntosh,gas_mcintosh,13191,"Irwin, Jared",IJ0023,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Montgomery,gas_montgomery,13209,"Irwin, Jared",IJ0023,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Oglethorpe,gas_oglethorpe,13221,"Irwin, Jared",IJ0023,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Richmond,gas_richmond,13245,"Irwin, Jared",IJ0023,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Scriven,gas_screven,13251,"Irwin, Jared",IJ0023,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Tattnall,gas_tattnall,13267,"Irwin, Jared",IJ0023,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Walton,gas_walton,13297,"Irwin, Jared",IJ0023,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Warren,gas_warren,13301,"Irwin, Jared",IJ0023,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Washington,gas_washington,13303,"Irwin, Jared",IJ0023,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Wilkes,gas_wilkes,13317,"Irwin, Jared",IJ0023,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Bulloch,gas_bulloch,13031,"Jones, Obadiah",JO0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Burke,gas_burke,13033,"Jones, Obadiah",JO0000,NA,82
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Camden,gas_camden,13039,"Jones, Obadiah",JO0000,NA,34
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Chatham,gas_chatham,13051,"Jones, Obadiah",JO0000,NA,80
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Clark,gas_clarke,13059,"Jones, Obadiah",JO0000,NA,136
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Columbia,gas_columbia,13073,"Jones, Obadiah",JO0000,NA,40
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Effingham,gas_effingham,13103,"Jones, Obadiah",JO0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Elbert,gas_elbert,13105,"Jones, Obadiah",JO0000,NA,622
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Franklin,gas_franklin,13119,"Jones, Obadiah",JO0000,NA,64
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Glynn,gas_glynn,13127,"Jones, Obadiah",JO0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Greene,gas_greene,13133,"Jones, Obadiah",JO0000,NA,137
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Hancock,gas_hancock,13141,"Jones, Obadiah",JO0000,NA,135
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Jackson,gas_jackson,13157,"Jones, Obadiah",JO0000,NA,140
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Jefferson,gas_jefferson,13163,"Jones, Obadiah",JO0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Liberty,gas_liberty,13179,"Jones, Obadiah",JO0000,NA,70
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Lincoln,gas_lincoln,13181,"Jones, Obadiah",JO0000,NA,7
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,McIntosh,gas_mcintosh,13191,"Jones, Obadiah",JO0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Montgomery,gas_montgomery,13209,"Jones, Obadiah",JO0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Oglethorpe,gas_oglethorpe,13221,"Jones, Obadiah",JO0000,NA,290
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Richmond,gas_richmond,13245,"Jones, Obadiah",JO0000,NA,36
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Scriven,gas_screven,13251,"Jones, Obadiah",JO0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Tattnall,gas_tattnall,13267,"Jones, Obadiah",JO0000,NA,6
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Walton,gas_walton,13297,"Jones, Obadiah",JO0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Warren,gas_warren,13301,"Jones, Obadiah",JO0000,NA,102
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Washington,gas_washington,13303,"Jones, Obadiah",JO0000,NA,54
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Wilkes,gas_wilkes,13317,"Jones, Obadiah",JO0000,NA,44
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Bulloch,gas_bulloch,13031,"Jones, William",JW0090,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Burke,gas_burke,13033,"Jones, William",JW0090,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Camden,gas_camden,13039,"Jones, William",JW0090,NA,1
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Chatham,gas_chatham,13051,"Jones, William",JW0090,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Clark,gas_clarke,13059,"Jones, William",JW0090,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Columbia,gas_columbia,13073,"Jones, William",JW0090,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Effingham,gas_effingham,13103,"Jones, William",JW0090,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Elbert,gas_elbert,13105,"Jones, William",JW0090,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Franklin,gas_franklin,13119,"Jones, William",JW0090,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Glynn,gas_glynn,13127,"Jones, William",JW0090,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Greene,gas_greene,13133,"Jones, William",JW0090,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Hancock,gas_hancock,13141,"Jones, William",JW0090,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Jackson,gas_jackson,13157,"Jones, William",JW0090,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Jefferson,gas_jefferson,13163,"Jones, William",JW0090,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Liberty,gas_liberty,13179,"Jones, William",JW0090,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Lincoln,gas_lincoln,13181,"Jones, William",JW0090,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,McIntosh,gas_mcintosh,13191,"Jones, William",JW0090,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Montgomery,gas_montgomery,13209,"Jones, William",JW0090,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Oglethorpe,gas_oglethorpe,13221,"Jones, William",JW0090,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Richmond,gas_richmond,13245,"Jones, William",JW0090,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Scriven,gas_screven,13251,"Jones, William",JW0090,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Tattnall,gas_tattnall,13267,"Jones, William",JW0090,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Walton,gas_walton,13297,"Jones, William",JW0090,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Warren,gas_warren,13301,"Jones, William",JW0090,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Washington,gas_washington,13303,"Jones, William",JW0090,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Wilkes,gas_wilkes,13317,"Jones, William",JW0090,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Bulloch,gas_bulloch,13031,"MacAllister, Matthew",MM0004,Federalist,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Burke,gas_burke,13033,"MacAllister, Matthew",MM0004,Federalist,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Camden,gas_camden,13039,"MacAllister, Matthew",MM0004,Federalist,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Chatham,gas_chatham,13051,"MacAllister, Matthew",MM0004,Federalist,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Clark,gas_clarke,13059,"MacAllister, Matthew",MM0004,Federalist,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Columbia,gas_columbia,13073,"MacAllister, Matthew",MM0004,Federalist,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Effingham,gas_effingham,13103,"MacAllister, Matthew",MM0004,Federalist,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Elbert,gas_elbert,13105,"MacAllister, Matthew",MM0004,Federalist,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Franklin,gas_franklin,13119,"MacAllister, Matthew",MM0004,Federalist,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Glynn,gas_glynn,13127,"MacAllister, Matthew",MM0004,Federalist,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Greene,gas_greene,13133,"MacAllister, Matthew",MM0004,Federalist,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Hancock,gas_hancock,13141,"MacAllister, Matthew",MM0004,Federalist,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Jackson,gas_jackson,13157,"MacAllister, Matthew",MM0004,Federalist,7
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Jefferson,gas_jefferson,13163,"MacAllister, Matthew",MM0004,Federalist,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Liberty,gas_liberty,13179,"MacAllister, Matthew",MM0004,Federalist,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Lincoln,gas_lincoln,13181,"MacAllister, Matthew",MM0004,Federalist,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,McIntosh,gas_mcintosh,13191,"MacAllister, Matthew",MM0004,Federalist,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Montgomery,gas_montgomery,13209,"MacAllister, Matthew",MM0004,Federalist,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Oglethorpe,gas_oglethorpe,13221,"MacAllister, Matthew",MM0004,Federalist,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Richmond,gas_richmond,13245,"MacAllister, Matthew",MM0004,Federalist,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Scriven,gas_screven,13251,"MacAllister, Matthew",MM0004,Federalist,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Tattnall,gas_tattnall,13267,"MacAllister, Matthew",MM0004,Federalist,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Walton,gas_walton,13297,"MacAllister, Matthew",MM0004,Federalist,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Warren,gas_warren,13301,"MacAllister, Matthew",MM0004,Federalist,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Washington,gas_washington,13303,"MacAllister, Matthew",MM0004,Federalist,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Wilkes,gas_wilkes,13317,"MacAllister, Matthew",MM0004,Federalist,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Bulloch,gas_bulloch,13031,"Mead, Cowles",MC0004,Democratic-Republican,58
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Burke,gas_burke,13033,"Mead, Cowles",MC0004,Democratic-Republican,426
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Camden,gas_camden,13039,"Mead, Cowles",MC0004,Democratic-Republican,3
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Chatham,gas_chatham,13051,"Mead, Cowles",MC0004,Democratic-Republican,28
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Clark,gas_clarke,13059,"Mead, Cowles",MC0004,Democratic-Republican,50
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Columbia,gas_columbia,13073,"Mead, Cowles",MC0004,Democratic-Republican,265
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Effingham,gas_effingham,13103,"Mead, Cowles",MC0004,Democratic-Republican,56
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Elbert,gas_elbert,13105,"Mead, Cowles",MC0004,Democratic-Republican,490
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Franklin,gas_franklin,13119,"Mead, Cowles",MC0004,Democratic-Republican,39
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Glynn,gas_glynn,13127,"Mead, Cowles",MC0004,Democratic-Republican,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Greene,gas_greene,13133,"Mead, Cowles",MC0004,Democratic-Republican,743
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Hancock,gas_hancock,13141,"Mead, Cowles",MC0004,Democratic-Republican,103
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Jackson,gas_jackson,13157,"Mead, Cowles",MC0004,Democratic-Republican,63
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Jefferson,gas_jefferson,13163,"Mead, Cowles",MC0004,Democratic-Republican,221
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Liberty,gas_liberty,13179,"Mead, Cowles",MC0004,Democratic-Republican,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Lincoln,gas_lincoln,13181,"Mead, Cowles",MC0004,Democratic-Republican,108
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,McIntosh,gas_mcintosh,13191,"Mead, Cowles",MC0004,Democratic-Republican,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Montgomery,gas_montgomery,13209,"Mead, Cowles",MC0004,Democratic-Republican,157
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Oglethorpe,gas_oglethorpe,13221,"Mead, Cowles",MC0004,Democratic-Republican,167
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Richmond,gas_richmond,13245,"Mead, Cowles",MC0004,Democratic-Republican,208
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Scriven,gas_screven,13251,"Mead, Cowles",MC0004,Democratic-Republican,120
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Tattnall,gas_tattnall,13267,"Mead, Cowles",MC0004,Democratic-Republican,24
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Walton,gas_walton,13297,"Mead, Cowles",MC0004,Democratic-Republican,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Warren,gas_warren,13301,"Mead, Cowles",MC0004,Democratic-Republican,385
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Washington,gas_washington,13303,"Mead, Cowles",MC0004,Democratic-Republican,361
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Wilkes,gas_wilkes,13317,"Mead, Cowles",MC0004,Democratic-Republican,390
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Bulloch,gas_bulloch,13031,"Meriweather, David",MD0013,Democratic-Republican,117
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Burke,gas_burke,13033,"Meriweather, David",MD0013,Democratic-Republican,218
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Camden,gas_camden,13039,"Meriweather, David",MD0013,Democratic-Republican,126
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Chatham,gas_chatham,13051,"Meriweather, David",MD0013,Democratic-Republican,129
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Clark,gas_clarke,13059,"Meriweather, David",MD0013,Democratic-Republican,714
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Columbia,gas_columbia,13073,"Meriweather, David",MD0013,Democratic-Republican,524
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Effingham,gas_effingham,13103,"Meriweather, David",MD0013,Democratic-Republican,80
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Elbert,gas_elbert,13105,"Meriweather, David",MD0013,Democratic-Republican,745
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Franklin,gas_franklin,13119,"Meriweather, David",MD0013,Democratic-Republican,402
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Glynn,gas_glynn,13127,"Meriweather, David",MD0013,Democratic-Republican,2
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Greene,gas_greene,13133,"Meriweather, David",MD0013,Democratic-Republican,610
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Hancock,gas_hancock,13141,"Meriweather, David",MD0013,Democratic-Republican,659
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Jackson,gas_jackson,13157,"Meriweather, David",MD0013,Democratic-Republican,704
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Jefferson,gas_jefferson,13163,"Meriweather, David",MD0013,Democratic-Republican,489
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Liberty,gas_liberty,13179,"Meriweather, David",MD0013,Democratic-Republican,114
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Lincoln,gas_lincoln,13181,"Meriweather, David",MD0013,Democratic-Republican,358
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,McIntosh,gas_mcintosh,13191,"Meriweather, David",MD0013,Democratic-Republican,1
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Montgomery,gas_montgomery,13209,"Meriweather, David",MD0013,Democratic-Republican,284
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Oglethorpe,gas_oglethorpe,13221,"Meriweather, David",MD0013,Democratic-Republican,601
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Richmond,gas_richmond,13245,"Meriweather, David",MD0013,Democratic-Republican,176
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Scriven,gas_screven,13251,"Meriweather, David",MD0013,Democratic-Republican,228
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Tattnall,gas_tattnall,13267,"Meriweather, David",MD0013,Democratic-Republican,1
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Walton,gas_walton,13297,"Meriweather, David",MD0013,Democratic-Republican,86
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Warren,gas_warren,13301,"Meriweather, David",MD0013,Democratic-Republican,478
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Washington,gas_washington,13303,"Meriweather, David",MD0013,Democratic-Republican,662
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Wilkes,gas_wilkes,13317,"Meriweather, David",MD0013,Democratic-Republican,1079
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Effingham,gas_effingham,13103,NA,NA,NA,1
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Bulloch,gas_bulloch,13031,"Odinsell, Charles",OC0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Burke,gas_burke,13033,"Odinsell, Charles",OC0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Camden,gas_camden,13039,"Odinsell, Charles",OC0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Chatham,gas_chatham,13051,"Odinsell, Charles",OC0000,NA,1
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Clark,gas_clarke,13059,"Odinsell, Charles",OC0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Columbia,gas_columbia,13073,"Odinsell, Charles",OC0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Effingham,gas_effingham,13103,"Odinsell, Charles",OC0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Elbert,gas_elbert,13105,"Odinsell, Charles",OC0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Franklin,gas_franklin,13119,"Odinsell, Charles",OC0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Glynn,gas_glynn,13127,"Odinsell, Charles",OC0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Greene,gas_greene,13133,"Odinsell, Charles",OC0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Hancock,gas_hancock,13141,"Odinsell, Charles",OC0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Jackson,gas_jackson,13157,"Odinsell, Charles",OC0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Jefferson,gas_jefferson,13163,"Odinsell, Charles",OC0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Liberty,gas_liberty,13179,"Odinsell, Charles",OC0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Lincoln,gas_lincoln,13181,"Odinsell, Charles",OC0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,McIntosh,gas_mcintosh,13191,"Odinsell, Charles",OC0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Montgomery,gas_montgomery,13209,"Odinsell, Charles",OC0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Oglethorpe,gas_oglethorpe,13221,"Odinsell, Charles",OC0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Richmond,gas_richmond,13245,"Odinsell, Charles",OC0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Scriven,gas_screven,13251,"Odinsell, Charles",OC0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Tattnall,gas_tattnall,13267,"Odinsell, Charles",OC0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Walton,gas_walton,13297,"Odinsell, Charles",OC0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Warren,gas_warren,13301,"Odinsell, Charles",OC0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Washington,gas_washington,13303,"Odinsell, Charles",OC0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Wilkes,gas_wilkes,13317,"Odinsell, Charles",OC0000,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Bulloch,gas_bulloch,13031,"Shannon, Owen",SO0015,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Burke,gas_burke,13033,"Shannon, Owen",SO0015,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Camden,gas_camden,13039,"Shannon, Owen",SO0015,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Chatham,gas_chatham,13051,"Shannon, Owen",SO0015,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Clark,gas_clarke,13059,"Shannon, Owen",SO0015,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Columbia,gas_columbia,13073,"Shannon, Owen",SO0015,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Effingham,gas_effingham,13103,"Shannon, Owen",SO0015,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Elbert,gas_elbert,13105,"Shannon, Owen",SO0015,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Franklin,gas_franklin,13119,"Shannon, Owen",SO0015,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Glynn,gas_glynn,13127,"Shannon, Owen",SO0015,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Greene,gas_greene,13133,"Shannon, Owen",SO0015,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Hancock,gas_hancock,13141,"Shannon, Owen",SO0015,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Jackson,gas_jackson,13157,"Shannon, Owen",SO0015,NA,2
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Jefferson,gas_jefferson,13163,"Shannon, Owen",SO0015,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Liberty,gas_liberty,13179,"Shannon, Owen",SO0015,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Lincoln,gas_lincoln,13181,"Shannon, Owen",SO0015,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,McIntosh,gas_mcintosh,13191,"Shannon, Owen",SO0015,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Montgomery,gas_montgomery,13209,"Shannon, Owen",SO0015,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Oglethorpe,gas_oglethorpe,13221,"Shannon, Owen",SO0015,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Richmond,gas_richmond,13245,"Shannon, Owen",SO0015,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Scriven,gas_screven,13251,"Shannon, Owen",SO0015,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Tattnall,gas_tattnall,13267,"Shannon, Owen",SO0015,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Walton,gas_walton,13297,"Shannon, Owen",SO0015,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Warren,gas_warren,13301,"Shannon, Owen",SO0015,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Washington,gas_washington,13303,"Shannon, Owen",SO0015,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Wilkes,gas_wilkes,13317,"Shannon, Owen",SO0015,NA,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Bulloch,gas_bulloch,13031,"Spalding, Thomas",ST0028,Democratic-Republican,2
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Burke,gas_burke,13033,"Spalding, Thomas",ST0028,Democratic-Republican,28
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Camden,gas_camden,13039,"Spalding, Thomas",ST0028,Democratic-Republican,176
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Chatham,gas_chatham,13051,"Spalding, Thomas",ST0028,Democratic-Republican,50
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Clark,gas_clarke,13059,"Spalding, Thomas",ST0028,Democratic-Republican,234
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Columbia,gas_columbia,13073,"Spalding, Thomas",ST0028,Democratic-Republican,15
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Effingham,gas_effingham,13103,"Spalding, Thomas",ST0028,Democratic-Republican,49
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Elbert,gas_elbert,13105,"Spalding, Thomas",ST0028,Democratic-Republican,34
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Franklin,gas_franklin,13119,"Spalding, Thomas",ST0028,Democratic-Republican,234
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Glynn,gas_glynn,13127,"Spalding, Thomas",ST0028,Democratic-Republican,137
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Greene,gas_greene,13133,"Spalding, Thomas",ST0028,Democratic-Republican,487
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Hancock,gas_hancock,13141,"Spalding, Thomas",ST0028,Democratic-Republican,317
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Jackson,gas_jackson,13157,"Spalding, Thomas",ST0028,Democratic-Republican,296
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Jefferson,gas_jefferson,13163,"Spalding, Thomas",ST0028,Democratic-Republican,140
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Liberty,gas_liberty,13179,"Spalding, Thomas",ST0028,Democratic-Republican,19
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Lincoln,gas_lincoln,13181,"Spalding, Thomas",ST0028,Democratic-Republican,314
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,McIntosh,gas_mcintosh,13191,"Spalding, Thomas",ST0028,Democratic-Republican,105
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Montgomery,gas_montgomery,13209,"Spalding, Thomas",ST0028,Democratic-Republican,114
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Oglethorpe,gas_oglethorpe,13221,"Spalding, Thomas",ST0028,Democratic-Republican,269
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Richmond,gas_richmond,13245,"Spalding, Thomas",ST0028,Democratic-Republican,163
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Scriven,gas_screven,13251,"Spalding, Thomas",ST0028,Democratic-Republican,25
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Tattnall,gas_tattnall,13267,"Spalding, Thomas",ST0028,Democratic-Republican,40
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Walton,gas_walton,13297,"Spalding, Thomas",ST0028,Democratic-Republican,0
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Warren,gas_warren,13301,"Spalding, Thomas",ST0028,Democratic-Republican,77
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Washington,gas_washington,13303,"Spalding, Thomas",ST0028,Democratic-Republican,368
+meae.congressional.congress09.ga.county,congressional,9,GA,county,state,ga.uscongress.1804,Wilkes,gas_wilkes,13317,"Spalding, Thomas",ST0028,Democratic-Republican,811

@@ -1,0 +1,46 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress12.md.county,md.uscongress1.1810,Philip Stewart,SP0013,1,Federalist,1474,1500,0.983,TRUE,FALSE
+meae.congressional.congress12.md.county,md.uscongress1.1810,John Parnham,PJ0127,1,Democratic-Republican,16,1500,0.011,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress1.1810,Caleb Hawkins,HC0033,1,Democratic-Republican,3,1500,0.002,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress1.1810,Parker Y. Reinerman,RP0017,1,Federalist,3,1500,0.002,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress1.1810,Henry H. Chapman,CH0050,1,Federalist,2,1500,0.001,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress1.1810,Francis Digges,DF0005,1,Democratic-Republican,1,1500,0.001,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress1.1810,William Somerville,SW0035,1,Democratic-Republican,1,1500,0.001,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress2.1810,Joseph Kent,KJ0034,2,Democratic-Republican,1713,3038,0.564,TRUE,FALSE
+meae.congressional.congress12.md.county,md.uscongress2.1810,John F. Mercer,MJ0200,2,Federalist,1325,3038,0.436,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress3.1810,Philip B. Key,KP0001,3,Federalist,777,777,1,TRUE,TRUE
+meae.congressional.congress12.md.county,md.uscongress4.1810,Samuel Ringgold,RS0013,4,Democratic-Republican,1937,2023,0.957,TRUE,FALSE
+meae.congressional.congress12.md.county,md.uscongress4.1810,Benjamin Galloway,GB0005,4,Federalist,40,2023,0.02,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress4.1810,John Lagen,LJ0499,4,NA,16,2023,0.008,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress4.1810,Edmund Boyd,BE0149,4,NA,11,2023,0.005,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress4.1810,Patrick Garrity,GP0068,4,NA,6,2023,0.003,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress4.1810,Moses Tabbs,TM0015,4,NA,4,2023,0.002,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress4.1810,William Coddington,CW0287,4,NA,3,2023,0.001,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress4.1810,Upton Bruce,BU0002,4,NA,1,2023,0,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress4.1810,Thomas Cresap,CT0089,4,NA,1,2023,0,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress4.1810,John Light,LJ0501,4,NA,1,2023,0,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress4.1810,William MacLaughton,MW0294,4,NA,1,2023,0,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress4.1810,Matthias Miller,MM0106,4,NA,1,2023,0,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress4.1810,John Witmer,WJ0180,4,NA,1,2023,0,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress5.1810,Alexander MacKim,MA0045,5,Democratic-Republican,2811,10151,0.277,TRUE,FALSE
+meae.congressional.congress12.md.county,md.uscongress5.1810,Peter Little,LP0015,5,Democratic-Republican,2604,10151,0.257,TRUE,FALSE
+meae.congressional.congress12.md.county,md.uscongress5.1810,Nicholas Moore,MN0021,5,Democratic-Republican,2480,10151,0.244,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress5.1810,Joshua Barney,BJ0327,5,Democratic-Republican,2256,10151,0.222,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress6.1810,John Montgomery,MJ0205,6,Democratic-Republican,2877,2934,0.981,TRUE,FALSE
+meae.congressional.congress12.md.county,md.uscongress6.1810,Thomas G. Moffit,MT0057,6,NA,50,2934,0.017,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress6.1810,Stevenson Archer,AS0013,6,NA,3,2934,0.001,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress6.1810,James Moffitt,MJ0666,6,NA,1,2934,0,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress6.1810,John Moffitt,MJ0271,6,NA,1,2934,0,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress6.1810,William Spencer,SW0032,6,NA,1,2934,0,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress6.1810,James Steel,SJ0310,6,NA,1,2934,0,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress7.1810,John Brown,BJ0315,7,Democratic-Republican,2333,2339,0.997,TRUE,FALSE
+meae.congressional.congress12.md.county,md.uscongress7.1810,James Harrison,HJ0997,7,NA,2,2339,0.001,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress7.1810,James Brown,BJ0266,7,NA,1,2339,0,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress7.1810,Peter Denny,DP0065,7,NA,1,2339,0,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress7.1810,William Harrison,HW0228,7,NA,1,2339,0,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress7.1810,Thomas James Bullit,BT0040,7,NA,1,2339,0,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress8.1810,Charles Goldsborough,GC0057,8,Federalist,2462,3405,0.723,TRUE,FALSE
+meae.congressional.congress12.md.county,md.uscongress8.1810,Thomas Williams,WT0027,8,Democratic-Republican,936,3405,0.275,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress8.1810,Levin Winder,WL0015,8,Federalist,5,3405,0.001,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress8.1810,John Cottman,CJ0222,8,NA,1,3405,0,FALSE,FALSE
+meae.congressional.congress12.md.county,md.uscongress8.1810,John Williams,WJ0163,8,NA,1,3405,0,FALSE,FALSE

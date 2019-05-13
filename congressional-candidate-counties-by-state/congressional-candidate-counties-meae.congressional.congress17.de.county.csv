@@ -1,0 +1,49 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Kent,des_kent,10001,"Hall, Willard",HW0048,Democratic-Republican,1006
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,New Castle,des_newcastle,10003,"Hall, Willard",HW0048,Democratic-Republican,1458
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Sussex,des_sussex,10005,"Hall, Willard",HW0048,Democratic-Republican,1061
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Kent,des_kent,10001,"Rodney, Caesar A.",RC0001,Democratic-Republican,989
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,New Castle,des_newcastle,10003,"Rodney, Caesar A.",RC0001,Democratic-Republican,1682
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Sussex,des_sussex,10005,"Rodney, Caesar A.",RC0001,Democratic-Republican,1358
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Kent,des_kent,10001,"Clayton, Thomas",CT0005,Federalist,0
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,New Castle,des_newcastle,10003,"Clayton, Thomas",CT0005,Federalist,1
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Sussex,des_sussex,10005,"Clayton, Thomas",CT0005,Federalist,0
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Kent,des_kent,10001,"MacLane, Louis",ML0002,Federalist,913
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,New Castle,des_newcastle,10003,"MacLane, Louis",ML0002,Federalist,1003
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Sussex,des_sussex,10005,"MacLane, Louis",ML0002,Federalist,2002
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Kent,des_kent,10001,"Mitchell, John",MJ0047,Federalist,947
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,New Castle,des_newcastle,10003,"Mitchell, John",MJ0047,Federalist,823
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Sussex,des_sussex,10005,"Mitchell, John",MJ0047,Federalist,1730
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Kent,des_kent,10001,"Black, Samuel H.",BS0038,NA,0
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,New Castle,des_newcastle,10003,"Black, Samuel H.",BS0038,NA,1
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Sussex,des_sussex,10005,"Black, Samuel H.",BS0038,NA,0
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Kent,des_kent,10001,"Canby, James",CJ0099,NA,0
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,New Castle,des_newcastle,10003,"Canby, James",CJ0099,NA,1
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Sussex,des_sussex,10005,"Canby, James",CJ0099,NA,0
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Kent,des_kent,10001,"Houston, David",HD0013,NA,0
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,New Castle,des_newcastle,10003,"Houston, David",HD0013,NA,7
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Sussex,des_sussex,10005,"Houston, David",HD0013,NA,0
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Kent,des_kent,10001,"Kirk, Caleb",KC0001,NA,0
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,New Castle,des_newcastle,10003,"Kirk, Caleb",KC0001,NA,2
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Sussex,des_sussex,10005,"Kirk, Caleb",KC0001,NA,0
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Kent,des_kent,10001,"Matlock, Timothy",MT0163,NA,0
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,New Castle,des_newcastle,10003,"Matlock, Timothy",MT0163,NA,1
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Sussex,des_sussex,10005,"Matlock, Timothy",MT0163,NA,0
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Kent,des_kent,10001,"Poole, William",PW0016,NA,0
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,New Castle,des_newcastle,10003,"Poole, William",PW0016,NA,14
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Sussex,des_sussex,10005,"Poole, William",PW0016,NA,0
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Kent,des_kent,10001,"Rice, J.",RJ0684,NA,0
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,New Castle,des_newcastle,10003,"Rice, J.",RJ0684,NA,1
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Sussex,des_sussex,10005,"Rice, J.",RJ0684,NA,0
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Kent,des_kent,10001,"Richardson, Thomas",RT0127,NA,0
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,New Castle,des_newcastle,10003,"Richardson, Thomas",RT0127,NA,1
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Sussex,des_sussex,10005,"Richardson, Thomas",RT0127,NA,0
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Kent,des_kent,10001,"Willard, G.",WG0137,NA,0
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,New Castle,des_newcastle,10003,"Willard, G.",WG0137,NA,1
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Sussex,des_sussex,10005,"Willard, G.",WG0137,NA,0
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Kent,des_kent,10001,"Wollaston, Joshua",WJ0824,NA,0
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,New Castle,des_newcastle,10003,"Wollaston, Joshua",WJ0824,NA,1
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Sussex,des_sussex,10005,"Wollaston, Joshua",WJ0824,NA,0
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Kent,des_kent,10001,"Wood, William",WW0292,NA,0
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,New Castle,des_newcastle,10003,"Wood, William",WW0292,NA,1
+meae.congressional.congress17.de.county,congressional,17,DE,county,state,de.uscongress.1820,Sussex,des_sussex,10005,"Wood, William",WW0292,NA,0

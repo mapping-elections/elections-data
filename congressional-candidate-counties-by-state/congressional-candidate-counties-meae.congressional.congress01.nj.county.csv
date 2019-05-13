@@ -1,0 +1,506 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Parker, James",PJ0264,Anti-Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Parker, James",PJ0264,Anti-Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Parker, James",PJ0264,Anti-Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Parker, James",PJ0264,Anti-Federalist,248
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Parker, James",PJ0264,Anti-Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Parker, James",PJ0264,Anti-Federalist,247
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Parker, James",PJ0264,Anti-Federalist,446
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Parker, James",PJ0264,Anti-Federalist,142
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Parker, James",PJ0264,Anti-Federalist,529
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Parker, James",PJ0264,Anti-Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Parker, James",PJ0264,Anti-Federalist,26
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Parker, James",PJ0264,Anti-Federalist,86
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Boudinot, Elias",BE0179,Federalist,286
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Boudinot, Elias",BE0179,Federalist,2763
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Boudinot, Elias",BE0179,Federalist,575
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Boudinot, Elias",BE0179,Federalist,448
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Boudinot, Elias",BE0179,Federalist,3270
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Boudinot, Elias",BE0179,Federalist,185
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Boudinot, Elias",BE0179,Federalist,57
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Boudinot, Elias",BE0179,Federalist,352
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Boudinot, Elias",BE0179,Federalist,16
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Boudinot, Elias",BE0179,Federalist,672
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Boudinot, Elias",BE0179,Federalist,30
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Boudinot, Elias",BE0179,Federalist,48
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Cadwallader, Lambert",CL0010,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Cadwallader, Lambert",CL0010,Federalist,2728
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Cadwallader, Lambert",CL0010,Federalist,1312
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Cadwallader, Lambert",CL0010,Federalist,17
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Cadwallader, Lambert",CL0010,Federalist,3269
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Cadwallader, Lambert",CL0010,Federalist,455
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Cadwallader, Lambert",CL0010,Federalist,38
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Cadwallader, Lambert",CL0010,Federalist,66
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Cadwallader, Lambert",CL0010,Federalist,8
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Cadwallader, Lambert",CL0010,Federalist,731
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Cadwallader, Lambert",CL0010,Federalist,23
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Cadwallader, Lambert",CL0010,Federalist,404
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Clark, Abraham",CA0071,Federalist,125
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Clark, Abraham",CA0071,Federalist,7
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Clark, Abraham",CA0071,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Clark, Abraham",CA0071,Federalist,2762
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Clark, Abraham",CA0071,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Clark, Abraham",CA0071,Federalist,710
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Clark, Abraham",CA0071,Federalist,682
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Clark, Abraham",CA0071,Federalist,213
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Clark, Abraham",CA0071,Federalist,1180
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Clark, Abraham",CA0071,Federalist,35
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Clark, Abraham",CA0071,Federalist,899
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Clark, Abraham",CA0071,Federalist,674
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Dayton, Jonathan",DJ0209,Federalist,358
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Dayton, Jonathan",DJ0209,Federalist,118
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Dayton, Jonathan",DJ0209,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Dayton, Jonathan",DJ0209,Federalist,2984
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Dayton, Jonathan",DJ0209,Federalist,2
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Dayton, Jonathan",DJ0209,Federalist,135
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Dayton, Jonathan",DJ0209,Federalist,403
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Dayton, Jonathan",DJ0209,Federalist,406
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Dayton, Jonathan",DJ0209,Federalist,1241
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Dayton, Jonathan",DJ0209,Federalist,41
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Dayton, Jonathan",DJ0209,Federalist,774
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Dayton, Jonathan",DJ0209,Federalist,397
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Frelinghuysen, Frederick",FF0012,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Frelinghuysen, Frederick",FF0012,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Frelinghuysen, Frederick",FF0012,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Frelinghuysen, Frederick",FF0012,Federalist,6
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Frelinghuysen, Frederick",FF0012,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Frelinghuysen, Frederick",FF0012,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Frelinghuysen, Frederick",FF0012,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Frelinghuysen, Frederick",FF0012,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Frelinghuysen, Frederick",FF0012,Federalist,1
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Frelinghuysen, Frederick",FF0012,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Frelinghuysen, Frederick",FF0012,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Frelinghuysen, Frederick",FF0012,Federalist,2
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Henderson, Thomas",HT0100,Federalist,155
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Henderson, Thomas",HT0100,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Henderson, Thomas",HT0100,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Henderson, Thomas",HT0100,Federalist,290
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Henderson, Thomas",HT0100,Federalist,1
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Henderson, Thomas",HT0100,Federalist,94
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Henderson, Thomas",HT0100,Federalist,170
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Henderson, Thomas",HT0100,Federalist,445
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Henderson, Thomas",HT0100,Federalist,1
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Henderson, Thomas",HT0100,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Henderson, Thomas",HT0100,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Henderson, Thomas",HT0100,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Neilson, John",NJ0051,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Neilson, John",NJ0051,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Neilson, John",NJ0051,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Neilson, John",NJ0051,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Neilson, John",NJ0051,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Neilson, John",NJ0051,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Neilson, John",NJ0051,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Neilson, John",NJ0051,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Neilson, John",NJ0051,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Neilson, John",NJ0051,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Neilson, John",NJ0051,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Neilson, John",NJ0051,Federalist,1
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Schureman, James",SJ0522,Federalist,366
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Schureman, James",SJ0522,Federalist,2686
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Schureman, James",SJ0522,Federalist,984
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Schureman, James",SJ0522,Federalist,1274
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Schureman, James",SJ0522,Federalist,3267
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Schureman, James",SJ0522,Federalist,946
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Schureman, James",SJ0522,Federalist,898
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Schureman, James",SJ0522,Federalist,434
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Schureman, James",SJ0522,Federalist,1160
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Schureman, James",SJ0522,Federalist,220
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Schureman, James",SJ0522,Federalist,992
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Schureman, James",SJ0522,Federalist,664
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Sinnickson, Thomas",ST0147,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Sinnickson, Thomas",ST0147,Federalist,2800
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Sinnickson, Thomas",ST0147,Federalist,929
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Sinnickson, Thomas",ST0147,Federalist,124
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Sinnickson, Thomas",ST0147,Federalist,3271
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Sinnickson, Thomas",ST0147,Federalist,131
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Sinnickson, Thomas",ST0147,Federalist,104
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Sinnickson, Thomas",ST0147,Federalist,21
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Sinnickson, Thomas",ST0147,Federalist,5
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Sinnickson, Thomas",ST0147,Federalist,886
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Sinnickson, Thomas",ST0147,Federalist,72
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Sinnickson, Thomas",ST0147,Federalist,21
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Smith, Samuel S.",SS0154,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Smith, Samuel S.",SS0154,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Smith, Samuel S.",SS0154,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Smith, Samuel S.",SS0154,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Smith, Samuel S.",SS0154,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Smith, Samuel S.",SS0154,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Smith, Samuel S.",SS0154,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Smith, Samuel S.",SS0154,Federalist,1
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Smith, Samuel S.",SS0154,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Smith, Samuel S.",SS0154,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Smith, Samuel S.",SS0154,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Smith, Samuel S.",SS0154,Federalist,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Armstrong, John",AJ0012,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Armstrong, John",AJ0012,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Armstrong, John",AJ0012,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Armstrong, John",AJ0012,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Armstrong, John",AJ0012,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Armstrong, John",AJ0012,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Armstrong, John",AJ0012,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Armstrong, John",AJ0012,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Armstrong, John",AJ0012,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Armstrong, John",AJ0012,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Armstrong, John",AJ0012,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Armstrong, John",AJ0012,NA,1
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Condit, Silas",CS0064,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Condit, Silas",CS0064,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Condit, Silas",CS0064,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Condit, Silas",CS0064,NA,106
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Condit, Silas",CS0064,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Condit, Silas",CS0064,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Condit, Silas",CS0064,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Condit, Silas",CS0064,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Condit, Silas",CS0064,NA,1
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Condit, Silas",CS0064,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Condit, Silas",CS0064,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Condit, Silas",CS0064,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Cripps, Whitten",CW0159,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Cripps, Whitten",CW0159,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Cripps, Whitten",CW0159,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Cripps, Whitten",CW0159,NA,469
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Cripps, Whitten",CW0159,NA,1
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Cripps, Whitten",CW0159,NA,32
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Cripps, Whitten",CW0159,NA,6
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Cripps, Whitten",CW0159,NA,5
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Cripps, Whitten",CW0159,NA,532
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Cripps, Whitten",CW0159,NA,700
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Cripps, Whitten",CW0159,NA,489
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Cripps, Whitten",CW0159,NA,141
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Dennis, Patrick",DP0005,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Dennis, Patrick",DP0005,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Dennis, Patrick",DP0005,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Dennis, Patrick",DP0005,NA,1
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Dennis, Patrick",DP0005,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Dennis, Patrick",DP0005,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Dennis, Patrick",DP0005,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Dennis, Patrick",DP0005,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Dennis, Patrick",DP0005,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Dennis, Patrick",DP0005,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Dennis, Patrick",DP0005,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Dennis, Patrick",DP0005,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Fell, John",FJ0209,NA,124
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Fell, John",FJ0209,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Fell, John",FJ0209,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Fell, John",FJ0209,NA,13
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Fell, John",FJ0209,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Fell, John",FJ0209,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Fell, John",FJ0209,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Fell, John",FJ0209,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Fell, John",FJ0209,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Fell, John",FJ0209,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Fell, John",FJ0209,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Fell, John",FJ0209,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Fenimore, Thomas",FT0042,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Fenimore, Thomas",FT0042,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Fenimore, Thomas",FT0042,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Fenimore, Thomas",FT0042,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Fenimore, Thomas",FT0042,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Fenimore, Thomas",FT0042,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Fenimore, Thomas",FT0042,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Fenimore, Thomas",FT0042,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Fenimore, Thomas",FT0042,NA,6
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Fenimore, Thomas",FT0042,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Fenimore, Thomas",FT0042,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Fenimore, Thomas",FT0042,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Hardenburgh, Jacob",HJ0078,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Hardenburgh, Jacob",HJ0078,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Hardenburgh, Jacob",HJ0078,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Hardenburgh, Jacob",HJ0078,NA,2
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Hardenburgh, Jacob",HJ0078,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Hardenburgh, Jacob",HJ0078,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Hardenburgh, Jacob",HJ0078,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Hardenburgh, Jacob",HJ0078,NA,5
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Hardenburgh, Jacob",HJ0078,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Hardenburgh, Jacob",HJ0078,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Hardenburgh, Jacob",HJ0078,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Hardenburgh, Jacob",HJ0078,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Hoops, Robert",HR0098,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Hoops, Robert",HR0098,NA,20
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Hoops, Robert",HR0098,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Hoops, Robert",HR0098,NA,505
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Hoops, Robert",HR0098,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Hoops, Robert",HR0098,NA,468
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Hoops, Robert",HR0098,NA,17
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Hoops, Robert",HR0098,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Hoops, Robert",HR0098,NA,416
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Hoops, Robert",HR0098,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Hoops, Robert",HR0098,NA,110
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Hoops, Robert",HR0098,NA,1026
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Hopper, Robert L.",HR0099,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Hopper, Robert L.",HR0099,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Hopper, Robert L.",HR0099,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Hopper, Robert L.",HR0099,NA,188
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Hopper, Robert L.",HR0099,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Hopper, Robert L.",HR0099,NA,586
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Hopper, Robert L.",HR0099,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Hopper, Robert L.",HR0099,NA,131
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Hopper, Robert L.",HR0099,NA,19
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Hopper, Robert L.",HR0099,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Hopper, Robert L.",HR0099,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Hopper, Robert L.",HR0099,NA,40
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Hornblower, Josiah",HJ0383,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Hornblower, Josiah",HJ0383,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Hornblower, Josiah",HJ0383,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Hornblower, Josiah",HJ0383,NA,679
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Hornblower, Josiah",HJ0383,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Hornblower, Josiah",HJ0383,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Hornblower, Josiah",HJ0383,NA,16
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Hornblower, Josiah",HJ0383,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Hornblower, Josiah",HJ0383,NA,13
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Hornblower, Josiah",HJ0383,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Hornblower, Josiah",HJ0383,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Hornblower, Josiah",HJ0383,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Hughes, Hugh",HH0114,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Hughes, Hugh",HH0114,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Hughes, Hugh",HH0114,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Hughes, Hugh",HH0114,NA,2
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Hughes, Hugh",HH0114,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Hughes, Hugh",HH0114,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Hughes, Hugh",HH0114,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Hughes, Hugh",HH0114,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Hughes, Hugh",HH0114,NA,1
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Hughes, Hugh",HH0114,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Hughes, Hugh",HH0114,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Hughes, Hugh",HH0114,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Kitchell, Aaron",KA0023,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Kitchell, Aaron",KA0023,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Kitchell, Aaron",KA0023,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Kitchell, Aaron",KA0023,NA,268
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Kitchell, Aaron",KA0023,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Kitchell, Aaron",KA0023,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Kitchell, Aaron",KA0023,NA,15
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Kitchell, Aaron",KA0023,NA,99
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Kitchell, Aaron",KA0023,NA,12
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Kitchell, Aaron",KA0023,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Kitchell, Aaron",KA0023,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Kitchell, Aaron",KA0023,NA,2
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Kitchell, Abraham",KA0027,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Kitchell, Abraham",KA0027,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Kitchell, Abraham",KA0027,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Kitchell, Abraham",KA0027,NA,30
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Kitchell, Abraham",KA0027,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Kitchell, Abraham",KA0027,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Kitchell, Abraham",KA0027,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Kitchell, Abraham",KA0027,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Kitchell, Abraham",KA0027,NA,2
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Kitchell, Abraham",KA0027,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Kitchell, Abraham",KA0027,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Kitchell, Abraham",KA0027,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Linn, James",LJ0151,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Linn, James",LJ0151,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Linn, James",LJ0151,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Linn, James",LJ0151,NA,13
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Linn, James",LJ0151,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Linn, James",LJ0151,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Linn, James",LJ0151,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Linn, James",LJ0151,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Linn, James",LJ0151,NA,23
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Linn, James",LJ0151,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Linn, James",LJ0151,NA,244
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Linn, James",LJ0151,NA,235
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"MacWorther, Alexander C.",MA0097,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"MacWorther, Alexander C.",MA0097,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"MacWorther, Alexander C.",MA0097,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"MacWorther, Alexander C.",MA0097,NA,52
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"MacWorther, Alexander C.",MA0097,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"MacWorther, Alexander C.",MA0097,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"MacWorther, Alexander C.",MA0097,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"MacWorther, Alexander C.",MA0097,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"MacWorther, Alexander C.",MA0097,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"MacWorther, Alexander C.",MA0097,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"MacWorther, Alexander C.",MA0097,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"MacWorther, Alexander C.",MA0097,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Mehelm, John",MJ0011,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Mehelm, John",MJ0011,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Mehelm, John",MJ0011,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Mehelm, John",MJ0011,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Mehelm, John",MJ0011,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Mehelm, John",MJ0011,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Mehelm, John",MJ0011,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Mehelm, John",MJ0011,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Mehelm, John",MJ0011,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Mehelm, John",MJ0011,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Mehelm, John",MJ0011,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Mehelm, John",MJ0011,NA,1
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,NA,NA,NA,23
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Ogden, Abraham",OA0023,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Ogden, Abraham",OA0023,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Ogden, Abraham",OA0023,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Ogden, Abraham",OA0023,NA,14
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Ogden, Abraham",OA0023,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Ogden, Abraham",OA0023,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Ogden, Abraham",OA0023,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Ogden, Abraham",OA0023,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Ogden, Abraham",OA0023,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Ogden, Abraham",OA0023,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Ogden, Abraham",OA0023,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Ogden, Abraham",OA0023,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Ogden, Robert",OR0010,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Ogden, Robert",OR0010,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Ogden, Robert",OR0010,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Ogden, Robert",OR0010,NA,64
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Ogden, Robert",OR0010,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Ogden, Robert",OR0010,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Ogden, Robert",OR0010,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Ogden, Robert",OR0010,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Ogden, Robert",OR0010,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Ogden, Robert",OR0010,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Ogden, Robert",OR0010,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Ogden, Robert",OR0010,NA,1
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Rutherford, John",RJ0171,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Rutherford, John",RJ0171,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Rutherford, John",RJ0171,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Rutherford, John",RJ0171,NA,12
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Rutherford, John",RJ0171,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Rutherford, John",RJ0171,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Rutherford, John",RJ0171,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Rutherford, John",RJ0171,NA,4
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Rutherford, John",RJ0171,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Rutherford, John",RJ0171,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Rutherford, John",RJ0171,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Rutherford, John",RJ0171,NA,2
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Sheppard, Joseph",SJ0730,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Sheppard, Joseph",SJ0730,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Sheppard, Joseph",SJ0730,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Sheppard, Joseph",SJ0730,NA,20
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Sheppard, Joseph",SJ0730,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Sheppard, Joseph",SJ0730,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Sheppard, Joseph",SJ0730,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Sheppard, Joseph",SJ0730,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Sheppard, Joseph",SJ0730,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Sheppard, Joseph",SJ0730,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Sheppard, Joseph",SJ0730,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Sheppard, Joseph",SJ0730,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Stevens, John",SJ0729,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Stevens, John",SJ0729,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Stevens, John",SJ0729,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Stevens, John",SJ0729,NA,1
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Stevens, John",SJ0729,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Stevens, John",SJ0729,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Stevens, John",SJ0729,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Stevens, John",SJ0729,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Stevens, John",SJ0729,NA,6
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Stevens, John",SJ0729,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Stevens, John",SJ0729,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Stevens, John",SJ0729,NA,177
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Stevens, John, Jr.",SJ0741,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Stevens, John, Jr.",SJ0741,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Stevens, John, Jr.",SJ0741,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Stevens, John, Jr.",SJ0741,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Stevens, John, Jr.",SJ0741,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Stevens, John, Jr.",SJ0741,NA,158
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Stevens, John, Jr.",SJ0741,NA,81
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Stevens, John, Jr.",SJ0741,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Stevens, John, Jr.",SJ0741,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Stevens, John, Jr.",SJ0741,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Stevens, John, Jr.",SJ0741,NA,19
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Stevens, John, Jr.",SJ0741,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Stewart, Charles",SC0069,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Stewart, Charles",SC0069,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Stewart, Charles",SC0069,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Stewart, Charles",SC0069,NA,1
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Stewart, Charles",SC0069,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Stewart, Charles",SC0069,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Stewart, Charles",SC0069,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Stewart, Charles",SC0069,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Stewart, Charles",SC0069,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Stewart, Charles",SC0069,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Stewart, Charles",SC0069,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Stewart, Charles",SC0069,NA,63
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Stiles, Henry",SH0158,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Stiles, Henry",SH0158,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Stiles, Henry",SH0158,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Stiles, Henry",SH0158,NA,69
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Stiles, Henry",SH0158,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Stiles, Henry",SH0158,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Stiles, Henry",SH0158,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Stiles, Henry",SH0158,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Stiles, Henry",SH0158,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Stiles, Henry",SH0158,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Stiles, Henry",SH0158,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Stiles, Henry",SH0158,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Thompson, Benjamin",TB0034,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Thompson, Benjamin",TB0034,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Thompson, Benjamin",TB0034,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Thompson, Benjamin",TB0034,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Thompson, Benjamin",TB0034,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Thompson, Benjamin",TB0034,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Thompson, Benjamin",TB0034,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Thompson, Benjamin",TB0034,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Thompson, Benjamin",TB0034,NA,42
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Thompson, Benjamin",TB0034,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Thompson, Benjamin",TB0034,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Thompson, Benjamin",TB0034,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Thompson, Mark",TM0030,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Thompson, Mark",TM0030,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Thompson, Mark",TM0030,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Thompson, Mark",TM0030,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Thompson, Mark",TM0030,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Thompson, Mark",TM0030,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Thompson, Mark",TM0030,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Thompson, Mark",TM0030,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Thompson, Mark",TM0030,NA,1
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Thompson, Mark",TM0030,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Thompson, Mark",TM0030,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Thompson, Mark",TM0030,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Tuthill, Samuel",TS0106,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Tuthill, Samuel",TS0106,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Tuthill, Samuel",TS0106,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Tuthill, Samuel",TS0106,NA,6
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Tuthill, Samuel",TS0106,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Tuthill, Samuel",TS0106,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Tuthill, Samuel",TS0106,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Tuthill, Samuel",TS0106,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Tuthill, Samuel",TS0106,NA,3
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Tuthill, Samuel",TS0106,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Tuthill, Samuel",TS0106,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Tuthill, Samuel",TS0106,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Van Cleve, Benjamin",VB0016,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Van Cleve, Benjamin",VB0016,NA,7
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Van Cleve, Benjamin",VB0016,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Van Cleve, Benjamin",VB0016,NA,206
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Van Cleve, Benjamin",VB0016,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Van Cleve, Benjamin",VB0016,NA,754
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Van Cleve, Benjamin",VB0016,NA,160
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Van Cleve, Benjamin",VB0016,NA,159
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Van Cleve, Benjamin",VB0016,NA,475
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Van Cleve, Benjamin",VB0016,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Van Cleve, Benjamin",VB0016,NA,19
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Van Cleve, Benjamin",VB0016,NA,203
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Winds, William",WW0298,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Winds, William",WW0298,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Winds, William",WW0298,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Winds, William",WW0298,NA,223
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Winds, William",WW0298,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Winds, William",WW0298,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Winds, William",WW0298,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Winds, William",WW0298,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Winds, William",WW0298,NA,4
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Winds, William",WW0298,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Winds, William",WW0298,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Winds, William",WW0298,NA,3
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Witherspoon, John",WJ0338,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Witherspoon, John",WJ0338,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Witherspoon, John",WJ0338,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Witherspoon, John",WJ0338,NA,105
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Witherspoon, John",WJ0338,NA,3
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Witherspoon, John",WJ0338,NA,635
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Witherspoon, John",WJ0338,NA,503
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Witherspoon, John",WJ0338,NA,47
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Witherspoon, John",WJ0338,NA,10
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Witherspoon, John",WJ0338,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Witherspoon, John",WJ0338,NA,189
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Witherspoon, John",WJ0338,NA,219
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Bergen,njs_bergen,34003,"Woodhull, William, Jr.",WW0142,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Burlington,njs_burlington,34005,"Woodhull, William, Jr.",WW0142,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Cape May,njs_capemay,34009,"Woodhull, William, Jr.",WW0142,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Essex,njs_essex,34013,"Woodhull, William, Jr.",WW0142,NA,6
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Gloucester,njs_gloucester,34015,"Woodhull, William, Jr.",WW0142,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Hunterdon,njs_hunterdon,34019,"Woodhull, William, Jr.",WW0142,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Middlesex,njs_middlesex,34023,"Woodhull, William, Jr.",WW0142,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Monmouth,njs_monmouth,34025,"Woodhull, William, Jr.",WW0142,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Morris,njs_morris,34027,"Woodhull, William, Jr.",WW0142,NA,9
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Salem,njs_salem,34033,"Woodhull, William, Jr.",WW0142,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Somerset,njs_somerset,34035,"Woodhull, William, Jr.",WW0142,NA,0
+meae.congressional.congress01.nj.county,congressional,1,NJ,county,state,nj.uscongress.1789,Sussex,njs_sussex,34037,"Woodhull, William, Jr.",WW0142,NA,0

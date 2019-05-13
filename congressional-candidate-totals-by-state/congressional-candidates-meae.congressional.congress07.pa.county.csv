@@ -1,0 +1,28 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress07.pa.county,pa.uscongress1.1800,William Jones,JW0065,1,Democratic-Republican,1698,3382,0.502,TRUE,FALSE
+meae.congressional.congress07.pa.county,pa.uscongress1.1800,Francis Gurney,GF0011,1,Federalist,1684,3382,0.498,FALSE,FALSE
+meae.congressional.congress07.pa.county,pa.uscongress10.1800,Henry Woods,WH0059,10,Federalist,2096,4102,0.511,TRUE,FALSE
+meae.congressional.congress07.pa.county,pa.uscongress10.1800,David Bard,BD0120,10,Democratic-Republican,2006,4102,0.489,FALSE,FALSE
+meae.congressional.congress07.pa.county,pa.uscongress11.1800,John Smilie,SJ0970,11,Democratic-Republican,2182,2182,1,TRUE,TRUE
+meae.congressional.congress07.pa.county,pa.uscongress12.1800,Albert Gallatin,GA0061,12,Democratic-Republican,4273,5863,0.729,TRUE,FALSE
+meae.congressional.congress07.pa.county,pa.uscongress12.1800,Presley Neville,NP0010,12,Federalist,1590,5863,0.271,FALSE,FALSE
+meae.congressional.congress07.pa.county,pa.uscongress2.1800,Michael Leib,LM0058,2,Democratic-Republican,2744,3527,0.778,TRUE,FALSE
+meae.congressional.congress07.pa.county,pa.uscongress2.1800,John Lardner,LJ0328,2,Federalist,783,3527,0.222,FALSE,FALSE
+meae.congressional.congress07.pa.county,pa.uscongress3.1800,John Hemphill,HJ0774,3,Federalist,2732,5121,0.533,TRUE,FALSE
+meae.congressional.congress07.pa.county,pa.uscongress3.1800,Joseph Shallcross,SJ1016,3,Democratic-Republican,2389,5121,0.467,FALSE,FALSE
+meae.congressional.congress07.pa.county,pa.uscongress4.1800,Peter Muhlenberg,MP0089,4,Democratic-Republican,6684,19420,0.344,TRUE,FALSE
+meae.congressional.congress07.pa.county,pa.uscongress4.1800,Robert Brown,BR0106,4,Democratic-Republican,6682,19420,0.344,TRUE,FALSE
+meae.congressional.congress07.pa.county,pa.uscongress4.1800,John Arndt,AJ0261,4,Federalist,3028,19420,0.156,FALSE,FALSE
+meae.congressional.congress07.pa.county,pa.uscongress4.1800,Cadwallader Evans,EC0027,4,Federalist,3026,19420,0.156,FALSE,FALSE
+meae.congressional.congress07.pa.county,pa.uscongress5.1800,Joseph Hiester,HJ0793,5,Democratic-Republican,3018,3632,0.831,TRUE,FALSE
+meae.congressional.congress07.pa.county,pa.uscongress5.1800,Rosewell Wells,WR0143,5,Federalist,611,3632,0.168,FALSE,FALSE
+meae.congressional.congress07.pa.county,pa.uscongress5.1800,Lawrence Myers,ML0027,5,NA,2,3632,0.001,FALSE,FALSE
+meae.congressional.congress07.pa.county,pa.uscongress5.1800,Daniel Clymer,CD0166,5,NA,1,3632,0,FALSE,FALSE
+meae.congressional.congress07.pa.county,pa.uscongress6.1800,John Andre Hanna,HJ0754,6,Democratic-Republican,4295,5755,0.746,TRUE,FALSE
+meae.congressional.congress07.pa.county,pa.uscongress6.1800,Samuel Maclay,MS0148,6,Federalist,1460,5755,0.254,FALSE,FALSE
+meae.congressional.congress07.pa.county,pa.uscongress7.1800,Thomas Boude,BT0242,7,Federalist,2274,4201,0.541,TRUE,FALSE
+meae.congressional.congress07.pa.county,pa.uscongress7.1800,John Whitehill,WJ0661,7,Democratic-Republican,1927,4201,0.459,FALSE,FALSE
+meae.congressional.congress07.pa.county,pa.uscongress8.1800,John Stewart,SJ0949,8,Democratic-Republican,2263,4129,0.548,TRUE,FALSE
+meae.congressional.congress07.pa.county,pa.uscongress8.1800,John Edie,EJ0174,8,Federalist,1866,4129,0.452,FALSE,FALSE
+meae.congressional.congress07.pa.county,pa.uscongress9.1800,Andrew Gregg,GA0060,9,Democratic-Republican,2383,3284,0.726,TRUE,FALSE
+meae.congressional.congress07.pa.county,pa.uscongress9.1800,David Mitchell,MD0181,9,Federalist,901,3284,0.274,FALSE,FALSE

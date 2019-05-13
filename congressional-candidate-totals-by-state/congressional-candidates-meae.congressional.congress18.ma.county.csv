@@ -1,0 +1,62 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress18.ma.county,ma.uscongress.suffolk.1822,Daniel Webster,WD0028,1,Federalist,2638,4199,0.628,TRUE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.suffolk.1822,Jesse Putnam,PJ0196,1,Democratic-Republican,1557,4199,0.371,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.suffolk.1822,scattering,NA,1,NA,4,4199,0.001,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.essexsouth.ballot2.1823,Benjamin W. Crowninshield,CB0039,2,Adams/Clay,1312,2537,0.517,TRUE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.essexsouth.ballot2.1823,Benjamin Merrill,MB0008,2,Federalist,693,2537,0.273,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.essexsouth.ballot2.1823,Willard Peele,PW0074,2,Federalist,525,2537,0.207,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.essexsouth.ballot2.1823,scattering,NA,2,NA,7,2537,0.003,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.essexnorth.1822,Jeremiah Nelson,NJ0045,3,Adams/Clay,667,915,0.729,TRUE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.essexnorth.1822,Amos Spalding,SA0077,3,Democratic-Republican,211,915,0.231,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.essexnorth.1822,scattering,NA,3,NA,37,915,0.04,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.middlesex.1822,Timothy Fuller,FT0028,4,Adams/Clay,1053,1180,0.892,TRUE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.middlesex.1822,Thomas Harris,HT0071,4,Democratic-Republican,82,1180,0.069,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.middlesex.1822,Levi Thaxter,TL0017,4,NA,5,1180,0.004,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.middlesex.1822,John Wade,WJ0393,4,NA,5,1180,0.004,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.middlesex.1822,scattering,NA,4,NA,35,1180,0.03,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.worcestersouth.ballot2.1823,Jonas Sibley,SJ0437,5,Adams/Clay,1657,3244,0.511,TRUE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.worcestersouth.ballot2.1823,Benjamin Adams,AB0010,5,Federalist,1236,3244,0.381,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.worcestersouth.ballot2.1823,Seth Hastings,HS0073,5,NA,233,3244,0.072,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.worcestersouth.ballot2.1823,Levi Lincoln,LL0044,5,NA,8,3244,0.002,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.worcestersouth.ballot2.1823,Edward D. Bangs,BE0136,5,NA,6,3244,0.002,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.worcestersouth.ballot2.1823,Abraham Lincoln,LA0041,5,NA,1,3244,0,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.worcestersouth.ballot2.1823,John Davis,DJ0190,5,NA,1,3244,0,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.worcestersouth.ballot2.1823,Sumner Bastow,BS0117,5,NA,1,3244,0,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.worcestersouth.ballot2.1823,Bezaleel Taft,TB0029,5,NA,1,3244,0,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.worcestersouth.ballot2.1823,scattering,NA,5,NA,100,3244,0.031,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.worcesternorth.ballot3.1823,John Locke,LJ0184,6,Adams/Clay,1845,3591,0.514,TRUE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.worcesternorth.ballot3.1823,Samuel Dana,DS0058,6,Democratic-Republican,1591,3591,0.443,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.worcesternorth.ballot3.1823,John Shepley,SJ0444,6,Federalist,45,3591,0.013,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.worcesternorth.ballot3.1823,Joseph G. Kendall,KJ0074,6,Federalist,9,3591,0.003,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.worcesternorth.ballot3.1823,Jonas Kendall,KJ0066,6,Federalist,5,3591,0.001,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.worcesternorth.ballot3.1823,Joel Crosby,CJ0909,6,NA,NA,3591,NA,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.worcesternorth.ballot3.1823,scattering,NA,6,NA,96,3591,0.027,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.franklin.1822,Samuel C. Allen,AS0024,7,Adams/Clay,958,1052,0.911,TRUE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.franklin.1822,Solomon Smead,SS0117,7,NA,1,1052,0.001,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.franklin.1822,Elijah Alvord,AE0031,7,NA,1,1052,0.001,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.franklin.1822,Varney Pierce,PV0005,7,NA,1,1052,0.001,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.franklin.1822,"George Grennell, Jr.",GG0026,7,NA,1,1052,0.001,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.franklin.1822,scattering,NA,7,NA,90,1052,0.086,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.hampden.1822,Samuel L. Lathrop,LS0046,8,Adams/Clay,907,1155,0.785,TRUE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.hampden.1822,Thomas Shepard,ST0058,8,Democratic-Republican,231,1155,0.2,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.hampden.1822,Lewis Strong,SL0007,8,NA,8,1155,0.007,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.hampden.1822,Jonathan H. Lyman,LJ0193,8,NA,4,1155,0.003,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.hampden.1822,scattering,NA,8,NA,5,1155,0.004,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.berkshire.1822,Henry W. Dwight,DH0008,9,Adams/Clay,1887,3207,0.588,TRUE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.berkshire.1822,William C. Jarvis,JW0029,9,Democratic-Republican,1150,3207,0.359,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.berkshire.1822,scattering,NA,9,NA,170,3207,0.053,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.norfolk.1822,William Eustis,EW0031,10,Democratic-Republican,1376,1629,0.845,TRUE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.norfolk.1822,Robert Sullivan,SR0073,10,Federalist,93,1629,0.057,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.norfolk.1822,Minott Thayer,TM0016,10,Federalist,49,1629,0.03,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.norfolk.1822,James Richardson,RJ0147,10,NA,23,1629,0.014,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.norfolk.1822,scattering,NA,10,NA,88,1629,0.054,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.plymouth.1822,Aaron Hobart,HA0079,11,Adams/Clay,1206,2077,0.581,TRUE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.plymouth.1822,Cushing Otis,OC0009,11,Federalist,869,2077,0.418,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.plymouth.1822,Charles Turner,TC0016,11,NA,1,2077,0,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.plymouth.1822,scattering,NA,11,NA,1,2077,0,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.bristol.1822,Francis Bayliss,BF0013,12,Jacksonian,1297,1968,0.659,TRUE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.bristol.1822,Hercules Cushman,CH0088,12,Democratic-Republican,661,1968,0.336,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.bristol.1822,scattering,NA,12,NA,10,1968,0.005,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.barnstable.1822,John Read,RJ0539,13,Adams/Clay,857,1604,0.534,TRUE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.barnstable.1822,"Walter Folger, Jr.",FW0026,13,Democratic-Republican,746,1604,0.465,FALSE,FALSE
+meae.congressional.congress18.ma.county,ma.uscongress.barnstable.1822,scattering,NA,13,NA,1,1604,0.001,FALSE,FALSE

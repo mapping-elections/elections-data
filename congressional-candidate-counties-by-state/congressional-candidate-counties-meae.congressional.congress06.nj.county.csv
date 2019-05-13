@@ -1,0 +1,35 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.eastern.1798,Bergen,njs_bergen,34003,"Condit, John",CJ0382,Democratic-Republican,569
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.eastern.1798,Essex,njs_essex,34013,"Condit, John",CJ0382,Democratic-Republican,2372
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.eastern.1798,Middlesex,njs_middlesex,34023,"Condit, John",CJ0382,Democratic-Republican,437
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.eastern.1798,Bergen,njs_bergen,34003,"Schureman, James",SJ0522,Federalist,926
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.eastern.1798,Essex,njs_essex,34013,"Schureman, James",SJ0522,Federalist,907
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.eastern.1798,Middlesex,njs_middlesex,34023,"Schureman, James",SJ0522,Federalist,1221
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.middle.1798,Burlington,njs_burlington,34005,"Henderson, Thomas",HT0100,Democratic-Republican,279
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.middle.1798,Monmouth,njs_monmouth,34025,"Henderson, Thomas",HT0100,Democratic-Republican,100
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.middle.1798,Burlington,njs_burlington,34005,"Imlay, William Eugene",IW0000,Democratic-Republican,0
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.middle.1798,Monmouth,njs_monmouth,34025,"Imlay, William Eugene",IW0000,Democratic-Republican,27
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.middle.1798,Burlington,njs_burlington,34005,"Imlay, James H.",IJ0057,Federalist,1397
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.middle.1798,Monmouth,njs_monmouth,34025,"Imlay, James H.",IJ0057,Federalist,217
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.northern.1798,Morris,njs_morris,34027,"Kitchell, Aaron",KA0023,Democratic-Republican,1754
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.northern.1798,Sussex,njs_sussex,34037,"Kitchell, Aaron",KA0023,Democratic-Republican,1645
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.northern.1798,Morris,njs_morris,34027,"Thompson, Mark",TM0030,Federalist,302
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.northern.1798,Sussex,njs_sussex,34037,"Thompson, Mark",TM0030,Federalist,1075
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.southern.1798,Cape May,njs_capemay,34009,"Elmer, Jonathan",EJ0094,Democratic-Republican,0
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.southern.1798,Cumberland,njs_cumberland,34011,"Elmer, Jonathan",EJ0094,Democratic-Republican,404
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.southern.1798,Gloucester,njs_gloucester,34015,"Elmer, Jonathan",EJ0094,Democratic-Republican,330
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.southern.1798,Salem,njs_salem,34033,"Elmer, Jonathan",EJ0094,Democratic-Republican,532
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.southern.1798,Cape May,njs_capemay,34009,"Davenport, Franklin",DF0014,Federalist,0
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.southern.1798,Cumberland,njs_cumberland,34011,"Davenport, Franklin",DF0014,Federalist,188
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.southern.1798,Gloucester,njs_gloucester,34015,"Davenport, Franklin",DF0014,Federalist,664
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.southern.1798,Salem,njs_salem,34033,"Davenport, Franklin",DF0014,Federalist,792
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.southern.1798,Cape May,njs_capemay,34009,"Sinnickson, Thomas",ST0147,Federalist,0
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.southern.1798,Cumberland,njs_cumberland,34011,"Sinnickson, Thomas",ST0147,Federalist,1
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.southern.1798,Gloucester,njs_gloucester,34015,"Sinnickson, Thomas",ST0147,Federalist,1
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.southern.1798,Salem,njs_salem,34033,"Sinnickson, Thomas",ST0147,Federalist,0
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.western.1798,Hunterdon,njs_hunterdon,34019,"Linn, James",LJ0151,Democratic-Republican,541
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.western.1798,Somerset,njs_somerset,34035,"Linn, James",LJ0151,Democratic-Republican,955
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.western.1798,Hunterdon,njs_hunterdon,34019,"Mercer, Archibald",MA0098,Federalist,510
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.western.1798,Somerset,njs_somerset,34035,"Mercer, Archibald",MA0098,Federalist,0
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.western.1798,Hunterdon,njs_hunterdon,34019,"Stewart, Samuel R.",SS0155,Federalist,891
+meae.congressional.congress06.nj.county,congressional,6,NJ,county,state,nj.uscongress.western.1798,Somerset,njs_somerset,34035,"Stewart, Samuel R.",SS0155,Federalist,247

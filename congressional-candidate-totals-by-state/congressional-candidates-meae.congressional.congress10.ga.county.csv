@@ -1,0 +1,12 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress10.ga.county,ga.uscongress.1806,Dennis Smelt,SD0007,At-large,Democratic-Republican,9758,53208,0.183,TRUE,FALSE
+meae.congressional.congress10.ga.county,ga.uscongress.1806,George M. Troup,TG0014,At-large,Democratic-Republican,9112,53208,0.171,TRUE,FALSE
+meae.congressional.congress10.ga.county,ga.uscongress.1806,William W. Bibb,BW0000,At-large,Democratic-Republican,8274,53208,0.156,TRUE,FALSE
+meae.congressional.congress10.ga.county,ga.uscongress.1806,Howell Cobb,CH0029,At-large,Democratic-Republican,6985,53208,0.131,TRUE,FALSE
+meae.congressional.congress10.ga.county,ga.uscongress.1806,Elijah Clarke,CE0024,At-large,Democratic-Republican,6491,53208,0.122,FALSE,FALSE
+meae.congressional.congress10.ga.county,ga.uscongress.1806,William Barnett,BW0037,At-large,Democratic-Republican,3721,53208,0.07,FALSE,FALSE
+meae.congressional.congress10.ga.county,ga.uscongress.1806,Thomas Carr,CT0026,At-large,NA,3187,53208,0.06,FALSE,FALSE
+meae.congressional.congress10.ga.county,ga.uscongress.1806,James Simms,SJ0091,At-large,NA,3124,53208,0.059,FALSE,FALSE
+meae.congressional.congress10.ga.county,ga.uscongress.1806,Thomas Spalding,ST0028,At-large,Democratic-Republican,1669,53208,0.031,FALSE,FALSE
+meae.congressional.congress10.ga.county,ga.uscongress.1806,Obediah Jones,JO0000,At-large,NA,534,53208,0.01,FALSE,FALSE
+meae.congressional.congress10.ga.county,ga.uscongress.1806,Buckner Harris,HB0020,At-large,NA,353,53208,0.007,FALSE,FALSE

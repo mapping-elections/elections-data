@@ -1,0 +1,6 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress02.sc.county,sc.uscongress.district1.1790,William Smith,SW0299,1,Federalist,NA,0,1,TRUE,TRUE
+meae.congressional.congress02.sc.county,sc.uscongress.district2.1790,Robert Barnwell,BR0143,2,Federalist,NA,0,1,TRUE,TRUE
+meae.congressional.congress02.sc.county,sc.uscongress.district3.1790,Daniel Huger,HD0170,3,Federalist,NA,0,1,TRUE,TRUE
+meae.congressional.congress02.sc.county,sc.uscongress.district4.1790,Thomas Sumter,ST0266,4,Anti-Federalist,NA,0,1,TRUE,TRUE
+meae.congressional.congress02.sc.county,sc.uscongress.district5.1790,Thomas Tudor Tucker,TT0007,5,Anti-Federalist,NA,0,1,TRUE,TRUE

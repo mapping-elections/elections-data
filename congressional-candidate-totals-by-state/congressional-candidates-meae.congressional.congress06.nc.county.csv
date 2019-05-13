@@ -1,0 +1,26 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress06.nc.county,nc.uscongress1.1798,Joseph Dickson,DJ0351,1,Federalist,2098,3806,0.551,TRUE,FALSE
+meae.congressional.congress06.nc.county,nc.uscongress1.1798,James Holland,HJ0602,1,Democratic-Republican,1705,3806,0.448,FALSE,FALSE
+meae.congressional.congress06.nc.county,nc.uscongress1.1798,Charles MacDowell,MC0076,1,NA,2,3806,0.001,FALSE,FALSE
+meae.congressional.congress06.nc.county,nc.uscongress1.1798,Arthur Graham,GA0011,1,NA,1,3806,0,FALSE,FALSE
+meae.congressional.congress06.nc.county,nc.uscongress10.1798,Richard D. Spaight,SR0164,10,Federalist,1047,1574,0.665,TRUE,FALSE
+meae.congressional.congress06.nc.county,nc.uscongress10.1798,George E. Badger,BG0091,10,Federalist,527,1574,0.335,FALSE,FALSE
+meae.congressional.congress06.nc.county,nc.uscongress2.1798,Archibald Henderson,HA0107,2,Federalist,3167,3751,0.844,TRUE,FALSE
+meae.congressional.congress06.nc.county,nc.uscongress2.1798,Basil Gaither,GB0036,2,Federalist,356,3751,0.095,FALSE,FALSE
+meae.congressional.congress06.nc.county,nc.uscongress2.1798,Matthew Locke,LM0052,2,Democratic-Republican,228,3751,0.061,FALSE,FALSE
+meae.congressional.congress06.nc.county,nc.uscongress3.1798,Robert Williams,WR0105,3,Democratic-Republican,2711,3885,0.698,TRUE,FALSE
+meae.congressional.congress06.nc.county,nc.uscongress3.1798,James Martin,MJ0541,3,Federalist,1174,3885,0.302,FALSE,FALSE
+meae.congressional.congress06.nc.county,nc.uscongress4.1798,Richard Stanford,SR0175,4,Democratic-Republican,2005,3680,0.545,TRUE,FALSE
+meae.congressional.congress06.nc.county,nc.uscongress4.1798,Samuel Benton,BS0217,4,Federalist,1675,3680,0.455,FALSE,FALSE
+meae.congressional.congress06.nc.county,nc.uscongress5.1798,Nathaniel Macon,MN0068,5,Democratic-Republican,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress06.nc.county,nc.uscongress6.1798,William H. Hill,HW0233,6,Federalist,1372,2741,0.501,TRUE,FALSE
+meae.congressional.congress06.nc.county,nc.uscongress6.1798,James Gillespie,GJ0328,6,Democratic-Republican,1091,2741,0.398,FALSE,FALSE
+meae.congressional.congress06.nc.county,nc.uscongress6.1798,Alexander D. Moore,MA0151,6,Federalist,278,2741,0.101,FALSE,FALSE
+meae.congressional.congress06.nc.county,nc.uscongress7.1798,William B. Grove,GW0091,7,Federalist,2500,2500,1,TRUE,TRUE
+meae.congressional.congress06.nc.county,nc.uscongress8.1798,David Stone,SD0075,8,Federalist,1645,4110,0.4,TRUE,FALSE
+meae.congressional.congress06.nc.county,nc.uscongress8.1798,Charles Johnson,JC0019,8,Federalist,1270,4110,0.309,FALSE,FALSE
+meae.congressional.congress06.nc.county,nc.uscongress8.1798,Dempsey Burgess,BD0099,8,Democratic-Republican,1195,4110,0.291,FALSE,FALSE
+meae.congressional.congress06.nc.county,nc.uscongress9.1798,Willis Alston,AW0047,9,Federalist,1553,4149,0.374,TRUE,FALSE
+meae.congressional.congress06.nc.county,nc.uscongress9.1798,Thomas Blount,BT0194,9,Democratic-Republican,1207,4149,0.291,FALSE,FALSE
+meae.congressional.congress06.nc.county,nc.uscongress9.1798,William Kennedy,KW0059,9,Federalist,1019,4149,0.246,FALSE,FALSE
+meae.congressional.congress06.nc.county,nc.uscongress9.1798,John Binford,BJ0791,9,Federalist,370,4149,0.089,FALSE,FALSE

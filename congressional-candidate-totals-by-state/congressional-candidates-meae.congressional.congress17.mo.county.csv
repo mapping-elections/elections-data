@@ -1,0 +1,3 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress17.mo.county,mo.uscongress.1820,John Scott,SJ0448,At-large,Democratic-Republican,5574,5574,1,TRUE,FALSE
+meae.congressional.congress17.mo.county,mo.uscongress.1820,James Caldwell,CJ0045,At-large,Democratic-Republican,NA,5574,NA,FALSE,FALSE

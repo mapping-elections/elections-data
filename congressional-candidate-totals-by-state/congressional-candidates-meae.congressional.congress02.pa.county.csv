@@ -1,0 +1,19 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress02.pa.county,pa.uscongress1.1791,Thomas Fitzsimons,FT0061,1,Federalist,1291,1517,0.851,TRUE,FALSE
+meae.congressional.congress02.pa.county,pa.uscongress1.1791,Charles Thompson,TC0054,1,Democratic-Republican,226,1517,0.149,FALSE,FALSE
+meae.congressional.congress02.pa.county,pa.uscongress2.1791,Frederick A. Muhlenberg,MF0016,2,Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress02.pa.county,pa.uscongress2.1791,Amos Gregg,GA0063,2,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.pa.county,pa.uscongress2.1791,Jones,NA,2,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.pa.county,pa.uscongress3.1791,Israel Jacobs,JI0006,3,Federalist,1878,3463,0.542,TRUE,FALSE
+meae.congressional.congress02.pa.county,pa.uscongress3.1791,Peter Muhlenberg,MP0089,3,Democratic-Republican,1585,3463,0.458,FALSE,FALSE
+meae.congressional.congress02.pa.county,pa.uscongress4.1791,Daniel Hiester,ZZ0005,4,Federalist,NA,0,1,TRUE,TRUE
+meae.congressional.congress02.pa.county,pa.uscongress5.1791,John W. Kittera,KJ0172,5,Federalist,NA,0,1,TRUE,TRUE
+meae.congressional.congress02.pa.county,pa.uscongress6.1791,Andrew Gregg,GA0060,6,Democratic-Republican,3437,6709,0.512,TRUE,FALSE
+meae.congressional.congress02.pa.county,pa.uscongress6.1791,John Allison,AJ0252,6,Federalist,1229,6709,0.183,FALSE,FALSE
+meae.congressional.congress02.pa.county,pa.uscongress6.1791,James MacLean,MJ0807,6,Federalist,728,6709,0.109,FALSE,FALSE
+meae.congressional.congress02.pa.county,pa.uscongress6.1791,Thomas Johnston,JT0037,6,Federalist,692,6709,0.103,FALSE,FALSE
+meae.congressional.congress02.pa.county,pa.uscongress6.1791,William Montgomery,MW0284,6,Democratic-Republican,623,6709,0.093,FALSE,FALSE
+meae.congressional.congress02.pa.county,pa.uscongress7.1791,Thomas Hartley,HT0154,7,Federalist,2908,4088,0.711,TRUE,FALSE
+meae.congressional.congress02.pa.county,pa.uscongress7.1791,William Irvine,IW0016,7,Democratic-Republican,1180,4088,0.289,FALSE,FALSE
+meae.congressional.congress02.pa.county,pa.uscongress8.1791,William Findley,FW0062,8,Democratic-Republican,2899,4416,0.656,TRUE,FALSE
+meae.congressional.congress02.pa.county,pa.uscongress8.1791,John Woods,WJ0613,8,Federalist,1517,4416,0.344,FALSE,FALSE

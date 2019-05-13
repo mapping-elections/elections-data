@@ -1,0 +1,26 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress10.sc.county,sc.uscongress.beaufort.1806,William Butler,BW0365,2,Democratic-Republican,1704,2314,0.736,TRUE,FALSE
+meae.congressional.congress10.sc.county,sc.uscongress.beaufort.1806,Richard B. Screven,SR0204,2,Federalist,607,2314,0.262,FALSE,FALSE
+meae.congressional.congress10.sc.county,sc.uscongress.beaufort.1806,scattering,NA,2,NA,3,2314,0.001,FALSE,FALSE
+meae.congressional.congress10.sc.county,sc.uscongress.charleston.1806,Robert Marion,MR0181,1,Democratic-Republican,741,1333,0.556,TRUE,FALSE
+meae.congressional.congress10.sc.county,sc.uscongress.charleston.1806,William Loughton Smith,SW0299,1,Federalist,581,1333,0.436,FALSE,FALSE
+meae.congressional.congress10.sc.county,sc.uscongress.charleston.1806,James Lowndes,LJ0513,1,NA,8,1333,0.006,FALSE,FALSE
+meae.congressional.congress10.sc.county,sc.uscongress.charleston.1806,Charles Pinckney,PC0060,1,NA,1,1333,0.001,FALSE,FALSE
+meae.congressional.congress10.sc.county,sc.uscongress.charleston.1806,John Rutledge,RJ0621,1,NA,1,1333,0.001,FALSE,FALSE
+meae.congressional.congress10.sc.county,sc.uscongress.charleston.1806,Thomas Simmons,ST0269,1,NA,1,1333,0.001,FALSE,FALSE
+meae.congressional.congress10.sc.county,sc.uscongress.georgetown.1806,David R. Williams,WD0118,3,Democratic-Republican,1088,1111,0.979,TRUE,FALSE
+meae.congressional.congress10.sc.county,sc.uscongress.georgetown.1806,scattering,NA,3,NA,23,1111,0.021,FALSE,FALSE
+meae.congressional.congress10.sc.county,sc.uscongress.abbeville.1806,Levi Casey,CL0065,6,Democratic-Republican,1301,2625,0.496,TRUE,FALSE
+meae.congressional.congress10.sc.county,sc.uscongress.abbeville.1806,John A. Elmore,EJ0269,6,Federalist,654,2625,0.249,FALSE,FALSE
+meae.congressional.congress10.sc.county,sc.uscongress.abbeville.1806,Joseph C. Calhoun,CJ1013,6,Democratic-Republican,640,2625,0.244,FALSE,FALSE
+meae.congressional.congress10.sc.county,sc.uscongress.abbeville.1806,scattering,NA,6,NA,30,2625,0.011,FALSE,FALSE
+meae.congressional.congress10.sc.county,sc.uscongress.orangeburgh.1806,John Taylor,TJ0451,4,Democratic-Republican,957,1732,0.553,TRUE,FALSE
+meae.congressional.congress10.sc.county,sc.uscongress.orangeburgh.1806,Henry Dana Ward,WH0105,4,Federalist,520,1732,0.3,FALSE,FALSE
+meae.congressional.congress10.sc.county,sc.uscongress.orangeburgh.1806,Miles B. Pinckney,PM0021,4,Democratic-Republican,247,1732,0.143,FALSE,FALSE
+meae.congressional.congress10.sc.county,sc.uscongress.orangeburgh.1806,scattering,NA,4,NA,8,1732,0.005,FALSE,FALSE
+meae.congressional.congress10.sc.county,sc.uscongress.pendleton.1806,Lemuel James Alston,AL0009,8,Democratic-Republican,1088,2739,0.397,TRUE,FALSE
+meae.congressional.congress10.sc.county,sc.uscongress.pendleton.1806,William Hunter,HW0353,8,Democratic-Republican,830,2739,0.303,FALSE,FALSE
+meae.congressional.congress10.sc.county,sc.uscongress.pendleton.1806,Elias Earle,EE0042,8,Democratic-Republican,821,2739,0.3,FALSE,FALSE
+meae.congressional.congress10.sc.county,sc.uscongress.spartanburg.1806,Thomas Moore,MT0220,7,Democratic-Republican,2337,2337,1,TRUE,TRUE
+meae.congressional.congress10.sc.county,sc.uscongress.sumter.1806,Richard Winn,WR0158,5,Democratic-Republican,1709,2340,0.73,TRUE,FALSE
+meae.congressional.congress10.sc.county,sc.uscongress.sumter.1806,Anthony Butler,BA0052,5,Federalist,631,2340,0.27,FALSE,FALSE

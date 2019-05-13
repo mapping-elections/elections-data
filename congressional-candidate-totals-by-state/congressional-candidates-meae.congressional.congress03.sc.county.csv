@@ -1,0 +1,9 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress03.sc.county,sc.uscongress.district1.1793,William L. Smith,SW0299,1,Federalist,424,702,0.604,TRUE,FALSE
+meae.congressional.congress03.sc.county,sc.uscongress.district1.1793,Thomas Tucker,TT0123,1,NA,165,702,0.238,FALSE,FALSE
+meae.congressional.congress03.sc.county,sc.uscongress.district1.1793,Jacob Read,RJ0598,1,Federalist,113,702,0.161,FALSE,FALSE
+meae.congressional.congress03.sc.county,sc.uscongress.district2.1793,Alexander Gillon,GA0121,2,Anti-Federalist,NA,0,NA,TRUE,TRUE
+meae.congressional.congress03.sc.county,sc.uscongress.district3.1793,Lemuel Benton,BL0075,3,Anti-Federalist,NA,0,NA,TRUE,TRUE
+meae.congressional.congress03.sc.county,sc.uscongress.district4.1793,Richard Winn,WR0158,4,Anti-Federalist,NA,0,NA,TRUE,TRUE
+meae.congressional.congress03.sc.county,sc.uscongress.district5.1793,John Hunter,HJ1210,5,Anti-Federalist,NA,0,NA,TRUE,TRUE
+meae.congressional.congress03.sc.county,sc.uscongress.district6.1793,Andrew Pickens,PA0107,6,Anti-Federalist,NA,0,NA,TRUE,TRUE

@@ -1,0 +1,6 @@
+meae_id,county_ahcb,county_fips,districts,federalist_vote,federalist_percentage,antifederalist_vote,antifederalist_percentage,demrep_vote,demrep_percentage,chesapeake_vote,chesapeake_percentage,potomac_vote,potomac_percentage,repfac_vote,repfac_percentage,adamsclay_vote,adamsclay_percentage,jacksonian_vote,jacksonian_percentage,anticaucus_vote,anticaucus_percentage,caucus_vote,caucus_percentage,other_vote,other_percentage,county_source
+meae.congressional.congress07.ri.county,ris_bristol,44001,At-large,180,0.606,NA,NA,3,0.01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,114,0.384,county
+meae.congressional.congress07.ri.county,ris_kent,44003,At-large,328,0.444,NA,NA,407,0.551,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.004,county
+meae.congressional.congress07.ri.county,ris_newport,44005,At-large,367,0.305,NA,NA,819,0.681,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16,0.013,county
+meae.congressional.congress07.ri.county,ris_providence,44007,At-large,922,0.384,NA,NA,1476,0.615,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.001,county
+meae.congressional.congress07.ri.county,ris_washington,44009,At-large,228,0.18,NA,NA,1037,0.82,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county

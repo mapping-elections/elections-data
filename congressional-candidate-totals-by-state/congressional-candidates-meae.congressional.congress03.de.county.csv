@@ -1,0 +1,6 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress03.de.county,de.uscongress.1792,John Patten,PJ0032,At-large,Anti-Federalist,2273,5861,0.388,TRUE,FALSE
+meae.congressional.congress03.de.county,de.uscongress.1792,Henry Lattimer,LH0001,At-large,Federalist,2243,5861,0.383,FALSE,FALSE
+meae.congressional.congress03.de.county,de.uscongress.1792,Francis Many,MF0000,At-large,NA,685,5861,0.117,FALSE,FALSE
+meae.congressional.congress03.de.county,de.uscongress.1792,Edward Roche,RE0089,At-large,NA,465,5861,0.079,FALSE,FALSE
+meae.congressional.congress03.de.county,de.uscongress.1792,Andrew Barrett,BA0023,At-large,NA,195,5861,0.033,FALSE,FALSE

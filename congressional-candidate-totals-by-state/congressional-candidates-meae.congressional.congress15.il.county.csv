@@ -1,0 +1,3 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress15.il.county,il.uscongress.1818,John MacLean,MJ0101,At-large,Democratic-Republican,1996,3978,0.502,TRUE,FALSE
+meae.congressional.congress15.il.county,il.uscongress.1818,Daniel P. Cook,CD0015,At-large,Democratic-Republican,1982,3978,0.498,FALSE,FALSE

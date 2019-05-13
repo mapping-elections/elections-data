@@ -1,0 +1,21 @@
+meae_id,county_ahcb,county_fips,districts,federalist_vote,federalist_percentage,antifederalist_vote,antifederalist_percentage,demrep_vote,demrep_percentage,chesapeake_vote,chesapeake_percentage,potomac_vote,potomac_percentage,repfac_vote,repfac_percentage,adamsclay_vote,adamsclay_percentage,jacksonian_vote,jacksonian_percentage,anticaucus_vote,anticaucus_percentage,caucus_vote,caucus_percentage,other_vote,other_percentage,county_source
+meae.congressional.congress10.md.county,mds_calvert,24009,1,368,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress10.md.county,mds_charles,24017,1,816,0.998,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.002,county
+meae.congressional.congress10.md.county,mds_stmarys,24037,1,529,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress10.md.county,mds_annearundel,24003,2,1082,0.58,NA,NA,734,0.394,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,49,0.026,county
+meae.congressional.congress10.md.county,mds_princegeorges,24033,2,817,0.571,NA,NA,615,0.429,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress10.md.county,mds_montgomery,24031,3,980,0.572,NA,NA,732,0.428,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress10.md.county,mds_allegany,24001,4,NA,NA,NA,NA,492,0.992,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.008,county
+meae.congressional.congress10.md.county,mds_washington,24043,4,NA,NA,NA,NA,1992,0.99,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,21,0.01,county
+meae.congressional.congress10.md.county,city_baltimore,NA,5,245,0.039,NA,NA,4935,0.78,NA,NA,NA,NA,1143,0.181,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress10.md.county,mds_cecil,24015,6,NA,NA,NA,NA,901,0.78,NA,NA,NA,NA,254,0.22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress10.md.county,mds_harford,24025,6,NA,NA,NA,NA,833,0.446,NA,NA,NA,NA,1035,0.554,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress10.md.county,mds_kent,24029,6,NA,NA,NA,NA,151,0.207,NA,NA,NA,NA,540,0.741,NA,NA,NA,NA,NA,NA,NA,NA,38,0.052,county
+meae.congressional.congress10.md.county,mds_caroline,24011,7,NA,NA,NA,NA,881,0.869,NA,NA,NA,NA,133,0.131,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress10.md.county,mds_queenannes,24035,7,NA,NA,NA,NA,597,0.592,NA,NA,NA,NA,412,0.408,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress10.md.county,mds_talbot,24041,7,NA,NA,NA,NA,1136,0.947,NA,NA,NA,NA,62,0.052,NA,NA,NA,NA,NA,NA,NA,NA,2,0.002,county
+meae.congressional.congress10.md.county,mds_dorchester,24019,8,1680,0.965,NA,NA,NA,NA,NA,NA,NA,NA,60,0.034,NA,NA,NA,NA,NA,NA,NA,NA,1,0.001,county
+meae.congressional.congress10.md.county,mds_somerset,24039,8,914,0.76,NA,NA,NA,NA,NA,NA,NA,NA,284,0.236,NA,NA,NA,NA,NA,NA,NA,NA,5,0.004,county
+meae.congressional.congress10.md.county,mds_worcester,24047,8,649,0.366,NA,NA,NA,NA,NA,NA,NA,NA,1122,0.634,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress10.md.county,mds_frederick,24021,"3, 4",955,0.271,NA,NA,2442,0.694,NA,NA,NA,NA,122,0.035,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress10.md.county,mds_baltimore,24005,5,108,0.019,NA,NA,4788,0.823,NA,NA,NA,NA,920,0.158,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county

@@ -1,0 +1,7 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress02.vt.county,vt.uscongress.eastern.1791,Nathaniel Niles,NN0014,2,Anti-Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress02.vt.county,vt.uscongress.eastern.1791,Stephen Jacob,JS0060,2,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.vt.county,vt.uscongress.eastern.1791,Daniel Buck,BD0212,2,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress02.vt.county,vt.uscongress.western.secondballot.1791,Israel Smith,SI0092,1,Anti-Federalist,2588,3785,0.684,TRUE,FALSE
+meae.congressional.congress02.vt.county,vt.uscongress.western.secondballot.1791,Matthew Lyon,LM0053,1,Anti-Federalist,1112,3785,0.294,FALSE,FALSE
+meae.congressional.congress02.vt.county,vt.uscongress.western.secondballot.1791,Isaac Tichenor,TI0032,1,Federalist,85,3785,0.022,FALSE,FALSE

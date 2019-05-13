@@ -1,0 +1,18 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress12.sc.county,sc.uscongress.charleston.1810,Langdon Cheves,CL0067,1,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress12.sc.county,sc.uscongress.charleston.1810,scattering,NA,1,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress12.sc.county,sc.uscongress.edgefield.1810,William Butler,BW0365,2,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress12.sc.county,sc.uscongress.edgefield.1810,Edmund Bacon,BE0206,2,Democratic-Republican,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress12.sc.county,sc.uscongress.edgefield.1810,Francisco Annone,AF0009,2,Democratic-Republican,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress12.sc.county,sc.uscongress.georgetown.1810,David R. Williams,WD0118,3,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress12.sc.county,sc.uscongress.georgetown.1810,Moses Glover,GM0033,3,Federalist,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress12.sc.county,sc.uscongress.georgetown.1810,scattering,NA,3,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress12.sc.county,sc.uscongress.orangeburgh.1810,William Lowndes,LW0219,4,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress12.sc.county,sc.uscongress.orangeburgh.1810,John Taylor,TJ0451,4,Democratic-Republican,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress12.sc.county,sc.uscongress.sumter.1810,Richard Winn,WR0158,5,Democratic-Republican,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress12.sc.county,sc.uscongress.newberry.1810,John C. Calhoun,CJ1014,6,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress12.sc.county,sc.uscongress.newberry.1810,John A. Elmore,EJ0269,6,Democratic-Republican,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress12.sc.county,sc.uscongress.newberry.1810,Eastland,NA,6,Democratic-Republican,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress12.sc.county,sc.uscongress.chester.1810,Thomas Moore,MT0220,7,Democratic-Republican,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress12.sc.county,sc.uscongress.pendleton.1810,Elias Earle,EE0042,8,Democratic-Republican,1650,2843,0.58,TRUE,FALSE
+meae.congressional.congress12.sc.county,sc.uscongress.pendleton.1810,William Hunter,HW0353,8,Federalist,1193,2843,0.42,FALSE,FALSE

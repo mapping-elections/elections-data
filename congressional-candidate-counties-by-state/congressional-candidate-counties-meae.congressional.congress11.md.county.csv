@@ -1,0 +1,63 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress1.1808,Calvert,mds_calvert,24009,"Fenwick, James",FJ0074,Democratic-Republican,384
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress1.1808,Charles,mds_charles,24017,"Fenwick, James",FJ0074,Democratic-Republican,204
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress1.1808,Saint Mary's,mds_stmarys,24037,"Fenwick, James",FJ0074,Democratic-Republican,186
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress1.1808,Calvert,mds_calvert,24009,"Campbell, John",CJ0207,Federalist,399
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress1.1808,Charles,mds_charles,24017,"Campbell, John",CJ0207,Federalist,902
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress1.1808,Saint Mary's,mds_stmarys,24037,"Campbell, John",CJ0207,Federalist,527
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress1.1808,Calvert,mds_calvert,24009,"Plater, John R., Jr.",PJ0155,Federalist,0
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress1.1808,Charles,mds_charles,24017,"Plater, John R., Jr.",PJ0155,Federalist,3
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress1.1808,Saint Mary's,mds_stmarys,24037,"Plater, John R., Jr.",PJ0155,Federalist,0
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress1.1808,Calvert,mds_calvert,24009,"Mitchell, John",MJ0207,NA,0
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress1.1808,Charles,mds_charles,24017,"Mitchell, John",MJ0207,NA,1
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress1.1808,Saint Mary's,mds_stmarys,24037,"Mitchell, John",MJ0207,NA,0
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress1.1808,Calvert,mds_calvert,24009,"Stewart, Philip",SP0013,NA,0
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress1.1808,Charles,mds_charles,24017,"Stewart, Philip",SP0013,NA,1
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress1.1808,Saint Mary's,mds_stmarys,24037,"Stewart, Philip",SP0013,NA,0
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress2.1808,Anne Arundel,mds_annearundel,24003,"Van Horn, Archibald",VA0054,Democratic-Republican,1068
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress2.1808,Prince George's,mds_princegeorges,24033,"Van Horn, Archibald",VA0054,Democratic-Republican,702
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress2.1808,Anne Arundel,mds_annearundel,24003,"Callis, Henry A.",CH0056,Federalist,485
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress2.1808,Prince George's,mds_princegeorges,24033,"Callis, Henry A.",CH0056,Federalist,694
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress3.1808,Frederick,mds_frederick,24021,"Wampler, John",WJ0178,Democratic-Republican,902
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress3.1808,Montgomery,mds_montgomery,24031,"Wampler, John",WJ0178,Democratic-Republican,456
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress3.1808,Frederick,mds_frederick,24021,"Key, Philip Barton",KP0001,Federalist,1595
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress3.1808,Montgomery,mds_montgomery,24031,"Key, Philip Barton",KP0001,Federalist,1103
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress4.1808,Allegany,mds_allegany,24001,"Nelson, Roger",NR0020,Democratic-Republican,237
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress4.1808,Frederick,mds_frederick,24021,"Nelson, Roger",NR0020,Democratic-Republican,1365
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress4.1808,Washington,mds_washington,24043,"Nelson, Roger",NR0020,Democratic-Republican,1476
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress4.1808,Allegany,mds_allegany,24001,"Bruce, Upton",BU0002,Federalist,652
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress4.1808,Frederick,mds_frederick,24021,"Bruce, Upton",BU0002,Federalist,1121
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress4.1808,Washington,mds_washington,24043,"Bruce, Upton",BU0002,Federalist,1092
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress4.1808,Allegany,mds_allegany,24001,"Ratton, John",RJ0398,NA,3
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress4.1808,Frederick,mds_frederick,24021,"Ratton, John",RJ0398,NA,0
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress4.1808,Washington,mds_washington,24043,"Ratton, John",RJ0398,NA,0
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress5.1808,Baltimore,mds_baltimore,24005,"MacKim, Alexander",MA0045,Democratic-Republican,3103
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress5.1808,Baltimore,mds_baltimore,24005,"Moore, Nicholas",MN0021,Democratic-Republican,3305
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress5.1808,Baltimore,mds_baltimore,24005,"Winder, William H.",WW0073,Federalist,1004
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress6.1808,Cecil,mds_cecil,24015,"Archer, John",AJ0075,Democratic-Republican,16
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress6.1808,Harford,mds_harford,24025,"Archer, John",AJ0075,Democratic-Republican,759
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress6.1808,Kent,mds_kent,24029,"Archer, John",AJ0075,Democratic-Republican,6
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress6.1808,Cecil,mds_cecil,24015,"Montgomery, John",MJ0205,Democratic-Republican,968
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress6.1808,Harford,mds_harford,24025,"Montgomery, John",MJ0205,Democratic-Republican,996
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress6.1808,Kent,mds_kent,24029,"Montgomery, John",MJ0205,Democratic-Republican,605
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress6.1808,Cecil,mds_cecil,24015,"Spencer, William",SW0032,Federalist,935
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress6.1808,Harford,mds_harford,24025,"Spencer, William",SW0032,Federalist,164
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress6.1808,Kent,mds_kent,24029,"Spencer, William",SW0032,Federalist,543
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress7.1808,Caroline,mds_caroline,24011,"Brown, John",BJ0315,Democratic-Republican,593
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress7.1808,Queen Anne's,mds_queenannes,24035,"Brown, John",BJ0315,Democratic-Republican,983
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress7.1808,Talbot,mds_talbot,24041,"Brown, John",BJ0315,Democratic-Republican,605
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress7.1808,Caroline,mds_caroline,24011,"Goldsborough, Robert Henry",GR0028,Federalist,506
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress7.1808,Queen Anne's,mds_queenannes,24035,"Goldsborough, Robert Henry",GR0028,Federalist,361
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress7.1808,Talbot,mds_talbot,24041,"Goldsborough, Robert Henry",GR0028,Federalist,674
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress7.1808,Caroline,mds_caroline,24011,"Harwood, John",HJ0164,NA,0
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress7.1808,Queen Anne's,mds_queenannes,24035,"Harwood, John",HJ0164,NA,0
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress7.1808,Talbot,mds_talbot,24041,"Harwood, John",HJ0164,NA,1
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress7.1808,Caroline,mds_caroline,24011,"Lloyd, Edward, Jr.",LE0016,NA,0
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress7.1808,Queen Anne's,mds_queenannes,24035,"Lloyd, Edward, Jr.",LE0016,NA,0
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress7.1808,Talbot,mds_talbot,24041,"Lloyd, Edward, Jr.",LE0016,NA,1
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress8.1808,Dorchester,mds_dorchester,24019,"Nutter, Charles",NC0000,Democratic-Republican,193
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress8.1808,Somerset,mds_somerset,24039,"Nutter, Charles",NC0000,Democratic-Republican,279
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress8.1808,Worcester,mds_worcester,24047,"Nutter, Charles",NC0000,Democratic-Republican,402
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress8.1808,Dorchester,mds_dorchester,24019,"Goldsborough, Charles",GC0057,Federalist,854
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress8.1808,Somerset,mds_somerset,24039,"Goldsborough, Charles",GC0057,Federalist,722
+meae.congressional.congress11.md.county,congressional,11,MD,county,state,md.uscongress8.1808,Worcester,mds_worcester,24047,"Goldsborough, Charles",GC0057,Federalist,1058

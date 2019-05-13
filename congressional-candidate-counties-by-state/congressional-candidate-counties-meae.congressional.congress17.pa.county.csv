@@ -1,0 +1,159 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.1.1820,Delaware,pas_delaware,42045,"Biddle, Nicholas",BN0101,Democratic-Republican,544
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.1.1820,Philadelphia,pas_philadelphia,42101,"Biddle, Nicholas",BN0101,Democratic-Republican,3098
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.1.1820,Delaware,pas_delaware,42045,"Engle, Joseph",EJ0192,Democratic-Republican,554
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.1.1820,Philadelphia,pas_philadelphia,42101,"Engle, Joseph",EJ0192,Democratic-Republican,3067
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.1.1820,Delaware,pas_delaware,42045,"Forrest, Thomas",FT0063,Democratic-Republican,562
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.1.1820,Philadelphia,pas_philadelphia,42101,"Forrest, Thomas",FT0063,Democratic-Republican,3221
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.1.1820,Delaware,pas_delaware,42045,"Edwards, Samuel",ES0034,Federalist,716
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.1.1820,Philadelphia,pas_philadelphia,42101,"Edwards, Samuel",ES0034,Federalist,3235
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.1.1820,Delaware,pas_delaware,42045,"Hemphill, Joseph",HJ0774,Federalist,1111
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.1.1820,Philadelphia,pas_philadelphia,42101,"Hemphill, Joseph",HJ0774,Federalist,3386
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.1.1820,Delaware,pas_delaware,42045,"Humphrey, Gideon",HG0154,Federalist,428
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.1.1820,Philadelphia,pas_philadelphia,42101,"Humphrey, Gideon",HG0154,Federalist,0
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.1.1820,Delaware,pas_delaware,42045,"Milnor, William",MW0326,Federalist,1118
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.1.1820,Philadelphia,pas_philadelphia,42101,"Milnor, William",MW0326,Federalist,3324
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.1.1820,Delaware,pas_delaware,42045,"Sergeant, John",SJ1073,Federalist,1669
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.1.1820,Philadelphia,pas_philadelphia,42101,"Sergeant, John",SJ1073,Federalist,6450
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Bradford,pas_bradford,42015,"Denison, George",DG0052,Democratic-Republican,1503
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Columbia,pas_columbia,42037,"Denison, George",DG0052,Democratic-Republican,1203
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Luzerne,pas_luzerne,42079,"Denison, George",DG0052,Democratic-Republican,1633
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Lycoming,pas_lycoming,42081,"Denison, George",DG0052,Democratic-Republican,1485
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Northumberland,pas_northumberland,42097,"Denison, George",DG0052,Democratic-Republican,1337
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Susquehanna,pas_susquehanna,42115,"Denison, George",DG0052,Democratic-Republican,750
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Tioga,pas_tioga,42117,"Denison, George",DG0052,Democratic-Republican,478
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Union,pas_union,42119,"Denison, George",DG0052,Democratic-Republican,1156
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Bradford,pas_bradford,42015,"Murray, Thomas, Jr.",MT0172,Democratic-Republican,933
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Columbia,pas_columbia,42037,"Murray, Thomas, Jr.",MT0172,Democratic-Republican,1045
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Luzerne,pas_luzerne,42079,"Murray, Thomas, Jr.",MT0172,Democratic-Republican,1222
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Lycoming,pas_lycoming,42081,"Murray, Thomas, Jr.",MT0172,Democratic-Republican,915
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Northumberland,pas_northumberland,42097,"Murray, Thomas, Jr.",MT0172,Democratic-Republican,1299
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Susquehanna,pas_susquehanna,42115,"Murray, Thomas, Jr.",MT0172,Democratic-Republican,668
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Tioga,pas_tioga,42117,"Murray, Thomas, Jr.",MT0172,Democratic-Republican,199
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Union,pas_union,42119,"Murray, Thomas, Jr.",MT0172,Democratic-Republican,1134
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Bradford,pas_bradford,42015,"Ellis, William Cox",EW0059,Federalist,574
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Columbia,pas_columbia,42037,"Ellis, William Cox",EW0059,Federalist,922
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Luzerne,pas_luzerne,42079,"Ellis, William Cox",EW0059,Federalist,866
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Lycoming,pas_lycoming,42081,"Ellis, William Cox",EW0059,Federalist,953
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Northumberland,pas_northumberland,42097,"Ellis, William Cox",EW0059,Federalist,1029
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Susquehanna,pas_susquehanna,42115,"Ellis, William Cox",EW0059,Federalist,344
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Tioga,pas_tioga,42117,"Ellis, William Cox",EW0059,Federalist,281
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Union,pas_union,42119,"Ellis, William Cox",EW0059,Federalist,1559
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Bradford,pas_bradford,42015,"Fellows, Abiel",FA0063,Federalist,17
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Columbia,pas_columbia,42037,"Fellows, Abiel",FA0063,Federalist,755
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Luzerne,pas_luzerne,42079,"Fellows, Abiel",FA0063,Federalist,623
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Lycoming,pas_lycoming,42081,"Fellows, Abiel",FA0063,Federalist,238
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Northumberland,pas_northumberland,42097,"Fellows, Abiel",FA0063,Federalist,957
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Susquehanna,pas_susquehanna,42115,"Fellows, Abiel",FA0063,Federalist,412
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Tioga,pas_tioga,42117,"Fellows, Abiel",FA0063,Federalist,3
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.10.1820,Union,pas_union,42119,"Fellows, Abiel",FA0063,Federalist,1502
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.11.1820,Armstrong,pas_armstrong,42005,"Plumer, George",PG0067,Democratic-Republican,957
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.11.1820,Westmoreland,pas_westmoreland,42129,"Plumer, George",PG0067,Democratic-Republican,2204
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.11.1820,Armstrong,pas_armstrong,42005,"Foster, Alexander W.",FA0053,Federalist,552
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.11.1820,Westmoreland,pas_westmoreland,42129,"Foster, Alexander W.",FA0053,Federalist,2241
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.12.1820,Washington,pas_washington,42125,"Patterson, Thomas",PT0153,Democratic-Republican,2961
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.12.1820,Washington,pas_washington,42125,"MacGiffin, Thomas",MT0193,Federalist,1436
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.13.1820,Fayette,pas_fayette,42051,"Stewart, Andrew",SA0254,Democratic-Republican,1500
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.13.1820,Greene,pas_greene,42059,"Stewart, Andrew",SA0254,Democratic-Republican,949
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.13.1820,Fayette,pas_fayette,42051,"Tarr, Christian",TC0055,Democratic-Republican,1518
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.13.1820,Greene,pas_greene,42059,"Tarr, Christian",TC0055,Democratic-Republican,517
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.13.1820,Fayette,pas_fayette,42051,"Porter, Charles",PC0040,Federalist,457
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.13.1820,Greene,pas_greene,42059,"Porter, Charles",PC0040,Federalist,136
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.14.1820,Allegheny,pas_allegheny,42003,"Marks, William",MW0335,Democratic-Republican,1344
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.14.1820,Butler,pas_butler,42019,"Marks, William",MW0335,Democratic-Republican,331
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.14.1820,Allegheny,pas_allegheny,42003,"Baldwin, Henry",BH0142,Federalist,2075
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.14.1820,Butler,pas_butler,42019,"Baldwin, Henry",BH0142,Federalist,898
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.15.1820,Beaver,pas_beaver,42007,"Farrelly, Patrick",FP0028,Democratic-Republican,611
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.15.1820,Crawford,pas_crawford,42039,"Farrelly, Patrick",FP0028,Democratic-Republican,1027
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.15.1820,Erie,pas_erie,42049,"Farrelly, Patrick",FP0028,Democratic-Republican,645
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.15.1820,Mercer,pas_mercer,42085,"Farrelly, Patrick",FP0028,Democratic-Republican,301
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.15.1820,Venango,pas_venango,42121,"Farrelly, Patrick",FP0028,Democratic-Republican,565
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.15.1820,Warren,pas_warren,42123,"Farrelly, Patrick",FP0028,Democratic-Republican,252
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.15.1820,Beaver,pas_beaver,42007,"Moore, Robert",MR0144,Democratic-Republican,1311
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.15.1820,Crawford,pas_crawford,42039,"Moore, Robert",MR0144,Democratic-Republican,80
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.15.1820,Erie,pas_erie,42049,"Moore, Robert",MR0144,Democratic-Republican,238
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.15.1820,Mercer,pas_mercer,42085,"Moore, Robert",MR0144,Democratic-Republican,996
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.15.1820,Venango,pas_venango,42121,"Moore, Robert",MR0144,Democratic-Republican,120
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.15.1820,Warren,pas_warren,42123,"Moore, Robert",MR0144,Democratic-Republican,1
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.15.1820,Beaver,pas_beaver,42007,"Pearson, Bevan",PB0072,Democratic-Republican,24
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.15.1820,Crawford,pas_crawford,42039,"Pearson, Bevan",PB0072,Democratic-Republican,47
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.15.1820,Erie,pas_erie,42049,"Pearson, Bevan",PB0072,Democratic-Republican,16
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.15.1820,Mercer,pas_mercer,42085,"Pearson, Bevan",PB0072,Democratic-Republican,168
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.15.1820,Venango,pas_venango,42121,"Pearson, Bevan",PB0072,Democratic-Republican,15
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.15.1820,Warren,pas_warren,42123,"Pearson, Bevan",PB0072,Democratic-Republican,16
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.2.1820,Chester,pas_chester,42029,"Darlington, William",DW0154,Democratic-Republican,3093
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.2.1820,Montgomery,pas_montgomery,42091,"Darlington, William",DW0154,Democratic-Republican,3032
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.2.1820,Chester,pas_chester,42029,"Gross, Samuel",GS0076,Democratic-Republican,3066
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.2.1820,Montgomery,pas_montgomery,42091,"Gross, Samuel",GS0076,Democratic-Republican,3039
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.2.1820,Chester,pas_chester,42029,"Henderson, John",HJ1075,Federalist,3240
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.2.1820,Montgomery,pas_montgomery,42091,"Henderson, John",HJ1075,Federalist,2345
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.2.1820,Chester,pas_chester,42029,"Miner, Charles",MC0051,Federalist,3251
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.2.1820,Montgomery,pas_montgomery,42091,"Miner, Charles",MC0051,Federalist,2395
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.3.1820,Dauphin,pas_dauphin,42043,"Hibsham, Jacob",HJ0843,Democratic-Republican,1373
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.3.1820,Lancaster,pas_lancaster,42071,"Hibsham, Jacob",HJ0843,Democratic-Republican,3666
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.3.1820,Lebanon,pas_lebanon,42075,"Hibsham, Jacob",HJ0843,Democratic-Republican,1357
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.3.1820,Dauphin,pas_dauphin,42043,"Wallace, James M.",WJ0814,Democratic-Republican,1395
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.3.1820,Lancaster,pas_lancaster,42071,"Wallace, James M.",WJ0814,Democratic-Republican,3419
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.3.1820,Lebanon,pas_lebanon,42075,"Wallace, James M.",WJ0814,Democratic-Republican,1286
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.3.1820,Dauphin,pas_dauphin,42043,"Buchanan, James",BJ1089,Federalist,1925
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.3.1820,Lancaster,pas_lancaster,42071,"Buchanan, James",BJ1089,Federalist,4642
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.3.1820,Lebanon,pas_lebanon,42075,"Buchanan, James",BJ1089,Federalist,1142
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.3.1820,Dauphin,pas_dauphin,42043,"Phillips, John",PJ0596,Federalist,1903
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.3.1820,Lancaster,pas_lancaster,42071,"Phillips, John",PJ0596,Federalist,4692
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.3.1820,Lebanon,pas_lebanon,42075,"Phillips, John",PJ0596,Federalist,1214
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.4.1820,York,pas_york,42133,"Mitchell, James S.",MJ1038,Democratic-Republican,2577
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.4.1820,York,pas_york,42133,"Hostetter, Jacob",HJ0778,Federalist,2161
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.5.1820,Adams,pas_adams,42001,"Graham, Isaiah",GI0025,Democratic-Republican,762
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.5.1820,Cumberland,pas_cumberland,42041,"Graham, Isaiah",GI0025,Democratic-Republican,1870
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.5.1820,Franklin,pas_franklin,42055,"Graham, Isaiah",GI0025,Democratic-Republican,2199
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.5.1820,Perry,pas_perry,42099,"Graham, Isaiah",GI0025,Democratic-Republican,973
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.5.1820,Adams,pas_adams,42001,"Wilson, James",WJ0862,Democratic-Republican,818
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.5.1820,Cumberland,pas_cumberland,42041,"Wilson, James",WJ0862,Democratic-Republican,1908
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.5.1820,Franklin,pas_franklin,42055,"Wilson, James",WJ0862,Democratic-Republican,2187
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.5.1820,Perry,pas_perry,42099,"Wilson, James",WJ0862,Democratic-Republican,974
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.5.1820,Adams,pas_adams,42001,"Duncan, James",DJ0409,Federalist,1876
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.5.1820,Cumberland,pas_cumberland,42041,"Duncan, James",DJ0409,Federalist,1789
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.5.1820,Franklin,pas_franklin,42055,"Duncan, James",DJ0409,Federalist,2356
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.5.1820,Perry,pas_perry,42099,"Duncan, James",DJ0409,Federalist,713
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.5.1820,Adams,pas_adams,42001,"MacSherry, James",MJ0972,Federalist,1996
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.5.1820,Cumberland,pas_cumberland,42041,"MacSherry, James",MJ0972,Federalist,1852
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.5.1820,Franklin,pas_franklin,42055,"MacSherry, James",MJ0972,Federalist,2363
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.5.1820,Perry,pas_perry,42099,"MacSherry, James",MJ0972,Federalist,714
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.6.1820,Bucks,pas_bucks,42017,"Moore, Samuel",MS0176,Democratic-Republican,2479
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.6.1820,Lehigh,pas_lehigh,42077,"Moore, Samuel",MS0176,Democratic-Republican,1652
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.6.1820,Northampton,pas_northampton,42095,"Moore, Samuel",MS0176,Democratic-Republican,2675
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.6.1820,Pike,pas_pike,42103,"Moore, Samuel",MS0176,Democratic-Republican,239
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.6.1820,Wayne,pas_wayne,42127,"Moore, Samuel",MS0176,Democratic-Republican,373
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.6.1820,Bucks,pas_bucks,42017,"Rogers, Thomas J.",RT0097,Democratic-Republican,2025
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.6.1820,Lehigh,pas_lehigh,42077,"Rogers, Thomas J.",RT0097,Democratic-Republican,1644
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.6.1820,Northampton,pas_northampton,42095,"Rogers, Thomas J.",RT0097,Democratic-Republican,2629
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.6.1820,Pike,pas_pike,42103,"Rogers, Thomas J.",RT0097,Democratic-Republican,234
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.6.1820,Wayne,pas_wayne,42127,"Rogers, Thomas J.",RT0097,Democratic-Republican,372
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.6.1820,Bucks,pas_bucks,42017,"Dingham, Daniel W.",DD0081,Federalist,1906
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.6.1820,Lehigh,pas_lehigh,42077,"Dingham, Daniel W.",DD0081,Federalist,1164
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.6.1820,Northampton,pas_northampton,42095,"Dingham, Daniel W.",DD0081,Federalist,1709
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.6.1820,Pike,pas_pike,42103,"Dingham, Daniel W.",DD0081,Federalist,259
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.6.1820,Wayne,pas_wayne,42127,"Dingham, Daniel W.",DD0081,Federalist,54
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.6.1820,Bucks,pas_bucks,42017,"Morris, Mathias",MM0076,Federalist,1619
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.6.1820,Lehigh,pas_lehigh,42077,"Morris, Mathias",MM0076,Federalist,1143
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.6.1820,Northampton,pas_northampton,42095,"Morris, Mathias",MM0076,Federalist,1680
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.6.1820,Pike,pas_pike,42103,"Morris, Mathias",MM0076,Federalist,244
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.6.1820,Wayne,pas_wayne,42127,"Morris, Mathias",MM0076,Federalist,53
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.7.1820,Berks,pas_berks,42011,"Heister, Gabriel, Sr.",HG0106,Democratic-Republican,3068
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.7.1820,Schuylkill,pas_schuylkill,42107,"Heister, Gabriel, Sr.",HG0106,Democratic-Republican,722
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.7.1820,Berks,pas_berks,42011,"Worman, Ludwig",WL0064,Federalist,3819
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.7.1820,Schuylkill,pas_schuylkill,42107,"Worman, Ludwig",WL0064,Federalist,898
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.8.1820,Bedford,pas_bedford,42009,"Philson, Robert",PR0062,Democratic-Republican,12
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.8.1820,Cambria,pas_cambria,42021,"Philson, Robert",PR0062,Democratic-Republican,96
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.8.1820,Somerset,pas_somerset,42111,"Philson, Robert",PR0062,Democratic-Republican,1179
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.8.1820,Bedford,pas_bedford,42009,"Todd, John",TJ0441,Democratic-Republican,2963
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.8.1820,Cambria,pas_cambria,42021,"Todd, John",TJ0441,Democratic-Republican,305
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.8.1820,Somerset,pas_somerset,42111,"Todd, John",TJ0441,Democratic-Republican,747
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.9.1820,Centre,pas_centre,42027,"Brown, John",BJ1047,Democratic-Republican,1565
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.9.1820,Clearfield,pas_clearfield,42033,"Brown, John",BJ1047,Democratic-Republican,61
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.9.1820,Huntingdon,pas_huntingdon,42061,"Brown, John",BJ1047,Democratic-Republican,1392
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.9.1820,Mifflin,pas_mifflin,42087,"Brown, John",BJ1047,Democratic-Republican,1229
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.9.1820,Centre,pas_centre,42027,"Maclay, William P.",MW0408,Federalist,539
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.9.1820,Clearfield,pas_clearfield,42033,"Maclay, William P.",MW0408,Federalist,148
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.9.1820,Huntingdon,pas_huntingdon,42061,"Maclay, William P.",MW0408,Federalist,1427
+meae.congressional.congress17.pa.county,congressional,17,PA,county,state,pa.congress.9.1820,Mifflin,pas_mifflin,42087,"Maclay, William P.",MW0408,Federalist,1419

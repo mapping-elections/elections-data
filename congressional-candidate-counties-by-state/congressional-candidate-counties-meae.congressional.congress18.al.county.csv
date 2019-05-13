@@ -1,0 +1,103 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.1.1823,Decatur,als_decatur,NA,"Moore, Gabriel",MG0000,Jacksonian,0
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.1.1823,Jackson,als_jackson,1071,"Moore, Gabriel",MG0000,Jacksonian,0
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.1.1823,Lauderdale,als_lauderdale,1077,"Moore, Gabriel",MG0000,Jacksonian,448
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.1.1823,Lawrence,als_lawrence,1079,"Moore, Gabriel",MG0000,Jacksonian,0
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.1.1823,Limestone,als_limestone,1083,"Moore, Gabriel",MG0000,Jacksonian,1033
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.1.1823,Madison,als_madison,1089,"Moore, Gabriel",MG0000,Jacksonian,1823
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Bibb,als_bibb,1007,"Farrar, Thomas",FT0000,NA,51
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Blount,als_blount,1009,"Farrar, Thomas",FT0000,NA,74
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Franklin,als_franklin,1059,"Farrar, Thomas",FT0000,NA,5
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Greene,als_greene,1063,"Farrar, Thomas",FT0000,NA,350
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Jefferson,als_jefferson,1073,"Farrar, Thomas",FT0000,NA,360
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Marengo,als_marengo,1091,"Farrar, Thomas",FT0000,NA,49
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Marion,als_marion,1093,"Farrar, Thomas",FT0000,NA,7
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Morgan,als_morgan,1103,"Farrar, Thomas",FT0000,NA,0
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Perry,als_perry,1105,"Farrar, Thomas",FT0000,NA,359
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Pickens,als_pickens,1107,"Farrar, Thomas",FT0000,NA,51
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Saint Clair,als_stclair,1115,"Farrar, Thomas",FT0000,NA,373
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Shelby,als_shelby,1117,"Farrar, Thomas",FT0000,NA,72
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Tuscaloosa,als_tuscaloosa,1125,"Farrar, Thomas",FT0000,NA,119
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Bibb,als_bibb,1007,"Fulton, John S.",FJ0001,NA,0
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Blount,als_blount,1009,"Fulton, John S.",FJ0001,NA,24
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Franklin,als_franklin,1059,"Fulton, John S.",FJ0001,NA,494
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Greene,als_greene,1063,"Fulton, John S.",FJ0001,NA,0
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Jefferson,als_jefferson,1073,"Fulton, John S.",FJ0001,NA,0
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Marengo,als_marengo,1091,"Fulton, John S.",FJ0001,NA,56
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Marion,als_marion,1093,"Fulton, John S.",FJ0001,NA,40
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Morgan,als_morgan,1103,"Fulton, John S.",FJ0001,NA,46
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Perry,als_perry,1105,"Fulton, John S.",FJ0001,NA,0
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Pickens,als_pickens,1107,"Fulton, John S.",FJ0001,NA,0
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Saint Clair,als_stclair,1115,"Fulton, John S.",FJ0001,NA,1
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Shelby,als_shelby,1117,"Fulton, John S.",FJ0001,NA,5
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Tuscaloosa,als_tuscaloosa,1125,"Fulton, John S.",FJ0001,NA,1
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Bibb,als_bibb,1007,"Garth, Jesse W.",GJ0004,NA,76
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Blount,als_blount,1009,"Garth, Jesse W.",GJ0004,NA,155
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Franklin,als_franklin,1059,"Garth, Jesse W.",GJ0004,NA,233
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Greene,als_greene,1063,"Garth, Jesse W.",GJ0004,NA,0
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Jefferson,als_jefferson,1073,"Garth, Jesse W.",GJ0004,NA,3
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Marengo,als_marengo,1091,"Garth, Jesse W.",GJ0004,NA,0
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Marion,als_marion,1093,"Garth, Jesse W.",GJ0004,NA,223
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Morgan,als_morgan,1103,"Garth, Jesse W.",GJ0004,NA,806
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Perry,als_perry,1105,"Garth, Jesse W.",GJ0004,NA,1
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Pickens,als_pickens,1107,"Garth, Jesse W.",GJ0004,NA,0
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Saint Clair,als_stclair,1115,"Garth, Jesse W.",GJ0004,NA,89
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Shelby,als_shelby,1117,"Garth, Jesse W.",GJ0004,NA,69
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Tuscaloosa,als_tuscaloosa,1125,"Garth, Jesse W.",GJ0004,NA,12
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Bibb,als_bibb,1007,"MacKee, John",MJ0013,Jacksonian,92
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Blount,als_blount,1009,"MacKee, John",MJ0013,Jacksonian,76
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Franklin,als_franklin,1059,"MacKee, John",MJ0013,Jacksonian,71
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Greene,als_greene,1063,"MacKee, John",MJ0013,Jacksonian,503
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Jefferson,als_jefferson,1073,"MacKee, John",MJ0013,Jacksonian,89
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Marengo,als_marengo,1091,"MacKee, John",MJ0013,Jacksonian,271
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Marion,als_marion,1093,"MacKee, John",MJ0013,Jacksonian,30
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Morgan,als_morgan,1103,"MacKee, John",MJ0013,Jacksonian,7
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Perry,als_perry,1105,"MacKee, John",MJ0013,Jacksonian,171
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Pickens,als_pickens,1107,"MacKee, John",MJ0013,Jacksonian,91
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Saint Clair,als_stclair,1115,"MacKee, John",MJ0013,Jacksonian,39
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Shelby,als_shelby,1117,"MacKee, John",MJ0013,Jacksonian,43
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Tuscaloosa,als_tuscaloosa,1125,"MacKee, John",MJ0013,Jacksonian,623
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Bibb,als_bibb,1007,"Perry, Sion L.",PS0000,NA,166
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Blount,als_blount,1009,"Perry, Sion L.",PS0000,NA,22
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Franklin,als_franklin,1059,"Perry, Sion L.",PS0000,NA,1
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Greene,als_greene,1063,"Perry, Sion L.",PS0000,NA,26
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Jefferson,als_jefferson,1073,"Perry, Sion L.",PS0000,NA,51
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Marengo,als_marengo,1091,"Perry, Sion L.",PS0000,NA,27
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Marion,als_marion,1093,"Perry, Sion L.",PS0000,NA,2
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Morgan,als_morgan,1103,"Perry, Sion L.",PS0000,NA,2
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Perry,als_perry,1105,"Perry, Sion L.",PS0000,NA,63
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Pickens,als_pickens,1107,"Perry, Sion L.",PS0000,NA,0
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Saint Clair,als_stclair,1115,"Perry, Sion L.",PS0000,NA,73
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Shelby,als_shelby,1117,"Perry, Sion L.",PS0000,NA,134
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Tuscaloosa,als_tuscaloosa,1125,"Perry, Sion L.",PS0000,NA,49
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Bibb,als_bibb,1007,"Williams, Marmaduke",WM0000,NA,266
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Blount,als_blount,1009,"Williams, Marmaduke",WM0000,NA,86
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Franklin,als_franklin,1059,"Williams, Marmaduke",WM0000,NA,43
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Greene,als_greene,1063,"Williams, Marmaduke",WM0000,NA,82
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Jefferson,als_jefferson,1073,"Williams, Marmaduke",WM0000,NA,370
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Marengo,als_marengo,1091,"Williams, Marmaduke",WM0000,NA,12
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Marion,als_marion,1093,"Williams, Marmaduke",WM0000,NA,62
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Morgan,als_morgan,1103,"Williams, Marmaduke",WM0000,NA,10
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Perry,als_perry,1105,"Williams, Marmaduke",WM0000,NA,69
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Pickens,als_pickens,1107,"Williams, Marmaduke",WM0000,NA,59
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Saint Clair,als_stclair,1115,"Williams, Marmaduke",WM0000,NA,71
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Shelby,als_shelby,1117,"Williams, Marmaduke",WM0000,NA,153
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.2.1823,Tuscaloosa,als_tuscaloosa,1125,"Williams, Marmaduke",WM0000,NA,366
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.3.1823,Autauga,als_autauga,1001,"Bagby, Arthur P.",BA0000,Adams/Clay,145
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.3.1823,Baldwin,als_baldwin,1003,"Bagby, Arthur P.",BA0000,Adams/Clay,9
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.3.1823,Dallas,als_dallas,1047,"Bagby, Arthur P.",BA0000,Adams/Clay,147
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.3.1823,Mobile,als_mobile,1097,"Bagby, Arthur P.",BA0000,Adams/Clay,114
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.3.1823,Montgomery,als_montgomery,1101,"Bagby, Arthur P.",BA0000,Adams/Clay,398
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.3.1823,Washington,als_washington,1129,"Bagby, Arthur P.",BA0000,Adams/Clay,21
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.3.1823,Autauga,als_autauga,1001,"Dinsmoor, Silas",DS0001,NA,6
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.3.1823,Baldwin,als_baldwin,1003,"Dinsmoor, Silas",DS0001,NA,88
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.3.1823,Dallas,als_dallas,1047,"Dinsmoor, Silas",DS0001,NA,33
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.3.1823,Mobile,als_mobile,1097,"Dinsmoor, Silas",DS0001,NA,66
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.3.1823,Montgomery,als_montgomery,1101,"Dinsmoor, Silas",DS0001,NA,3
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.3.1823,Washington,als_washington,1129,"Dinsmoor, Silas",DS0001,NA,110
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.3.1823,Autauga,als_autauga,1001,"Owen, George W.",OG0000,Jacksonian,547
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.3.1823,Baldwin,als_baldwin,1003,"Owen, George W.",OG0000,Jacksonian,36
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.3.1823,Dallas,als_dallas,1047,"Owen, George W.",OG0000,Jacksonian,808
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.3.1823,Mobile,als_mobile,1097,"Owen, George W.",OG0000,Jacksonian,167
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.3.1823,Montgomery,als_montgomery,1101,"Owen, George W.",OG0000,Jacksonian,610
+meae.congressional.congress18.al.county,congressional,18,AL,county,state,al.uscongress.3.1823,Washington,als_washington,1129,"Owen, George W.",OG0000,Jacksonian,210

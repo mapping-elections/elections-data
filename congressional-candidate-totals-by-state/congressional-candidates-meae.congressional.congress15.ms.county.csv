@@ -1,0 +1,3 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress15.ms.county,ms.congress.1817,George Poindexter,PG0042,At-large,Democratic-Republican,3142,3148,0.998,TRUE,FALSE
+meae.congressional.congress15.ms.county,ms.congress.1817,Christopher Rankin,RC0047,At-large,Democratic-Republican,6,3148,0.002,FALSE,FALSE

@@ -1,0 +1,8 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress02.de.county,de.uscongress.1790,John Vining,VJ0002,At-large,Federalist,252,507,0.497,TRUE,FALSE
+meae.congressional.congress02.de.county,de.uscongress.1790,Joshua Clayton,CJ0087,At-large,Federalist,145,507,0.286,FALSE,FALSE
+meae.congressional.congress02.de.county,de.uscongress.1790,Thomas Duff,DT0018,At-large,NA,104,507,0.205,FALSE,FALSE
+meae.congressional.congress02.de.county,de.uscongress.1790,John Banning,BJ0072,At-large,NA,2,507,0.004,FALSE,FALSE
+meae.congressional.congress02.de.county,de.uscongress.1790,Nathaniel Mitchell,MN0002,At-large,NA,2,507,0.004,FALSE,FALSE
+meae.congressional.congress02.de.county,de.uscongress.1790,John Gordon,GJ0019,At-large,NA,1,507,0.002,FALSE,FALSE
+meae.congressional.congress02.de.county,de.uscongress.1790,William Perry,PW0014,At-large,NA,1,507,0.002,FALSE,FALSE

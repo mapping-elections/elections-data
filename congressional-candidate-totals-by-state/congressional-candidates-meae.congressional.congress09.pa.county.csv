@@ -1,0 +1,33 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress09.pa.county,pa.uscongress1.1804,Joseph Clay,CJ0754,1,Democratic-Republican,7427,22125,0.336,TRUE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress1.1804,Jacob Richards,RJ0353,1,Democratic-Republican,7021,22125,0.317,TRUE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress1.1804,Michael Leib,LM0058,1,Democratic-Republican,3992,22125,0.18,TRUE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress1.1804,William Penrose,PW0209,1,Federalist,3685,22125,0.167,FALSE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress1.1804,William Graham,GW0141,1,NA,NA,22125,NA,FALSE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress10.1804,John Hamilton,HJ0746,10,Democratic-Republican,868,868,1,TRUE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress10.1804,John Israel,IJ0072,10,Republican Faction,NA,868,NA,FALSE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress11.1804,John B. Lucas,LJ0337,11,Democratic-Republican,2526,3899,0.648,TRUE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress11.1804,James O'Hara,OJ0042,11,Federalist,1373,3899,0.352,FALSE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress2.1804,John Pugh,PJ0443,2,Democratic-Republican,6701,20845,0.321,TRUE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress2.1804,Frederick Conrad,CF0031,2,Democratic-Republican,6596,20845,0.316,TRUE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress2.1804,Robert Brown,BR0106,2,Democratic-Republican,4532,20845,0.217,TRUE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress2.1804,John Ross,RJ0312,2,Republican Faction,2710,20845,0.13,FALSE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress2.1804,Samuel Preston,PS0087,2,NA,268,20845,0.013,FALSE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress2.1804,Joseph Clunn,CJ0770,2,NA,38,20845,0.002,FALSE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress3.1804,Christian Lower,LC0033,3,Democratic-Republican,9079,27318,0.332,TRUE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress3.1804,John Whitehill,WJ0661,3,Democratic-Republican,6309,27318,0.231,TRUE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress3.1804,Isaac Anderson,AI0012,3,Democratic-Republican,6287,27318,0.23,TRUE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress3.1804,Thomas Boude,BT0242,3,Federalist,2829,27318,0.104,FALSE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress3.1804,Isaac Wayne,WI0051,3,Federalist,2814,27318,0.103,FALSE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress4.1804,David Bard,BD0120,4,Democratic-Republican,3247,9392,0.346,TRUE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress4.1804,John A. Hanna,HJ0754,4,Democratic-Republican,3031,9392,0.323,TRUE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress4.1804,Oliver Pollack,PO0022,4,Democratic-Republican,1600,9392,0.17,FALSE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress4.1804,Robert Whitehill,WR0153,4,Democratic-Republican,1514,9392,0.161,FALSE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress5.1804,Andrew Gregg,GA0060,5,Democratic-Republican,3318,3318,1,TRUE,TRUE
+meae.congressional.congress09.pa.county,pa.uscongress6.1804,James Kelly,KJ0173,6,Federalist,1705,2916,0.585,TRUE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress6.1804,John Stewart,SJ0949,6,Democratic-Republican,1211,2916,0.415,FALSE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress7.1804,John Rea,RJ0310,7,Democratic-Republican,1494,1500,0.996,TRUE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress7.1804,Robert Shannon,SR0226,7,NA,6,1500,0.004,FALSE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress8.1804,William Findley,FW0062,8,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress8.1804,John Brandon,BJ1002,8,Democratic-Republican,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress09.pa.county,pa.uscongress9.1804,John Smilie,SJ0970,9,Democratic-Republican,NA,NA,NA,TRUE,TRUE

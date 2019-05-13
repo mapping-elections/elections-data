@@ -1,0 +1,100 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress1.1814,Bath,kys_bath,21011,"Clark, James",CJ0165,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress1.1814,Clarke,kys_clark,21049,"Clark, James",CJ0165,Democratic-Republican,1025
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress1.1814,Estill,kys_estill,21065,"Clark, James",CJ0165,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress1.1814,Fleming,kys_fleming,21069,"Clark, James",CJ0165,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress1.1814,Floyd,kys_floyd,21071,"Clark, James",CJ0165,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress1.1814,Greenup,kys_greenup,21089,"Clark, James",CJ0165,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress1.1814,Montgomery,kys_montgomery,21173,"Clark, James",CJ0165,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress10.1814,Greene,kys_green,21087,"Hardin, Benjamin",HB0033,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress10.1814,Hardin,kys_hardin,21093,"Hardin, Benjamin",HB0033,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress10.1814,Nelson,kys_nelson,21179,"Hardin, Benjamin",HB0033,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress10.1814,Washington,kys_washington,21229,"Hardin, Benjamin",HB0033,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress10.1814,Greene,kys_green,21087,"Walton, Matthew",WM0023,NA,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress10.1814,Hardin,kys_hardin,21093,"Walton, Matthew",WM0023,NA,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress10.1814,Nelson,kys_nelson,21179,"Walton, Matthew",WM0023,NA,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress10.1814,Washington,kys_washington,21229,"Walton, Matthew",WM0023,NA,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress2.1814,Fayette,kys_fayette,21067,"Clay, Henry",CH0035,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress2.1814,Jessamine,kys_jessamine,21113,"Clay, Henry",CH0035,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress2.1814,Woodford,kys_woodford,21239,"Clay, Henry",CH0035,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress3.1814,Boone,kys_boone,21015,"Johnson, Richard M.",JR0007,Democratic-Republican,427
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress3.1814,Campbell,kys_campbell,21037,"Johnson, Richard M.",JR0007,Democratic-Republican,431
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress3.1814,Franklin,kys_franklin,21073,"Johnson, Richard M.",JR0007,Democratic-Republican,777
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress3.1814,Gallatin,kys_gallatin,21077,"Johnson, Richard M.",JR0007,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress3.1814,Harrison,kys_harrison,21097,"Johnson, Richard M.",JR0007,Democratic-Republican,836
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress3.1814,Pendelton,kys_pendleton,21191,"Johnson, Richard M.",JR0007,Democratic-Republican,416
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress3.1814,Scott,kys_scott,21209,"Johnson, Richard M.",JR0007,Democratic-Republican,790
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress4.1814,Bourbon,kys_bourbon,21017,"Desha, Joseph",DJ0079,Democratic-Republican,1056
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress4.1814,Bracken,kys_bracken,21023,"Desha, Joseph",DJ0079,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress4.1814,Lewis,kys_lewis,21135,"Desha, Joseph",DJ0079,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress4.1814,Mason,kys_mason,21161,"Desha, Joseph",DJ0079,Democratic-Republican,1025
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress4.1814,Nicholas,kys_nicholas,21181,"Desha, Joseph",DJ0079,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress5.1814,Breckinridge,kys_breckinridge,21027,"Davidge, Rezin",DR0004,NA,85
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress5.1814,Caldwell,kys_caldwell,21033,"Davidge, Rezin",DR0004,NA,298
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress5.1814,Christian,kys_christian,21047,"Davidge, Rezin",DR0004,NA,301
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress5.1814,Grayson,kys_grayson,21085,"Davidge, Rezin",DR0004,NA,135
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress5.1814,Henderson,kys_henderson,21101,"Davidge, Rezin",DR0004,NA,25
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress5.1814,Hopkins,kys_hopkins,21107,"Davidge, Rezin",DR0004,NA,27
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress5.1814,Livingston,kys_livingston,21139,"Davidge, Rezin",DR0004,NA,27
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress5.1814,Muhlenburg,kys_muhlenberg,21177,"Davidge, Rezin",DR0004,NA,4
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress5.1814,Ohio,kys_ohio,21183,"Davidge, Rezin",DR0004,NA,191
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress5.1814,Union,kys_union,21225,"Davidge, Rezin",DR0004,NA,7
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress5.1814,Breckinridge,kys_breckinridge,21027,"MacLean, Alney",MA0033,Democratic-Republican,226
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress5.1814,Caldwell,kys_caldwell,21033,"MacLean, Alney",MA0033,Democratic-Republican,364
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress5.1814,Christian,kys_christian,21047,"MacLean, Alney",MA0033,Democratic-Republican,646
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress5.1814,Grayson,kys_grayson,21085,"MacLean, Alney",MA0033,Democratic-Republican,242
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress5.1814,Henderson,kys_henderson,21101,"MacLean, Alney",MA0033,Democratic-Republican,265
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress5.1814,Hopkins,kys_hopkins,21107,"MacLean, Alney",MA0033,Democratic-Republican,255
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress5.1814,Livingston,kys_livingston,21139,"MacLean, Alney",MA0033,Democratic-Republican,213
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress5.1814,Muhlenburg,kys_muhlenberg,21177,"MacLean, Alney",MA0033,Democratic-Republican,486
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress5.1814,Ohio,kys_ohio,21183,"MacLean, Alney",MA0033,Democratic-Republican,287
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress5.1814,Union,kys_union,21225,"MacLean, Alney",MA0033,Democratic-Republican,172
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress5.1814,Breckinridge,kys_breckinridge,21027,"New, Anthony",NA0009,Democratic-Republican,75
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress5.1814,Caldwell,kys_caldwell,21033,"New, Anthony",NA0009,Democratic-Republican,109
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress5.1814,Christian,kys_christian,21047,"New, Anthony",NA0009,Democratic-Republican,695
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress5.1814,Grayson,kys_grayson,21085,"New, Anthony",NA0009,Democratic-Republican,42
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress5.1814,Henderson,kys_henderson,21101,"New, Anthony",NA0009,Democratic-Republican,107
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress5.1814,Hopkins,kys_hopkins,21107,"New, Anthony",NA0009,Democratic-Republican,214
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress5.1814,Livingston,kys_livingston,21139,"New, Anthony",NA0009,Democratic-Republican,223
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress5.1814,Muhlenburg,kys_muhlenberg,21177,"New, Anthony",NA0009,Democratic-Republican,52
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress5.1814,Ohio,kys_ohio,21183,"New, Anthony",NA0009,Democratic-Republican,48
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress5.1814,Union,kys_union,21225,"New, Anthony",NA0009,Democratic-Republican,15
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress6.1814,Barren,kys_barren,21009,"Sharpe, Solomon P.",SS0045,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress6.1814,Butler,kys_butler,21031,"Sharpe, Solomon P.",SS0045,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress6.1814,Cumberland,kys_cumberland,21057,"Sharpe, Solomon P.",SS0045,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress6.1814,Logan,kys_logan,21141,"Sharpe, Solomon P.",SS0045,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress6.1814,Warren,kys_warren,21227,"Sharpe, Solomon P.",SS0045,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress7.1814,Clay,kys_clay,21051,"MacKee, Samuel",MS0028,Democratic-Republican,264
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress7.1814,Garrard,kys_garrard,21079,"MacKee, Samuel",MS0028,Democratic-Republican,860
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress7.1814,Madison,kys_madison,21151,"MacKee, Samuel",MS0028,Democratic-Republican,296
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress7.1814,Mercer,kys_mercer,21167,"MacKee, Samuel",MS0028,Democratic-Republican,852
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress7.1814,Clay,kys_clay,21051,"South, Samuel",SS0039,NA,129
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress7.1814,Garrard,kys_garrard,21079,"South, Samuel",SS0039,NA,48
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress7.1814,Madison,kys_madison,21151,"South, Samuel",SS0039,NA,1102
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress7.1814,Mercer,kys_mercer,21167,"South, Samuel",SS0039,NA,157
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress8.1814,Bullitt,kys_bullitt,21029,"Mavity, John",MJ0162,NA,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress8.1814,Henry,kys_henry,21103,"Mavity, John",MJ0162,NA,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress8.1814,Jefferson,kys_jefferson,21111,"Mavity, John",MJ0162,NA,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress8.1814,Shelby,kys_shelby,21211,"Mavity, John",MJ0162,NA,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress8.1814,Bullitt,kys_bullitt,21029,"Moore, James Francis",MJ0155,NA,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress8.1814,Henry,kys_henry,21103,"Moore, James Francis",MJ0155,NA,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress8.1814,Jefferson,kys_jefferson,21111,"Moore, James Francis",MJ0155,NA,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress8.1814,Shelby,kys_shelby,21211,"Moore, James Francis",MJ0155,NA,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress8.1814,Bullitt,kys_bullitt,21029,"Ormsby, Stephen",OS0002,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress8.1814,Henry,kys_henry,21103,"Ormsby, Stephen",OS0002,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress8.1814,Jefferson,kys_jefferson,21111,"Ormsby, Stephen",OS0002,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress8.1814,Shelby,kys_shelby,21211,"Ormsby, Stephen",OS0002,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress9.1814,Adair,kys_adair,21001,"Taul, Micah",TM0010,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress9.1814,Casey,kys_casey,21045,"Taul, Micah",TM0010,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress9.1814,Knox,kys_knox,21121,"Taul, Micah",TM0010,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress9.1814,Lincoln,kys_lincoln,21137,"Taul, Micah",TM0010,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress9.1814,Pulaski,kys_pulaski,21199,"Taul, Micah",TM0010,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress9.1814,Rockcastle,kys_rockcastle,21203,"Taul, Micah",TM0010,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress9.1814,Wayne,kys_wayne,21231,"Taul, Micah",TM0010,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress9.1814,Adair,kys_adair,21001,"Montgomery, Thomas",MT0031,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress9.1814,Casey,kys_casey,21045,"Montgomery, Thomas",MT0031,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress9.1814,Knox,kys_knox,21121,"Montgomery, Thomas",MT0031,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress9.1814,Lincoln,kys_lincoln,21137,"Montgomery, Thomas",MT0031,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress9.1814,Pulaski,kys_pulaski,21199,"Montgomery, Thomas",MT0031,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress9.1814,Rockcastle,kys_rockcastle,21203,"Montgomery, Thomas",MT0031,Democratic-Republican,0
+meae.congressional.congress14.ky.county,congressional,14,KY,county,state,ky.uscongress9.1814,Wayne,kys_wayne,21231,"Montgomery, Thomas",MT0031,Democratic-Republican,0

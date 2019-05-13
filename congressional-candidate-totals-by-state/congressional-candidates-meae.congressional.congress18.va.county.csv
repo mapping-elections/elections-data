@@ -1,0 +1,52 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress18.va.county,va.congress.1.1823,Thomas Newton,NT0024,1,Adams/Clay,NA,0,NA,TRUE,FALSE
+meae.congressional.congress18.va.county,va.congress.1.1823,George Loyall,LG0080,1,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress18.va.county,va.congress.1.1823,Robert Lively,LR0091,1,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress18.va.county,va.congress.1.1823,Samuel Colton,CS0244,1,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress18.va.county,va.congress.1.1823,David Murray,MD0160,1,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress18.va.county,va.congress.1.1823,George Hope,HG0132,1,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress18.va.county,va.congress.10.1823,William C. Rives,RW0192,10,Jacksonian,NA,0,NA,TRUE,TRUE
+meae.congressional.congress18.va.county,va.congress.11.1823,Philip P. Barbour,BP0115,11,Republican Faction,NA,0,NA,TRUE,TRUE
+meae.congressional.congress18.va.county,va.congress.12.1823,Robert S. Garnett,GR0068,12,Republican Faction,1092,1450,0.753,TRUE,FALSE
+meae.congressional.congress18.va.county,va.congress.12.1823,Edwin Upshaw,UE0002,12,Federalist,358,1450,0.247,FALSE,FALSE
+meae.congressional.congress18.va.county,va.congress.12.1823,Abner Cox,CA0237,12,NA,NA,1450,NA,FALSE,FALSE
+meae.congressional.congress18.va.county,va.congress.13.1823,William Lee Ball,BW0447,13,Republican Faction,NA,0,NA,TRUE,FALSE
+meae.congressional.congress18.va.county,va.congress.13.1823,John Clowning,CJ0974,13,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress18.va.county,va.congress.13.1823,Ellyson Currie,CE0166,13,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress18.va.county,va.congress.13.1823,John W. Hungerford,HJ1317,13,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress18.va.county,va.congress.13.1823,scattering,NA,13,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress18.va.county,va.congress.14.1823,Charles F. Mercer,MC0088,14,Republican Faction,774,1494,0.518,TRUE,FALSE
+meae.congressional.congress18.va.county,va.congress.14.1823,Sydnor Bailey,BS0272,14,Democratic-Republican,720,1494,0.482,FALSE,FALSE
+meae.congressional.congress18.va.county,va.congress.15.1823,John S. Barbour,BJ1516,15,Republican Faction,578,1319,0.438,TRUE,FALSE
+meae.congressional.congress18.va.county,va.congress.15.1823,Thomas Marshall,MT0187,15,Federalist,535,1319,0.406,FALSE,FALSE
+meae.congressional.congress18.va.county,va.congress.15.1823,Thomas Brown,BT0207,15,Democratic-Republican,206,1319,0.156,FALSE,FALSE
+meae.congressional.congress18.va.county,va.congress.16.1823,James Stephenson,SJ1474,16,Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress18.va.county,va.congress.16.1823,scattering,NA,16,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress18.va.county,va.congress.17.1823,Jared Williams,WJ1022,17,Democratic-Republican,811,1648,0.492,TRUE,FALSE
+meae.congressional.congress18.va.county,va.congress.17.1823,Alfred H. Powell,PA0123,17,Federalist,661,1648,0.401,FALSE,FALSE
+meae.congressional.congress18.va.county,va.congress.17.1823,Samuel Kercheval,KS0046,17,Democratic-Republican,176,1648,0.107,FALSE,FALSE
+meae.congressional.congress18.va.county,va.congress.18.1823,Joseph Johnson,JJ0298,18,Jacksonian,1679,2884,0.582,TRUE,FALSE
+meae.congressional.congress18.va.county,va.congress.18.1823,Phillip Doddridge,DP0050,18,Federalist,1104,2884,0.383,FALSE,FALSE
+meae.congressional.congress18.va.county,va.congress.18.1823,Edwin S. Duncan,DE0083,18,Democratic-Republican,71,2884,0.025,FALSE,FALSE
+meae.congressional.congress18.va.county,va.congress.18.1823,Jeremiah Browning,BJ1399,18,Democratic-Republican,30,2884,0.01,FALSE,FALSE
+meae.congressional.congress18.va.county,va.congress.19.1823,William MacCoy,MW0392,19,Republican Faction,NA,0,NA,TRUE,TRUE
+meae.congressional.congress18.va.county,va.congress.2.1823,Arthur Smith,SA0289,2,Republican Faction,NA,0,NA,TRUE,TRUE
+meae.congressional.congress18.va.county,va.congress.20.1823,John Floyd,FJ0482,20,Republican Faction,NA,0,NA,TRUE,TRUE
+meae.congressional.congress18.va.county,va.congress.21.1823,William Smith,SW0387,21,Republican Faction,1648,2967,0.555,TRUE,FALSE
+meae.congressional.congress18.va.county,va.congress.21.1823,James M. Beale,BJ1396,21,Democratic-Republican,937,2967,0.316,FALSE,FALSE
+meae.congressional.congress18.va.county,va.congress.21.1823,Isaac Morris,MI0068,21,Democratic-Republican,261,2967,0.088,FALSE,FALSE
+meae.congressional.congress18.va.county,va.congress.21.1823,Robert Bailey,BR0179,21,Democratic-Republican,92,2967,0.031,FALSE,FALSE
+meae.congressional.congress18.va.county,va.congress.21.1823,John Haymond,HJ1164,21,Democratic-Republican,29,2967,0.01,FALSE,FALSE
+meae.congressional.congress18.va.county,va.congress.22.1823,Alexander Smyth,SA0299,22,Republican Faction,1600,2877,0.556,TRUE,FALSE
+meae.congressional.congress18.va.county,va.congress.22.1823,Benjamin Estill,EB0023,22,Federalist,1277,2877,0.444,FALSE,FALSE
+meae.congressional.congress18.va.county,va.congress.3.1823,William S. Archer,AW0165,3,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress18.va.county,va.congress.4.1823,Mark Alexander,AM0013,4,Republican Faction,NA,0,NA,TRUE,TRUE
+meae.congressional.congress18.va.county,va.congress.5.1823,John Randolph,RJ0610,5,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress18.va.county,va.congress.6.1823,George Tucker,TG0062,6,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress18.va.county,va.congress.7.1823,Jabez Leftwich,LJ0553,7,Republican Faction,1463,2607,0.561,TRUE,FALSE
+meae.congressional.congress18.va.county,va.congress.7.1823,Nathaniel H. Claiborne,CN0061,7,Democratic-Republican,1144,2607,0.439,FALSE,FALSE
+meae.congressional.congress18.va.county,va.congress.8.1823,Burwell Bassett,BB0099,8,Republican Faction,1051,1806,0.582,TRUE,FALSE
+meae.congressional.congress18.va.county,va.congress.8.1823,Abel P. Upshur,UA0004,8,Federalist,749,1806,0.415,FALSE,FALSE
+meae.congressional.congress18.va.county,va.congress.8.1823,Robert Anderson,AR0063,8,Federalist,4,1806,0.002,FALSE,FALSE
+meae.congressional.congress18.va.county,va.congress.8.1823,scattering,NA,8,NA,2,1806,0.001,FALSE,FALSE
+meae.congressional.congress18.va.county,va.congress.9.1823,Andrew Stevenson,SA0291,9,Republican Faction,NA,0,NA,TRUE,TRUE

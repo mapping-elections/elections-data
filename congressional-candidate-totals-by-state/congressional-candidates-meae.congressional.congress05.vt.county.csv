@@ -1,0 +1,28 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress05.vt.county,vt.uscongress.eastern.1796,Daniel Buck,BD0212,2,Federalist,2931,2951,0.993,TRUE,FALSE
+meae.congressional.congress05.vt.county,vt.uscongress.eastern.1796,Nathaniel Niles,NN0014,2,NA,20,2951,0.007,FALSE,FALSE
+meae.congressional.congress05.vt.county,vt.uscongress.eastern.1796,Lewis R. Morris,ML0045,2,NA,NA,2951,NA,FALSE,FALSE
+meae.congressional.congress05.vt.county,vt.uscongress.eastern.1796,Oliver Gallup,GO0011,2,NA,NA,2951,NA,FALSE,FALSE
+meae.congressional.congress05.vt.county,vt.uscongress.eastern.1796,Stephen Jacobs,JS0060,2,NA,NA,2951,NA,FALSE,FALSE
+meae.congressional.congress05.vt.county,vt.uscongress.eastern.1796,Paul Brigham,BP0101,2,NA,NA,2951,NA,FALSE,FALSE
+meae.congressional.congress05.vt.county,vt.uscongress.eastern.1796,Benjamin Burt,BB0038,2,NA,NA,2951,NA,FALSE,FALSE
+meae.congressional.congress05.vt.county,vt.uscongress.eastern.1796,Lot Hall,HL0043,2,Federalist,NA,2951,NA,FALSE,FALSE
+meae.congressional.congress05.vt.county,vt.uscongress.eastern.1796,Benjamin Henry,HB0147,2,NA,NA,2951,NA,FALSE,FALSE
+meae.congressional.congress05.vt.county,vt.uscongress.eastern.1796,Abel Stevens,SA0241,2,NA,NA,2951,NA,FALSE,FALSE
+meae.congressional.congress05.vt.county,vt.uscongress.eastern.1796,Elias Stevens,SE0177,2,NA,NA,2951,NA,FALSE,FALSE
+meae.congressional.congress05.vt.county,vt.uscongress.eastern.1796,Isaac Tichenor,TI0032,2,Federalist,NA,2951,NA,FALSE,FALSE
+meae.congressional.congress05.vt.county,vt.uscongress.eastern.1796,Martin Tuller,TM0027,2,NA,NA,2951,NA,FALSE,FALSE
+meae.congressional.congress05.vt.county,vt.uscongress.eastern.1796,scattering,NA,2,NA,NA,2951,NA,FALSE,FALSE
+meae.congressional.congress05.vt.county,vt.uscongress.western.thirdballot.1797,Matthew Lyon,LM0053,1,Democratic-Republican,2143,3883,0.552,TRUE,FALSE
+meae.congressional.congress05.vt.county,vt.uscongress.western.thirdballot.1797,Samuel Hitchcock,HS0250,1,Federalist,1143,3883,0.294,FALSE,FALSE
+meae.congressional.congress05.vt.county,vt.uscongress.western.thirdballot.1797,Israel Smith,SI0092,1,Democratic-Republican,346,3883,0.089,FALSE,FALSE
+meae.congressional.congress05.vt.county,vt.uscongress.western.thirdballot.1797,Jonas Galusha,GJ0613,1,Democratic-Republican,151,3883,0.039,FALSE,FALSE
+meae.congressional.congress05.vt.county,vt.uscongress.western.thirdballot.1797,Samuel Williams,WS0226,1,Federalist,27,3883,0.007,FALSE,FALSE
+meae.congressional.congress05.vt.county,vt.uscongress.western.thirdballot.1797,Daniel Chipman,CD0204,1,Federalist,NA,3883,NA,FALSE,FALSE
+meae.congressional.congress05.vt.county,vt.uscongress.western.thirdballot.1797,Nathaniel Chipman,CN0042,1,Federalist,NA,3883,NA,FALSE,FALSE
+meae.congressional.congress05.vt.county,vt.uscongress.western.thirdballot.1797,James Lyon,LJ0470,1,NA,NA,3883,NA,FALSE,FALSE
+meae.congressional.congress05.vt.county,vt.uscongress.western.thirdballot.1797,Jonathan Robinson,RJ0696,1,NA,NA,3883,NA,FALSE,FALSE
+meae.congressional.congress05.vt.county,vt.uscongress.western.thirdballot.1797,Thomas D. Rood,RT0110,1,NA,NA,3883,NA,FALSE,FALSE
+meae.congressional.congress05.vt.county,vt.uscongress.western.thirdballot.1797,Noah Smith,SN0074,1,NA,NA,3883,NA,FALSE,FALSE
+meae.congressional.congress05.vt.county,vt.uscongress.western.thirdballot.1797,Enoch Woodbridge,WE0152,1,NA,NA,3883,NA,FALSE,FALSE
+meae.congressional.congress05.vt.county,vt.uscongress.western.thirdballot.1797,scattering,NA,1,NA,73,3883,0.019,FALSE,FALSE

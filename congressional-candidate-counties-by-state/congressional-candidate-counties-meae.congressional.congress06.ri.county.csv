@@ -1,0 +1,11 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress06.ri.county,congressional,6,RI,county,state,ri.uscongress.2ndrep.1798,Bristol,ris_bristol,44001,"Tillinghast, Thomas",TT0119,Democratic-Republican,1
+meae.congressional.congress06.ri.county,congressional,6,RI,county,state,ri.uscongress.2ndrep.1798,Kent,ris_kent,44003,"Tillinghast, Thomas",TT0119,Democratic-Republican,391
+meae.congressional.congress06.ri.county,congressional,6,RI,county,state,ri.uscongress.2ndrep.1798,Newport,ris_newport,44005,"Tillinghast, Thomas",TT0119,Democratic-Republican,289
+meae.congressional.congress06.ri.county,congressional,6,RI,county,state,ri.uscongress.2ndrep.1798,Providence,ris_providence,44007,"Tillinghast, Thomas",TT0119,Democratic-Republican,314
+meae.congressional.congress06.ri.county,congressional,6,RI,county,state,ri.uscongress.2ndrep.1798,Washington,ris_washington,44009,"Tillinghast, Thomas",TT0119,Democratic-Republican,420
+meae.congressional.congress06.ri.county,congressional,6,RI,county,state,ri.uscongress.2ndrep.1798,Bristol,ris_bristol,44001,"Brown, John",BJ1311,Federalist,302
+meae.congressional.congress06.ri.county,congressional,6,RI,county,state,ri.uscongress.2ndrep.1798,Kent,ris_kent,44003,"Brown, John",BJ1311,Federalist,304
+meae.congressional.congress06.ri.county,congressional,6,RI,county,state,ri.uscongress.2ndrep.1798,Newport,ris_newport,44005,"Brown, John",BJ1311,Federalist,427
+meae.congressional.congress06.ri.county,congressional,6,RI,county,state,ri.uscongress.2ndrep.1798,Providence,ris_providence,44007,"Brown, John",BJ1311,Federalist,1540
+meae.congressional.congress06.ri.county,congressional,6,RI,county,state,ri.uscongress.2ndrep.1798,Washington,ris_washington,44009,"Brown, John",BJ1311,Federalist,107

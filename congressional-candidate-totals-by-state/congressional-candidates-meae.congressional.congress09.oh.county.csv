@@ -1,0 +1,4 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress09.oh.county,oh.uscongress.1804,Jeremiah Morrow,MJ0625,At-large,Democratic-Republican,4101,5842,0.702,TRUE,FALSE
+meae.congressional.congress09.oh.county,oh.uscongress.1804,Elias Langham,LE0075,At-large,Federalist,1718,5842,0.294,FALSE,FALSE
+meae.congressional.congress09.oh.county,oh.uscongress.1804,Rufus Putnam,PR0119,At-large,Federalist,23,5842,0.004,FALSE,FALSE

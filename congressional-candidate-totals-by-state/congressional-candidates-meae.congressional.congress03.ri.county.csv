@@ -1,0 +1,4 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress03.ri.county,ri.uscongress.1792,Benjamin Bourn,BB0013,At-large,Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress03.ri.county,ri.uscongress.1792,Francis Malbone,MF0037,At-large,Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress03.ri.county,ri.uscongress.1792,Paul Mumford,MP0122,At-large,NA,NA,0,NA,FALSE,FALSE

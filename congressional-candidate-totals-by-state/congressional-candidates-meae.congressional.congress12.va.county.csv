@@ -1,0 +1,41 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress12.va.county,va.uscongress.1.1811,William MacKinley,MW0394,1,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress12.va.county,va.uscongress.1.1811,Thomas Wilson,WT0140,1,Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress12.va.county,va.uscongress.2.1811,John Baker,BJ1509,2,Federalist,829,1468,0.565,TRUE,FALSE
+meae.congressional.congress12.va.county,va.uscongress.2.1811,Daniel Morgan,MD0090,2,Democratic-Republican,639,1468,0.435,FALSE,FALSE
+meae.congressional.congress12.va.county,va.uscongress.3.1811,John Smith,SJ1530,3,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress12.va.county,va.uscongress.4.1811,William MacCoy,MW0392,4,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress12.va.county,va.uscongress.4.1811,Samuel Blackburn,BS0314,4,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress12.va.county,va.uscongress.5.1811,James Breckinridge,BJ1431,5,Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress12.va.county,va.uscongress.5.1811,Thomas L. Preston,PT0104,5,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress12.va.county,va.uscongress.6.1811,Daniel Sheffey,SD0212,6,Federalist,NA,0,NA,TRUE,TRUE
+meae.congressional.congress12.va.county,va.uscongress.7.1811,Joseph Lewis,LJ0458,7,Federalist,527,659,0.8,TRUE,FALSE
+meae.congressional.congress12.va.county,va.uscongress.7.1811,John Love,LJ0561,7,Democratic-Republican,131,659,0.199,FALSE,FALSE
+meae.congressional.congress12.va.county,va.uscongress.7.1811,Sampson Blencoe,BS0327,7,NA,1,659,0.002,FALSE,FALSE
+meae.congressional.congress12.va.county,va.uscongress.8.1811,John P. Hungerford,HJ1310,8,Democratic-Republican,769,1532,0.502,TRUE,FALSE
+meae.congressional.congress12.va.county,va.uscongress.8.1811,John Taliaferro,TJ0538,8,Democratic-Republican,763,1532,0.498,FALSE,FALSE
+meae.congressional.congress12.va.county,va.uscongress.9.1811,Aylett Hawes,HA0190,9,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress12.va.county,va.uscongress.9.1811,George F. Strother,SG0190,9,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress12.va.county,va.uscongress.10.1811,John Dawson,DJ0582,10,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress12.va.county,va.uscongress.11.1811,John Roane,RJ0605,11,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress12.va.county,va.uscongress.11.1811,James Hunter,HJ1334,11,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress12.va.county,va.uscongress.11.1811,James M. Garnett,GJ0658,11,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress12.va.county,va.uscongress.11.1811,John Daingerfield,DJ0584,11,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress12.va.county,va.uscongress.11.1811,James Webb,WJ0991,11,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress12.va.county,va.uscongress.12.1811,Burwell Bassett,BB0099,12,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress12.va.county,va.uscongress.12.1811,John Eyre,EJ0307,12,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress12.va.county,va.uscongress.12.1811,scattering,NA,12,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress12.va.county,va.uscongress.13.1811,William A. Burwell,BW0451,13,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress12.va.county,va.uscongress.14.1811,Matthew Clay,CM0108,14,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress12.va.county,va.uscongress.14.1811,John Kerr,KJ0364,14,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress12.va.county,va.uscongress.15.1811,John Randolph,RJ0610,15,Republican Faction,1080,1594,0.678,TRUE,FALSE
+meae.congressional.congress12.va.county,va.uscongress.15.1811,John W. Eppes,EJ0283,15,Democratic-Republican,514,1594,0.322,FALSE,FALSE
+meae.congressional.congress12.va.county,va.uscongress.16.1811,James Pleasants,PJ0579,16,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress12.va.county,va.uscongress.17.1811,Thomas Gholson,GT0098,17,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress12.va.county,va.uscongress.18.1811,Peterson Goodwyn,GP0075,18,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress12.va.county,va.uscongress.19.1811,Edwin Gray,GE0059,19,Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress12.va.county,va.uscongress.19.1811,Samuel Butler,BS0325,19,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress12.va.county,va.uscongress.20.1811,Thomas Newton,NT0024,20,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress12.va.county,va.uscongress.20.1811,Robert B. Taylor,TR0086,20,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress12.va.county,va.uscongress.21.1811,Hugh Nelson,NH0015,21,Democratic-Republican,NA,0,NA,TRUE,TRUE
+meae.congressional.congress12.va.county,va.uscongress.22.1811,John Clopton,CJ1097,22,Democratic-Republican,NA,0,NA,TRUE,TRUE

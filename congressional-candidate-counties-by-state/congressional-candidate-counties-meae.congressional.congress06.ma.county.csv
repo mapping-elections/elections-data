@@ -1,0 +1,236 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.1.1798,Hancock,mes_hancock,23009,"Lee, Silas",LS0019,Federalist,435
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.1.1798,Lincoln,mes_lincoln,23015,"Lee, Silas",LS0019,Federalist,301
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.1.1798,Washington,mes_washington,23029,"Lee, Silas",LS0019,Federalist,136
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.1.1798,Hancock,mes_hancock,23009,"Dearborn, Henry",DH0026,NA,45
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.1.1798,Lincoln,mes_lincoln,23015,"Dearborn, Henry",DH0026,NA,434
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.1.1798,Washington,mes_washington,23029,"Dearborn, Henry",DH0026,NA,33
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.1.1798,Hancock,mes_hancock,23009,"Dummer, Nathaniel",DN0019,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.1.1798,Lincoln,mes_lincoln,23015,"Dummer, Nathaniel",DN0019,NA,127
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.1.1798,Washington,mes_washington,23029,"Dummer, Nathaniel",DN0019,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.1.1798,Hancock,mes_hancock,23009,"Neal, Daniel",ND0007,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.1.1798,Lincoln,mes_lincoln,23015,"Neal, Daniel",ND0007,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.1.1798,Washington,mes_washington,23029,"Neal, Daniel",ND0007,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.1.1798,Hancock,mes_hancock,23009,"Rice, Thomas",RT0039,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.1.1798,Lincoln,mes_lincoln,23015,"Rice, Thomas",RT0039,NA,5
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.1.1798,Washington,mes_washington,23029,"Rice, Thomas",RT0039,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.1.1798,Hancock,mes_hancock,23009,"Sewall, Henry",SH0030,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.1.1798,Lincoln,mes_lincoln,23015,"Sewall, Henry",SH0030,NA,7
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.1.1798,Washington,mes_washington,23029,"Sewall, Henry",SH0030,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.2.1798,Cumberland,mes_cumberland,23005,"Longfellow, Stephen, Jr.",LS0011,Federalist,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.2.1798,Lincoln,mes_lincoln,23015,"Longfellow, Stephen, Jr.",LS0011,Federalist,4
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.2.1798,Cumberland,mes_cumberland,23005,"Wadsworth, Peleg",WP0012,Federalist,593
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.2.1798,Lincoln,mes_lincoln,23015,"Wadsworth, Peleg",WP0012,Federalist,316
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.2.1798,Cumberland,mes_cumberland,23005,"Ilsley, Daniel",ID0002,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.2.1798,Lincoln,mes_lincoln,23015,"Ilsley, Daniel",ID0002,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.2.1798,Cumberland,mes_cumberland,23005,"MacLellan, William",MW0113,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.2.1798,Lincoln,mes_lincoln,23015,"MacLellan, William",MW0113,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.2.1798,Cumberland,mes_cumberland,23005,"Russell, Samuel",RS0037,NA,2
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.2.1798,Lincoln,mes_lincoln,23015,"Russell, Samuel",RS0037,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.2.1798,Cumberland,mes_cumberland,23005,"Thacher, Josiah",TJ0159,NA,3
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.2.1798,Lincoln,mes_lincoln,23015,"Thacher, Josiah",TJ0159,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.2.1798,Cumberland,mes_cumberland,23005,"Turner, Charles",TC0071,NA,160
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.2.1798,Lincoln,mes_lincoln,23015,"Turner, Charles",TC0071,NA,164
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.2.1798,Cumberland,mes_cumberland,23005,"Widgery, William",WW0129,NA,13
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.2.1798,Lincoln,mes_lincoln,23015,"Widgery, William",WW0129,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.3.1798,Cumberland,mes_cumberland,23005,"Thacher, George",TG0012,Federalist,56
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.3.1798,York,mes_york,23031,"Thacher, George",TG0012,Federalist,716
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.3.1798,Cumberland,mes_cumberland,23005,"Clark, Jonas",CJ0289,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.3.1798,York,mes_york,23031,"Clark, Jonas",CJ0289,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.3.1798,Cumberland,mes_cumberland,23005,"Cutts, Thomas",CT0118,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.3.1798,York,mes_york,23031,"Cutts, Thomas",CT0118,NA,2
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.3.1798,Cumberland,mes_cumberland,23005,"Fairfield, John",FJ0166,NA,63
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.3.1798,Cumberland,mes_cumberland,23005,"Fairfield, John",FJ0175,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.3.1798,York,mes_york,23031,"Fairfield, John",FJ0166,NA,227
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.3.1798,York,mes_york,23031,"Fairfield, John",FJ0175,NA,116
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.3.1798,Cumberland,mes_cumberland,23005,"Tucker, Joseph",TJ0157,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.eastern.3.1798,York,mes_york,23031,"Tucker, Joseph",TJ0157,NA,33
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.1.1798,Middlesex,mas_middlesex,25017,"Otis, Harrison G.",OH0028,Federalist,222
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.1.1798,Norfolk,mas_norfolk,25021,"Otis, Harrison G.",OH0028,Federalist,219
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.1.1798,Suffolk,mas_suffolk,25025,"Otis, Harrison G.",OH0028,Federalist,1726
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.1.1798,Middlesex,mas_middlesex,25017,"Eustis, William",EW0031,NA,19
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.1.1798,Norfolk,mas_norfolk,25021,"Eustis, William",EW0031,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.1.1798,Suffolk,mas_suffolk,25025,"Eustis, William",EW0031,NA,3
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.1.1798,Middlesex,mas_middlesex,25017,"Heath, William",HW0171,NA,139
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.1.1798,Norfolk,mas_norfolk,25021,"Heath, William",HW0171,NA,615
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.1.1798,Suffolk,mas_suffolk,25025,"Heath, William",HW0171,NA,936
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.2.1798,Middlesex,mas_middlesex,25017,"Bigelow, Timothy",BT0122,Federalist,620
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.2.1798,Worcester,mas_worcester,25027,"Bigelow, Timothy",BT0122,Federalist,219
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.2.1798,Middlesex,mas_middlesex,25017,"Barns, Edward",BE0040,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.2.1798,Worcester,mas_worcester,25027,"Barns, Edward",BE0040,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.2.1798,Middlesex,mas_middlesex,25017,"Bartlett, Josiah S.",BJ0341,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.2.1798,Worcester,mas_worcester,25027,"Bartlett, Josiah S.",BJ0341,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.2.1798,Middlesex,mas_middlesex,25017,"Bridge, Ebenezer",BE0139,NA,54
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.2.1798,Worcester,mas_worcester,25027,"Bridge, Ebenezer",BE0139,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.2.1798,Middlesex,mas_middlesex,25017,"Brigham, Elijah",BE0103,NA,4
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.2.1798,Worcester,mas_worcester,25027,"Brigham, Elijah",BE0103,NA,6
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.2.1798,Middlesex,mas_middlesex,25017,"Dana, Samuel",DS0058,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.2.1798,Worcester,mas_worcester,25027,"Dana, Samuel",DS0058,NA,3
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.2.1798,Middlesex,mas_middlesex,25017,"Gerry, Elbridge",GE0049,NA,19
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.2.1798,Worcester,mas_worcester,25027,"Gerry, Elbridge",GE0049,NA,79
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.2.1798,Middlesex,mas_middlesex,25017,NA,Other candidates,NA,8
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.2.1798,Middlesex,mas_middlesex,25017,"Varnum, Joseph B.",VJ0024,NA,1590
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.2.1798,Worcester,mas_worcester,25027,"Varnum, Joseph B.",VJ0024,NA,174
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.3.1798,Essex,mas_essex,25009,"Dane, Nathan",DN0011,Federalist,2
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.3.1798,Middlesex,mas_middlesex,25017,"Dane, Nathan",DN0011,Federalist,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.3.1798,Suffolk,mas_suffolk,25025,"Dane, Nathan",DN0011,Federalist,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.3.1798,Essex,mas_essex,25009,"Pickman, Benjamin, Jr.",PB0029,Federalist,67
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.3.1798,Middlesex,mas_middlesex,25017,"Pickman, Benjamin, Jr.",PB0029,Federalist,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.3.1798,Suffolk,mas_suffolk,25025,"Pickman, Benjamin, Jr.",PB0029,Federalist,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.3.1798,Essex,mas_essex,25009,"Sewall, Samuel",SS0068,Federalist,482
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.3.1798,Middlesex,mas_middlesex,25017,"Sewall, Samuel",SS0068,Federalist,195
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.3.1798,Suffolk,mas_suffolk,25025,"Sewall, Samuel",SS0068,Federalist,15
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.3.1798,Essex,mas_essex,25009,"Baldwin, Leammi",BL0023,NA,5
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.3.1798,Middlesex,mas_middlesex,25017,"Baldwin, Leammi",BL0023,NA,194
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.3.1798,Suffolk,mas_suffolk,25025,"Baldwin, Leammi",BL0023,NA,3
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.3.1798,Essex,mas_essex,25009,"Holten, Samuel",HS0071,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.3.1798,Middlesex,mas_middlesex,25017,"Holten, Samuel",HS0071,NA,18
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.3.1798,Suffolk,mas_suffolk,25025,"Holten, Samuel",HS0071,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.3.1798,Essex,mas_essex,25009,"Ingersoll, Jonathan",IJ0013,NA,2
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.3.1798,Middlesex,mas_middlesex,25017,"Ingersoll, Jonathan",IJ0013,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.3.1798,Suffolk,mas_suffolk,25025,"Ingersoll, Jonathan",IJ0013,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.3.1798,Essex,mas_essex,25009,"Norris, John",NJ0062,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.3.1798,Middlesex,mas_middlesex,25017,"Norris, John",NJ0062,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.3.1798,Suffolk,mas_suffolk,25025,"Norris, John",NJ0062,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.4.1798,Essex,mas_essex,25009,"Bartlett, Bailey",BB0019,Federalist,588
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.4.1798,Essex,mas_essex,25009,"Bradford, Ebenezer",BE0039,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.4.1798,Essex,mas_essex,25009,"Cross, Stephen",CS0088,NA,2
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.4.1798,Essex,mas_essex,25009,"Kittridge, Thomas",KT0032,NA,30
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.4.1798,Essex,mas_essex,25009,"Sargent, Christopher",SC0186,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.4.1798,Essex,mas_essex,25009,"Smith, Josiah",SJ0404,NA,2
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.4.1798,Essex,mas_essex,25009,"Swansey, Joseph",SJ0430,NA,32
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.middle.4.1798,Essex,mas_essex,25009,"Wingate, Joseph",WJ0380,NA,3
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.1.ballot5.1799,Barnstable,mas_barnstable,25001,"Coffin, Isaac",CI0010,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.1.ballot5.1799,Bristol,mas_bristol,25005,"Coffin, Isaac",CI0010,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.1.ballot5.1799,Dukes,mas_dukes,25007,"Coffin, Isaac",CI0010,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.1.ballot5.1799,Nantucket,mas_nantucket,25019,"Coffin, Isaac",CI0010,NA,2
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.1.ballot5.1799,Plymouth,mas_plymouth,25023,"Coffin, Isaac",CI0010,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.1.ballot5.1799,Barnstable,mas_barnstable,25001,"Coffin, Micajah",CM0017,NA,66
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.1.ballot5.1799,Bristol,mas_bristol,25005,"Coffin, Micajah",CM0017,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.1.ballot5.1799,Dukes,mas_dukes,25007,"Coffin, Micajah",CM0017,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.1.ballot5.1799,Nantucket,mas_nantucket,25019,"Coffin, Micajah",CM0017,NA,148
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.1.ballot5.1799,Plymouth,mas_plymouth,25023,"Coffin, Micajah",CM0017,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.1.ballot5.1799,Barnstable,mas_barnstable,25001,NA,NA,NA,4
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.1.ballot5.1799,Barnstable,mas_barnstable,25001,"Savage, Samuel",SS0067,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.1.ballot5.1799,Bristol,mas_bristol,25005,"Savage, Samuel",SS0067,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.1.ballot5.1799,Dukes,mas_dukes,25007,"Savage, Samuel",SS0067,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.1.ballot5.1799,Nantucket,mas_nantucket,25019,"Savage, Samuel",SS0067,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.1.ballot5.1799,Plymouth,mas_plymouth,25023,"Savage, Samuel",SS0067,NA,19
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.1.ballot5.1799,Barnstable,mas_barnstable,25001,"Williams, John",WJ0428,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.1.ballot5.1799,Bristol,mas_bristol,25005,"Williams, John",WJ0428,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.1.ballot5.1799,Dukes,mas_dukes,25007,"Williams, John",WJ0428,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.1.ballot5.1799,Nantucket,mas_nantucket,25019,"Williams, John",WJ0428,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.1.ballot5.1799,Plymouth,mas_plymouth,25023,"Williams, John",WJ0428,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.1.ballot5.1799,Barnstable,mas_barnstable,25001,"Williams, Lemuel",WL0031,NA,221
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.1.ballot5.1799,Bristol,mas_bristol,25005,"Williams, Lemuel",WL0031,NA,285
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.1.ballot5.1799,Dukes,mas_dukes,25007,"Williams, Lemuel",WL0031,NA,24
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.1.ballot5.1799,Nantucket,mas_nantucket,25019,"Williams, Lemuel",WL0031,NA,43
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.1.ballot5.1799,Plymouth,mas_plymouth,25023,"Williams, Lemuel",WL0031,NA,63
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Norfolk,mas_norfolk,25021,"Read, John",RJ0226,Federalist,170
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Plymouth,mas_plymouth,25023,"Read, John",RJ0226,Federalist,1016
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Suffolk,mas_suffolk,25025,"Read, John",RJ0226,Federalist,69
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Norfolk,mas_norfolk,25021,"Angier, Samuel",AS0025,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Plymouth,mas_plymouth,25023,"Angier, Samuel",AS0025,NA,2
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Suffolk,mas_suffolk,25025,"Angier, Samuel",AS0025,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Norfolk,mas_norfolk,25021,"Croswell, Joseph",CJ0291,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Plymouth,mas_plymouth,25023,"Croswell, Joseph",CJ0291,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Suffolk,mas_suffolk,25025,"Croswell, Joseph",CJ0291,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Norfolk,mas_norfolk,25021,"Howell, Adam",HA0105,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Plymouth,mas_plymouth,25023,"Howell, Adam",HA0105,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Suffolk,mas_suffolk,25025,"Howell, Adam",HA0105,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Norfolk,mas_norfolk,25021,"Niles, Samuel",NS0034,NA,30
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Plymouth,mas_plymouth,25023,"Niles, Samuel",NS0034,NA,68
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Suffolk,mas_suffolk,25025,"Niles, Samuel",NS0034,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Norfolk,mas_norfolk,25021,"Partridge, George",PG0027,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Plymouth,mas_plymouth,25023,"Partridge, George",PG0027,NA,2
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Suffolk,mas_suffolk,25025,"Partridge, George",PG0027,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Norfolk,mas_norfolk,25021,"Smith, Joseph",SJ0403,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Plymouth,mas_plymouth,25023,"Smith, Joseph",SJ0403,NA,7
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Suffolk,mas_suffolk,25025,"Smith, Joseph",SJ0403,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Norfolk,mas_norfolk,25021,"Snow, Daniel",SD0059,NA,145
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Plymouth,mas_plymouth,25023,"Snow, Daniel",SD0059,NA,182
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Suffolk,mas_suffolk,25025,"Snow, Daniel",SD0059,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Norfolk,mas_norfolk,25021,"Swift, John",SJ0428,NA,110
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Plymouth,mas_plymouth,25023,"Swift, John",SJ0428,NA,449
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Suffolk,mas_suffolk,25025,"Swift, John",SJ0428,NA,24
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Norfolk,mas_norfolk,25021,"Thayer, Ebenezer",TE0036,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Plymouth,mas_plymouth,25023,"Thayer, Ebenezer",TE0036,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Suffolk,mas_suffolk,25025,"Thayer, Ebenezer",TE0036,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Norfolk,mas_norfolk,25021,"Turner, Charles, Jr.",TC0016,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Plymouth,mas_plymouth,25023,"Turner, Charles, Jr.",TC0016,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Suffolk,mas_suffolk,25025,"Turner, Charles, Jr.",TC0016,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Norfolk,mas_norfolk,25021,"Turner, John",TJ0151,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Plymouth,mas_plymouth,25023,"Turner, John",TJ0151,NA,2
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Suffolk,mas_suffolk,25025,"Turner, John",TJ0151,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Norfolk,mas_norfolk,25021,"Warren, Henry",WH0030,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Plymouth,mas_plymouth,25023,"Warren, Henry",WH0030,NA,2
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Suffolk,mas_suffolk,25025,"Warren, Henry",WH0030,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Norfolk,mas_norfolk,25021,"Warren, James",WJ0248,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Plymouth,mas_plymouth,25023,"Warren, James",WJ0248,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Suffolk,mas_suffolk,25025,"Warren, James",WJ0248,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Norfolk,mas_norfolk,25021,"Whitman, Benjamin",WB0026,NA,7
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Plymouth,mas_plymouth,25023,"Whitman, Benjamin",WB0026,NA,24
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Suffolk,mas_suffolk,25025,"Whitman, Benjamin",WB0026,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Norfolk,mas_norfolk,25021,"Whitman, Kilborn",WK0000,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Plymouth,mas_plymouth,25023,"Whitman, Kilborn",WK0000,NA,76
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.2.1798,Suffolk,mas_suffolk,25025,"Whitman, Kilborn",WK0000,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.3.ballot4.1799,Bristol,mas_bristol,25005,"Bishop, Phanuel",BP0031,NA,1270
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.3.ballot4.1799,Norfolk,mas_norfolk,25021,"Bishop, Phanuel",BP0031,NA,313
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.3.ballot4.1799,Bristol,mas_bristol,25005,"Bullen, Moses",BM0034,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.3.ballot4.1799,Norfolk,mas_norfolk,25021,"Bullen, Moses",BM0034,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.3.ballot4.1799,Bristol,mas_bristol,25005,"Bullock, Stephen",BS0112,NA,1029
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.3.ballot4.1799,Norfolk,mas_norfolk,25021,"Bullock, Stephen",BS0112,NA,425
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.3.ballot4.1799,Bristol,mas_bristol,25005,"Leonard, George",LG0029,NA,2
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.southern.3.ballot4.1799,Norfolk,mas_norfolk,25021,"Leonard, George",LG0029,NA,2
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.1.1798,Berkshire,mas_berkshire,25003,"Sedgwick, Theodore",ST0102,Federalist,1565
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.1.1798,Hampshire,mas_hampshire,25015,"Sedgwick, Theodore",ST0102,Federalist,229
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.1.1798,Berkshire,mas_berkshire,25003,"Bacon, John",BJ0484,NA,54
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.1.1798,Hampshire,mas_hampshire,25015,"Bacon, John",BJ0484,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.1.1798,Berkshire,mas_berkshire,25003,"Bidwell, Barnabus",BB0057,NA,34
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.1.1798,Hampshire,mas_hampshire,25015,"Bidwell, Barnabus",BB0057,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.1.1798,Berkshire,mas_berkshire,25003,"Ives, Thomas",IT0000,NA,431
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.1.1798,Hampshire,mas_hampshire,25015,"Ives, Thomas",IT0000,NA,12
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.1.1798,Berkshire,mas_berkshire,25003,"Larned, Simon",LS0021,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.1.1798,Hampshire,mas_hampshire,25015,"Larned, Simon",LS0021,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.1.1798,Berkshire,mas_berkshire,25003,"Skinner, Tompson J.",ST0101,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.1.1798,Hampshire,mas_hampshire,25015,"Skinner, Tompson J.",ST0101,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.1.1798,Berkshire,mas_berkshire,25003,"Townes, William",TW0081,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.1.1798,Hampshire,mas_hampshire,25015,"Townes, William",TW0081,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.1.1798,Berkshire,mas_berkshire,25003,"Walker, William",WW0322,NA,30
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.1.1798,Hampshire,mas_hampshire,25015,"Walker, William",WW0322,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.1.1798,Berkshire,mas_berkshire,25003,"Williams, Ephraim",WE0051,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.1.1798,Hampshire,mas_hampshire,25015,"Williams, Ephraim",WE0051,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.2.1798,Hampshire,mas_hampshire,25015,"Lyman, Joseph",LJ0212,Federalist,15
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.2.1798,Hampshire,mas_hampshire,25015,"Strong, Caleb",SC0023,Federalist,4
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.2.1798,Hampshire,mas_hampshire,25015,"Ford, Samuel S.",FS0045,NA,2
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.2.1798,Hampshire,mas_hampshire,25015,"Henshaw, Samuel",HS0048,NA,2
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.2.1798,Hampshire,mas_hampshire,25015,"Hunt, Ebenezer",HE0035,NA,6
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.2.1798,Hampshire,mas_hampshire,25015,"Hunt, Seth",HS0100,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.2.1798,Hampshire,mas_hampshire,25015,"Lyman, William",LW0055,NA,118
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.2.1798,Hampshire,mas_hampshire,25015,"Shepard, William",SW0150,NA,1032
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.2.1798,Hampshire,mas_hampshire,25015,"Williams, John C.",WJ0343,NA,6
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.3.1798,Hampshire,mas_hampshire,25015,"Lyman, Samuel",LS0018,Federalist,739
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.3.1798,Worcester,mas_worcester,25027,"Lyman, Samuel",LS0018,Federalist,456
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.3.1798,Hampshire,mas_hampshire,25015,"Mattoon, Ebenezer, Jr.",ME0042,Federalist,3
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.3.1798,Worcester,mas_worcester,25027,"Mattoon, Ebenezer, Jr.",ME0042,Federalist,18
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.3.1798,Hampshire,mas_hampshire,25015,"Bigelow, Daniel",BD0045,NA,30
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.3.1798,Worcester,mas_worcester,25027,"Bigelow, Daniel",BD0045,NA,56
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.3.1798,Hampshire,mas_hampshire,25015,"Foster, Nathan",FN0020,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.3.1798,Worcester,mas_worcester,25027,"Foster, Nathan",FN0020,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.3.1798,Hampshire,mas_hampshire,25015,"Grout, Jonathan",GJ0158,NA,25
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.3.1798,Worcester,mas_worcester,25027,"Grout, Jonathan",GJ0158,NA,8
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.3.1798,Hampshire,mas_hampshire,25015,"Holland, Park",HP0035,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.3.1798,Worcester,mas_worcester,25027,"Holland, Park",HP0035,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.3.1798,Hampshire,mas_hampshire,25015,"Metcalf, Joseph",MJ0308,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.3.1798,Worcester,mas_worcester,25027,"Metcalf, Joseph",MJ0308,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.3.1798,Hampshire,mas_hampshire,25015,"Peirce, Varney",PV0003,NA,13
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.3.1798,Worcester,mas_worcester,25027,"Peirce, Varney",PV0003,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.3.1798,Hampshire,mas_hampshire,25015,"Strong, Simeon",SS0125,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.3.1798,Worcester,mas_worcester,25027,"Strong, Simeon",SS0125,NA,0
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.4.1798,Worcester,mas_worcester,25027,"Foster, Dwight",FD0007,Federalist,1358
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.4.1798,Worcester,mas_worcester,25027,"Allen, Joseph",AJ0113,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.4.1798,Worcester,mas_worcester,25027,"Austin, Samuel",AS0036,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.4.1798,Worcester,mas_worcester,25027,"Baird, Samuel",BS0077,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.4.1798,Worcester,mas_worcester,25027,"Jones, Samuel",JS0028,NA,1
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.4.1798,Worcester,mas_worcester,25027,"Lincoln, Levi",LL0038,NA,323
+meae.congressional.congress06.ma.county,congressional,6,MA,county,state,ma.uscongress.western.4.1798,Worcester,mas_worcester,25027,"Taft, Bazaleel",TB0028,NA,1

@@ -1,0 +1,22 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress11.sc.county,sc.uscongress.district1.1808,Robert Marion,MR0181,1,Democratic-Republican,1069,1567,0.682,TRUE,FALSE
+meae.congressional.congress11.sc.county,sc.uscongress.district1.1808,Thomas Lowndes,LT0118,1,Federalist,471,1567,0.301,FALSE,FALSE
+meae.congressional.congress11.sc.county,sc.uscongress.district1.1808,Christopher Fuller,FC0049,1,Democratic-Republican,1,1567,0.001,FALSE,FALSE
+meae.congressional.congress11.sc.county,sc.uscongress.district1.1808,scattering,NA,1,NA,26,1567,0.017,FALSE,FALSE
+meae.congressional.congress11.sc.county,sc.uscongress.district2.1808,William Butler,BW0365,2,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress11.sc.county,sc.uscongress.district2.1808,Thomas Deveaux,DT0102,2,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress11.sc.county,sc.uscongress.district2.1808,William Huston,HW0232,2,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress11.sc.county,sc.uscongress.district2.1808,A. Abergoty,AA0084,2,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress11.sc.county,sc.uscongress.district2.1808,Edmund Bacon,BE0206,2,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress11.sc.county,sc.uscongress.district2.1808,C. J. Colcock,CC0123,2,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress11.sc.county,sc.uscongress.district2.1808,Robert Starke,SR0266,2,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress11.sc.county,sc.uscongress.district3.1808,Robert Witherspoon,WR0147,3,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress11.sc.county,sc.uscongress.district3.1808,Theodore Gourdin,GT0086,3,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress11.sc.county,sc.uscongress.district4.1808,John Taylor,TJ0451,4,Democratic-Republican,297,297,1,TRUE,TRUE
+meae.congressional.congress11.sc.county,sc.uscongress.district5.1808,Richard Winn,WR0158,5,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress11.sc.county,sc.uscongress.district5.1808,William Ellison,EW0071,5,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress11.sc.county,sc.uscongress.district6.1808,Joseph C. Calhoun,CJ1013,6,Democratic-Republican,936,1226,0.763,TRUE,FALSE
+meae.congressional.congress11.sc.county,sc.uscongress.district6.1808,William Burnsides,BW0371,6,NA,290,1226,0.237,FALSE,FALSE
+meae.congressional.congress11.sc.county,sc.uscongress.district7.1808,Thomas Moore,MT0220,7,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress11.sc.county,sc.uscongress.district7.1808,NA,NA,7,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress11.sc.county,sc.uscongress.district8.1808,Lemuel James Alston,AL0009,8,Democratic-Republican,NA,0,NA,TRUE,TRUE

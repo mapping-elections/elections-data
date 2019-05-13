@@ -1,0 +1,4 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress09.tn.county,tn.congress.hamilton.1805,George W. Campbell,CG0108,2,Democratic-Republican,5210,5210,1,TRUE,TRUE
+meae.congressional.congress09.tn.county,tn.congressdistrict1.1805,John Rhea,RJ0595,1,Democratic-Republican,4130,4130,1,TRUE,TRUE
+meae.congressional.congress09.tn.county,tn.uscongressdistrict3.1805,William Dickson,DW0184,3,Democratic-Republican,6006,6006,1,TRUE,TRUE

@@ -1,0 +1,202 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress1.1822,Clermont,ohs_clermont,39025,"Gazlay, James W.",GJ0367,Jacksonian,716
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress1.1822,Hamilton,ohs_hamilton,39061,"Gazlay, James W.",GJ0367,Jacksonian,2460
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress1.1822,Clermont,ohs_clermont,39025,"Harrison, William H.",HW0286,Adams/Clay,1077
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress1.1822,Hamilton,ohs_hamilton,39061,"Harrison, William H.",HW0286,Adams/Clay,1757
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress10.1822,Belmont,ohs_belmont,39013,"Hammond, Charles",HC0091,Federalist,1218
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress10.1822,Guernsey,ohs_guernsey,39059,"Hammond, Charles",HC0091,Federalist,441
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress10.1822,Monroe,ohs_monroe,39111,"Hammond, Charles",HC0091,Federalist,143
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress10.1822,Morgan,ohs_morgan,39115,"Hammond, Charles",HC0091,Federalist,98
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress10.1822,Belmont,ohs_belmont,39013,"Patterson, John",PJ0401,Adams/Clay,1015
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress10.1822,Guernsey,ohs_guernsey,39059,"Patterson, John",PJ0401,Adams/Clay,582
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress10.1822,Monroe,ohs_monroe,39111,"Patterson, John",PJ0401,Adams/Clay,205
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress10.1822,Morgan,ohs_morgan,39115,"Patterson, John",PJ0401,Adams/Clay,403
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress11.1822,Harrison,ohs_harrison,39067,"Kimmel, John",KJ0093,NA,2
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress11.1822,Jefferson,ohs_jefferson,39081,"Kimmel, John",KJ0093,NA,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress11.1822,Tuscarawas,ohs_tuscarawas,39157,"Kimmel, John",KJ0093,NA,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress11.1822,Harrison,ohs_harrison,39067,"MacLaughlin, John",MJ0639,NA,676
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress11.1822,Jefferson,ohs_jefferson,39081,"MacLaughlin, John",MJ0639,NA,459
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress11.1822,Tuscarawas,ohs_tuscarawas,39157,"MacLaughlin, John",MJ0639,NA,431
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress11.1822,Harrison,ohs_harrison,39067,"Wright, John C.",WJ0569,Adams/Clay,537
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress11.1822,Jefferson,ohs_jefferson,39081,"Wright, John C.",WJ0569,Adams/Clay,1201
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress11.1822,Tuscarawas,ohs_tuscarawas,39157,"Wright, John C.",WJ0569,Adams/Clay,464
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress12.1822,Columbiana,ohs_columbiana,39029,"Crane, George M.",CG0092,NA,48
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress12.1822,Stark,ohs_stark,39151,"Crane, George M.",CG0092,NA,3
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress12.1822,Wayne,ohs_wayne,39169,"Crane, George M.",CG0092,NA,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress12.1822,Columbiana,ohs_columbiana,39029,"Sloane, John",SJ0866,Adams/Clay,1629
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress12.1822,Stark,ohs_stark,39151,"Sloane, John",SJ0866,Adams/Clay,1387
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress12.1822,Wayne,ohs_wayne,39169,"Sloane, John",SJ0866,Adams/Clay,1437
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress13.1822,Ashtabula,ohs_ashtabula,39007,"Baldwin, Eli",BE0250,NA,105
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress13.1822,Geauga,ohs_geauga,39055,"Baldwin, Eli",BE0250,NA,232
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress13.1822,Portage,ohs_portage,39133,"Baldwin, Eli",BE0250,NA,494
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress13.1822,Trumbull,ohs_trumbull,39155,"Baldwin, Eli",BE0250,NA,888
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress13.1822,Ashtabula,ohs_ashtabula,39007,"Bentley, Adamson",BA0182,NA,35
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress13.1822,Geauga,ohs_geauga,39055,"Bentley, Adamson",BA0182,NA,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress13.1822,Portage,ohs_portage,39133,"Bentley, Adamson",BA0182,NA,6
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress13.1822,Trumbull,ohs_trumbull,39155,"Bentley, Adamson",BA0182,NA,166
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress13.1822,Ashtabula,ohs_ashtabula,39007,"King, Nehemiah",KN0011,NA,461
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress13.1822,Geauga,ohs_geauga,39055,"King, Nehemiah",KN0011,NA,73
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress13.1822,Portage,ohs_portage,39133,"King, Nehemiah",KN0011,NA,11
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress13.1822,Trumbull,ohs_trumbull,39155,"King, Nehemiah",KN0011,NA,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress13.1822,Ashtabula,ohs_ashtabula,39007,NA,Other candidates,NA,14
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress13.1822,Trumbull,ohs_trumbull,39155,NA,Other candidates,NA,4
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress13.1822,Ashtabula,ohs_ashtabula,39007,"Perkins, Simeon",PS0043,NA,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress13.1822,Geauga,ohs_geauga,39055,"Perkins, Simeon",PS0043,NA,1
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress13.1822,Portage,ohs_portage,39133,"Perkins, Simeon",PS0043,NA,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress13.1822,Trumbull,ohs_trumbull,39155,"Perkins, Simeon",PS0043,NA,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress13.1822,Ashtabula,ohs_ashtabula,39007,"Phelps, Samuel W.",PS0071,NA,10
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress13.1822,Geauga,ohs_geauga,39055,"Phelps, Samuel W.",PS0071,NA,444
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress13.1822,Portage,ohs_portage,39133,"Phelps, Samuel W.",PS0071,NA,65
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress13.1822,Trumbull,ohs_trumbull,39155,"Phelps, Samuel W.",PS0071,NA,2
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress13.1822,Ashtabula,ohs_ashtabula,39007,"Whittlesey, Elisha",WE0121,Adams/Clay,407
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress13.1822,Geauga,ohs_geauga,39055,"Whittlesey, Elisha",WE0121,Adams/Clay,74
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress13.1822,Portage,ohs_portage,39133,"Whittlesey, Elisha",WE0121,Adams/Clay,472
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress13.1822,Trumbull,ohs_trumbull,39155,"Whittlesey, Elisha",WE0121,Adams/Clay,832
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress14.1822,Cuyahoga,ohs_cuyahoga,39035,"Bartley, Mordecai",BM0087,Adams/Clay,163
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress14.1822,Huron,ohs_huron,39077,"Bartley, Mordecai",BM0087,Adams/Clay,486
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress14.1822,Medina,ohs_medina,39103,"Bartley, Mordecai",BM0087,Adams/Clay,116
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress14.1822,Richland,ohs_richland,39139,"Bartley, Mordecai",BM0087,Adams/Clay,1151
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress14.1822,Sandusky and Seneca,NA,NA,"Bartley, Mordecai",BM0087,Adams/Clay,119
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress14.1822,Cuyahoga,ohs_cuyahoga,39035,"Kelley, Alfred",KA0057,NA,764
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress14.1822,Huron,ohs_huron,39077,"Kelley, Alfred",KA0057,NA,426
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress14.1822,Medina,ohs_medina,39103,"Kelley, Alfred",KA0057,NA,285
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress14.1822,Richland,ohs_richland,39139,"Kelley, Alfred",KA0057,NA,8
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress14.1822,Sandusky and Seneca,NA,NA,"Kelley, Alfred",KA0057,NA,143
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress2.1822,Butler,ohs_butler,39017,"Ross, Thomas R.",RT0081,Crawford,1923
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress2.1822,Warren,ohs_warren,39165,"Ross, Thomas R.",RT0081,Crawford,1181
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Darke,ohs_darke,39037,"Blodget, William",BW0263,NA,27
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Miami,ohs_miami,39109,"Blodget, William",BW0263,NA,14
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Montgomery,ohs_montgomery,39113,"Blodget, William",BW0263,NA,552
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Preble,ohs_preble,39135,"Blodget, William",BW0263,NA,66
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Shelby,ohs_shelby,39149,"Blodget, William",BW0263,NA,20
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Darke,ohs_darke,39037,"Crane, Joseph H.",CJ0604,NA,6
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Miami,ohs_miami,39109,"Crane, Joseph H.",CJ0604,NA,172
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Montgomery,ohs_montgomery,39113,"Crane, Joseph H.",CJ0604,NA,973
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Preble,ohs_preble,39135,"Crane, Joseph H.",CJ0604,NA,51
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Shelby,ohs_shelby,39149,"Crane, Joseph H.",CJ0604,NA,28
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Darke,ohs_darke,39037,"Hawkins, J.L.",HJ0724,NA,86
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Miami,ohs_miami,39109,"Hawkins, J.L.",HJ0724,NA,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Montgomery,ohs_montgomery,39113,"Hawkins, J.L.",HJ0724,NA,73
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Preble,ohs_preble,39135,"Hawkins, J.L.",HJ0724,NA,449
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Shelby,ohs_shelby,39149,"Hawkins, J.L.",HJ0724,NA,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Darke,ohs_darke,39037,"Hawkins, Joseph",HJ0329,NA,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Miami,ohs_miami,39109,"Hawkins, Joseph",HJ0329,NA,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Montgomery,ohs_montgomery,39113,"Hawkins, Joseph",HJ0329,NA,5
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Preble,ohs_preble,39135,"Hawkins, Joseph",HJ0329,NA,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Shelby,ohs_shelby,39149,"Hawkins, Joseph",HJ0329,NA,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Darke,ohs_darke,39037,"Houts, John",HJ0258,NA,22
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Miami,ohs_miami,39109,"Houts, John",HJ0258,NA,35
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Montgomery,ohs_montgomery,39113,"Houts, John",HJ0258,NA,177
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Preble,ohs_preble,39135,"Houts, John",HJ0258,NA,116
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Shelby,ohs_shelby,39149,"Houts, John",HJ0258,NA,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Darke,ohs_darke,39037,"Lowry, Fielding",LF0011,NA,15
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Miami,ohs_miami,39109,"Lowry, Fielding",LF0011,NA,424
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Montgomery,ohs_montgomery,39113,"Lowry, Fielding",LF0011,NA,18
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Preble,ohs_preble,39135,"Lowry, Fielding",LF0011,NA,5
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Shelby,ohs_shelby,39149,"Lowry, Fielding",LF0011,NA,5
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Darke,ohs_darke,39037,"MacLean, William",MW0279,Adams/Clay,318
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Miami,ohs_miami,39109,"MacLean, William",MW0279,Adams/Clay,390
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Montgomery,ohs_montgomery,39113,"MacLean, William",MW0279,Adams/Clay,231
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Preble,ohs_preble,39135,"MacLean, William",MW0279,Adams/Clay,200
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress3.1822,Shelby,ohs_shelby,39149,"MacLean, William",MW0279,Adams/Clay,211
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress4.1822,Champaign,ohs_champaign,39021,"Vance, Joseph",VJ0083,Adams/Clay,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress4.1822,Clark,ohs_clark,39023,"Vance, Joseph",VJ0083,Adams/Clay,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress4.1822,Greene,ohs_greene,39057,"Vance, Joseph",VJ0083,Adams/Clay,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress4.1822,Logan,ohs_logan,39091,"Vance, Joseph",VJ0083,Adams/Clay,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress4.1822,Madison,ohs_madison,39097,"Vance, Joseph",VJ0083,Adams/Clay,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress4.1822,Union,ohs_union,39159,"Vance, Joseph",VJ0083,Adams/Clay,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress4.1822,Wood,ohs_wood,39173,"Vance, Joseph",VJ0083,Adams/Clay,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress5.1822,Adams,ohs_adams,39001,"Campbell, John W.",CJ0622,Jacksonian,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress5.1822,Brown,ohs_brown,39015,"Campbell, John W.",CJ0622,Jacksonian,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress5.1822,Clinton,ohs_clinton,39027,"Campbell, John W.",CJ0622,Jacksonian,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress5.1822,Highland,ohs_highland,39071,"Campbell, John W.",CJ0622,Jacksonian,1126
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress6.1822,Fayette,ohs_fayette,39047,"Atwater, Caleb",AC0021,NA,22
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress6.1822,Hocking,ohs_hocking,39073,"Atwater, Caleb",AC0021,NA,5
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress6.1822,Pickaway,ohs_pickaway,39129,"Atwater, Caleb",AC0021,NA,745
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress6.1822,Ross,ohs_ross,39141,"Atwater, Caleb",AC0021,NA,13
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress6.1822,Fayette,ohs_fayette,39047,"Brush, Henry",BH0091,Democratic-Republican,297
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress6.1822,Hocking,ohs_hocking,39073,"Brush, Henry",BH0091,Democratic-Republican,9
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress6.1822,Pickaway,ohs_pickaway,39129,"Brush, Henry",BH0091,Democratic-Republican,450
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress6.1822,Ross,ohs_ross,39141,"Brush, Henry",BH0091,Democratic-Republican,166
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress6.1822,Fayette,ohs_fayette,39047,"Douglas, Richard",DR0039,NA,153
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress6.1822,Hocking,ohs_hocking,39073,"Douglas, Richard",DR0039,NA,92
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress6.1822,Pickaway,ohs_pickaway,39129,"Douglas, Richard",DR0039,NA,83
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress6.1822,Ross,ohs_ross,39141,"Douglas, Richard",DR0039,NA,255
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress6.1822,Fayette,ohs_fayette,39047,"King, Edward",KE0035,NA,44
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress6.1822,Hocking,ohs_hocking,39073,"King, Edward",KE0035,NA,49
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress6.1822,Pickaway,ohs_pickaway,39129,"King, Edward",KE0035,NA,168
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress6.1822,Ross,ohs_ross,39141,"King, Edward",KE0035,NA,568
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress6.1822,Fayette,ohs_fayette,39047,"MacArthur, Duncan",MD0142,Adams/Clay,246
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress6.1822,Hocking,ohs_hocking,39073,"MacArthur, Duncan",MD0142,Adams/Clay,12
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress6.1822,Pickaway,ohs_pickaway,39129,"MacArthur, Duncan",MD0142,Adams/Clay,223
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress6.1822,Ross,ohs_ross,39141,"MacArthur, Duncan",MD0142,Adams/Clay,850
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress6.1822,Fayette,ohs_fayette,39047,"Scott, Thomas",ST0206,NA,22
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress6.1822,Hocking,ohs_hocking,39073,"Scott, Thomas",ST0206,NA,24
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress6.1822,Pickaway,ohs_pickaway,39129,"Scott, Thomas",ST0206,NA,162
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress6.1822,Ross,ohs_ross,39141,"Scott, Thomas",ST0206,NA,149
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress7.1822,Athens,ohs_athens,39009,"Barber, Levi",BL0052,Democratic-Republican,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress7.1822,Gallia,ohs_gallia,39053,"Barber, Levi",BL0052,Democratic-Republican,73
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress7.1822,Jackson,ohs_jackson,39079,"Barber, Levi",BL0052,Democratic-Republican,75
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress7.1822,Lawrence,ohs_lawrence,39087,"Barber, Levi",BL0052,Democratic-Republican,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress7.1822,Meigs,ohs_meigs,39105,"Barber, Levi",BL0052,Democratic-Republican,66
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress7.1822,Pike,ohs_pike,39131,"Barber, Levi",BL0052,Democratic-Republican,90
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress7.1822,Scioto,ohs_scioto,39145,"Barber, Levi",BL0052,Democratic-Republican,83
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress7.1822,Washington,ohs_washington,39167,"Barber, Levi",BL0052,Democratic-Republican,503
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress7.1822,Athens,ohs_athens,39009,"Lucas, Robert",LR0031,Democratic-Republican,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress7.1822,Gallia,ohs_gallia,39053,"Lucas, Robert",LR0031,Democratic-Republican,29
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress7.1822,Jackson,ohs_jackson,39079,"Lucas, Robert",LR0031,Democratic-Republican,172
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress7.1822,Lawrence,ohs_lawrence,39087,"Lucas, Robert",LR0031,Democratic-Republican,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress7.1822,Meigs,ohs_meigs,39105,"Lucas, Robert",LR0031,Democratic-Republican,2
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress7.1822,Pike,ohs_pike,39131,"Lucas, Robert",LR0031,Democratic-Republican,300
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress7.1822,Scioto,ohs_scioto,39145,"Lucas, Robert",LR0031,Democratic-Republican,235
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress7.1822,Washington,ohs_washington,39167,"Lucas, Robert",LR0031,Democratic-Republican,6
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress7.1822,Athens,ohs_athens,39009,"Vinton, Samuel F.",VS0017,Adams/Clay,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress7.1822,Gallia,ohs_gallia,39053,"Vinton, Samuel F.",VS0017,Adams/Clay,470
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress7.1822,Jackson,ohs_jackson,39079,"Vinton, Samuel F.",VS0017,Adams/Clay,183
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress7.1822,Lawrence,ohs_lawrence,39087,"Vinton, Samuel F.",VS0017,Adams/Clay,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress7.1822,Meigs,ohs_meigs,39105,"Vinton, Samuel F.",VS0017,Adams/Clay,214
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress7.1822,Pike,ohs_pike,39131,"Vinton, Samuel F.",VS0017,Adams/Clay,15
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress7.1822,Scioto,ohs_scioto,39145,"Vinton, Samuel F.",VS0017,Adams/Clay,385
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress7.1822,Washington,ohs_washington,39167,"Vinton, Samuel F.",VS0017,Adams/Clay,184
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress8.1822,Coshocton,ohs_coshocton,39031,"Gavit, William",GW0115,NA,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress8.1822,Delaware,ohs_delaware,39041,"Gavit, William",GW0115,NA,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress8.1822,Franklin,ohs_franklin,39049,"Gavit, William",GW0115,NA,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress8.1822,Knox,ohs_knox,39083,"Gavit, William",GW0115,NA,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress8.1822,Licking,ohs_licking,39089,"Gavit, William",GW0115,NA,22
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress8.1822,Coshocton,ohs_coshocton,39031,"Kilbourn, James",KJ0144,NA,86
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress8.1822,Delaware,ohs_delaware,39041,"Kilbourn, James",KJ0144,NA,434
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress8.1822,Franklin,ohs_franklin,39049,"Kilbourn, James",KJ0144,NA,321
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress8.1822,Knox,ohs_knox,39083,"Kilbourn, James",KJ0144,NA,33
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress8.1822,Licking,ohs_licking,39089,"Kilbourn, James",KJ0144,NA,106
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress8.1822,Coshocton,ohs_coshocton,39031,"Norton, Daniel S.",ND0025,NA,4
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress8.1822,Delaware,ohs_delaware,39041,"Norton, Daniel S.",ND0025,NA,54
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress8.1822,Franklin,ohs_franklin,39049,"Norton, Daniel S.",ND0025,NA,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress8.1822,Knox,ohs_knox,39083,"Norton, Daniel S.",ND0025,NA,508
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress8.1822,Licking,ohs_licking,39089,"Norton, Daniel S.",ND0025,NA,53
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress8.1822,Coshocton,ohs_coshocton,39031,"Parish, Orris",PO0021,NA,35
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress8.1822,Delaware,ohs_delaware,39041,"Parish, Orris",PO0021,NA,477
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress8.1822,Franklin,ohs_franklin,39049,"Parish, Orris",PO0021,NA,770
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress8.1822,Knox,ohs_knox,39083,"Parish, Orris",PO0021,NA,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress8.1822,Licking,ohs_licking,39089,"Parish, Orris",PO0021,NA,169
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress8.1822,Coshocton,ohs_coshocton,39031,"Stanberry, William",SW0192,NA,0
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress8.1822,Delaware,ohs_delaware,39041,"Stanberry, William",SW0192,NA,20
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress8.1822,Franklin,ohs_franklin,39049,"Stanberry, William",SW0192,NA,9
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress8.1822,Knox,ohs_knox,39083,"Stanberry, William",SW0192,NA,3
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress8.1822,Licking,ohs_licking,39089,"Stanberry, William",SW0192,NA,118
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress8.1822,Coshocton,ohs_coshocton,39031,"Wilson, William",WW0209,Crawford,896
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress8.1822,Delaware,ohs_delaware,39041,"Wilson, William",WW0209,Crawford,215
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress8.1822,Franklin,ohs_franklin,39049,"Wilson, William",WW0209,Crawford,379
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress8.1822,Knox,ohs_knox,39083,"Wilson, William",WW0209,Crawford,467
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress8.1822,Licking,ohs_licking,39089,"Wilson, William",WW0209,Crawford,1102
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress9.1822,Fairfield,ohs_fairfield,39045,"Beecher, Philemon",BP0045,Adams/Clay,1429
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress9.1822,Muskingum,ohs_muskingum,39119,"Beecher, Philemon",BP0045,Adams/Clay,63
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress9.1822,Perry,ohs_perry,39127,"Beecher, Philemon",BP0045,Adams/Clay,504
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress9.1822,Fairfield,ohs_fairfield,39045,"Chambers, David",CD0147,Democratic-Republican,150
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress9.1822,Muskingum,ohs_muskingum,39119,"Chambers, David",CD0147,Democratic-Republican,1302
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress9.1822,Perry,ohs_perry,39127,"Chambers, David",CD0147,Democratic-Republican,368
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress9.1822,Fairfield,ohs_fairfield,39045,"Sullivan, Samuel",SS0242,NA,3
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress9.1822,Muskingum,ohs_muskingum,39119,"Sullivan, Samuel",SS0242,NA,883
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress9.1822,Perry,ohs_perry,39127,"Sullivan, Samuel",SS0242,NA,70
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress9.1822,Fairfield,ohs_fairfield,39045,"Trimble, William A.",TW0085,Democratic-Republican,349
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress9.1822,Muskingum,ohs_muskingum,39119,"Trimble, William A.",TW0085,Democratic-Republican,2
+meae.congressional.congress18.oh.county,congressional,18,OH,county,state,oh.uscongress9.1822,Perry,ohs_perry,39127,"Trimble, William A.",TW0085,Democratic-Republican,187

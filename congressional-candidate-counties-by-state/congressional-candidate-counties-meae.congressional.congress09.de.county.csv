@@ -1,0 +1,7 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress09.de.county,congressional,9,DE,county,state,de.uscongress.1804,Kent,des_kent,10001,"Rodney, Caesar A.",RC0001,Democratic-Republican,1017
+meae.congressional.congress09.de.county,congressional,9,DE,county,state,de.uscongress.1804,New Castle,des_newcastle,10003,"Rodney, Caesar A.",RC0001,Democratic-Republican,1971
+meae.congressional.congress09.de.county,congressional,9,DE,county,state,de.uscongress.1804,Sussex,des_sussex,10005,"Rodney, Caesar A.",RC0001,Democratic-Republican,1052
+meae.congressional.congress09.de.county,congressional,9,DE,county,state,de.uscongress.1804,Kent,des_kent,10001,"Bayard, James A.",BJ0078,Federalist,1374
+meae.congressional.congress09.de.county,congressional,9,DE,county,state,de.uscongress.1804,New Castle,des_newcastle,10003,"Bayard, James A.",BJ0078,Federalist,902
+meae.congressional.congress09.de.county,congressional,9,DE,county,state,de.uscongress.1804,Sussex,des_sussex,10005,"Bayard, James A.",BJ0078,Federalist,2122

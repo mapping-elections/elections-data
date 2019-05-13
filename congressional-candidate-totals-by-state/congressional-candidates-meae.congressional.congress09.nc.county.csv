@@ -1,0 +1,31 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress09.nc.county,nc.uscongress1.1804,Thomas Wynns,WT0142,1,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress09.nc.county,nc.uscongress1.1804,Thomas Harvey,HT0023,1,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress09.nc.county,nc.uscongress10.1804,Nathaniel Alexander,AN0006,10,Democratic-Republican,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress09.nc.county,nc.uscongress11.1804,James Holland,HJ0602,11,Democratic-Republican,NA,NA,NA,TRUE,TRUE
+meae.congressional.congress09.nc.county,nc.uscongress12.1804,Joseph Winston,WJ0494,12,Democratic-Republican,2681,4700,0.57,TRUE,FALSE
+meae.congressional.congress09.nc.county,nc.uscongress12.1804,Meshack Franklin,FM0021,12,Democratic-Republican,2019,4700,0.43,FALSE,FALSE
+meae.congressional.congress09.nc.county,nc.uscongress2.1804,Willis Alston,AW0047,2,Democratic-Republican,1869,2808,0.666,TRUE,FALSE
+meae.congressional.congress09.nc.county,nc.uscongress2.1804,John Binford,BJ0791,2,Federalist,580,2808,0.207,FALSE,FALSE
+meae.congressional.congress09.nc.county,nc.uscongress2.1804,William R. Davie,DW0110,2,Federalist,358,2808,0.127,FALSE,FALSE
+meae.congressional.congress09.nc.county,nc.uscongress2.1804,Jonathon Jaycocks,JJ0084,2,NA,1,2808,0,FALSE,FALSE
+meae.congressional.congress09.nc.county,nc.uscongress3.1804,Thomas Blount,BT0194,3,Democratic-Republican,1854,3609,0.514,TRUE,FALSE
+meae.congressional.congress09.nc.county,nc.uscongress3.1804,William Kennedy,KW0059,3,Federalist,1755,3609,0.486,FALSE,FALSE
+meae.congressional.congress09.nc.county,nc.uscongress4.1804,William Blackledge,BW0216,4,Democratic-Republican,2162,2239,0.966,TRUE,FALSE
+meae.congressional.congress09.nc.county,nc.uscongress4.1804,John Stanly,SJ0834,4,Federalist,77,2239,0.034,FALSE,FALSE
+meae.congressional.congress09.nc.county,nc.uscongress5.specialelection.1805,Thomas Kenan,KT0049,5,Democratic-Republican,2320,3554,0.653,TRUE,FALSE
+meae.congressional.congress09.nc.county,nc.uscongress5.specialelection.1805,Benjamin Smith,SB0058,5,Democratic-Republican,1234,3554,0.347,FALSE,FALSE
+meae.congressional.congress09.nc.county,nc.uscongress6.1804,Nathaniel Macon,MN0068,6,Democratic-Republican,1851,1852,0.999,TRUE,FALSE
+meae.congressional.congress09.nc.county,nc.uscongress6.1804,John Haywood,HJ0621,6,NA,1,1852,0.001,FALSE,FALSE
+meae.congressional.congress09.nc.county,nc.uscongress7.1804,Duncan MacFarland,MD0119,7,Democratic-Republican,2030,5520,0.368,TRUE,FALSE
+meae.congressional.congress09.nc.county,nc.uscongress7.1804,Joseph Pickett,PJ0334,7,Federalist,1750,5520,0.317,FALSE,FALSE
+meae.congressional.congress09.nc.county,nc.uscongress7.1804,William Martin,MW0228,7,Federalist,1717,5520,0.311,FALSE,FALSE
+meae.congressional.congress09.nc.county,nc.uscongress7.1804,John Hay,HJ0601,7,Democratic-Republican,23,5520,0.004,FALSE,FALSE
+meae.congressional.congress09.nc.county,nc.uscongress8.1804,Richard Stanford,SR0175,8,Democratic-Republican,NA,NA,NA,TRUE,FALSE
+meae.congressional.congress09.nc.county,nc.uscongress8.1804,Duncan Cameron,CD0126,8,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress09.nc.county,nc.uscongress8.1804,Archibald D. Murphey,MA0168,8,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress09.nc.county,nc.uscongress8.1804,John Hinton Jr.,HJ0664,8,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress09.nc.county,nc.uscongress8.1804,scattering,NA,8,NA,NA,NA,NA,FALSE,FALSE
+meae.congressional.congress09.nc.county,nc.uscongress9.1804,Marmaduke Williams,WM0000,9,Democratic-Republican,3179,3216,0.988,TRUE,FALSE
+meae.congressional.congress09.nc.county,nc.uscongress9.1804,Theophilus Lacey,LT0067,9,Democratic-Republican,31,3216,0.01,FALSE,FALSE
+meae.congressional.congress09.nc.county,nc.uscongress9.1804,Henry Branson,BH0065,9,Federalist,6,3216,0.002,FALSE,FALSE

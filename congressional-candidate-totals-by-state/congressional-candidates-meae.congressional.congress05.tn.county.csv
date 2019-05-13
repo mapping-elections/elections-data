@@ -1,0 +1,4 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress05.tn.county,tn.ushouserepresentatives.1797,William Charles Cole Clairborne,CW0037,At-large,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress05.tn.county,tn.ushouserepresentatives.1797,John Rhea,RJ0595,At-large,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress05.tn.county,tn.ushouserepresentatives.1797,John Carter,CJ0030,At-large,NA,NA,0,NA,FALSE,FALSE

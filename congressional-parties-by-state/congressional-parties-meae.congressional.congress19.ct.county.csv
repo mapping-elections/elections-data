@@ -1,0 +1,9 @@
+meae_id,county_ahcb,county_fips,districts,federalist_vote,federalist_percentage,antifederalist_vote,antifederalist_percentage,demrep_vote,demrep_percentage,chesapeake_vote,chesapeake_percentage,potomac_vote,potomac_percentage,repfac_vote,repfac_percentage,adamsclay_vote,adamsclay_percentage,jacksonian_vote,jacksonian_percentage,anticaucus_vote,anticaucus_percentage,caucus_vote,caucus_percentage,other_vote,other_percentage,county_source
+meae.congressional.congress19.ct.county,cts_fairfield,9001,At-large,157,0.028,NA,NA,1729,0.303,NA,NA,NA,NA,NA,NA,3815,0.669,NA,NA,NA,NA,NA,NA,5,0.001,county
+meae.congressional.congress19.ct.county,cts_hartford,9003,At-large,866,0.122,NA,NA,1991,0.281,NA,NA,NA,NA,NA,NA,4138,0.584,NA,NA,NA,NA,NA,NA,87,0.012,county
+meae.congressional.congress19.ct.county,cts_litchfield,9005,At-large,341,0.072,NA,NA,1369,0.29,NA,NA,NA,NA,NA,NA,2968,0.628,NA,NA,NA,NA,NA,NA,49,0.01,county
+meae.congressional.congress19.ct.county,cts_middlesex,9007,At-large,104,0.035,NA,NA,1016,0.338,NA,NA,NA,NA,NA,NA,1884,0.626,NA,NA,NA,NA,NA,NA,6,0.002,county
+meae.congressional.congress19.ct.county,cts_newhaven,9009,At-large,399,0.066,NA,NA,2019,0.333,NA,NA,NA,NA,NA,NA,3637,0.6,NA,NA,NA,NA,NA,NA,11,0.002,county
+meae.congressional.congress19.ct.county,cts_newlondon,9011,At-large,196,0.027,NA,NA,2201,0.305,NA,NA,NA,NA,NA,NA,4780,0.662,NA,NA,NA,NA,NA,NA,42,0.006,county
+meae.congressional.congress19.ct.county,cts_tolland,9013,At-large,286,0.105,NA,NA,849,0.311,NA,NA,NA,NA,NA,NA,1546,0.566,NA,NA,NA,NA,NA,NA,52,0.019,county
+meae.congressional.congress19.ct.county,cts_windham,9015,At-large,254,0.063,NA,NA,1448,0.362,NA,NA,NA,NA,NA,NA,2283,0.57,NA,NA,NA,NA,NA,NA,18,0.004,county

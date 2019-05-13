@@ -1,0 +1,6 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress01.de.county,de.uscongress.1789,John Vining,VJ0002,At-large,Federalist,898,2059,0.436,TRUE,FALSE
+meae.congressional.congress01.de.county,de.uscongress.1789,Rhoads Shankland,SR0023,At-large,NA,491,2059,0.238,FALSE,FALSE
+meae.congressional.congress01.de.county,de.uscongress.1789,"Gunning Bedford, Jr.",BG0002,At-large,NA,308,2059,0.15,FALSE,FALSE
+meae.congressional.congress01.de.county,de.uscongress.1789,Joshua Clayton,CJ0087,At-large,Federalist,272,2059,0.132,FALSE,FALSE
+meae.congressional.congress01.de.county,de.uscongress.1789,Allen MacLean,MA0018,At-large,NA,90,2059,0.044,FALSE,FALSE

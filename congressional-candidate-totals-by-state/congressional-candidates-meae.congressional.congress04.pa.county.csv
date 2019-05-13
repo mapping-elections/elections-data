@@ -1,0 +1,35 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress04.pa.county,pa.uscongress1.1794,John Swanwick,SJ0964,1,Democratic-Republican,1240,2422,0.512,TRUE,FALSE
+meae.congressional.congress04.pa.county,pa.uscongress1.1794,Thomas Fitzsimons,FT0061,1,Federalist,1182,2422,0.488,FALSE,FALSE
+meae.congressional.congress04.pa.county,pa.uscongress10.1794,David Bard,BD0120,10,Democratic-Republican,1808,3417,0.529,TRUE,FALSE
+meae.congressional.congress04.pa.county,pa.uscongress10.1794,James MacLene,MJ0807,10,Democratic-Republican,1090,3417,0.319,FALSE,FALSE
+meae.congressional.congress04.pa.county,pa.uscongress10.1794,James Chambers,CJ0705,10,Federalist,519,3417,0.152,FALSE,FALSE
+meae.congressional.congress04.pa.county,pa.uscongress11.1794,William Findley,FW0062,11,Democratic-Republican,NA,0,1,TRUE,TRUE
+meae.congressional.congress04.pa.county,pa.uscongress12.1794,Albert Gallatin,GA0061,12,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress04.pa.county,pa.uscongress12.1794,Thomas Scott,ST0215,12,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress04.pa.county,pa.uscongress12.1794,Daniel Hamilton,HD0085,12,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress04.pa.county,pa.uscongress12.1794,Henry H. Brackenridge,BH0114,12,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress04.pa.county,pa.uscongress12.1794,John Woods,WJ0613,12,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress04.pa.county,pa.uscongress2.1794,Frederick A. Muhlenberg,MF0016,2,Federalist,656,1166,0.563,TRUE,FALSE
+meae.congressional.congress04.pa.county,pa.uscongress2.1794,Samuel Miles,MS0150,2,Democratic-Republican,510,1166,0.437,FALSE,FALSE
+meae.congressional.congress04.pa.county,pa.uscongress3.1794,Richard Thomas,TR0064,3,Federalist,1240,1839,0.674,TRUE,FALSE
+meae.congressional.congress04.pa.county,pa.uscongress3.1794,Thomas Ross,RT0087,3,Democratic-Republican,599,1839,0.326,FALSE,FALSE
+meae.congressional.congress04.pa.county,pa.uscongress4.1794,Samuel Sitgreaves,SS0245,4,Federalist,2954,8452,0.35,TRUE,FALSE
+meae.congressional.congress04.pa.county,pa.uscongress4.1794,John Richards,RJ0314,4,Federalist,1791,8452,0.212,TRUE,FALSE
+meae.congressional.congress04.pa.county,pa.uscongress4.1794,James Morris,MJ0785,4,Democratic-Republican,1779,8452,0.21,FALSE,FALSE
+meae.congressional.congress04.pa.county,pa.uscongress4.1794,Robert Loller,LR0052,4,Democratic-Republican,1072,8452,0.127,FALSE,FALSE
+meae.congressional.congress04.pa.county,pa.uscongress4.1794,Peter Muhlenberg,MP0089,4,Democratic-Republican,661,8452,0.078,FALSE,FALSE
+meae.congressional.congress04.pa.county,pa.uscongress4.1794,John Barclay,BJ0948,4,Democratic-Republican,195,8452,0.023,FALSE,FALSE
+meae.congressional.congress04.pa.county,pa.uscongress5.1794,Daniel Hiester,ZZ0005,5,Federalist,NA,0,NA,TRUE,FALSE
+meae.congressional.congress04.pa.county,pa.uscongress5.1794,Collinson Read,RC0007,5,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress04.pa.county,pa.uscongress6.1794,Samuel MacClay,MS0148,6,Democratic-Republican,1982,4302,0.461,TRUE,FALSE
+meae.congressional.congress04.pa.county,pa.uscongress6.1794,John A. Hanna,HJ0754,6,Democratic-Republican,1882,4302,0.437,FALSE,FALSE
+meae.congressional.congress04.pa.county,pa.uscongress6.1794,John Carson,CJ0686,6,Federalist,438,4302,0.102,FALSE,FALSE
+meae.congressional.congress04.pa.county,pa.uscongress7.1794,John W. Kittera,KJ0172,7,Federalist,NA,0,1,TRUE,TRUE
+meae.congressional.congress04.pa.county,pa.uscongress8.1794,Thomas Hartley,HT0154,8,Federalist,NA,0,1,TRUE,TRUE
+meae.congressional.congress04.pa.county,pa.uscongress9.1794,Andrew Gregg,GA0060,9,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress04.pa.county,pa.uscongress9.1794,James Wallace,WJ0609,9,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress04.pa.county,pa.uscongress9.1794,William Irvine,IW0016,9,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress04.pa.county,pa.uscongress9.1794,Samuel Laind,LS0108,9,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress04.pa.county,pa.uscongress9.1794,James Armstrong,AJ0015,9,NA,NA,0,NA,FALSE,FALSE
+meae.congressional.congress04.pa.county,pa.uscongress9.1794,Ephraim Blaine,BE0191,9,NA,NA,0,NA,FALSE,FALSE

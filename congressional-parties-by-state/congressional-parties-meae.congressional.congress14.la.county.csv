@@ -1,0 +1,17 @@
+meae_id,county_ahcb,county_fips,districts,federalist_vote,federalist_percentage,antifederalist_vote,antifederalist_percentage,demrep_vote,demrep_percentage,chesapeake_vote,chesapeake_percentage,potomac_vote,potomac_percentage,repfac_vote,repfac_percentage,adamsclay_vote,adamsclay_percentage,jacksonian_vote,jacksonian_percentage,anticaucus_vote,anticaucus_percentage,caucus_vote,caucus_percentage,other_vote,other_percentage,county_source
+meae.congressional.congress14.la.county,olt_acadiacnty,NA,At-large,3,0.011,NA,NA,273,0.989,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress14.la.county,olt_germancoastcnty,NA,At-large,1,0.015,NA,NA,65,0.97,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.015,county
+meae.congressional.congress14.la.county,olt_opelousascnty,NA,At-large,1,0.004,NA,NA,264,0.996,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress14.la.county,las_ascension,22005,At-large,2,0.007,NA,NA,273,0.993,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress14.la.county,las_concordia,22029,At-large,1,0.021,NA,NA,46,0.979,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress14.la.county,las_eastbatonrouge,22033,At-large,16,0.113,NA,NA,125,0.887,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress14.la.county,las_feliciana,NA,At-large,8,0.034,NA,NA,230,0.966,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress14.la.county,las_iberville,22047,At-large,NA,NA,NA,NA,104,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress14.la.county,las_lafourche,22057,At-large,NA,NA,NA,NA,176,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress14.la.county,city_neworleans,NA,At-large,152,0.202,NA,NA,599,0.795,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.003,county
+meae.congressional.congress14.la.county,las_stbernard,22087,At-large,1,0.024,NA,NA,40,0.952,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.024,county
+meae.congressional.congress14.la.county,las_sthelena,22091,At-large,NA,NA,NA,NA,132,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress14.la.county,las_stmartin,22099,At-large,2,0.01,NA,NA,201,0.99,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress14.la.county,las_stmary,22101,At-large,2,0.018,NA,NA,112,0.982,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress14.la.county,las_sttammany,22103,At-large,NA,NA,NA,NA,142,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.congressional.congress14.la.county,las_westbatonrouge,22121,At-large,NA,NA,NA,NA,140,0.824,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,0.176,county

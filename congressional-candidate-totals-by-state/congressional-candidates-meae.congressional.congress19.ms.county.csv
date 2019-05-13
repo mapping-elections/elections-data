@@ -1,0 +1,4 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress19.ms.county,ms.uscongress.1824,Christopher Rankin,RC0047,At-large,Jacksonian,5865,5961,0.984,TRUE,FALSE
+meae.congressional.congress19.ms.county,ms.uscongress.1824,George Poindexter,PG0042,At-large,Jacksonian,96,5961,0.016,FALSE,FALSE
+meae.congressional.congress19.ms.county,ms.uscongress.1824,Lenemon Shearman,SL0071,At-large,NA,NA,5961,NA,FALSE,FALSE

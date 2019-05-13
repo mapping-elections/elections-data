@@ -1,0 +1,25 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress04.nc.county,nc.uscongress1.1795,James Holland,HJ0602,1,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress04.nc.county,nc.uscongress1.1795,Joseph MacDowell,ZZ0007,1,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress04.nc.county,nc.uscongress10.1795,Nathan Bryan,BN0074,10,Democratic-Republican,1057,1734,0.61,TRUE,FALSE
+meae.congressional.congress04.nc.county,nc.uscongress10.1795,Benjamin Williams,WB0039,10,Federalist,514,1734,0.296,FALSE,FALSE
+meae.congressional.congress04.nc.county,nc.uscongress10.1795,David Witherspoon,WD0066,10,Federalist,163,1734,0.094,FALSE,FALSE
+meae.congressional.congress04.nc.county,nc.uscongress2.1795,Matthew Locke,LM0052,2,Democratic-Republican,NA,0,1,TRUE,TRUE
+meae.congressional.congress04.nc.county,nc.uscongress3.1795,Jesse Franklin,FJ0228,3,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress04.nc.county,nc.uscongress3.1795,Joseph Winston,WJ0494,3,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress04.nc.county,nc.uscongress4.1795,Alexander Mebane,MA0149,4,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress04.nc.county,nc.uscongress4.1795,Samuel Benton,BS0217,4,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress04.nc.county,nc.uscongress4.1795,Stephen Moore,MS0117,4,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress04.nc.county,nc.uscongress5.1795,Nathaniel Macon,MN0068,5,Democratic-Republican,NA,0,1,TRUE,TRUE
+meae.congressional.congress04.nc.county,nc.uscongress6.1795,James Gillespie,GJ0328,6,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress04.nc.county,nc.uscongress6.1795,William H. Hill,HW0233,6,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress04.nc.county,nc.uscongress7.1795,William B. Grove,GW0091,7,Federalist,NA,0,1,TRUE,TRUE
+meae.congressional.congress04.nc.county,nc.uscongress8.1795,Dempsey Burgess,BD0099,8,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress04.nc.county,nc.uscongress8.1795,John Baker,BJ0782,8,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress04.nc.county,nc.uscongress8.1795,Clement Hale,HC0078,8,Democratic-Republican,NA,0,NA,FALSE,FALSE
+meae.congressional.congress04.nc.county,nc.uscongress8.1795,David Stone,SD0075,8,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress04.nc.county,nc.uscongress8.1795,William J. Dawson,DW0108,8,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress04.nc.county,nc.uscongress8.1795,Charles Johnson,JC0019,8,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress04.nc.county,nc.uscongress9.1795,Thomas Blount,BT0194,9,Democratic-Republican,NA,0,NA,TRUE,FALSE
+meae.congressional.congress04.nc.county,nc.uscongress9.1795,John Benford,BJ0783,9,Federalist,NA,0,NA,FALSE,FALSE
+meae.congressional.congress04.nc.county,nc.uscongress9.1795,Willis Alston,AW0047,9,Federalist,NA,0,NA,FALSE,FALSE

@@ -1,0 +1,3 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress05.de.county,de.uscongress.1796,James A. Bayard,BJ0078,At-large,Federalist,2292,4071,0.563,TRUE,FALSE
+meae.congressional.congress05.de.county,de.uscongress.1796,William Perry,PW0014,At-large,Democratic-Republican,1779,4071,0.437,FALSE,FALSE

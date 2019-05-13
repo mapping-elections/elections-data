@@ -1,0 +1,18 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress09.ga.county,ga.uscongress.1804,Peter Early,EP0004,At-large,Democratic-Republican,10269,43412,0.237,TRUE,FALSE
+meae.congressional.congress09.ga.county,ga.uscongress.1804,David Meriweather,MD0013,At-large,Democratic-Republican,9674,43412,0.223,TRUE,FALSE
+meae.congressional.congress09.ga.county,ga.uscongress.1804,Joseph Bryan,BJ0111,At-large,Democratic-Republican,9117,43412,0.21,TRUE,FALSE
+meae.congressional.congress09.ga.county,ga.uscongress.1804,Thomas Spalding,ST0028,At-large,Democratic-Republican,4504,43412,0.104,TRUE,FALSE
+meae.congressional.congress09.ga.county,ga.uscongress.1804,Cowles Mead,MC0004,At-large,Democratic-Republican,4465,43412,0.103,FALSE,FALSE
+meae.congressional.congress09.ga.county,ga.uscongress.1804,Thomas Carr,CT0026,At-large,NA,2765,43412,0.064,FALSE,FALSE
+meae.congressional.congress09.ga.county,ga.uscongress.1804,Obadiah Jones,JO0000,At-large,NA,2079,43412,0.048,FALSE,FALSE
+meae.congressional.congress09.ga.county,ga.uscongress.1804,Thomas U.P. Charlton,CT0031,At-large,Democratic-Republican,517,43412,0.012,FALSE,FALSE
+meae.congressional.congress09.ga.county,ga.uscongress.1804,Matthew MacAllister,MM0004,At-large,Federalist,7,43412,0,FALSE,FALSE
+meae.congressional.congress09.ga.county,ga.uscongress.1804,Jared Irwin,IJ0023,At-large,NA,5,43412,0,FALSE,FALSE
+meae.congressional.congress09.ga.county,ga.uscongress.1804,Daniel Merriwether,MD0013,At-large,NA,3,43412,0,FALSE,FALSE
+meae.congressional.congress09.ga.county,ga.uscongress.1804,Owen Shannon,SO0015,At-large,NA,2,43412,0,FALSE,FALSE
+meae.congressional.congress09.ga.county,ga.uscongress.1804,Elijah Clark,CE0024,At-large,NA,1,43412,0,FALSE,FALSE
+meae.congressional.congress09.ga.county,ga.uscongress.1804,Charles Harris,HC0003,At-large,NA,1,43412,0,FALSE,FALSE
+meae.congressional.congress09.ga.county,ga.uscongress.1804,William Jones,JW0090,At-large,NA,1,43412,0,FALSE,FALSE
+meae.congressional.congress09.ga.county,ga.uscongress.1804,Charles Odingsills,OC0000,At-large,NA,1,43412,0,FALSE,FALSE
+meae.congressional.congress09.ga.county,ga.uscongress.1804,Willis,NA,At-large,NA,1,43412,0,FALSE,FALSE

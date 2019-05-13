@@ -1,0 +1,4 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress18.ri.county,ri.uscongress.1822,Job Durfree,DJ0538,At-large,Democratic-Republican,1446,2894,0.5,TRUE,FALSE
+meae.congressional.congress18.ri.county,ri.uscongress.1822,Samuel Eddy,ES0042,At-large,Democratic-Republican,1417,2894,0.49,TRUE,FALSE
+meae.congressional.congress18.ri.county,ri.uscongress.1822,scattering,NA,At-large,NA,31,2894,0.011,FALSE,FALSE

@@ -1,0 +1,194 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.1.1795,Berkeley,wvs_berkeley,54003,"Rutherford, Robert",RR0071,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.1.1795,Frederick,vas_frederick,51069,"Rutherford, Robert",RR0071,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.1.1795,Berkeley,wvs_berkeley,54003,"Morgan, Daniel",MD0085,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.1.1795,Frederick,vas_frederick,51069,"Morgan, Daniel",MD0085,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.10.1795,Prince George,vas_princegeorge,51149,"Harrison, Carter B.",HC0136,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.10.1795,Southampton,vas_southampton,51175,"Harrison, Carter B.",HC0136,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.10.1795,Surry,vas_surry,51181,"Harrison, Carter B.",HC0136,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.10.1795,Sussex,vas_sussex,51183,"Harrison, Carter B.",HC0136,Democratic-Republican,32
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.11.1795,Isle of Wight,vas_isleofwight,51093,"Parker, Josiah",PJ0725,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.11.1795,Nansemond,vas_nansemond,51123,"Parker, Josiah",PJ0725,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.11.1795,Norfolk,vas_norfolk,51129,"Parker, Josiah",PJ0725,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.11.1795,Princess Anne,vas_princessanne,51151,"Parker, Josiah",PJ0725,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.11.1795,Isle of Wight,vas_isleofwight,51093,"Cowper, Robert",CR0168,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.11.1795,Nansemond,vas_nansemond,51123,"Cowper, Robert",CR0168,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.11.1795,Norfolk,vas_norfolk,51129,"Cowper, Robert",CR0168,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.11.1795,Princess Anne,vas_princessanne,51151,"Cowper, Robert",CR0168,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.12.1795,Accomack,vas_accomack,51001,"Page, John",PJ0728,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.12.1795,Elizabeth City,vas_elizabethcity,51055,"Page, John",PJ0728,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.12.1795,Gloucester,vas_gloucester,51073,"Page, John",PJ0728,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.12.1795,Mathews,vas_mathews,51115,"Page, John",PJ0728,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.12.1795,Northampton,vas_northampton,51131,"Page, John",PJ0728,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.12.1795,Warwick,vas_warwick,51189,"Page, John",PJ0728,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.12.1795,York,vas_york,51199,"Page, John",PJ0728,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.13.1795,Charles City,vas_charlescity,51036,"Clopton, John B.",CJ1097,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.13.1795,Hanover,vas_hanover,51085,"Clopton, John B.",CJ1097,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.13.1795,Henrico,vas_henrico,51087,"Clopton, John B.",CJ1097,Democratic-Republican,96
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.13.1795,James City,vas_jamescity,51095,"Clopton, John B.",CJ1097,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.13.1795,New Kent,vas_newkent,51127,"Clopton, John B.",CJ1097,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.13.1795,Charles City,vas_charlescity,51036,"Jones, Meriweather",JM0015,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.13.1795,Hanover,vas_hanover,51085,"Jones, Meriweather",JM0015,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.13.1795,Henrico,vas_henrico,51087,"Jones, Meriweather",JM0015,Democratic-Republican,14
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.13.1795,James City,vas_jamescity,51095,"Jones, Meriweather",JM0015,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.13.1795,New Kent,vas_newkent,51127,"Jones, Meriweather",JM0015,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.13.1795,Charles City,vas_charlescity,51036,"Bassett, Burwell",BB0099,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.13.1795,Hanover,vas_hanover,51085,"Bassett, Burwell",BB0099,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.13.1795,Henrico,vas_henrico,51087,"Bassett, Burwell",BB0099,Federalist,74
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.13.1795,James City,vas_jamescity,51095,"Bassett, Burwell",BB0099,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.13.1795,New Kent,vas_newkent,51127,"Bassett, Burwell",BB0099,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.13.1795,Charles City,vas_charlescity,51036,"Selden, Miles",SM0110,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.13.1795,Hanover,vas_hanover,51085,"Selden, Miles",SM0110,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.13.1795,Henrico,vas_henrico,51087,"Selden, Miles",SM0110,NA,255
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.13.1795,James City,vas_jamescity,51095,"Selden, Miles",SM0110,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.13.1795,New Kent,vas_newkent,51127,"Selden, Miles",SM0110,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.14.1795,Albermarle,vas_albemarle,51003,"Cabell, Samuel Jordan",CS0229,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.14.1795,Amherst,vas_amherst,51009,"Cabell, Samuel Jordan",CS0229,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.14.1795,Fluvanna,vas_fluvanna,51065,"Cabell, Samuel Jordan",CS0229,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.14.1795,Goochland,vas_goochland,51075,"Cabell, Samuel Jordan",CS0229,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.15.1795,Louisa,vas_louisa,51109,"Madison, James",MJ1315,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.15.1795,Madison,kys_madison,21151,"Madison, James",MJ1315,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.15.1795,Madison,vas_madison,51113,"Madison, James",MJ1315,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.15.1795,Orange,vas_orange,51137,"Madison, James",MJ1315,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.15.1795,Spotsylvania,vas_spotsylvania,51177,"Madison, James",MJ1315,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.16.1795,Caroline,vas_caroline,51033,"New, Anthony",NA0009,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.16.1795,Essex,vas_essex,51057,"New, Anthony",NA0009,Democratic-Republican,185
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.16.1795,King and Queen,vas_kingandqueen,51097,"New, Anthony",NA0009,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.16.1795,King William,vas_kingwilliam,51101,"New, Anthony",NA0009,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.16.1795,Middlesex,vas_middlesex,51119,"New, Anthony",NA0009,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.16.1795,Caroline,vas_caroline,51033,"Brooke, Francis T.",BF0063,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.16.1795,Essex,vas_essex,51057,"Brooke, Francis T.",BF0063,NA,3
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.16.1795,King and Queen,vas_kingandqueen,51097,"Brooke, Francis T.",BF0063,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.16.1795,King William,vas_kingwilliam,51101,"Brooke, Francis T.",BF0063,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.16.1795,Middlesex,vas_middlesex,51119,"Brooke, Francis T.",BF0063,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.16.1795,Caroline,vas_caroline,51033,"Corbin, Francis",CF0032,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.16.1795,Essex,vas_essex,51057,"Corbin, Francis",CF0032,NA,1
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.16.1795,King and Queen,vas_kingandqueen,51097,"Corbin, Francis",CF0032,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.16.1795,King William,vas_kingwilliam,51101,"Corbin, Francis",CF0032,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.16.1795,Middlesex,vas_middlesex,51119,"Corbin, Francis",CF0032,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.17.1795,Fairfax,vas_fairfax,51059,"Brent, Richard",BR0163,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.17.1795,Loudoun,vas_loudoun,51107,"Brent, Richard",BR0163,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.17.1795,Prince William,vas_princewilliam,51153,"Brent, Richard",BR0163,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.17.1795,Fairfax,vas_fairfax,51059,"Lee, Richard Bland",LR0090,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.17.1795,Loudoun,vas_loudoun,51107,"Lee, Richard Bland",LR0090,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.17.1795,Prince William,vas_princewilliam,51153,"Lee, Richard Bland",LR0090,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.18.1795,Culpeper,vas_culpeper,51047,"Nicholas, John",NJ0072,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.18.1795,Fauquier,vas_fauquier,51061,"Nicholas, John",NJ0072,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.18.1795,Stafford,vas_stafford,51179,"Nicholas, John",NJ0072,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.19.1795,King George,vas_kinggeorge,51099,"Heath, John",HJ1299,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.19.1795,Lancaster,vas_lancaster,51103,"Heath, John",HJ1299,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.19.1795,Northumberland,vas_northumberland,51133,"Heath, John",HJ1299,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.19.1795,Richmond,vas_richmond,51159,"Heath, John",HJ1299,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.19.1795,Westmoreland,vas_westmoreland,51193,"Heath, John",HJ1299,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.2.1795,Augusta,vas_augusta,51015,"Moore, Andrew",MA0281,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.2.1795,Bath,vas_bath,51017,"Moore, Andrew",MA0281,Democratic-Republican,64
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.2.1795,Rockbridge,vas_rockbridge,51163,"Moore, Andrew",MA0281,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.2.1795,Rockingham,vas_rockingham,51165,"Moore, Andrew",MA0281,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.2.1795,Shenandoah,vas_shenandoah,51171,"Moore, Andrew",MA0281,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.3.1795,Hampshire,wvs_hampshire,54027,"Jacobs, German",JG0032,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.3.1795,Hardy,wvs_hardy,54031,"Jacobs, German",JG0032,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.3.1795,Harrison,wvs_harrison,54033,"Jacobs, German",JG0032,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.3.1795,Monongalia,wvs_monongalia,54061,"Jacobs, German",JG0032,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.3.1795,Ohio,wvs_ohio,54069,"Jacobs, German",JG0032,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.3.1795,Pendleton,wvs_pendleton,54071,"Jacobs, German",JG0032,Democratic-Republican,102
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.3.1795,Randolph,wvs_randolph,54083,"Jacobs, German",JG0032,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.3.1795,Hampshire,wvs_hampshire,54027,"Neville, Joseph",NJ0172,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.3.1795,Hardy,wvs_hardy,54031,"Neville, Joseph",NJ0172,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.3.1795,Harrison,wvs_harrison,54033,"Neville, Joseph",NJ0172,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.3.1795,Monongalia,wvs_monongalia,54061,"Neville, Joseph",NJ0172,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.3.1795,Ohio,wvs_ohio,54069,"Neville, Joseph",NJ0172,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.3.1795,Pendleton,wvs_pendleton,54071,"Neville, Joseph",NJ0172,Federalist,30
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.3.1795,Randolph,wvs_randolph,54083,"Neville, Joseph",NJ0172,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.3.1795,Hampshire,wvs_hampshire,54027,"Skidmore, John",SJ0270,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.3.1795,Hardy,wvs_hardy,54031,"Skidmore, John",SJ0270,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.3.1795,Harrison,wvs_harrison,54033,"Skidmore, John",SJ0270,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.3.1795,Monongalia,wvs_monongalia,54061,"Skidmore, John",SJ0270,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.3.1795,Ohio,wvs_ohio,54069,"Skidmore, John",SJ0270,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.3.1795,Pendleton,wvs_pendleton,54071,"Skidmore, John",SJ0270,NA,1
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.3.1795,Randolph,wvs_randolph,54083,"Skidmore, John",SJ0270,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.3.1795,Hampshire,wvs_hampshire,54027,"Wilson, Thomas",WT0140,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.3.1795,Hardy,wvs_hardy,54031,"Wilson, Thomas",WT0140,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.3.1795,Harrison,wvs_harrison,54033,"Wilson, Thomas",WT0140,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.3.1795,Monongalia,wvs_monongalia,54061,"Wilson, Thomas",WT0140,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.3.1795,Ohio,wvs_ohio,54069,"Wilson, Thomas",WT0140,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.3.1795,Pendleton,wvs_pendleton,54071,"Wilson, Thomas",WT0140,NA,5
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.3.1795,Randolph,wvs_randolph,54083,"Wilson, Thomas",WT0140,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.4.1795,Grayson,vas_grayson,51077,"Preston, Francis",PF0010,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.4.1795,Greenbrier,wvs_greenbrier,54025,"Preston, Francis",PF0010,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.4.1795,Kanawha,wvs_kanawha,54039,"Preston, Francis",PF0010,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.4.1795,Lee,vas_lee,51105,"Preston, Francis",PF0010,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.4.1795,Montgomery,vas_montgomery,51121,"Preston, Francis",PF0010,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.4.1795,Russell,vas_russell,51167,"Preston, Francis",PF0010,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.4.1795,Washington,vas_washington,51191,"Preston, Francis",PF0010,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.4.1795,Wythe,vas_wythe,51197,"Preston, Francis",PF0010,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.4.1795,Grayson,vas_grayson,51077,"Campbell, Arthur",CA0220,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.4.1795,Greenbrier,wvs_greenbrier,54025,"Campbell, Arthur",CA0220,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.4.1795,Kanawha,wvs_kanawha,54039,"Campbell, Arthur",CA0220,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.4.1795,Lee,vas_lee,51105,"Campbell, Arthur",CA0220,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.4.1795,Montgomery,vas_montgomery,51121,"Campbell, Arthur",CA0220,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.4.1795,Russell,vas_russell,51167,"Campbell, Arthur",CA0220,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.4.1795,Washington,vas_washington,51191,"Campbell, Arthur",CA0220,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.4.1795,Wythe,vas_wythe,51197,"Campbell, Arthur",CA0220,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.5.1795,Bedford,vas_bedford,51019,"Hancock, George",HG0163,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.5.1795,Botetourt,vas_botetourt,51023,"Hancock, George",HG0163,Federalist,128
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.5.1795,Franklin,vas_franklin,51067,"Hancock, George",HG0163,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.5.1795,Henry,vas_henry,51089,"Hancock, George",HG0163,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.5.1795,Patrick,vas_patrick,51141,"Hancock, George",HG0163,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.6.1795,Campbell,vas_campbell,51031,"Clay, Matthew",CM0108,Democratic-Republican,48
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.6.1795,Halifax,vas_halifax,51083,"Clay, Matthew",CM0108,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.6.1795,Pittsylvania,vas_pittsylvania,51143,"Clay, Matthew",CM0108,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.6.1795,Campbell,vas_campbell,51031,"Coles, Isaac H.",CI0035,Democratic-Republican,68
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.6.1795,Halifax,vas_halifax,51083,"Coles, Isaac H.",CI0035,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.6.1795,Pittsylvania,vas_pittsylvania,51143,"Coles, Isaac H.",CI0035,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.6.1795,Campbell,vas_campbell,51031,"MacMahon, Simon Crae",MS0250,Federalist,69
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.6.1795,Halifax,vas_halifax,51083,"MacMahon, Simon Crae",MS0250,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.6.1795,Pittsylvania,vas_pittsylvania,51143,"MacMahon, Simon Crae",MS0250,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.7.1795,Buckingham,vas_buckingham,51029,"Venable, Abraham B.",VA0029,Democratic-Republican,69
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.7.1795,Charlotte,vas_charlotte,51037,"Venable, Abraham B.",VA0029,Democratic-Republican,109
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.7.1795,Cumberland,vas_cumberland,51049,"Venable, Abraham B.",VA0029,Democratic-Republican,207
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.7.1795,Powhatan,vas_powhatan,51145,"Venable, Abraham B.",VA0029,Democratic-Republican,173
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.7.1795,Prince Edward,vas_princeedward,51147,"Venable, Abraham B.",VA0029,Democratic-Republican,203
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.7.1795,Buckingham,vas_buckingham,51029,"Woodson, Thomas",WT0167,Federalist,55
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.7.1795,Charlotte,vas_charlotte,51037,"Woodson, Thomas",WT0167,Federalist,3
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.7.1795,Cumberland,vas_cumberland,51049,"Woodson, Thomas",WT0167,Federalist,44
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.7.1795,Powhatan,vas_powhatan,51145,"Woodson, Thomas",WT0167,Federalist,33
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.7.1795,Prince Edward,vas_princeedward,51147,"Woodson, Thomas",WT0167,Federalist,112
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.7.1795,Buckingham,vas_buckingham,51029,"Wyatt, Joseph",WJ0975,Federalist,7
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.7.1795,Charlotte,vas_charlotte,51037,"Wyatt, Joseph",WJ0975,Federalist,187
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.7.1795,Cumberland,vas_cumberland,51049,"Wyatt, Joseph",WJ0975,Federalist,3
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.7.1795,Powhatan,vas_powhatan,51145,"Wyatt, Joseph",WJ0975,Federalist,5
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.7.1795,Prince Edward,vas_princeedward,51147,"Wyatt, Joseph",WJ0975,Federalist,34
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.7.1795,Buckingham,vas_buckingham,51029,"Johnson, Peter",JP0026,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.7.1795,Charlotte,vas_charlotte,51037,"Johnson, Peter",JP0026,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.7.1795,Cumberland,vas_cumberland,51049,"Johnson, Peter",JP0026,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.7.1795,Powhatan,vas_powhatan,51145,"Johnson, Peter",JP0026,NA,2
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.7.1795,Prince Edward,vas_princeedward,51147,"Johnson, Peter",JP0026,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.7.1795,Buckingham,vas_buckingham,51029,"Wilson, William",WW0030,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.7.1795,Charlotte,vas_charlotte,51037,"Wilson, William",WW0030,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.7.1795,Cumberland,vas_cumberland,51049,"Wilson, William",WW0030,NA,1
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.7.1795,Powhatan,vas_powhatan,51145,"Wilson, William",WW0030,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.7.1795,Prince Edward,vas_princeedward,51147,"Wilson, William",WW0030,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.8.1795,Brunswick,vas_brunswick,51025,"Claiborne, Thomas",CT0181,Democratic-Republican,314
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.8.1795,Greensville,vas_greensville,51081,"Claiborne, Thomas",CT0181,Democratic-Republican,169
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.8.1795,Lunenburg,vas_lunenburg,51111,"Claiborne, Thomas",CT0181,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.8.1795,Mecklenburg,vas_mecklenburg,51117,"Claiborne, Thomas",CT0181,Democratic-Republican,103
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.8.1795,Brunswick,vas_brunswick,51025,"Brown, Jesse",BJ1441,Federalist,33
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.8.1795,Greensville,vas_greensville,51081,"Brown, Jesse",BJ1441,Federalist,41
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.8.1795,Lunenburg,vas_lunenburg,51111,"Brown, Jesse",BJ1441,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.8.1795,Mecklenburg,vas_mecklenburg,51117,"Brown, Jesse",BJ1441,Federalist,291
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.8.1795,Brunswick,vas_brunswick,51025,"Goode, Samuel",GS0120,Federalist,1
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.8.1795,Greensville,vas_greensville,51081,"Goode, Samuel",GS0120,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.8.1795,Lunenburg,vas_lunenburg,51111,"Goode, Samuel",GS0120,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.8.1795,Mecklenburg,vas_mecklenburg,51117,"Goode, Samuel",GS0120,Federalist,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.8.1795,Brunswick,vas_brunswick,51025,"Edmunds, Sterling",ES0061,NA,1
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.8.1795,Greensville,vas_greensville,51081,"Edmunds, Sterling",ES0061,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.8.1795,Lunenburg,vas_lunenburg,51111,"Edmunds, Sterling",ES0061,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.8.1795,Mecklenburg,vas_mecklenburg,51117,"Edmunds, Sterling",ES0061,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.8.1795,Brunswick,vas_brunswick,51025,"Hopkins, Samuel",HS0260,NA,2
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.8.1795,Greensville,vas_greensville,51081,"Hopkins, Samuel",HS0260,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.8.1795,Lunenburg,vas_lunenburg,51111,"Hopkins, Samuel",HS0260,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.8.1795,Mecklenburg,vas_mecklenburg,51117,"Hopkins, Samuel",HS0260,NA,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.9.1795,Amelia,vas_amelia,51007,"Giles, William B.",GW0186,Democratic-Republican,47
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.9.1795,Chesterfield,vas_chesterfield,51041,"Giles, William B.",GW0186,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.9.1795,Dinwiddie,vas_dinwiddie,51053,"Giles, William B.",GW0186,Democratic-Republican,0
+meae.congressional.congress04.va.county,congressional,4,VA,county,state,va.uscongress.9.1795,Nottoway,vas_nottoway,51135,"Giles, William B.",GW0186,Democratic-Republican,0

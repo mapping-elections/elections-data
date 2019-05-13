@@ -1,0 +1,13 @@
+meae_id,type,congress,state,geography,level,election_id,county,county_ahcb,county_fips,candidate,candidate_id,party,vote
+meae.congressional.congress05.tn.county,congressional,5,TN,county,state,tn.ushouserepresentatives.1797,Greene,tns_greene,47059,"Claiborne, William C.C.",CW0037,Democratic-Republican,106
+meae.congressional.congress05.tn.county,congressional,5,TN,county,state,tn.ushouserepresentatives.1797,Hawkins,tns_hawkins,47073,"Claiborne, William C.C.",CW0037,Democratic-Republican,98
+meae.congressional.congress05.tn.county,congressional,5,TN,county,state,tn.ushouserepresentatives.1797,Sullivan,tns_sullivan,47163,"Claiborne, William C.C.",CW0037,Democratic-Republican,51
+meae.congressional.congress05.tn.county,congressional,5,TN,county,state,tn.ushouserepresentatives.1797,Washington,tns_washington,47179,"Claiborne, William C.C.",CW0037,Democratic-Republican,23
+meae.congressional.congress05.tn.county,congressional,5,TN,county,state,tn.ushouserepresentatives.1797,Greene,tns_greene,47059,"Carter, John",CJ0030,NA,7
+meae.congressional.congress05.tn.county,congressional,5,TN,county,state,tn.ushouserepresentatives.1797,Hawkins,tns_hawkins,47073,"Carter, John",CJ0030,NA,0
+meae.congressional.congress05.tn.county,congressional,5,TN,county,state,tn.ushouserepresentatives.1797,Sullivan,tns_sullivan,47163,"Carter, John",CJ0030,NA,0
+meae.congressional.congress05.tn.county,congressional,5,TN,county,state,tn.ushouserepresentatives.1797,Washington,tns_washington,47179,"Carter, John",CJ0030,NA,0
+meae.congressional.congress05.tn.county,congressional,5,TN,county,state,tn.ushouserepresentatives.1797,Greene,tns_greene,47059,"Rhea, John",RJ0595,NA,226
+meae.congressional.congress05.tn.county,congressional,5,TN,county,state,tn.ushouserepresentatives.1797,Hawkins,tns_hawkins,47073,"Rhea, John",RJ0595,NA,25
+meae.congressional.congress05.tn.county,congressional,5,TN,county,state,tn.ushouserepresentatives.1797,Sullivan,tns_sullivan,47163,"Rhea, John",RJ0595,NA,104
+meae.congressional.congress05.tn.county,congressional,5,TN,county,state,tn.ushouserepresentatives.1797,Washington,tns_washington,47179,"Rhea, John",RJ0595,NA,183

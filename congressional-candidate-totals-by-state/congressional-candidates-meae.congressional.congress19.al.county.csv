@@ -1,0 +1,7 @@
+meae_id,election_id,candidate,candidate_id,district,party,vote,total_vote,percent_vote,winner,unopposed
+meae.congressional.congress19.al.county,al.uscongress.1.1825,Gabriel Moore,MG0000,1,Jacksonian,5098,7168,0.711,TRUE,FALSE
+meae.congressional.congress19.al.county,al.uscongress.1.1825,Clement C. Clay,CC0000,1,NA,2070,7168,0.289,FALSE,FALSE
+meae.congressional.congress19.al.county,al.uscongress.2.1825,John MacKee,MJ0013,2,Jacksonian,4284,10471,0.409,TRUE,FALSE
+meae.congressional.congress19.al.county,al.uscongress.2.1825,Robert E. B. Baylor,BR0001,2,NA,4108,10471,0.392,FALSE,FALSE
+meae.congressional.congress19.al.county,al.uscongress.2.1825,John D. Terrill,TJ0003,2,NA,2079,10471,0.199,FALSE,FALSE
+meae.congressional.congress19.al.county,al.uscongress.3.1825,George W. Owen,OG0000,3,Jacksonian,NA,0,NA,TRUE,TRUE
