@@ -77,7 +77,7 @@ meae.staterepresentative.1805.pa.county,pas_westmoreland,42129,"Armstrong, India
 meae.staterepresentative.1805.pa.county,pas_york,42133,York,7279,0.704,NA,NA,3066,0.296,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.staterepresentative.1806.pa.county,pas_adams,42001,Adams,3169,0.919,NA,NA,281,0.081,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.staterepresentative.1806.pa.county,pas_allegheny,42003,"Allegheny, Beaver, and Butler",3091,0.544,NA,NA,2589,0.456,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.staterepresentative.1806.pa.county,pas_armstrong,42005,"Armstrong, Indiana, and Westmoreland ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,county
+meae.staterepresentative.1806.pa.county,pas_armstrong,42005,"Armstrong, Indiana, and Westmoreland ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5281,1,district
 meae.staterepresentative.1806.pa.county,pas_beaver,42007,"Allegheny, Beaver, and Butler",1139,0.44,NA,NA,1449,0.56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.staterepresentative.1806.pa.county,pas_bedford,42009,Bedford,1191,0.582,NA,NA,854,0.418,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.staterepresentative.1806.pa.county,pas_berks,42011,Berks,NA,NA,NA,NA,6915,0.452,NA,NA,NA,NA,8391,0.548,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
@@ -94,7 +94,7 @@ meae.staterepresentative.1806.pa.county,pas_erie,42049,"Crawford, Erie, Mercer, 
 meae.staterepresentative.1806.pa.county,pas_fayette,42051,Fayette,1450,0.339,NA,NA,2825,0.661,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.staterepresentative.1806.pa.county,pas_franklin,42055,Franklin,2649,0.484,NA,NA,2822,0.516,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.staterepresentative.1806.pa.county,pas_huntingdon,42061,Huntingdon,NA,NA,NA,NA,2353,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.staterepresentative.1806.pa.county,pas_indiana,42063,"Armstrong, Indiana, and Westmoreland ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,county
+meae.staterepresentative.1806.pa.county,pas_indiana,42063,"Armstrong, Indiana, and Westmoreland ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5281,1,district
 meae.staterepresentative.1806.pa.county,pas_lancaster,42071,Lancaster,NA,NA,NA,NA,10847,0.402,NA,NA,NA,NA,16152,0.598,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.staterepresentative.1806.pa.county,pas_luzerne,42079,Luzerne,853,0.475,NA,NA,168,0.094,NA,NA,NA,NA,697,0.389,NA,NA,NA,NA,NA,NA,NA,NA,76,0.042,county
 meae.staterepresentative.1806.pa.county,pas_lycoming,42081,Lycoming and Potter,427,0.365,NA,NA,441,0.377,NA,NA,NA,NA,301,0.257,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
@@ -110,7 +110,7 @@ meae.staterepresentative.1806.pa.county,pas_somerset,42111,Somerset,125,0.124,NA
 meae.staterepresentative.1806.pa.county,pas_venango,42121,"Crawford, Erie, Mercer, Venango, and Warren",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.staterepresentative.1806.pa.county,pas_washington,42125,Washington,582,0.082,NA,NA,6489,0.918,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.staterepresentative.1806.pa.county,pas_wayne,42127,Northampton and Wayne,NA,NA,NA,NA,737,0.769,NA,NA,NA,NA,222,0.231,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
-meae.staterepresentative.1806.pa.county,pas_westmoreland,42129,"Armstrong, Indiana, and Westmoreland ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
+meae.staterepresentative.1806.pa.county,pas_westmoreland,42129,"Armstrong, Indiana, and Westmoreland ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5281,1,district
 meae.staterepresentative.1806.pa.county,pas_york,42133,York,NA,NA,NA,NA,4088,0.687,NA,NA,NA,NA,1860,0.313,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.staterepresentative.1808.md.county,mds_allegany,24001,Allegany,317,0.087,NA,NA,3314,0.913,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
 meae.staterepresentative.1808.md.county,city_annapolis,NA,Annapolis City,110,0.267,NA,NA,302,0.733,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,county
